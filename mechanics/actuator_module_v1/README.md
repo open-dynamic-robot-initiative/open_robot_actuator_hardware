@@ -20,6 +20,8 @@ Brushless Motor
   * Weight: 53g  
   * Webpage: http://store-en.tmotor.com/goods.php?id=438
 
+  * More information: <a href="http://store-en.tmotor.com/goods.php?id=438" target="_blank">T-Motor Webpage</a>
+
 <img src="images/antigravity_4004_1.jpg" width="300">
 
 Optical Encoder
