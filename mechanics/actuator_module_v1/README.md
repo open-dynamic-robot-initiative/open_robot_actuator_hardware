@@ -78,10 +78,10 @@ The stl files for 3d printing are available in the STL folder.
 
 How to work with this
 ---------------------
-There is a [pdf](_actuator_module.pdf) file that gives you a better overview of the assembly.
+There is a [pdf](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/actuator_module_v1/_actuator_module.PDF) file that gives you a better overview of the assembly.
 
-You can also download the free eDrawings viewer [here]().
-The eDrawing allows you to open and explore this [easm file](_actuator_module.easm)
+You can also download the free eDrawings viewer for Windows, Mac, iOS and Android [here](https://www.edrawingsviewer.com/download-edrawings).
+The eDrawing allows you to open and explore this [easm file](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/actuator_module_v1/_actuator_module.EASM)
 
 Authors
 --------
