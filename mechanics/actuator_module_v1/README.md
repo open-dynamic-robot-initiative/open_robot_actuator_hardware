@@ -76,6 +76,13 @@ The stl files for 3d printing are available in the STL folder.
   * transmission_pulley_at3_t30_center
   * transmission_pulley_at3_t30_output
 
+How to work with this
+---------------------
+There is a [pdf](_actuator_module.pdf) file that gives you a better overview of the assembly.
+
+You can also download the free eDrawings viewer [here]().
+The eDrawing allows you to open and explore this [easm file](_actuator_module.easm)
+
 Authors
 --------
   * Felix Grimminger
