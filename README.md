@@ -1,1 +1,1 @@
-# open_robot_actuator_hardware
+# Open Robot Actuator Hardware
