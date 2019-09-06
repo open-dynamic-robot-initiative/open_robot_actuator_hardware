@@ -56,18 +56,23 @@ Foot structure with 1,5mm hole in the center
 Sensor characteristics
 ------------------------
 <img src="images/measurement_foot_contact_sensor.png" width="400"> <br>  
+
 x - axis vertical force [N] measured with ATI Sensor
 y - sensor ouput signal inverted!
 0-1 corresponds to 0V to 3.3V range
 64.000 resolution on microcontroller???
 
 
-Next Steps / Futre Work
+Next Steps / Future Work
 ------------------------
 
 3d print elastic elements
 Reduce weight of traction element on the foot
 Reduce signal noise
+
+<img src="images/silicone_foot_sensor_spring_1.jpg" width="400"> <br>
+
+<img src="images/silicone_foot_sensor_spring_2.jpg" width="400"> <br>
 
 Authors
 --------

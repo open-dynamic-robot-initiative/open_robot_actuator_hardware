@@ -10,6 +10,9 @@ Description
 1 x Lower leg with foot contact switch  
 TI evaluation board electronics  
 
+Vertical Range: 85cm
+Weight of sliding carriage:650g
+
 Off-the-shelf Components
 -------------------
 ### Height Sensor
@@ -20,12 +23,17 @@ Waycon String potentiometer 1000mm edrawingsviewer
 ### Force Torque Sensor
 <img src="images/ati_mini_40_ft_sensor.jpg" width="400"> <br>  
 
-ATI Mini 40 force-torque-sensor with SI-40-2 Calibration 
+ATI Mini 40 force-torque-sensor with SI-40-2 Calibration
 
 ### Inertia Measurement Unit
 <img src="images/imu_3dm_gx5_25_1.jpg" width="400"> <br>  
 
-IMU - Lord Microstrain 3DM-GX5-25
+Lord Microstrain 3DM-GX5-25
+
+### Linear Guide
+
+* Linear ball bearings: KB-1 14mm diameter
+* Linear motion rods: Precision Stainless Steel Rods X46 14h6 x 1000mm
 
 Machined Parts
 ---------------

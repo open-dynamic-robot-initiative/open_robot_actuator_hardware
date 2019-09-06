@@ -5,11 +5,44 @@ Dual Motor Testbed v1
 
 <img src="images/dual_motor_testbed_2.jpg" width="600"> <br>  
 
+<img src="images/dual_motor_testbed_3.jpg" width="600"> <br>  
+
+<img src="images/dual_motor_testbed_2.jpg" width="600"> <br>  
+
 Description
 ------------
 
 Off-the-shelf Components
 --------------------------
+
+### Brushless DC Motor
+
+<img src="../actuator_module_v1/images/antigravity_4004_1.jpg" width="400"> <br>
+
+  * T-Motor Antigravity 4004 300kV
+  * 24 magnets / 12 pole pairs / 18 slots
+  * 3 phase WYE Configuration / Star Configuration
+  * Rotor diameter: 45mm
+  * Weight: 53g
+  * [T-Motor Webpage](http://store-en.tmotor.com/goods.php?id=438)
+
+### Optical Encoder
+<img src="../actuator_module_v1/images/broadcom_encoder_1.jpg" width="400"> <br>
+  * Broadcom AEDT-9810-Z00
+  * 5000 pulses per revolution per channel
+  * 5V two channel quadrature output with index pulse (ABZ)
+  * Code wheel diameter: 26mm
+  * Weight: 5g
+  * [Broadcom Webpage](https://www.broadcom.com/products/motion-control-encoders/incremental-encoders/transmissive-encoders/aedt-981x)  
+
+### Texas Instruments Dual Motor Evaluation Electronics
+
+
+### Analog Linear Potentiometers
+<img src="images/linear_potentiometer_1.jpg" width="400"> <br>  
+
+### E-Stop Switch
+<img src="images/e_stop_1.jpg" width="400"> <br>  
 
 Machined Parts
 ---------------
