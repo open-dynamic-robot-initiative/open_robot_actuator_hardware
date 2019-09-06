@@ -5,7 +5,7 @@ Open Robot Actuator Mechanics
 
 | Actuator Module  | Dual Motor Testbed | Foot Contact Switch |
 | ---------------  | ------------- |------------- |
-| <a href="actuator_module_v1/README.md"><img src="actuator_module_v1/images/actuator_module_1.png" width="300"></a>| <a href="dual_motor_testbed_v1/README.md"><img src="dual_motor_testbed_v1/images/dual_motor_testbed_1.jpg" width="300"></a>  | <a href="foot_contact_switch_v1/README.md"><img src="foot_contact_switch_v1/images/foot_sensor_1.jpg" width="350"></a>  |
+| <a href="actuator_module_v1/README.md"><img src="actuator_module_v1/images/actuator_module_1.png" width="300"></a>| <a href="dual_motor_testbed_v1/README.md"><img src="dual_motor_testbed_v1/images/dual_motor_testbed_1.jpg" width="300"></a>  | <a href="foot_contact_switch_v1/README.md"><img src="foot_contact_switch_v1/images/foot_sensor.jpg" width="350"></a>  |
 
 | 2dof Leg  | Leg Test Stand | Quadruped Robot |
 | ------------- | ------------- |------------- |
@@ -25,4 +25,6 @@ Copyright (c) 2019, Max Planck Gesellschaft, New York University
 
 More Information
 ----------------
-https://open-dynamic-robot-initiative.github.io
+[Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io)  
+[Hardware Overview](../README.md)  
+[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki/Open-Dynamic-Robot-Initiative-Documentation)

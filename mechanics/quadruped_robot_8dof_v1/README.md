@@ -1,13 +1,15 @@
 Quadruped Robot 8dof v1
 =======================
-<img src="images/quadruped_8dof_jump_1.jpg" width="600"> <br>  
+<img src="images/quadruped_8dof_jump_1.jpg" width="600"><br>*The quadruped robot Solo performs a 26cm jump.  Picture by W. Scheible*  
 
 
 <img src="images/quadruped_8dof_1.png" width="600"> <br>   
 
+<img src="images/quadruped_simplified_positions_coordinate_systems.png" width="600"> <br>  
+
 Description
 ------------
-
+8dof - degree of freedom
 
 Machined Parts
 ---------------
@@ -37,4 +39,6 @@ Copyright (c) 2019, Max Planck Gesellschaft, New York University
 
 More Information
 ----------------
-https://open-dynamic-robot-initiative.github.io
+[Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io)  
+[Hardware Overview](../../README.md)  
+[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki/Open-Dynamic-Robot-Initiative-Documentation)

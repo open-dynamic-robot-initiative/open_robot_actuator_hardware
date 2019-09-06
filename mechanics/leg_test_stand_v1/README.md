@@ -6,8 +6,26 @@ Leg Test Stand v1
 Description
 ------------
 
+2 x Actuator module  
+1 x Lower leg with foot contact switch  
+TI evaluation board electronics  
 
+Off-the-shelf Components
+-------------------
+### Height Sensor
+<img src="images/string_potentiometer_1.jpg" width="400"> <br>  
 
+Waycon String potentiometer 1000mm edrawingsviewer
+
+### Force Torque Sensor
+<img src="images/ati_mini_40_ft_sensor.jpg" width="400"> <br>  
+
+ATI Mini 40 force-torque-sensor with SI-40-2 Calibration 
+
+### Inertia Measurement Unit
+<img src="images/imu_3dm_gx5_25_1.jpg" width="400"> <br>  
+
+IMU - Lord Microstrain 3DM-GX5-25
 
 Machined Parts
 ---------------
@@ -39,4 +57,6 @@ Copyright (c) 2019, Max Planck Gesellschaft, New York University
 
 More Information
 ----------------
-https://open-dynamic-robot-initiative.github.io
+[Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io)  
+[Hardware Overview](../../README.md)  
+[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki/Open-Dynamic-Robot-Initiative-Documentation)

@@ -16,8 +16,10 @@ Actuator Module Assembly
 --------
 <img src="images/actuator_module_open_1.jpg" width="600">
 
-Brushless DC Motor
----------------
+Off-the-shelf components
+--------------------------
+### Brushless DC Motor
+
 <img src="images/antigravity_4004_1.jpg" width="400"> <br>
 
   * T-Motor Antigravity 4004 300kV
@@ -27,8 +29,8 @@ Brushless DC Motor
   * Weight: 53g
   * [T-Motor Webpage](http://store-en.tmotor.com/goods.php?id=438)
 
-Optical Encoder
------------------
+
+### Optical Encoder
 <img src="images/broadcom_encoder_1.jpg" width="400"> <br>
   * Broadcom AEDT-9810-Z00
   * 5000 pulses per revolution per channel
@@ -37,8 +39,7 @@ Optical Encoder
   * Weight: 5g
   * [Broadcom Webpage](https://www.broadcom.com/products/motion-control-encoders/incremental-encoders/transmissive-encoders/aedt-981x)  
 
-Timing Belt Transmission
-----------------------
+### Timing Belt Transmission
 <img src="images/transmission_1.jpg" width="400">  <br> *Weight of the components in the picture: 18g*
   * Dual stage timing belt transmission with 3:1 gear reduction on each stage
   * Total gear reduction 9:1
@@ -50,8 +51,7 @@ Timing Belt Transmission
   * Second stage: 201mm timing belt - width 6mm - 3g
   * [Contitech Webpage](https://www.contitech.de/en-gl/Solutions/Power-Transmission/Industrial-Applications/Drive-Belts/Synchronous-Belts/Products/Product-range/CONTI-SYNCHROFLEX-GEN3)  
 
-Machined Parts
----------------
+### Machined Parts
 <img src="images/machined_parts_1.jpg" width="400"> <br>  
 There are 3 parts in the assembly that have to be machined from metal.
   * motor pulley 10 teeth - aluminum - 0.6g
@@ -99,4 +99,6 @@ Copyright (c) 2019, Max Planck Gesellschaft, New York University
 
 More Information
 ----------------
-https://open-dynamic-robot-initiative.github.io
+[Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io)  
+[Hardware Overview](../../README.md)  
+[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki/Open-Dynamic-Robot-Initiative-Documentation)

@@ -8,6 +8,8 @@ Dual Motor Testbed v1
 Description
 ------------
 
+Off-the-shelf Components
+--------------------------
 
 Machined Parts
 ---------------
@@ -38,4 +40,6 @@ Copyright (c) 2019, Max Planck Gesellschaft, New York University
 
 More Information
 ----------------
-https://open-dynamic-robot-initiative.github.io
+[Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io)  
+[Hardware Overview](../../README.md)  
+[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki/Open-Dynamic-Robot-Initiative-Documentation)
