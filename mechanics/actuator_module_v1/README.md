@@ -79,6 +79,10 @@ The stl files for 3d printing are available in the STL folder.
   * transmission_pulley_at3_t30_center - 4.2g
   * transmission_pulley_at3_t30_output - 6.7g
 
+More Details
+--------
+[Details 3D Printed Parts](details/details_3d_printed_parts.md)
+
 How to work with this
 ---------------------
 * To get an better overview of the assembly you can view this [pdf file](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/actuator_module_v1/_actuator_module.PDF)
