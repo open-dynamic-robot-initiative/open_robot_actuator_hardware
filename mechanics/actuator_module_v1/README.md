@@ -16,6 +16,11 @@ Actuator Module Assembly
 --------
 <img src="images/actuator_module_open_1.jpg" width="600">
 
+Dual Stage Timing Belt Transmission
+-----------------------------------------
+<img src="images/transmission_1.png" width="600">
+
+
 Off-the-shelf Components
 --------------------------
 ### Brushless DC Motor
@@ -54,8 +59,8 @@ Off-the-shelf Components
 ### Bearings
 <img src="images/bearings_1.jpg" width="400"><br>
 * Miniature stainless steel roller bearings
-* Ouput bearings: 32mm x 25mm x 45mm
-* Transmission bearings: 8mm x 4mm x 2mm
+* Ouput bearings: 32mm x 25mm x 4mm - 6.9g
+* Transmission bearings: 8mm x 4mm x 2mm - 0.4g
 
 
 ### Machined Parts

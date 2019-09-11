@@ -24,10 +24,6 @@ The foot contact switch details are described here -> [Foot Contact Switch](../f
 <img src="images/leg_2dof_3.png" width="500"> <br>*The leg segments are stacked and can rotate past each other*
 
 
-Lower Leg and Foot Contact Switch
----------------------------------
-<img src="images/lower_leg_1.jpg" width="600"> <br>*Lower Leg and Foot Contact Switch Component Overview - the weigth of the lower leg assembly is 35g*
-
 3D Printed Parts - Lower Leg and Foot Contact Switch
 -----------------
 The files for 3d printing the parts are available in the STL folder.
