@@ -18,7 +18,7 @@ The shells we are using were purchased from the ["3D Systems Part on Demand Serv
 * choose the material: Duraform HST
 * choose number of copies
 * save the order and write down the order number (don't order online)
-* send an email to the 3D Systems engineering support with the order number and ask for a quote for printing the parts in the orientation defined in the pictures below.  
+* send an email to the 3D Systems engineering support with the order number and ask for a quote for printing the parts in the orientation defined in this [pdf file](20190910_actuator_module_3d_printing_orientation.pdf).
 * You can find the email contact for Germany, France and the US below.
 
 **Important:**   

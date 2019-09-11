@@ -1,32 +1,55 @@
 Leg 2dof v1
 =======================
-<img src="images/leg_2dof_1.png" width="600"> <br>  
+<img src="images/leg_2dof_1.png" width="600"> <br>
 
-
-<img src="images/leg_2dof_2.png" width="300"> <br>  
-
-<img src="images/lower_leg_1.jpg" width="600"> <br>  
-
-
-Description
+Description 2dof leg - (2 degree of freedom leg)
 ------------
 
-2dof - degree of freedom
+The 2dof leg consists of two identical actuator modules, the lower leg and a foot with a optical contact switch.  
+The actuator modules are capable of continuous output rotation and there are no mechanical end stops on the leg.  
+Since there are wires routed through the hollow shell structures the output rotation should be limited to 3 turns in each direction in software.
+
+The segment lenght is 160mm and results in a neutral standing height of 240mm (at 45 degree hip angle and 90 degree knee angle).
 
 
-Machined Parts
----------------
+<img src="images/leg_2dof_2.png" width="300"> <br> *Leg Dimensions - the neutral standing height of the leg is 240mm*
 
 
-3D Printed Parts
+The leg can be used for experiments and measurements with external sensors in the leg test stand. -> [Leg Test stand](../leg_test_stand_v1)  
+4 of the leg modules can be used to assemble a 8dof quadruped robot. -> [Quadruped Robot](../quadruped_robot_8dof_v1)
+
+The actuator module details are described here -> [Actuator module](../actuator_module_v1)  
+The foot contact switch details are described here -> [Foot Contact Switch](../foot_contact_switch_v1)
+
+<img src="images/leg_2dof_3.png" width="500"> <br>*The leg segments are stacked and can rotate past each other*
+
+
+Lower Leg and Foot Contact Switch
+---------------------------------
+<img src="images/lower_leg_1.jpg" width="600"> <br>*Lower Leg and Foot Contact Switch Component Overview - the weigth of the lower leg assembly is 35g*
+
+3D Printed Parts - Lower Leg and Foot Contact Switch
+-----------------
+The files for 3d printing the parts are available in the STL folder.
+
+* Lower Leg Structure Base - 18g
+* Lower Leg Structure Fork - 5g
+* Foot Structure - 3.4g
+
+Table Attachment
 -----------------
 
+<img src="images/table_attachment_1.jpg" width="600"><br>*Leg mounted at 45 degrees and in parallel to the table*
+
+The 3d printed table attachment can be used to attach the leg to the table and orient it at 45 degrees or in parallel with the table.  
+The table attachment was designed to print without support on a FDM printer (fused deposition modelling printer) in the orientation documented below.
+<img src="images/table_attachment_1.png" width="600">
 
 How to work with this
 ---------------------
-* To get an better overview of the assembly you can view this [pdf file](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/actuator_module_v1/_actuator_module.PDF)
+* To get an better overview of the assembly you can view this [pdf file](leg_2dof.PDF)
 * I recommend downloading the free eDrawings viewer for Windows, Mac, iOS and Android [here](https://www.edrawingsviewer.com/download-edrawings).
-* The eDrawing Viewer Software allows you to open and explore this [easm cad assembly file](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/actuator_module_v1/_actuator_module.EASM)
+* The eDrawing Viewer Software allows you to open and explore this [easm cad assembly file](leg_2dof.EASM)
 
 Authors
 --------

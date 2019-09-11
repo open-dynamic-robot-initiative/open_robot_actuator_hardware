@@ -40,6 +40,8 @@ Off-the-shelf-Parts
 
 Silicone tube - outer diameter 6mm / inner diameter 4mm / length 3mm
 
+12 elements / 6 on each side
+
 Pin 1,5mm x 12mm
 
 Bicycle trire bonded with Loctite 404

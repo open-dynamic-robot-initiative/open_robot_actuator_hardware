@@ -16,7 +16,7 @@ Actuator Module Assembly
 --------
 <img src="images/actuator_module_open_1.jpg" width="600">
 
-Off-the-shelf components
+Off-the-shelf Components
 --------------------------
 ### Brushless DC Motor
 
@@ -40,7 +40,7 @@ Off-the-shelf components
   * [Broadcom Webpage](https://www.broadcom.com/products/motion-control-encoders/incremental-encoders/transmissive-encoders/aedt-981x)  
 
 ### Timing Belt Transmission
-<img src="images/transmission_1.jpg" width="400">  <br> *Weight of the components in the picture: 18g*
+<img src="images/transmission_1.jpg" width="400"> <br> *Weight of the components in the picture: 18g*
   * Dual stage timing belt transmission with 3:1 gear reduction on each stage
   * Total gear reduction 9:1
   * Timing Belt: Synchroflex AT3 GEN III
@@ -50,6 +50,13 @@ Off-the-shelf components
   * First stage: 150mm timing belt - width 4mm - 1,5g
   * Second stage: 201mm timing belt - width 6mm - 3g
   * [Contitech Webpage](https://www.contitech.de/en-gl/Solutions/Power-Transmission/Industrial-Applications/Drive-Belts/Synchronous-Belts/Products/Product-range/CONTI-SYNCHROFLEX-GEN3)  
+
+### Bearings
+<img src="images/bearings_1.jpg" width="400"><br>
+* Miniature stainless steel roller bearings
+* Ouput bearings: 32mm x 25mm x 45mm
+* Transmission bearings: 8mm x 4mm x 2mm
+
 
 ### Machined Parts
 <img src="images/machined_parts_1.jpg" width="400"> <br>  
