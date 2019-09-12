@@ -5,7 +5,7 @@ Brushless Actuator Module v1
 Introduction
 ------------
 We developed a light-weight, low cost, minimal complexity, torque-controlled actuator module for robotic research.  
-The actuator module consists of a brushless outrunner motor, a high resolution optical encoder, a dual stage timing belt transmission and mostly 3d printed parts and off-the-self components.  
+The actuator module consists of a brushless outrunner motor, a high resolution optical encoder, a dual stage timing belt transmission and mostly 3d printed parts and off-the-shelf components.  
 The module has a segment length of 160mm, weighs 150g and outputs 2,5Nm at 12A.
 
 Component Overview
@@ -42,6 +42,7 @@ Off-the-shelf Components
   * 5V two channel quadrature output with index pulse (ABZ)
   * Code wheel diameter: 26mm
   * Weight: 5g
+  * [Details Encoder and Codewheel](details/details_encoder.md)
   * [Broadcom Webpage](https://www.broadcom.com/products/motion-control-encoders/incremental-encoders/transmissive-encoders/aedt-981x)  
 
 ### Timing Belt Transmission
@@ -69,6 +70,7 @@ There are 3 parts in the assembly that have to be machined from metal.
   * motor pulley 10 teeth - aluminum - 0.6g
   * center pulley 10 teeth - aluminum - 2,1g
   * motor shaft - 4mm steel rod - 3,2g
+  * [Details Machined Parts and Technical Drawings](details/details_machined_parts.md)
 
 3D Printed Parts
 -----------------
@@ -78,7 +80,7 @@ The shell of the actuator module consists of two parts that are connected by eig
 The shell structure supports the motor, encoder and the bearings for the transmission and the output joint.  
 We recommend to print the shells on a SLS 3D printer. (selective laser sintering printer)  
 We use Helicoil threaded inserts for increased stability.  
-The stl files for 3d printing are available in the STL folder.
+The stl files for 3d printing are available in the [STL folder.](stl_files)
   * actuator_module_shell_base - 28g
   * actuator_module_shell_cover - 16g
 
@@ -86,7 +88,7 @@ The stl files for 3d printing are available in the STL folder.
 <img src="images/pulleys_1.jpg" width="500"> <br> *Parts shown in the picture: codewheel mount, center pulley and output pulley.*
 
 The tooth profil of the pulleys has to be pretty precise and concentric - we recommend to print the pulleys using a stereolithography or multijet printer.  
-The stl files for 3d printing are available in the STL folder.
+The stl files for 3d printing are available in the [STL folder.](stl_files)
   * encoder_codewheel_pwb_mount - 0.2g
   * transmission_pulley_at3_t30_center - 4.2g
   * transmission_pulley_at3_t30_output - 6.7g

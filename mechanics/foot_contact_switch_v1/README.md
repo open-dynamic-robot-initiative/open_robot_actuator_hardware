@@ -16,7 +16,7 @@ For visual feedback and monitoring there are bi-color leds mounted on each side 
 
 Lower Leg and Foot Contact Switch
 ---------------------------------
-<img src="images/lower_leg_1.jpg" width="600"> <br>*Lower Leg and Foot Contact Switch Component Overview - the weigth of the lower leg assembly is 35g*
+<img src="../leg_2dof_v1/images/lower_leg_1.jpg" width="600"> <br>*Lower Leg and Foot Contact Switch Component Overview - the weigth of the lower leg assembly is 35g*
 
 The weight of the foot, the contact switch electronics and the silicone elements is about 10g.  
 Since foot rotation is undesirable for a legged robot we use a steel pin to prevent the foot from rotating.   
@@ -29,21 +29,7 @@ We measured 2ms delay between the ATI force sensor signal and the foot contact s
 <img src="images/foot_sensor_4.jpg" width="410"> <br>*Foot Contact Switch Electronics*
 
 
-Off-the-shelf-Parts
---------------------
 
-* Silicone tube - outer diameter 6mm / inner diameter 4mm / length 3mm  
-* 12 elements / 6 on each side  
-* Steel Pin 1,5mm x 12mm  
-* Bicycle tire bonded to the foot with Loctite 404  
-
-3D Printed Parts
------------------
-The files for 3d printing the parts are available in the [STL folder.](stl_files)
-
-* Lower Leg Structure Base - 18g
-* Lower Leg Structure Fork - 5g
-* Foot Structure - 3.4g
 
 Custom Electronics
 --------------------

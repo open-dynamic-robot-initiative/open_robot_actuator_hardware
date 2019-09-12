@@ -46,7 +46,7 @@ Off-the-shelf Components
 
 Machined Parts
 ---------------
-
+<img src="images/motor_shaft_dual_motor_testbed_1.jpg" width="400"> <br>  
 
 3D Printed Parts
 -----------------
