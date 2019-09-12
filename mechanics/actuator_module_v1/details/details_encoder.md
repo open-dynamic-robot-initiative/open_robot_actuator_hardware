@@ -1,35 +1,35 @@
 Details Encoder and Codewheel
 =======================
 
-<img src="../images/broadcom_encoder_1.jpg" width="400"> <br>  
+<img src="../images/broadcom_encoder_1.jpg" width="400"> <br>*Encoder and Codewheel from Encoder Kit AEDM-5810-Z12*  
 
 Description
 ------------
-<img src="../images/code_wheel_comparison.jpg" width="400"> <br>  
+For some reason the codewheels with lower resolution are available but it's difficult to source the highest resolution 5000cpr codewheels for the encoder.
+
+There are two different options that we have found so far:
+* You can either order the AEDM-5810-Z12 encoder kit that consists of the encoder and the 5000cpr codewheel attached to a aluminum mount. (Option A - below)  
+* Or you can order the Broadcom AEDT-9810-Z00 encoder without the codewheel and have the codewheel manufactured. (Option B - below)
+
+<img src="../images/code_wheel_comparison.jpg" width="500"> <br>*Codewheel comparison: Left side - Codewheel from encoder kit / Right side - Codewheel ordered from PWB*
 
 ### Option A - Encoder Kit
 
-<img src="../images/code_wheel_modification_1.jpg" width="400"> <br>  
+<img src="../images/code_wheel_modification_1.jpg" width="500"> <br>*Left side: Original codewheel from encoder kit / Right side: Modified codewheel*
 
-The shells should be printed on a selective laser sintering printer using high strength material.  
-The shells we are using were purchased from the ["3D Systems Part on Demand Service".](https://www.3dsystems.com/on-demand-manufacturing)
+#### Instructions:
+* Find and order the AEDM-5810-Z12 encoder kit
+* Disassemble the encoder kit and extract the encoder and the codewheel
+* Modify the aluminium flange according to [this drawing](../drawings/codewheel_modification.pdf)
+* Use the correct stl to print encoder mount (the encoder mounts for the two options are different)
 
 
 ### Option B - Codewheel Fabrication
-<img src="../images/code_wheel_pwb_1.jpg" width="400"> <br>  <br>  
-
+<img src="../images/code_wheel_pwb_1.jpg" width="400"> <br>*Codewheel fabricated by PWB*  
 
 ### Instructions:
-* go to the website and login (or create a user account if you don't have one yet)
-* upload the stl files (actuator_shell_base and actuator_shell_cover)
-* choose the printing technology: SLS - Selective Laser Sintering
-* choose the material: Duraform HST
-* choose number of copies
-* save the order and write down the order number (don't order online)
-* send an email to the 3D Systems engineering support with the order number and ask for a quote for printing the parts in the orientation defined in this [pdf file](20190910_actuator_module_3d_printing_orientation.pdf).
-* You can find the email contact for Germany, France and the US below.
 
-
+* Sources for ordering the codewheels will follow...
 
 Authors
 --------
