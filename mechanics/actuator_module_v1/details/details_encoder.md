@@ -19,7 +19,8 @@ There are two different options that we have found so far:
 
 #### Instructions:
 * Find and order the AEDM-5810-Z12 encoder kit
-* Disassemble the encoder kit and extract the encoder and the codewheel
+* Disassemble the encoder kit and extract the encoder and the codewheel.
+* Dissasembly instructions can be found [here](details_encoder_kit_disassembly.md).
 * Modify the aluminium flange according to [this drawing](../drawings/codewheel_modification.PDF)
 * Use the correct stl to print encoder mount (the encoder mounts for the two options are different)
 
