@@ -29,20 +29,17 @@ We measured 2ms delay between the ATI force sensor signal and the foot contact s
 <img src="images/foot_sensor_4.jpg" width="410"> <br>*Foot Contact Switch Electronics*
 
 
-
-
 Custom Electronics
 --------------------
 
 * Diameter electronics boards: 10mm
-
 
 Sensor characteristics
 ------------------------
 <img src="images/measurement_foot_contact_sensor.png" width="600"> <br>  
 
 x - axis vertical force [N] measured with ATI Mini40 Sensor  
-y - foot contact sensor ouput signal inverted and normalized!  
+y - foot contact sensor ouput signal inverted and normalized   
 0-1 corresponds to 0V to 3.3V range  
 
 * Sensitivity can be adjusted depending on the application  

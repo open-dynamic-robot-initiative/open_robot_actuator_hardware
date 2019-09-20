@@ -7,6 +7,10 @@ Texas Instruments Evaluation Board Electronics
 Description
 ------------
 
+More Details
+-------------
+* [Details Wiring](../details/details_wiring.md)
+* [Details Components and Tools](../details/details_components.md)
 
 Authors
 --------
