@@ -8,11 +8,12 @@ Description
 
 <img src="../images/encoder_case_removal_2.jpg" width="400"> <br>*Use a thin screwdriver to undo the snap fit connection between the casing and the cover.*  
 
-<img src="../images/encoder_case_removal_3.jpg" width="400"> <br>*Same thing on the other side. Once both sides are unsnapped the cover can be pulled of or pried out. <br> Be careful not to scratch the encoder disc.*
+<img src="../images/encoder_case_removal_3.jpg" width="400"> <br>*Same thing on the other side.   
+Once both sides are released the cover can be pulled of or pried out. <br> Be careful not to scratch the encoder disc.*
 
 <img src="../images/encoder_case_removal_4.jpg" width="400"> <br>*Open encoder case.*
 
-<img src="../images/encoder_case_removal_5.jpg" width="400"> <br>*Remove the encoder carefully using the screwdriver as a lever.<br> The encoder is connected by a light press fit.<br> There is a notch at the bottom of the encoder that helps to guide your screwdriver.*
+<img src="../images/encoder_case_removal_5.jpg" width="400"> <br>*Remove the encoder carefully using the screwdriver as a lever.<br> The encoder is connected by a light press fit.<br> There is a notch at the bottom of the encoder that can be used.*
 
 <img src="../images/encoder_case_removal_6.jpg" width="400"> <br>*Carefully take the encoder and code wheel out of the casing.*
 

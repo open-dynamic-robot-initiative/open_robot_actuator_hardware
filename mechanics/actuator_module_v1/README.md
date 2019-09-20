@@ -96,10 +96,10 @@ The stl files for 3d printing are available in the [STL folder.](stl_files)
 More Details
 --------
 * [Details 3D Printed Parts](details/details_3d_printed_parts.md)  
-* [Details Encoder and Codewheel](details/details_encoder.md)  
-* [Details Encoder Kit Disassembly](details_encoder_kit_disassembly.md)  
 * [Details Machined Parts and Technical Drawings](details/details_machined_parts.md)
-
+* [Details Encoder and Codewheel](details/details_encoder.md)  
+* [Details Encoder Preparation](details/details_encoder_preparation.md)  
+* [Details Encoder Kit Disassembly](details/details_encoder_kit_disassembly.md)
 
 How to work with this
 ---------------------
