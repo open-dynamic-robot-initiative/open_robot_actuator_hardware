@@ -100,6 +100,8 @@ More Details
 * [Details Encoder and Codewheel](details/details_encoder.md)  
 * [Details Encoder Preparation](details/details_encoder_preparation.md)  
 * [Details Encoder Kit Disassembly](details/details_encoder_kit_disassembly.md)
+* [Details Shell Preparation](details/details_shell_preparation.md)
+* [Details Actuator Module Assembly](details/details_assembly.md)
 
 How to work with this
 ---------------------
