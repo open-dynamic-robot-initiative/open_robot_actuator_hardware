@@ -42,15 +42,21 @@ Details Lower Leg
 ---------
 * [Details Lower Leg - STL files and component information](../leg_2dof_v1/README.md)
 
-Details Foot Contact switch
+Details Foot Contact Switch
 -------------------------------
+Special thanks to Joshi Walzog for designing and manufacturing the electronics boards!
+
 * [Bill Of Materials Foot Contact Switch - PDF Document](documentation/bom_foot_contact_switch_v1.pdf)
 * [Bill Of Materials - Excel Document](documentation/bom_foot_contact_switch_v1.xlsx)  
 
 
-To view the files below can download the free Eagle PCB Design Software for Windows, Mac and Linux [here.](https://www.autodesk.com/products/eagle/free-download#)
+To view the files below can download the free [Eagle PCB Design Software](https://www.autodesk.com/products/eagle/free-download#) for Windows, Mac and Linux.
 * [Eagle Board File](documentation/foot_contact_switch_v1.brd)
 * [Eagle Schematic File](documentation/foot_contact_switch_v1.sch)
+
+Foot Contact Switch Wiring
+----------------------------
+<img src="../../electronics/images/foot_sensor_wiring.jpg" width="600"> <br>*Foot Contact Switch Connectors and Wiring*
 
 Sensor characteristics
 ------------------------
