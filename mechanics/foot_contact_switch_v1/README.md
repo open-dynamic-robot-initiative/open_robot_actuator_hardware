@@ -13,6 +13,9 @@ For visual feedback and monitoring there are bi-color leds mounted on each side 
 
 <img src="images/foot_sensor_1.png" width="500"><br>*Left side: Foot Contact Switch loaded / Right side: Foot Contact Switch unloaded*
 
+Video
+----------
+[![Foot Sensor Video](https://img.youtube.com/vi/1TluBZRFed8/0.jpg)](https://www.youtube.com/watch?v=1TluBZRFed8)
 
 Lower Leg and Foot Contact Switch
 ---------------------------------
