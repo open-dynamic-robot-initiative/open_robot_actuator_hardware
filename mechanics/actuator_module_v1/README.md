@@ -105,9 +105,9 @@ More Details
 
 How to work with this
 ---------------------
-* To get an better overview of the assembly you can view this [pdf file](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/actuator_module_v1/_actuator_module.PDF)
+* To get an better overview of the assembly you can view this [pdf file](_actuator_module.PDF)
 * I recommend downloading the free eDrawings viewer for Windows, Mac, iOS and Android [here](https://www.edrawingsviewer.com/download-edrawings).
-* The eDrawing Viewer Software allows you to open and explore this [easm cad assembly file](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/actuator_module_v1/_actuator_module.EASM)
+* The eDrawing Viewer Software allows you to open and explore this [easm cad assembly file](_actuator_module.EASM)
 
 Authors
 --------
