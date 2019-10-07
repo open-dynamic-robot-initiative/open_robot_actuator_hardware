@@ -77,6 +77,12 @@ The sensitivity of the switch can be adjusted depending on the application by ch
 * the distance between emitter and receiver
 * the emitter led brightness
 
+How to work with this
+---------------------
+* To get an better overview of the assembly you can view this [pdf file](lower_leg.PDF)
+* I recommend downloading the free eDrawings viewer for Windows, Mac, iOS and Android [here](https://www.edrawingsviewer.com/download-edrawings).
+* The eDrawing Viewer Software allows you to open and explore this [easm cad assembly file](lower_leg.EASM)
+
 Next Steps / Future Work
 ------------------------
 
