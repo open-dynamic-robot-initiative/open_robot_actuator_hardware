@@ -9,16 +9,16 @@ Description
 2 x Actuator module  
 1 x Lower leg with foot contact switch  
 TI evaluation board electronics  
-
 Vertical Range: 85cm
-Weight of sliding carriage:650g
+Hip height: 7cm - 92cm  
+Weight of sliding carriage: 650g
 
 Off-the-shelf Components
 -------------------
 ### Height Sensor
 <img src="images/string_potentiometer_1.jpg" width="400"> <br>  
 
-Waycon String potentiometer 1000mm edrawingsviewer
+Waycon String potentiometer 1000mm
 
 ### Force Torque Sensor
 <img src="images/ati_mini_40_ft_sensor.jpg" width="400"> <br>  
