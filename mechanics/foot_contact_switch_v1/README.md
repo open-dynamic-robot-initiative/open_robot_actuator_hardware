@@ -4,7 +4,7 @@ Foot Contact Switch v1
 
 Description
 ------------
-We designed simple, low cost, lightweight and robust optical foot contact switch for our legged quadruped robot.  
+We designed simple, low cost, lightweight and robust optical foot contact switch for our [quadruped robot.](../quedruped_robot_8dof_v1)  
 The contact switch consists of a spring loaded aperture that is located between a led light source and a light sensor.  
 External loads displace the aperture and change the light intensity measured by the sensor.  
 For centering the foot we use 12 elastic silicone elements (6 on each side).   
@@ -19,7 +19,9 @@ Video
 
 Lower Leg and Foot Contact Switch
 ---------------------------------
-<img src="../leg_2dof_v1/images/lower_leg_1.jpg" width="600"> <br>*Lower Leg and Foot Contact Switch Component Overview - the weigth of the lower leg assembly is 35g*
+<img src="images/lower_leg_1.jpg" width="600"> <br>*Lower Leg and Foot Contact Switch Component Overview - the weigth of the lower leg assembly is 35g*
+
+<img src="images/lower_leg_2.jpg" width="600"> <br>*Lower Leg and Foot Contact Switch assembled*
 
 The weight of the foot, the contact switch electronics and the silicone elements is about 10g.  
 To prevent the foot from rotating we use a steel pin that is guided by the lower leg structure.   
@@ -30,7 +32,31 @@ We measured the delay of the foot contact switch with respect to a ATI Mini40 fo
 The measured delay between the ATI force sensor signal and the foot contact signal was 2ms.  
 The data was logged at 1kHz using a Realtime Linux PC.
 
-<img src="images/foot_sensor_4.jpg" width="410"> <br>*Foot Contact Switch Electronics*
+<img src="images/foot_sensor_4.jpg" width="410"><br>*Foot Contact Switch Electronics*
+
+
+Off-the-shelf components
+--------------------------
+
+<img src="images/elastic_elements_1.jpg" width="300"> <br> *Elastic elements cut from silicone tube*
+
+* Silicone tube - outer diameter 6mm / inner diameter 4mm / length 3mm  
+* 12 elements / 6 on each side  
+* Steel Pin 1,5mm x 12mm  
+* Bicycle tire "Schwalbe Lugano 28" 23-622"
+* cut to 65mm x 10mm pieces
+* bonded to the foot with Loctite 404  
+
+3D Printed Parts  - Lower Leg and Foot Contact Switch
+-----------------
+The files for 3d printing the parts are available in the [STL folder.](stl_files)
+
+* [Lower Leg Structure Base - 18g](stl_files/lower_leg_structure_base.STL)
+* [Lower Leg Structure Fork - 5g](stl_files/lower_leg_structure_fork.STL)
+* [Foot Structure - 3.4g](stl_files/foot_structure.STL)
+
+<img src="images/foot_sensor_6.jpg" width="255">
+<img src="images/foot_sensor_2.jpg" width="300"> <br>
 
 Custom Electronic Boards
 --------------------
@@ -40,10 +66,6 @@ The diameter of the electronics boards is 10mm.
 <img src="images/foot_contact_switch_main_v1.png" width="600"> <br>*Foot Contact Switch Main Board  - Left: Outer side / Right: Inner Side*
 
 <img src="images/foot_contact_switch_satellite_v1.png" width="600"> <br>*Foot Contact Switch Satellite Board  - Left: Outer side / Right: Inner Side*
-
-Details Lower Leg
----------
-* [Details Lower Leg - STL files and component information](../leg_2dof_v1/README.md)
 
 Details Foot Contact Switch
 -------------------------------
@@ -77,12 +99,6 @@ The sensitivity of the switch can be adjusted depending on the application by ch
 * the distance between emitter and receiver
 * the emitter led brightness
 
-How to work with this
----------------------
-* To get an better overview of the assembly you can view this [pdf file](lower_leg.PDF)
-* I recommend downloading the free eDrawings viewer for Windows, Mac, iOS and Android [here](https://www.edrawingsviewer.com/download-edrawings).
-* The eDrawing Viewer Software allows you to open and explore this [easm cad assembly file](lower_leg.EASM)
-
 Next Steps / Future Work
 ------------------------
 
@@ -93,6 +109,12 @@ Next Steps / Future Work
 <img src="images/silicone_foot_sensor_spring_1.jpg" width="400"> <br>
 
 <img src="images/silicone_foot_sensor_spring_2.jpg" width="400"> <br>
+
+How to work with this
+---------------------
+* To get an better overview of the assembly you can view this [pdf file](lower_leg.PDF)
+* I recommend downloading the free eDrawings viewer for Windows, Mac, iOS and Android [here](https://www.edrawingsviewer.com/download-edrawings).
+* The eDrawing Viewer Software allows you to open and explore this [easm cad assembly file](lower_leg.EASM)
 
 Authors
 --------

@@ -23,31 +23,6 @@ The foot contact switch details are described here -> [Foot Contact Switch](../f
 
 <img src="images/leg_2dof_3.png" width="500"> <br>*The leg segments are stacked and can rotate past each other*
 
-Lower Leg and Foot
------------
-
-<img src="../leg_2dof_v1/images/lower_leg_1.jpg" width="600"> <br>*Lower Leg and Foot Contact Switch Component Overview - the weigth of the lower leg assembly is 35g*
-
-<img src="../leg_2dof_v1/images/lower_leg_2.jpg" width="600"> <br>
-
-### Off-the-shelf Components
-
-<img src="images/elastic_elements_1.jpg" width="400"> <br> *Elastic elements cut from silicone tube*
-
-
-* Silicone tube - outer diameter 6mm / inner diameter 4mm / length 3mm  
-* 12 elements / 6 on each side  
-* Steel Pin 1,5mm x 12mm  
-* Bicycle tire bonded to the foot with Loctite 404  
-
-3D Printed Parts  - Lower Leg and Foot Contact Switch
------------------
-The files for 3d printing the parts are available in the [STL folder.](stl_files)
-
-* Lower Leg Structure Base - 18g
-* Lower Leg Structure Fork - 5g
-* Foot Structure - 3.4g
-
 
 Table Attachment
 -----------------
