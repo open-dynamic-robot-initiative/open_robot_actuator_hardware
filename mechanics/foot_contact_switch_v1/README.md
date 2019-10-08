@@ -4,7 +4,7 @@ Foot Contact Switch v1
 
 Description
 ------------
-We designed simple, low cost, lightweight and robust optical foot contact switch for our [quadruped robot.](../quedruped_robot_8dof_v1)  
+We designed simple, low cost, lightweight and robust optical foot contact switch for our [quadruped robot.](../quadruped_robot_8dof_v1)  
 The contact switch consists of a spring loaded aperture that is located between a led light source and a light sensor.  
 External loads displace the aperture and change the light intensity measured by the sensor.  
 For centering the foot we use 12 elastic silicone elements (6 on each side).   
@@ -55,8 +55,8 @@ The files for 3d printing the parts are available in the [STL folder.](stl_files
 * [Lower Leg Structure Fork - 5g](stl_files/lower_leg_structure_fork.STL)
 * [Foot Structure - 3.4g](stl_files/foot_structure.STL)
 
-<img src="images/foot_sensor_6.jpg" width="255">
-<img src="images/foot_sensor_2.jpg" width="300"> <br>
+<img src="images/foot_sensor_2.png" width="600">
+
 
 Custom Electronic Boards
 --------------------
