@@ -28,25 +28,19 @@ Electronics
 -----------
 <img src="images/quadruped_electronics_1.jpg" width="600"> <br>   
 
-Coordinate System
---------------------
-<img src="images/quadruped_coordinate_system_8.jpg" width="400"> <br>  
-
-3D Model for Visualization
----------------------------
-The simplified stl files for visualization and simulation can be found [here](stl_files_for_visualization).
-
-<img src="images/quadruped_simulation.png" width="400"> <br>
-
-<img src="images/quadruped_simplified_positions_coordinate_systems.png" width="600"> <br>
-
-
 3D Printed Parts
 -----------------
+<img src="images/body_bottom_part_1.png" width="400"> <br>
+<img src="images/body_top_part_1.png" width="400"> <br>
 * Body Shell Bottom Part - 230g - [STL file](stl_files/quadruped_body_bottom_part.STL)  
 * Body Shell Top Part - 110g - [STL file](stl_files/quadruped_body_top_part.STL)
 
-
+Body Shell Preparation
+-------------------------
+<img src="images/body_shell_preparation_1.png" width="600"> <br>*Shell preparation - Threads and threaded inserts*
+___
+<img src="images/body_shell_preparation_2.png" width="600"> <br>*Shell fasteners - SHCS = Socket Head Cap Screw*
+___
 Off-the-shelf Components
 --------------------------
 ### Strain relief
@@ -61,9 +55,36 @@ The cable gland thread is M16 x 1,5mm - the standard metric thread is M16 x 2mm.
 Make sure to use a M16 x 1,5mm fine pitch thread cutter to prepare the thread in the 3d printed shell.
 ___
 ### Vicon Markers
-<img src="images/vicon_marker.jpg" width="300"> <br>*Reflective Markers for motion capture system*
+<img src="images/vicon_marker.jpg" width="500"> <br>*Reflective Markers for motion capture system*
 
 * 10 x 9.5mm Vicon Markers on the base
+* M4 x 10 set screws for a attachment
+___
+PDF Drawings
+---------------------
+
+<a href="quadruped_8dof_v1.PDF"><img src="images/quadruped_pdf.png" width="500"></a><br>*Quadruped Overview - Click on picture to view PDF drawing*
+____
+<a href="details/vicon_markers_quadruped.PDF"><img src="images/quadruped_marker_positions_pdf.png" width="500"></a><br>*Vicon Marker Placement - Click on picture to view PDF drawing*
+
+* You can download the Vicon Object here: [Quadruped Vicon Object](details/quadruped.vsk)
+___
+Coordinate System
+--------------------
+<img src="images/quadruped_coordinate_system_8.jpg" width="400"> <br>  
+___
+3D Model for Visualization
+---------------------------
+The simplified stl files for visualization and simulation can be found here: [STL Files Visualization](stl_files_for_visualization).
+
+<img src="images/quadruped_simulation.png" width="400"> <br>
+
+<img src="images/quadruped_simplified_positions_coordinate_systems.png" width="600"> <br>
+____
+Inertia Parameters for Simulation
+---------------
+<a href="details/quadruped_inertia_parameters.pdf"><img src="images/quadruped_inertia_pdf.png" width="500"></a><br>*Quadruped Inertia Parameters - Click on picture to view PDF drawing*
+___
 
 Next steps
 --------------
@@ -74,12 +95,6 @@ Next steps
 * 12 degrees of freedom - add Hip AA degree of freedom
 
 <img src="images/quadruped_jump_1.jpg" width="600"> <br>
-
-How to work with this
----------------------
-* To get an better overview of the assembly you can view this [pdf file](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/actuator_module_v1/_actuator_module.PDF)
-* I recommend downloading the free eDrawings viewer for Windows, Mac, iOS and Android [here](https://www.edrawingsviewer.com/download-edrawings).
-* The eDrawing Viewer Software allows you to open and explore this [easm cad assembly file](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/actuator_module_v1/_actuator_module.EASM)
 
 
 Authors

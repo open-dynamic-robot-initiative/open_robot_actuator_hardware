@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<KinematicModel VERSION="3.2">
+	<Parameters>
+		<Parameter NAME="quadruped_test_1_quadruped_test_11_x" VALUE="-191.19999694824219" PRIOR="-191.19999694824219" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_11_y" VALUE="49.200000762939453" PRIOR="49.200000762939453" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_11_z" VALUE="8" PRIOR="8" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_12_x" VALUE="-176.60000610351562" PRIOR="-176.60000610351562" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_12_y" VALUE="12.100000381469727" PRIOR="12.100000381469727" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_12_z" VALUE="8" PRIOR="8" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_13_x" VALUE="-176.60000610351562" PRIOR="-176.60000610351562" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_13_y" VALUE="-12.100000381469727" PRIOR="-12.100000381469727" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_13_z" VALUE="8" PRIOR="8" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_14_x" VALUE="-191.19999694824219" PRIOR="-191.19999694824219" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_14_y" VALUE="-49.200000762939453" PRIOR="-49.200000762939453" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_14_z" VALUE="-4" PRIOR="-4" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_15_x" VALUE="0" PRIOR="0" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_15_y" VALUE="-63.400001525878906" PRIOR="-63.400001525878906" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_15_z" VALUE="4" PRIOR="4" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_16_x" VALUE="191.19999694824219" PRIOR="191.19999694824219" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_16_y" VALUE="49.200000762939453" PRIOR="49.200000762939453" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_16_z" VALUE="8" PRIOR="8" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_17_x" VALUE="176.5" PRIOR="176.5" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_17_y" VALUE="-12.100000381469727" PRIOR="-12.100000381469727" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_17_z" VALUE="-4" PRIOR="-4" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_18_x" VALUE="191.19999694824219" PRIOR="191.19999694824219" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_18_y" VALUE="-49.200000762939453" PRIOR="-49.200000762939453" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_18_z" VALUE="8" PRIOR="8" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_19_x" VALUE="176.5" PRIOR="176.5" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_19_y" VALUE="12.100000381469727" PRIOR="12.100000381469727" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_19_z" VALUE="-4" PRIOR="-4" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_110_x" VALUE="0" PRIOR="0" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_110_y" VALUE="63.400001525878906" PRIOR="63.400001525878906" HIDDEN="1"/>
+		<Parameter NAME="quadruped_test_1_quadruped_test_110_z" VALUE="4" PRIOR="4" HIDDEN="1"/>
+	</Parameters>
+	<Skeleton RGB="93 93 93">
+		<Segment NAME="quadruped" OPACITY="255" BOUNDS="-50 -50 -50 50 50 50" MASS="0" MASS-CENTRE="0 0 0" INERTIA="0 0 0" RGB="255 164 0" HIDDEN="0" DRAW-END-RATIO="1" DRAW-HEIGHT="0.5" DRAW-TWIST="0" DRAW-WIDTH="0.5" DRAW-STYLE="box" DRAW-SHADING="shaded-smooth">
+			<JointFree NAME="World_quadruped_test_1" PRE-ORIENTATION="0 0 0" PRE-POSITION="0 0 0" INVERSE-POST-ORIENTATION="0 0 0" INVERSE-POST-POSITION="0 0 0" MEAN="0 0 0 0 0 0" COVARIANCE="2.464900016784668 0 0 0 0 0 0 2.464900016784668 0 0 0 0 0 0 246.49000549316406 0 0 0 0 0 0 1000000 0 0 0 0 0 0 1000000 0 0 0 0 0 0 1000000" T="* * * * * *" SIGNS="+ + + + + +" RANGE-CENTRING-STATE="0 0 0 0 0 0" RANGE-MATRIX="29.60881233215332 0 0 0 0 0 0 29.60881233215332 0 0 0 0 0 0 29.60881233215332 0 0 0 0 0 0 100000000 0 0 0 0 0 0 100000000 0 0 0 0 0 0 100000000">
+				<JointTemplate MEAN="0 0 0 0 0 0" COVARIANCE="2.464900016784668 0 0 0 0 0 0 2.464900016784668 0 0 0 0 0 0 246.49000549316406 0 0 0 0 0 0 1000000 0 0 0 0 0 0 1000000 0 0 0 0 0 0 1000000" TPOSE-MEAN="0 0 0 0 0 0" TPOSE-COVARIANCE="0.10000000149011612 0 0 0 0 0 0 0.10000000149011612 0 0 0 0 0 0 0.10000000149011612 0 0 0 0 0 0 0.10000000149011612 0 0 0 0 0 0 0.10000000149011612 0 0 0 0 0 0 0.10000000149011612" PRE-ORIENTATION="0 0 0" PRE-POSITION="0 0 0" INVERSE-POST-ORIENTATION="0 0 0" INVERSE-POST-POSITION="0 0 0"/>
+			</JointFree>
+		</Segment>
+	</Skeleton>
+	<MarkerSet>
+		<Markers>
+			<Marker NAME="quadruped_test_11" RADIUS="12.5" RGB="255 164 0" STATUS="required" VIEW-ANGLE="0"/>
+			<Marker NAME="quadruped_test_12" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+			<Marker NAME="quadruped_test_13" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+			<Marker NAME="quadruped_test_14" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+			<Marker NAME="quadruped_test_15" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+			<Marker NAME="quadruped_test_16" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+			<Marker NAME="quadruped_test_17" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+			<Marker NAME="quadruped_test_18" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+			<Marker NAME="quadruped_test_19" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+			<Marker NAME="quadruped_test_20" RADIUS="12.5" RGB="255 164 0" STATUS="optional" VIEW-ANGLE="0"/>
+		</Markers>
+		<Sticks>
+			<Stick MARKER1="quadruped_test_11" MARKER2="quadruped_test_12" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_11" MARKER2="quadruped_test_13" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_11" MARKER2="quadruped_test_14" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_11" MARKER2="quadruped_test_15" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_11" MARKER2="quadruped_test_16" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_11" MARKER2="quadruped_test_17" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_11" MARKER2="quadruped_test_18" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_11" MARKER2="quadruped_test_19" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_11" MARKER2="quadruped_test_20" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_12" MARKER2="quadruped_test_13" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_12" MARKER2="quadruped_test_14" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_12" MARKER2="quadruped_test_15" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_12" MARKER2="quadruped_test_16" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_12" MARKER2="quadruped_test_17" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_12" MARKER2="quadruped_test_18" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_12" MARKER2="quadruped_test_19" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_12" MARKER2="quadruped_test_20" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_13" MARKER2="quadruped_test_14" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_13" MARKER2="quadruped_test_15" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_13" MARKER2="quadruped_test_16" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_13" MARKER2="quadruped_test_17" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_13" MARKER2="quadruped_test_18" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_13" MARKER2="quadruped_test_19" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_13" MARKER2="quadruped_test_20" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_14" MARKER2="quadruped_test_15" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_14" MARKER2="quadruped_test_16" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_14" MARKER2="quadruped_test_17" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_14" MARKER2="quadruped_test_18" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_14" MARKER2="quadruped_test_19" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_14" MARKER2="quadruped_test_20" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_15" MARKER2="quadruped_test_16" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_15" MARKER2="quadruped_test_17" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_15" MARKER2="quadruped_test_18" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_15" MARKER2="quadruped_test_19" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_15" MARKER2="quadruped_test_20" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_16" MARKER2="quadruped_test_17" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_16" MARKER2="quadruped_test_18" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_16" MARKER2="quadruped_test_19" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_16" MARKER2="quadruped_test_20" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_17" MARKER2="quadruped_test_18" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_17" MARKER2="quadruped_test_19" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_17" MARKER2="quadruped_test_20" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_18" MARKER2="quadruped_test_19" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_18" MARKER2="quadruped_test_20" RGB1="255 164 0" RGB2="255 164 0"/>
+			<Stick MARKER1="quadruped_test_19" MARKER2="quadruped_test_20" RGB1="255 164 0" RGB2="255 164 0"/>
+		</Sticks>
+	</MarkerSet>
+	<TargetSet>
+		<Targets>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="0" GAUSSIAN="1" HIDDEN="0" MARKER="quadruped_test_11" OPACITY="255" POSITION="'quadruped_test_1_quadruped_test_11_x' 'quadruped_test_1_quadruped_test_11_y' 'quadruped_test_1_quadruped_test_11_z'" RGB="93 93 93" SEGMENT="quadruped" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="0" GAUSSIAN="1" HIDDEN="0" MARKER="quadruped_test_12" OPACITY="255" POSITION="'quadruped_test_1_quadruped_test_12_x' 'quadruped_test_1_quadruped_test_12_y' 'quadruped_test_1_quadruped_test_12_z'" RGB="93 93 93" SEGMENT="quadruped" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="0" GAUSSIAN="1" HIDDEN="0" MARKER="quadruped_test_13" OPACITY="255" POSITION="'quadruped_test_1_quadruped_test_13_x' 'quadruped_test_1_quadruped_test_13_y' 'quadruped_test_1_quadruped_test_13_z'" RGB="93 93 93" SEGMENT="quadruped" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="0" GAUSSIAN="1" HIDDEN="0" MARKER="quadruped_test_14" OPACITY="255" POSITION="'quadruped_test_1_quadruped_test_14_x' 'quadruped_test_1_quadruped_test_14_y' 'quadruped_test_1_quadruped_test_14_z'" RGB="93 93 93" SEGMENT="quadruped" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="0" GAUSSIAN="1" HIDDEN="0" MARKER="quadruped_test_15" OPACITY="255" POSITION="'quadruped_test_1_quadruped_test_15_x' 'quadruped_test_1_quadruped_test_15_y' 'quadruped_test_1_quadruped_test_15_z'" RGB="93 93 93" SEGMENT="quadruped" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="0" GAUSSIAN="1" HIDDEN="0" MARKER="quadruped_test_16" OPACITY="255" POSITION="'quadruped_test_1_quadruped_test_16_x' 'quadruped_test_1_quadruped_test_16_y' 'quadruped_test_1_quadruped_test_16_z'" RGB="93 93 93" SEGMENT="quadruped" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="0" GAUSSIAN="1" HIDDEN="0" MARKER="quadruped_test_17" OPACITY="255" POSITION="'quadruped_test_1_quadruped_test_17_x' 'quadruped_test_1_quadruped_test_17_y' 'quadruped_test_1_quadruped_test_17_z'" RGB="93 93 93" SEGMENT="quadruped" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="0" GAUSSIAN="1" HIDDEN="0" MARKER="quadruped_test_18" OPACITY="255" POSITION="'quadruped_test_1_quadruped_test_18_x' 'quadruped_test_1_quadruped_test_18_y' 'quadruped_test_1_quadruped_test_18_z'" RGB="93 93 93" SEGMENT="quadruped" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="0" GAUSSIAN="1" HIDDEN="0" MARKER="quadruped_test_19" OPACITY="255" POSITION="'quadruped_test_1_quadruped_test_19_x' 'quadruped_test_1_quadruped_test_19_y' 'quadruped_test_1_quadruped_test_19_z'" RGB="93 93 93" SEGMENT="quadruped" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+			<TargetLocalPointToWorldPoint COVARIANCE="1 0 0 0 1 0 0 0 1" FILL-GAPS="0" GAUSSIAN="1" HIDDEN="0" MARKER="quadruped_test_20" OPACITY="255" POSITION="'quadruped_test_1_quadruped_test_110_x' 'quadruped_test_1_quadruped_test_110_y' 'quadruped_test_1_quadruped_test_110_z'" RGB="93 93 93" SEGMENT="quadruped" WEIGHT="1" DRAW-STYLE="None">
+				<TargetLocalPointToWorldPointTemplate COVARIANCE="1 0 0 0 1 0 0 0 1"/>
+			</TargetLocalPointToWorldPoint>
+		</Targets>
+	</TargetSet>
+</KinematicModel>
+
