@@ -42,7 +42,9 @@ Machined Parts
 3D Printed Parts
 -----------------
 
-
+Components Teststand
+----------------------
+<img src="images/components_teststand_1.jpg" width="600"> <br>  
 
 How to work with this
 ---------------------

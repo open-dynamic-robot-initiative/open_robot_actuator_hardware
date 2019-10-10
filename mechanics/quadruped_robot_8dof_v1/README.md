@@ -87,7 +87,10 @@ The inertial values are being used in this repository: [Robot Properties Solo](h
 
 <a href="details/quadruped_inertia_parameters.pdf"><img src="images/quadruped_inertia_pdf.png" width="500"></a><br>*Quadruped Inertia Parameters - Click on picture to view PDF drawing*
 ___
-
+Quadruped Robot In The Dark
+---------------------------
+<img src="images/solo_in_dark_1.jpg" width="500"> <br>*In the picture you can see the light from the foot sensor leds and the microcontroller status leds*
+____
 Next steps
 --------------
 * perform a jump onto a 24cm box

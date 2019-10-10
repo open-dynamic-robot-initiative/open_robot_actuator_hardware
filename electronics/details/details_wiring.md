@@ -13,6 +13,10 @@ Wiring Diagram - Foot Sensor
 ----------------
 <img src="../images/foot_sensor_wiring.jpg" width="600"> <br>*Foot Sensor Wiring*
 
+CAN Connector Wiring
+--------------
+<img src="../images/can_wiring.jpg" width="600"> <br>*CAN connector wiring*
+
 Wiring - Power Connector
 ----------------
 <img src="../images/power_connector_wiring.jpg" width="600"> <br>*Power Connector Wiring Convention*

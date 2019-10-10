@@ -22,6 +22,15 @@ The leg can be used for experiments and measurements with external sensors in th
 
 <img src="images/leg_2dof_3.png" width="500"> <br>*The leg segments are stacked and can rotate past each other*
 
+
+Convention Positive Motor Rotation
+-----------------------------------
+<img src="images/convention_motor_rotation.jpg" width="400"> <br>*Counterclockwise when looking at the motor from the top*
+
+Convention Positive Joint Rotation
+-----------------------------------
+<img src="images/convention_positive_joint_rotation.jpg" width="400"> <br>*Clockwise when looking at the robot from the side*
+
 Video Cicle Art
 -------
 [![Foot Sensor Video](https://img.youtube.com/vi/ciLx4PqHVBA/0.jpg)](https://www.youtube.com/watch?v=ciLx4PqHVBA)

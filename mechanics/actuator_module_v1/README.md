@@ -16,6 +16,8 @@ Actuator Module Assembly
 --------
 <img src="images/actuator_module_open_1.jpg" width="600">
 
+
+
 Dual Stage Timing Belt Transmission
 -----------------------------------------
 <img src="images/transmission_1.png" width="600">
@@ -34,7 +36,16 @@ Off-the-shelf Components
   * Weight: 53g
   * [T-Motor Webpage](http://store-en.tmotor.com/goods.php?id=438)
 
+#### Motor Parameters for Antigravity 4004 300kV - determined with the Motorware Motor ID Software
 
+* Rr = 0
+* Rs = 0.23255 Ω
+* Ls_d = 1.4e-4
+* Ls_q = 1.4e-4
+* Rated Flux = 0.00954
+* Inertia = 0.12954
+* Friction = 0.10053
+___
 ### Optical Encoder
 <img src="images/broadcom_encoder_1.jpg" width="400"> <br>
   * Broadcom AEDT-9810-Z00
@@ -56,6 +67,9 @@ Off-the-shelf Components
   * First stage: 150mm timing belt - width 4mm - 1,5g
   * Second stage: 201mm timing belt - width 6mm - 3g
   * [Contitech Webpage](https://www.contitech.de/en-gl/Solutions/Power-Transmission/Industrial-Applications/Drive-Belts/Synchronous-Belts/Products/Product-range/CONTI-SYNCHROFLEX-GEN3)  
+
+### Timing Belt Tensioner Rollers
+<img src="images/timing_belt_tensioner_1.jpg" width="500"> <br> *Left side - 10mm bearings / Right side - 7mm bearings and 3d printed rollers*
 
 ### Bearings
 <img src="images/bearings_1.jpg" width="400"><br>
@@ -93,6 +107,10 @@ The stl files for 3d printing are available in the [STL folder.](stl_files)
   * transmission_pulley_at3_t30_center - 4.2g
   * transmission_pulley_at3_t30_output - 6.7g
 
+Mechanical Interface
+-----------------------
+<img src="images/mechanical_interface.jpg" width="400"> <br> *The same mechanical interface is used for the hip, upper leg, lower leg and test adapters*
+
 More Details
 --------
 * [Details 3D Printed Parts](details/details_3d_printed_parts.md)  
@@ -101,6 +119,7 @@ More Details
 * [Details Encoder Preparation](details/details_encoder_preparation.md)  
 * [Details Encoder Kit Disassembly](details/details_encoder_kit_disassembly.md)
 * [Details Shell Preparation](details/details_shell_preparation.md)
+* [Details Motor Preparation](details/details_motor_preparation.md)
 * [Details Actuator Module Assembly](details/details_assembly.md)
 
 How to work with this
