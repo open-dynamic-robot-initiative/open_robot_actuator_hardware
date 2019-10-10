@@ -83,7 +83,7 @@ The simplified stl files for visualization and simulation can be found here: [ST
 ____
 Inertia Parameters for Simulation
 ---------------
-The inertial values have been implemented here:[Robot Properties Solo](https://github.com/open-dynamic-robot-initiative/robot_properties_solo)
+The inertial values are being used in this repository: [Robot Properties Solo](https://github.com/open-dynamic-robot-initiative/robot_properties_solo)
 
 <a href="details/quadruped_inertia_parameters.pdf"><img src="images/quadruped_inertia_pdf.png" width="500"></a><br>*Quadruped Inertia Parameters - Click on picture to view PDF drawing*
 ___

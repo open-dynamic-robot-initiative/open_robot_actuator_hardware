@@ -22,6 +22,9 @@ The leg can be used for experiments and measurements with external sensors in th
 
 <img src="images/leg_2dof_3.png" width="500"> <br>*The leg segments are stacked and can rotate past each other*
 
+Video Cicle Art
+-------
+[![Foot Sensor Video](https://img.youtube.com/vi/ciLx4PqHVBA/0.jpg)](https://www.youtube.com/watch?v=ciLx4PqHVBA)
 
 Table Attachment
 -----------------
