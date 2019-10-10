@@ -12,14 +12,13 @@ Since there are wires routed through the hollow shell structures the output rota
 The segment lenght is 160mm and results in a neutral standing height of 240mm (at 45 degree hip angle and 90 degree knee angle).
 
 
-<img src="images/leg_2dof_2.png" width="300"> <br> *Leg Dimensions - the neutral standing height of the leg is 240mm*
+<img src="images/leg_2dof_5.png" width="700"> <br> *Leg Dimensions - the neutral standing height of the leg is 240mm*
 
+The actuator module details are described here -> [Actuator module](../actuator_module_v1)  
+The foot contact switch and lower leg details are described here -> [Foot Contact Switch](../foot_contact_switch_v1)
 
 The leg can be used for experiments and measurements with external sensors in the leg test stand. -> [Leg Test stand](../leg_test_stand_v1)  
 4 of the leg modules can be used to assemble a 8dof quadruped robot. -> [Quadruped Robot](../quadruped_robot_8dof_v1)
-
-The actuator module details are described here -> [Actuator module](../actuator_module_v1)  
-The foot contact switch details are described here -> [Foot Contact Switch](../foot_contact_switch_v1)
 
 <img src="images/leg_2dof_3.png" width="500"> <br>*The leg segments are stacked and can rotate past each other*
 
