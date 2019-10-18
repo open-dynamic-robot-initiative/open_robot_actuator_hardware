@@ -17,6 +17,8 @@ CAN Connector Wiring
 --------------
 <img src="../images/can_wiring.jpg" width="600"> <br>*CAN connector wiring*
 
+* 9 pin D-sub connector (RS 765-9555)
+
 Wiring - Power Connector
 ----------------
 <img src="../images/power_connector_wiring.jpg" width="600"> <br>*Power Connector Wiring Convention*

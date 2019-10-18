@@ -34,7 +34,9 @@ Off-the-shelf Components
   * 3 phase WYE Configuration / Star Configuration
   * Rotor diameter: 45mm
   * Weight: 53g
+  * [Details Motor Preparation](details/details_motor_preparation.md)
   * [T-Motor Webpage](http://store-en.tmotor.com/goods.php?id=438)
+
 
 #### Motor Parameters for Antigravity 4004 300kV - determined with the Motorware Motor ID Software
 
@@ -120,6 +122,7 @@ More Details
 * [Details Encoder Kit Disassembly](details/details_encoder_kit_disassembly.md)
 * [Details Shell Preparation](details/details_shell_preparation.md)
 * [Details Motor Preparation](details/details_motor_preparation.md)
+* [Details Pulley Preparation](details/details_pulley_preparation.md)
 * [Details Actuator Module Assembly](details/details_assembly.md)
 
 How to work with this
