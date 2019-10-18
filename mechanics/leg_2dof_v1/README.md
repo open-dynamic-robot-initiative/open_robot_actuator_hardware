@@ -35,7 +35,7 @@ Video Cicle Art
 -------
 [![Foot Sensor Video](https://img.youtube.com/vi/ciLx4PqHVBA/0.jpg)](https://www.youtube.com/watch?v=ciLx4PqHVBA)
 
-Drawing circles with a 2 dof leg module, developed during a high school student project at New York University.
+Drawing circles with a 2 dof leg module, developed during a high school student project at New York University.  
 Credit: Brandon G. Knox
 
 Table Attachment
