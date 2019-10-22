@@ -1,9 +1,10 @@
-Details Pulley Preparation
+Details Center Pulley Preparation
 =======================
-<img src="../images/pulley_preparation_7.jpg" width="400"> <br>*Center Pulley Assembled*
+<img src="../images/pulley_preparation_7.jpg" width="400"> <br>*Center Pulley Assembled*  
+
 Description
 ------------
-<img src="../images/pulley_preparation_1.jpg" width="400"> <br>*Center Pulley AT3 T30, Center Pulley AT3 T10 and Assembly Tools*
+<img src="../images/pulley_preparation_1.jpg" width="400"> <br>*Center Pulley AT3 T30, Center Pulley AT3 T10 and Assembly Tools*  
 
 * The center pulley is assembled from the 10 tooth aluminium pulley and the 30 tooth 3d printed pulley.  
 * The parts are press-fit using an arbor press and 3d printed tools.  
@@ -32,6 +33,8 @@ Assembly
 <img src="../images/pulley_preparation_6.jpg" width="300"> <br>*The parts should be flush on the bottom side. <br>Remove scraped-off material with a tooth brush.*
 
 <img src="../images/pulley_preparation_7.jpg" width="300"> <br>*The center pulley is now ready for installation.*
+
+
 
 Authors
 --------

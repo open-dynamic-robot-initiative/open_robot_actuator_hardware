@@ -35,6 +35,8 @@ Rotor Preparation
 **Important:** Be careful not to increase the bore diameter too much.  
 If the fit is too loose the rotor will wobble when spinning.
 
+<img src="../images/motor_mod_16.jpg" width="400"> <br>*The rotor is now ready for assembly.*
+
 Stator Preparation
 --------------------
 
@@ -53,6 +55,8 @@ We use LiY wire with a cross section of 0,5mm2. <br>Insulate the phase wires wit
 <img src="../images/motor_connectors_3.jpg" width="400"> <br>*Use heat shring to insulate the wires.<br> It makes it easier to align the heat shrink if you install the mating connector.*
 
 <img src="../images/motor_connectors_4.jpg" width="400"> <br>*Finished motor phase connnectors.*
+
+<img src="../images/motor_mod_15.jpg" width="400"> <br>*The stator is now ready for assembly.*
 
 Authors
 --------
