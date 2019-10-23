@@ -122,6 +122,7 @@ More Details
 * [Details Encoder Kit Disassembly](details/details_encoder_kit_disassembly.md)
 * [Details Shell Preparation](details/details_shell_preparation.md)
 * [Details Motor Preparation](details/details_motor_preparation.md)
+* [Details Motor Shaft Preparation](details/details_motor_shaft_preparation.md)
 * [Details Center Pulley Preparation](details/details_center_pulley_preparation.md)
 * [Details Output Pulley Preparation](details/details_output_pulley_preparation.md)
 * [Details Actuator Module Assembly](details/details_assembly.md)
