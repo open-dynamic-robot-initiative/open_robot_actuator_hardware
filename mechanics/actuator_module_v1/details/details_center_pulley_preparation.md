@@ -6,10 +6,10 @@ Description
 ------------
 <img src="../images/pulley_preparation_1.jpg" width="400"> <br>*Center Pulley AT3 T30, Center Pulley AT3 T10 and Assembly Tools*  
 
-* The center pulley is assembled from the 10 tooth aluminium pulley and the 30 tooth 3d printed pulley.  
-* The parts are press-fit using an arbor press and 3d printed tools.  
-* More information on the 3d printing: [Details 3d Printed Parts](details_3d_printed_parts.md)  
-* More information on the machined part: [Details Machined Parts](details_machined_parts.md)
+The center pulley is assembled from the 10 tooth aluminium pulley and the 30 tooth 3d printed pulley.  
+The parts are press-fit using an arbor press and 3d printed tools.  
+More information on the 3d printing: [Details 3d Printed Parts](details_3d_printed_parts.md)  
+More information on the machined part: [Details Machined Parts](details_machined_parts.md)
 
 
 * [PDF File - Pulley AT3 T10 Center](../drawings/center_pulley_at3_t10.PDF)
@@ -30,10 +30,9 @@ Assembly
 
 <img src="../images/pulley_preparation_5.jpg" width="300"> <br>*Place your stack of parts on the arbor press. <br>Push all the way down using moderate force.*
 
-<img src="../images/pulley_preparation_6.jpg" width="300"> <br>*The parts should be flush on the bottom side. <br>Remove scraped-off material with a tooth brush.*
+<img src="../images/pulley_preparation_6.jpg" width="300"> <br>*The parts should be flush on the bottom side. <br>Remove scraped-off material with a tooth brush.<br> Use the arbor press again if necessary.*
 
 <img src="../images/pulley_preparation_7.jpg" width="300"> <br>*The center pulley is now ready for installation.*
-
 
 
 Authors

@@ -85,8 +85,8 @@ ___
 ### Bearings
 <img src="images/bearings_1.jpg" width="400"><br>
 * Miniature stainless steel roller bearings
-* Ouput bearings: 32mm x 25mm x 4mm - 6.9g
-* Transmission bearings: 8mm x 4mm x 2mm - 0.4g
+* Ouput bearing: 32mm x 25mm x 4mm - 6.9g
+* Transmission bearing: 8mm x 4mm x 2mm - 0.4g
 
 
 ### Machined Parts
@@ -139,11 +139,18 @@ More Details
 * [Details Output Pulley Preparation](details/details_output_pulley_preparation.md)
 * [Details Actuator Module Assembly](details/details_assembly.md)
 
-How to work with this
----------------------
-* To get an better overview of the assembly you can view this [pdf file](_actuator_module.PDF)
-* I recommend downloading the free eDrawings viewer for Windows, Mac, iOS and Android [here](https://www.edrawingsviewer.com/download-edrawings).
-* The eDrawing Viewer Software allows you to open and explore this [easm cad assembly file](_actuator_module.EASM)
+PDF Drawing
+------------
+View this pdf file to get a better overview of the actuator module assembly.
+
+<a href="_actuator_module.PDF"><img src="images/actuator_module_pdf.png" width="500"></a><br>*Actuator Module Overview - Click on picture to view PDF drawing.*
+
+3D Assembly File
+-------------------
+Download and open the eDrawing file below to explore the actuator module assembly.  
+To open the file you will need to download and install the free eDrawings viewer [here](https://www.edrawingsviewer.com/download-edrawings).  
+
+<a href="_actuator_module.EASM"><img src="images/actuator_module_edrawing.png" width="500"></a><br>*Actuator Module Overview - Click on picture to download and view the 3d assembly file.*
 
 Authors
 --------
@@ -159,6 +166,7 @@ Copyright (c) 2019, Max Planck Gesellschaft, New York University
 
 More Information
 ----------------
-[Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io)  
+[Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
+[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)  
 [Hardware Overview](../../README.md)  
 [Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki/Open-Dynamic-Robot-Initiative-Documentation)
