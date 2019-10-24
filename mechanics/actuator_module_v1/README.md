@@ -20,8 +20,18 @@ Actuator Module Assembly
 
 Dual Stage Timing Belt Transmission
 -----------------------------------------
+
+<img src="images/transmission_1.jpg" width="400"> <br> *Weight of the components in the picture: 18g*
+
+  * The small pulleys have 10 teeth - the large pulleys have 30 teeth
+
+Transmission Dimensions
+--------------------------
+
 <img src="images/transmission_1.png" width="600">
 
+* Dual stage timing belt transmission with 3:1 gear reduction on each stage
+* Total gear reduction 9:1
 
 Off-the-shelf Components
 --------------------------
@@ -58,14 +68,13 @@ ___
   * [Details Encoder and Codewheel](details/details_encoder.md)
   * [Broadcom Webpage](https://www.broadcom.com/products/motion-control-encoders/incremental-encoders/transmissive-encoders/aedt-981x)  
 
-### Timing Belt Transmission
-<img src="images/transmission_1.jpg" width="400"> <br> *Weight of the components in the picture: 18g*
-  * Dual stage timing belt transmission with 3:1 gear reduction on each stage
-  * Total gear reduction 9:1
+### Timing Belts
+
+<img src="images/timing_belts_1.jpg" width="400"> <br> *Timing Belts AT3 GEN III with 50 teeth and 67 teeth*
+
   * Timing Belt: Synchroflex AT3 GEN III
   * Heavy duty polyurethane timing belt with steel cord reinforcements
   * 3mm tooth pitch
-  * The small pulleys have 10 teeth - the large pulleys have 30 teeth
   * First stage: 150mm timing belt - width 4mm - 1,5g
   * Second stage: 201mm timing belt - width 6mm - 3g
   * [Contitech Webpage](https://www.contitech.de/en-gl/Solutions/Power-Transmission/Industrial-Applications/Drive-Belts/Synchronous-Belts/Products/Product-range/CONTI-SYNCHROFLEX-GEN3)  
@@ -83,9 +92,9 @@ ___
 ### Machined Parts
 <img src="images/machined_parts_1.jpg" width="400"> <br>  
 There are 3 parts in the assembly that have to be machined from metal.
-  * motor pulley 10 teeth - aluminum - 0.6g
-  * center pulley 10 teeth - aluminum - 2,1g
-  * motor shaft - 4mm steel rod - 3,2g
+  * motor pulley 10 teeth - aluminum - 0.6g -> [PDF drawing](drawings/motor_pulley_at3_t10.PDF)
+  * center pulley 10 teeth - aluminum - 2,1g -> [PDF drawing](drawings/center_pulley_at3_t10.PDF)
+  * motor shaft - 4mm steel rod - 3,2g -> [PDF drawing](drawings/motor_shaft.PDF)
   * [Details Machined Parts and Technical Drawings](details/details_machined_parts.md)
 
 3D Printed Parts
@@ -96,18 +105,21 @@ The shell of the actuator module consists of two parts that are connected by eig
 The shell structure supports the motor, encoder and the bearings for the transmission and the output joint.  
 We recommend to print the shells on a SLS 3D printer. (selective laser sintering printer)  
 We use Helicoil threaded inserts for increased stability.  
-The stl files for 3d printing are available in the [STL folder.](stl_files)
-  * actuator_module_shell_base - 28g
-  * actuator_module_shell_cover - 16g
+
+  * Actuator Module Shell Base - 28g -> [STL file](stl_files/actuator_module_shell_base.STL)
+  * Actuator Module Shell Cover - 16g -> [STL file ](stl_files/actuator_module_shell_cover.STL)
+  * [Details 3D Printed Parts](details/details_3d_printed_parts.md)
 
 ### Pulleys
 <img src="images/pulleys_1.jpg" width="500"> <br> *Parts shown in the picture: codewheel mount, center pulley and output pulley.*
 
-The tooth profil of the pulleys has to be pretty precise and concentric - we recommend to print the pulleys using a stereolithography or multijet printer.  
-The stl files for 3d printing are available in the [STL folder.](stl_files)
-  * encoder_codewheel_pwb_mount - 0.2g
-  * transmission_pulley_at3_t30_center - 4.2g
-  * transmission_pulley_at3_t30_output - 6.7g
+The tooth profil of the pulleys has to be pretty precise and concentric.  
+We recommend to print the pulleys using a stereolithography or multijet printer.  
+
+  * Encoder Codewheel PWB Mount - 0.2g -> [STL file](stl_files/encoder_codewheel_pwb_mount.STL)
+  * Transmission Pulley AT3 T30 Center - 4.2g -> [STL file ](stl_files/transmission_pulley_at3_t30_center.STL)
+  * Transmission Pulley AT3 T30 Output - 6.7g -> [STL file ](stl_files/transmission_pulley_at3_t30_output.STL)
+  * [Details 3D Printed Parts](details/details_3d_printed_parts.md)
 
 Mechanical Interface
 -----------------------
