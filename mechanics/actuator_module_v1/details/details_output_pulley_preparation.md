@@ -14,7 +14,7 @@ Instructions
 
 <img src="../images/collet_1.jpg" width="400"> <br>*A 25mm collet helps with clamping the output pulley.*  
 
-<img src="../images/lathe_1.jpg" width="400"> <br>*Place the pulley on the lathe and clamp gently on on of the flanges.*  
+<img src="../images/lathe_1.jpg" width="400"> <br>*Place the pulley on the lathe and clamp gently on one of the flanges.*  
 
 <img src="../images/lathe_3.jpg" width="400"> <br>*Use a cutting tool with a sharp edge.*
 
@@ -52,7 +52,8 @@ Copyright (c) 2019, Max Planck Gesellschaft, New York University
 
 More Information
 ----------------
-[Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io)  
+[Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
+[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)  
 [Hardware Overview](../../README.md)  
 [Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki/Open-Dynamic-Robot-Initiative-Documentation)  
 [Back to Actuator Module](../README.md)  

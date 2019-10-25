@@ -100,7 +100,7 @@ There are 3 parts in the assembly that have to be machined from metal.
 3D Printed Parts
 -----------------
 ### Shell structure
-<img src="images/shells_1.jpg" width="500"> <br>       
+<img src="images/shells_1.jpg" width="500"> <br>      
 The shell of the actuator module consists of two parts that are connected by eight M2,5 screws.  
 The shell structure supports the motor, encoder and the bearings for the transmission and the output joint.  
 We recommend to print the shells on a SLS 3D printer. (selective laser sintering printer)  
