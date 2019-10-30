@@ -2,9 +2,13 @@ Texas Instruments Evaluation Board Electronics
 =======================
 <img src="images/ti_eval_board_1.jpg" width="600"> <br>  
 ____
-Description
+Electronics for Dual Brushless Motor Control
 ------------
 <img src="images/ti_eval_board_2.jpg" width="400"> <br>  
+
+Texas Instruments Evaluation Boards:  
+* Microcontroller: TI Launchpad F28069M -> [Launchpad Product Page](http://www.ti.com/tool/LAUNCHXL-F28069M)
+* 2 x Motor Driver Card: TI Boosterpacks DRV8305  -> [Booster Pack Product Page](http://www.ti.com/tool/BOOSTXL-DRV8305EVM)
 ___
 <img src="images/launchpad_comparison_1.jpg" width="400"> <br>  
 ____
