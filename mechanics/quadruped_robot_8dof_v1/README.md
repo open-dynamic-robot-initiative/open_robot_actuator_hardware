@@ -35,6 +35,12 @@ Electronics
 * Body Shell Bottom Part - 230g - [STL file](stl_files/quadruped_body_bottom_part.STL)  
 * Body Shell Top Part - 110g - [STL file](stl_files/quadruped_body_top_part.STL)
 
+3D Printing Orientation
+----------------------
+<img src="images/print_orientation_body_shell_bottom_part.png" width="600"><br>  
+____
+<img src="images/print_orientation_body_shell_top_part.png" width="600"><br>  
+___
 Body Shell Preparation
 -------------------------
 <img src="images/body_shell_preparation_1.png" width="600"> <br>*Shell preparation - Threads and threaded inserts*

@@ -57,6 +57,14 @@ The files for 3d printing the parts are available in the [STL folder.](stl_files
 
 <img src="images/foot_sensor_2.png" width="600">
 
+3D Printing Orientation
+-------------------------
+<img src="images/print_orientation_lower_leg_structure_base.png" width="600"><br>  
+  ____
+<img src="images/print_orientation_lower_leg_structure_fork.png" width="300"><br>  
+____
+<img src="images/print_orientation_foot_structure.png" width="300"><br>  
+___
 
 Custom Electronic Boards
 --------------------
