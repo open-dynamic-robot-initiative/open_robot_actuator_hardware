@@ -35,8 +35,9 @@ Electronics
 * Body Shell Bottom Part - 230g - [STL file](stl_files/quadruped_body_bottom_part.STL)  
 * Body Shell Top Part - 110g - [STL file](stl_files/quadruped_body_top_part.STL)
 
-3D Printing Orientation
+3D Printing Orientation - SLS Printer
 ----------------------
+
 <img src="images/print_orientation_body_shell_bottom_part.png" width="600"><br>  
 ____
 <img src="images/print_orientation_body_shell_top_part.png" width="600"><br>  
