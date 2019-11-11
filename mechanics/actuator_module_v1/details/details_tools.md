@@ -16,6 +16,8 @@ Description
 
 <img src="../images/end_mills_1.jpg" width="400"> <br>*End Mills*
 
+<img src="../images/tube_cutter_1.jpg" width="400"> <br>*Tube Cutter*
+
 <img src="../images/loctite_406.jpg" width="400"> <br>*Superglue - Loctite 406*
 
 <img src="../images/loctite_648.jpg" width="400"> <br>*Retaining Compound - Loctite 648*
