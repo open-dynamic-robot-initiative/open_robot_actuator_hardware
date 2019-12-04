@@ -22,7 +22,7 @@ Crimp tool: RS 503-8331
 30cm precrimped Hirose Wires
 -----------------------------
 
-<img src="../details/hirose_wires_1.jpg" width="400"> <br>*Power Connector Wiring Convention*
+<img src="hirose_wires_1.jpg" width="400"> <br>*Power Connector Wiring Convention*
 
 RS 180-6028  
 RS 180-6026  

@@ -38,13 +38,14 @@ Video Cicle Art
 Drawing circles with a 2 dof leg module, developed during a high school student project at New York University.  
 Credit: Brandon G. Knox
 
-Table Attachment
------------------
+## Table Attachment
 
 <img src="images/table_attachment_1.jpg" width="600"><br>*Leg mounted at 45 degrees and in parallel to the table*
 
 The 3d printed table attachment can be used to attach the leg to the table and orient it at 45 degrees or in parallel with the table.  
-The table attachment was designed to print without support on a FDM printer (fused deposition modelling printer) in the orientation documented below.  
+The table attachment was designed to print without support on a FDM printer (fused deposition modelling printer) in the orientation documented below.
+
+* Table Attachment -> [STL](stl_files/table_attachment.STL)
 
 <img src="images/table_attachment_1.png" width="600">
 
