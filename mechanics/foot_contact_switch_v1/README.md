@@ -86,6 +86,20 @@ Special thanks to Joshi Walzog for designing and manufacturing the electronics b
 * [Eagle Files - Zipped Folder](documentation/foot_contact_switch_v1.zip)
 
 To view the Eagle files you need to download the free [Eagle PCB Design Software](https://www.autodesk.com/products/eagle/free-download#) for Windows, Mac and Linux.
+__________
+Simple Lower Leg
+----------------
+You can also use a simplified version of the lower leg if you don't need the foot contact information.  
+This lower leg has the exact same dimensions as the original lower leg with foot contact switch.
+
+We print it on our FDM printer using sparse infill to match the weight of the original lower leg.
+
+* [Simple Lower Leg  - STL file](stl_files/lower_leg_solid.STL)
+
+<img src="images/simple_lower_leg_2.jpg" width="600"> <br>  
+
+<img src="images/print_orientation_lower_leg_solid.png" width="600"> <br>
+____________
 
 Foot Contact Switch Wiring
 ----------------------------
