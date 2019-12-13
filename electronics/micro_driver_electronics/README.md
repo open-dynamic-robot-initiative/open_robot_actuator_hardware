@@ -1,7 +1,35 @@
 # Micro Driver Electronics
 
+<br><img src="images/micro_driver_v2_1.jpg" width="500"> <br>
 
-<br><br><img src="images/microdriver_board_v2.jpg" width="400"> <br>
+* Dimensions: 50mm x 50mm
+* Weight: 13g
+___
+Motor Driver Electronics Comparison
+------------------------------------
+<br><img src="images/motor_driver_comparison.png" width="500"> <br>
+
+___
+Eagle Design Files
+-------------------
+<br>
+
+* [MicroDriver v2 Schematics - microDriver_v2.sch](eagle_design_files/microDriver_v2.sch)
+
+* [MicroDriver v2 Layout - microDriver_v2.brd](eagle_design_files/microDriver_v2.brd)
+
+<br><br><img src="images/microDriver_v2.png" width="600"> <br>
+
+___
+Production Gerber Set and Assembly Packet
+-----------------------------------------
+* [MicroDriver v2 Gerber - microDriver_v2_gerber.zip](production_files/microDriver_v2_gerber.zip)
+
+* [MicroDriver v2 Assembly - microDriver_v2_assembly.zip](production_files/microDriver_v2_assembly.zip)
+
+<br><br><img src="images/micro_drivers_v2_1.jpg" width="500"> <br>
+
+___
 
 Authors
 --------
