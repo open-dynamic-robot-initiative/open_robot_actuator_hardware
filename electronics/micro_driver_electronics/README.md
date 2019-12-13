@@ -14,18 +14,16 @@ Eagle Design Files
 -------------------
 <br>
 
-* [MicroDriver v2 Schematics - microDriver_v2.sch](eagle_design_files/microDriver_v2.sch)
-
-* [MicroDriver v2 Layout - microDriver_v2.brd](eagle_design_files/microDriver_v2.brd)
+* [MicroDriver v2 Eagle Design Files - microDriver_v2.zip](eagle_design_files/microDriver_v2.zip)
 
 <br><br><img src="images/microDriver_v2.png" width="600"> <br>
 
 ___
 Production Gerber Set and Assembly Packet
 -----------------------------------------
-* [MicroDriver v2 Gerber - microDriver_v2_gerber.zip](production_files/microDriver_v2_gerber.zip)
+* [MicroDriver v2 Gerber Set - microDriver_v2_gerber.zip](production_files/microDriver_v2_gerber.zip)
 
-* [MicroDriver v2 Assembly - microDriver_v2_assembly.zip](production_files/microDriver_v2_assembly.zip)
+* [MicroDriver v2 Assembly Packet - microDriver_v2_assembly.zip](production_files/microDriver_v2_assembly.zip)
 
 <br><br><img src="images/micro_drivers_v2_1.jpg" width="500"> <br>
 
