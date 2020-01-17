@@ -32,6 +32,8 @@ Lord Microstrain 3DM-GX5-25
 
 ### Linear Guide
 
+<img src="images/linear_guide_1.jpg" width="400"> <br>  
+
 * Linear ball bearings: KB-1 14mm diameter
 * Linear motion rods: Precision Stainless Steel Rods X46 14h6 x 1000mm
 
