@@ -49,8 +49,8 @@ The MicroDriver are flashed using a JTAG emulator connected via USB. The emulato
 
 | Part        | Description | ~Cost | Suppliers   |
 |-------------|-------------|-------|-------------|
-| MicroDriver | v2 | 150 EUR / $ 150 | Germany: BetaLayout |
-| JTAG Emulator | Spectrum Digital XDS100V2 | $ 110 | USA: [Mouser](https://www.mouser.com/ProductDetail/Spectrum-Digital/702302?qs=%2Fha2pyFadugCs%252BN3rqeKGQ5rHGsjcLGLHwUgh92e22D%252BaV4SDvb2Vg%3D%3D) |
+| MicroDriver | v2 | 150 EUR / $ 150 | Germany: [BetaLayout](https://us.beta-layout.com/pcb/) |
+| JTAG Emulator | Spectrum Digital XDS100V2 | $ 110 | USA: [Mouser](https://www.mouser.com/ProductDetail/Spectrum-Digital/702302?qs=%2Fha2pyFadugCs%252BN3rqeKGQ5rHGsjcLGLHwUgh92e22D%252BaV4SDvb2Vg%3D%3D) <br> Germany: [Farnell](https://de.farnell.com/spectrum-digital/xds100v2-jtag/emulator-usb-jtag-xds100v2/dp/1831927?ost=1831927&ddkey=https%3Ade-DE%2FElement14_Germany%2Fsearch) |
 | Connector wire MicroDriver | Amphenol MiniTek 127 20021111-00008T4LF | 1 EUR | Germany: [DigiKey](https://www.digikey.com/products/en?keywords=609-3711-ND) |
 
 ___
