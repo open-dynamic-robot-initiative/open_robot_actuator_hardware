@@ -28,10 +28,36 @@ Production Gerber Set and Assembly Packet
 <br><br><img src="images/micro_drivers_v2_1.jpg" width="500"> <br>
 
 ___
+Flashing
+--------
+
+The MicroDriver are flashed using a JTAG emulator connected via USB. The emulator is connected to the MicroDriver using a connector cable.
+
+<img src="images/udrive_programmable.jpg" width="500">
+
+
+## Wireing MicroDriver <-> JTAG emulator
+
+<img src="images/wire_programmable.jpg" width="500">
+
+| Connector Emulator | Connector MicroDriver |
+|--------------------|-----------------------|
+| <img src="images/udrive_wireng_programmable.png" width="500"> | <img src="images/udrive_wireng_micro_driver.png" width="300"> |
+
+---
+# Bill of Material
+
+| Part        | Description | ~Cost | Suppliers   |
+|-------------|-------------|-------|-------------|
+| MicroDriver | v2 | 150 EUR / $ 150 | Germany: BetaLayout |
+| JTAG Emulator | Spectrum Digital XDS100V2 | $ 110 | USA: [Mouser](https://www.mouser.com/ProductDetail/Spectrum-Digital/702302?qs=%2Fha2pyFadugCs%252BN3rqeKGQ5rHGsjcLGLHwUgh92e22D%252BaV4SDvb2Vg%3D%3D) |
+| Connector wire MicroDriver | Amphenol MiniTek 127 20021111-00008T4LF | 1 EUR | Germany: [DigiKey](https://www.digikey.com/products/en?keywords=609-3711-ND) |
+
+___
 
 Authors
 --------
-Jonathan Fiene   
+Jonathan Fiene, Julian Viereck
 
 License
 -------
@@ -43,7 +69,7 @@ Copyright (c) 2019, Max Planck Gesellschaft, New York University
 
 More Information
 ----------------
-[Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
-[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)  
-[Hardware Overview](../../README.md)  
+[Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)
+[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)
+[Hardware Overview](../../README.md)
 [Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki/Open-Dynamic-Robot-Initiative-Documentation)
