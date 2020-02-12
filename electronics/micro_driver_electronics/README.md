@@ -57,7 +57,8 @@ ___
 
 Authors
 --------
-Jonathan Fiene, Julian Viereck
+Jonathan Fiene  
+Julian Viereck
 
 License
 -------
@@ -69,7 +70,7 @@ Copyright (c) 2019, Max Planck Gesellschaft, New York University
 
 More Information
 ----------------
-[Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)
-[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)
-[Hardware Overview](../../README.md)
-[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki/Open-Dynamic-Robot-Initiative-Documentation)
+[Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
+[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)  
+[Hardware Overview](../../README.md)  
+[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)
