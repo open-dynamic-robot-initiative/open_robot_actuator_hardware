@@ -14,7 +14,23 @@ After unpacking the LaunchPad,
 * How to install Code Composer
 * How to clone the required code
 
-## Step 3 - Flash the firmware
+## Step 3 - For development only: Run the Program via USB using CCS Debugger
+
+This is the default procedure during developement/debugging, as you can directly run updated versions of your code and the debugger allows full access to all global variables during runtime.
+
+From Code Composer:
+
+1. Compile your code, using the "Release" build.
+2. Make sure the board is powered and connected via USB to the PC. All three boot switche have to be in the upper position (see below).
+3. Start the Debugger by clicking on the bug icon in the tool bar: <img src="../images/ccs_button_debug.png"> 
+4. Enable Silicon Real-time Mode by clicking the corresponding button in the tool bar: <img src="../images/ccs_button_silicon_realtime_mode.png">
+5. Run the code by pressing the Resume button: <img src="../images/ccs_button_resume.png">
+6. Now you can use a GUIComposer GUI or modify variables on the board via the Expressions View
+7. To quit the debugger, press the Terminate button: <img src="../images/ccs_button_terminate.png"> <br>Note: This will only detach the debugger, it will not stop the program on the board!
+
+With this procedure, the program is not permanently stored on the board. That means all steps have to be repeated, everytime the board is restarted.
+
+## Step 4 - Flash the firmware
 
 Make sure the LaunchPad is powerd through motor boaster packs.
 
