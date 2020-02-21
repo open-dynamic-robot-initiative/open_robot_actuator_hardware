@@ -42,7 +42,7 @@ Off-the-shelf Components
 <img src="images/linear_potentiometer_1.jpg" width="400"> <br>  
 
 ### E-Stop Switch
-<img src="images/e_stop_1.jpg" width="400"> <br>  
+<img src="images/e_stop_1.jpg" width="300"> <br>  
 
 Machined Parts
 ---------------
