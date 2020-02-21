@@ -22,11 +22,11 @@ From Code Composer:
 
 1. Compile your code, using the "Release" build.
 2. Make sure the board is powered and connected via USB to the PC. All three boot switche have to be in the upper position (see below).
-3. Start the Debugger by clicking on the bug icon in the tool bar: <img src="../images/ccs_button_debug.png"> 
-4. Enable Silicon Real-time Mode by clicking the corresponding button in the tool bar: <img src="../images/ccs_button_silicon_realtime_mode.png">
-5. Run the code by pressing the Resume button: <img src="../images/ccs_button_resume.png">
+3. Start the Debugger by clicking on the bug icon in the tool bar: ![CSS Debug Button](../images/ccs_button_debug.png) 
+4. Enable Silicon Real-time Mode by clicking the corresponding button in the tool bar: ![CSS Silicon Realtime Mode Button](../images/ccs_button_silicon_realtime_mode.png)
+5. Run the code by pressing the Resume button: ![CSS Resume Button](../images/ccs_button_resume.png)
 6. Now you can use a GUIComposer GUI or modify variables on the board via the Expressions View
-7. To quit the debugger, press the Terminate button: <img src="../images/ccs_button_terminate.png"> <br>Note: This will only detach the debugger, it will not stop the program on the board!
+7. To quit the debugger, press the Terminate button: ![CSS Terminate Button](../images/ccs_button_terminate.png) <br>Note: This will only detach the debugger, it will not stop the program on the board!
 
 With this procedure, the program is not permanently stored on the board. That means all steps have to be repeated, everytime the board is restarted.
 
@@ -52,5 +52,5 @@ Now the board should automatically run the program from flash when powered. Note
 
 | Run program from Flash | Use jTag (debug via USB) |
 |------------------------|--------------------------|
-| <img src="../images/launchpad_bootswitches_boot_from_flash.png"> | <img src="../images/launchpad_bootswitches_use_jtag.png"> |
+| ![Jumper configuration for booting from flash memory](../images/launchpad_bootswitches_boot_from_flash.png) | ![Jumper configuration to launch ram transfered program](../images/launchpad_bootswitches_use_jtag.png) |
 
