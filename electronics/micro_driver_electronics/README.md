@@ -38,6 +38,8 @@ The MicroDriver are flashed using a JTAG emulator connected via USB. The emulato
 
 ## Wireing MicroDriver <-> JTAG emulator
 
+Note: A long wire might cause communication problems when attempting to flash the MicroDriver. A cable length of 10 cm worked good for us.
+
 <img src="images/wire_programmable.jpg" width="500">
 
 | Connector Emulator | Connector MicroDriver |
