@@ -23,6 +23,7 @@ So there are two options:
 * Dissasembly instructions can be found [here](details_encoder_kit_disassembly.md).
 * Modify the aluminium flange according to [this drawing](../drawings/codewheel_modification.PDF)
 * Use the correct stl to print encoder mount (the encoder mounts for the two options are different)
+* Encoder Codewheel Kit Mount -> [STL file](../stl_files/encoder_codewheel_kit_mount.STL)
 
 
 ### Option B - Codewheel Fabrication
@@ -38,7 +39,8 @@ We cannot share the list here but you can ask the Broadcom support for a list of
 * Find a codewheel manufacturer in your region (ask the Broadcom Support for suppliers)
 * Ask them for a quote for producing a 5000cpr codewheel with index for the AEDT9810 encoder
 * Details: 625 lines / optical radius:11mm / disc diameter: 25,56mm / Inner bore diameter: 7mm
-
+* Use the correct stl to print encoder mount (the encoder mounts for the two options are different)
+* Encoder Codewheel PWB Mount -> [STL file](../stl_files/encoder_codewheel_pwb_mount.STL)
 
 Authors
 --------
