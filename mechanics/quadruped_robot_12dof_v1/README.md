@@ -57,6 +57,14 @@ ___
 * M4 x 10 set screws for a attachment  
 ____
 
+### 3D Model for Visualization
+
+The simplified STL files for visualization and simulation can be found here: [STL Files Visualization](stl_files_for_visualization)
+
+<img src="images/solo12_coordinate_systems.png" width="500">
+
+<a href="solo12_visualization_model.PDF"><img src="images/solo12_dimensions_visualization_1.png" width="600"></a><br>*Click on picture above to view the PDF drawing*
+
 Authors
 --------
 Felix Grimminger
