@@ -31,6 +31,18 @@ Electronics
 ___
 Off-the-shelf Components
 --------------------------
+
+### Hip AA Bearing
+
+<img src="images/bearing_ET25202ZVA.jpg" width="400"> <br>
+
+There is a new type of bearing requried for the hip aa support.  
+The bearing dimensions are smaller to enable maximal range of motion of the leg.  
+We order the bearings in stainless steel from SBN.  
+* Dimensions: 25mm x 20mm x 4mm  
+* SBN part number: ET2520 2Z VA
+
+
 ### Inertia Measurement Unit
 
 <img src="images/imu_3dm_cx5_25_1.jpg" width="400"> <br>
