@@ -21,7 +21,7 @@ Finger Tip
 
 The simplified STL files for visualization and simulation can be found here: [STL Files Visualization](stl_files_for_visualization)
 
-<a href="manipulator_dimensions_visualization.PDF"><img src="images/manipulator_dimensions_visualization.png" width="600"></a><br>*Click on picture above to view the PDF drawing*
+<a href="manipulator_dimensions_visualization.pdf"><img src="images/manipulator_dimensions_visualization.png" width="600"></a><br>*Click on picture above to view the PDF drawing*
 
 -------------
 Authors
