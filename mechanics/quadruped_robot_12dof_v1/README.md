@@ -11,6 +11,10 @@ Description
 * 12dof - 12 degree of freedom robot
 * consisting of 4 identical legs - details here -> [3DOF Leg](../leg_3dof_v1)  
 
+Range of motion
+---------------
+<img src="images/solo12_rom.png" width="500"> <br>
+
 Pictures
 -----------
 <img src="images/solo_12_mechanics_1.jpg" width="500"> <br> <br>
