@@ -12,21 +12,6 @@ _____
 ____
 
 
-Hip FE Actuator Module
------------
-* the timing belt of the second stage was rotated by 145 degrees
-* this makes the module shorter and more suitable for the biped robot
-* all the internal parts are identical to the original actuator module
-
-<img src="images/biped_hip_fe_module_1.png" width="400"> <br> <br>
-<img src="images/biped_hip_fe_module_2.png" width="400"> <br> <br>
-_____
-Hip AA Actuator Module
------------
-<img src="images/biped_hip_aa_module_1.png" width="350"> <br> <br>
-<img src="images/biped_hip_aa_module_2.png" width="350"> <br> <br>
-_____
-
 Off-the-shelf Components
 --------------------------
 
