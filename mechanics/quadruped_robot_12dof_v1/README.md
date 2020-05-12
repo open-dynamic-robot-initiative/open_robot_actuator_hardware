@@ -27,11 +27,23 @@ Pictures
 <img src="images/body_structure_cad_1.png" width="500"> <br>
 <img src="images/body_structure_components_1.jpg" width="500"> <br>
 
-* All the STL files for 3d printing the body structure can be found here: [STL Files Body Structure](stl_files).
+* All the STL files for 3d printing the body structure can be found here: [STL Files Body Structure](stl_files). <br>
+* [Body Structure - eDrawing file](details/solo12_body_structure.EASM)<br>
+* [Body Structure with Vicon Markers - eDrawing file](details/solo12_body_structure_with_vicon.EASM)
+* To open the file you will need to download and install the free [eDrawings Viewer](https://www.edrawingsviewer.com/download-edrawings)
+## Preparing the 3d printed parts
+<img src="details/body_structure_preparation_1.png" width="400"> <br>
 
-Electronics
------------
-<img src="images/micro_driver_stack_1.jpg" width="400"> <br>   
+<img src="details/body_structure_preparation_2.png" width="400"> <br>
+
+<img src="details/body_structure_preparation_3.png" width="400"> <br>
+
+<img src="details/body_structure_preparation_4.png" width="400"> <br>
+
+<img src="details/body_structure_preparation_5.png" width="400"> <br>
+
+
+
 ___
 Off-the-shelf Components
 --------------------------
@@ -60,7 +72,19 @@ ___
 * 9.5mm Vicon Markers on the base
 * M4 x 10 set screws for a attachment  
 ____
+Electronics
+-----------
+<img src="images/micro_driver_stack_1.jpg" width="400"> <br>   
+___
+## Vicon Object
+<img src="details/vicon_solo_12_1.jpg" width="400"> <br>  
 
+* You can use this Vicon object for base state estimation
+* It can be installed instead of the Body Structure Center Plate on the top
+* You can download the Vicon Object here: [Solo12 Vicon Object](details/solo12.vsk)
+
+<a href="details/solo_12_body_structure_center_vicon.PDF"><img src="details/solo12_vicon_marker_coordinates.png" width="600"></a><br>*Click on picture above to view the PDF drawing*
+___
 ### 3D Model for Visualization
 
 The simplified STL files for visualization and simulation can be found here: [STL Files Visualization](stl_files_for_visualization)
