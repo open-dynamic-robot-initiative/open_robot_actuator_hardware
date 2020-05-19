@@ -11,7 +11,6 @@ _____
 *Biped CAD model*
 ____
 
-
 Off-the-shelf Components
 --------------------------
 
@@ -31,13 +30,23 @@ We order the bearings in stainless steel from SBN.
 <img src="images/imu_3dm_cx5_25_1.jpg" width="400"> <br>
 
 * Lord Microstrain 3DM-CX5-25
+* Weight: 13g
 
 ___
 ### Vicon Markers
-<img src="images/vicon_marker.jpg" width="400"> <br>*Reflective Markers for motion capture system*
+<img src="images/vicon_marker.jpg" width="400"> <br>*Reflective markers for motion capture system - weight: 1g each*
 
 * 9.5mm Vicon Markers on the base
 * M4 x 10 set screws for a attachment  
+____
+### Vicon Object
+<img src="details/biped_vicon_object_1.jpg" width="400"> <br>*Body structure top element with Vicon markers - weigth: 23g*
+
+<img src="details/biped_body_structure_1.jpg" width="400"> <br>*Biped body structure with Vicon markers - weight: 106g*
+
+<a href="details/biped_vicon_marker_positions.PDF"><img src="details/biped_vicon_marker_positions_1.png" width="400"></a><br>*Vicon marker positions - Click on picture above to view the PDF drawing*
+
+* You can download the Vicon object here: [Biped Vicon Object](details/biped.vsk)
 ____
 
 ### 3D Model for Visualization
