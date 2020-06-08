@@ -1,12 +1,12 @@
 # Dual Motor Testbed v1
 
-<img src="images/dual_motor_testbed_1.jpg" width="600"> <br>  
+<img src="images/dual_motor_testbed_1.jpg" width="500"> <br>  
 
-<img src="images/dual_motor_testbed_2.jpg" width="600"> <br>  
+<img src="images/dual_motor_testbed_2.jpg" width="500"> <br>  
 
-<img src="images/dual_motor_testbed_3.jpg" width="600"> <br>  
+<img src="images/dual_motor_testbed_3.jpg" width="500"> <br>  
 
-<img src="images/dual_motor_testbed_2.jpg" width="600"> <br>  
+<img src="images/dual_motor_testbed_2.jpg" width="500"> <br>  
 
 ## Description
 
@@ -14,7 +14,7 @@
 
 ### Brushless DC Motor
 
-<img src="../actuator_module_v1/images/antigravity_4004_1.jpg" width="400"> <br>
+<img src="../actuator_module_v1/images/antigravity_4004_1.jpg" width="300"> <br>
 
   * T-Motor Antigravity 4004 300kV
   * 24 magnets / 12 pole pairs / 18 slots
@@ -24,7 +24,7 @@
   * [T-Motor Webpage](http://store-en.tmotor.com/goods.php?id=438)
 
 ### Optical Encoder
-<img src="../actuator_module_v1/images/broadcom_encoder_1.jpg" width="400"> <br>
+<img src="../actuator_module_v1/images/broadcom_encoder_1.jpg" width="300"> <br>
   * Broadcom AEDT-9810-Z00
   * 5000 pulses per revolution per channel
   * 5V two channel quadrature output with index pulse (ABZ)
@@ -36,10 +36,10 @@
 
 
 ### Analog Linear Potentiometers
-<img src="images/linear_potentiometer_1.jpg" width="400"> <br>  
+<img src="images/linear_potentiometer_1.jpg" width="300"> <br>  
 
 ### E-Stop Switch
-<img src="images/e_stop_1.jpg" width="300"> <br>  
+<img src="images/e_stop_1.jpg" width="200"> <br>  
 
 ## Machined Parts
 
@@ -51,20 +51,24 @@
 
 <img src="details/dual_motor_testbed_base.png" width="400"> <br>
 * [Dual Motor Testbed Base - STL file](stl_files/dual_motor_testbed_base.STL)<br>
-
+* we print this part with the "sparse double dense" printer setting
+* that saves material and print time
+---
 <img src="details/dual_motor_testbed_cover.png" width="400"> <br>
 * [Dual Motor Testbed Cover - STL file](stl_files/dual_motor_testbed_cover.STL)<br>
-
+---
 <img src="details/encoder_code_wheel_mount.png" width="300"> <br>
 * [Encoder Code Wheel Mount - STL file](stl_files/encoder_code_wheel_mount.STL)<br>
-
+---
 <img src="details/hand_wheel.png" width="300"> <br>
 * [Hand Wheel - STL file](stl_files/hand_wheel.STL)<br>
-
+---
 ## How to work with this
 
 * I recommend downloading the free eDrawings viewer for Windows, Mac, iOS and Android [here](https://www.edrawingsviewer.com/download-edrawings).
 * The eDrawing Viewer Software allows you to open and explore this [easm cad assembly file](details/dual_motor_testbed.EASM)
+
+<a href="details/dual_motor_testbed.EASM"><img src="details/dual_motor_testbed_cad_1.png" width="450"></a><br>*Dual Motor Testbed - Click on picture to download and view the 3d assembly file.*
 
 ## Authors
 Felix Grimminger
