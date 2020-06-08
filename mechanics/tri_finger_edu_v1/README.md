@@ -36,7 +36,7 @@
 ### Center connector
 <img src="images/frame_center_connector.jpg" width="400"> <br> *3d printed frame center connector*
 
-* 3d printed center connector - [STL file](/stl_files/frame_center_connector_top.STL)
+* 3d printed center connector - [STL file](stl_files/frame_center_connector_top.STL)
 
 ### Barrier
 <img src="images/manipulator_barrier_1.jpg" width="400"> <br> *Barrier - consisting of 3 polycarbonate sheets*
@@ -48,7 +48,7 @@
 
 ### Camera arm
 <img src="images/camera_arm_1.jpg" width="400"> <br> *Camera mount for Baseler camera*
-* 3d printed camera mount - [STL file](/stl_files/camera_mount.STL)
+* 3d printed camera mount - [STL file](stl_files/camera_mount.STL)
 
 ### Cameras
 <img src="images/basler_camera.jpg" width="400"> <br> *Basler camera  with Basler lens*
@@ -64,6 +64,9 @@
 <img src="images/manipulator_platform_2.jpg" width="400"> <br> *The finger modules can be stacked for transport. Weight: 8kg*
 
 <img src="images/manipulator_platform_3.jpg" width="400"> <br> *All the components fit into a 1650 Pelican case. Total weight: 21kg*
+
+## Upside down
+<img src="images/manipulator_platform_upside_down_1.jpg" width="400"> <br> *The manipulator platform can also be used upside down*
 
 ## 3D Model for Visualization
 The simplified STL files for visualization and simulation can be found here: [STL Files Visualization](stl_files_for_visualization)

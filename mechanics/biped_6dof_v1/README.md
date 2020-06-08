@@ -11,6 +11,18 @@ _____
 *Biped CAD model*
 ____
 
+<img src="images/biped_1.jpg" width="600"> <br>   
+*6dof biped robot - weight: 1250g*
+
+<img src="images/biped_body_structure_parts_1.jpg" width="600"> <br>   
+*Parts Body Structure*
+
+<img src="images/biped_wiring.jpg" width="600"><br>   
+*Biped wiring*
+
+<img src="images/biped_handle_1.jpg" width="400"><br>   
+*The biped robot can be carried with two fingers*
+
 Off-the-shelf Components
 --------------------------
 
