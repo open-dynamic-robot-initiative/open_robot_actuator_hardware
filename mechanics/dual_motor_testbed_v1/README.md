@@ -1,7 +1,6 @@
-Dual Motor Testbed v1
-=======================
-<img src="images/dual_motor_testbed_1.jpg" width="600"> <br>  
+# Dual Motor Testbed v1
 
+<img src="images/dual_motor_testbed_1.jpg" width="600"> <br>  
 
 <img src="images/dual_motor_testbed_2.jpg" width="600"> <br>  
 
@@ -9,11 +8,9 @@ Dual Motor Testbed v1
 
 <img src="images/dual_motor_testbed_2.jpg" width="600"> <br>  
 
-Description
-------------
+## Description
 
-Off-the-shelf Components
---------------------------
+## Off-the-shelf Components
 
 ### Brushless DC Motor
 
@@ -44,35 +41,41 @@ Off-the-shelf Components
 ### E-Stop Switch
 <img src="images/e_stop_1.jpg" width="300"> <br>  
 
-Machined Parts
----------------
+## Machined Parts
+
 <img src="images/motor_shaft_dual_motor_testbed_1.jpg" width="400"> <br>  
 
-3D Printed Parts
------------------
+<a href="details/motor_antigravity_4004_custom_shaft.PDF"><img src="details/motor_shaft_drawing.png" width="400"></a><br>*Click on picture above to view the PDF drawing*
 
+## 3D Printed Parts
 
-How to work with this
----------------------
-* To get an better overview of the assembly you can view this [pdf file](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/actuator_module_v1/_actuator_module.PDF)
+<img src="details/dual_motor_testbed_base.png" width="400"> <br>
+* [Dual Motor Testbed Base - STL file](stl_files/dual_motor_testbed_base.STL)<br>
+
+<img src="details/dual_motor_testbed_cover.png" width="400"> <br>
+* [Dual Motor Testbed Cover - STL file](stl_files/dual_motor_testbed_cover.STL)<br>
+
+<img src="details/encoder_code_wheel_mount.png" width="300"> <br>
+* [Encoder Code Wheel Mount - STL file](stl_files/encoder_code_wheel_mount.STL)<br>
+
+<img src="details/hand_wheel.png" width="300"> <br>
+* [Hand Wheel - STL file](stl_files/hand_wheel.STL)<br>
+
+## How to work with this
+
 * I recommend downloading the free eDrawings viewer for Windows, Mac, iOS and Android [here](https://www.edrawingsviewer.com/download-edrawings).
-* The eDrawing Viewer Software allows you to open and explore this [easm cad assembly file](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/actuator_module_v1/_actuator_module.EASM)
+* The eDrawing Viewer Software allows you to open and explore this [easm cad assembly file](details/dual_motor_testbed.EASM)
 
-
-Authors
---------
+## Authors
 Felix Grimminger
 
-License
--------
+## License
 BSD 3-Clause License
 
-Copyright
------------
-Copyright (c) 2019, Max Planck Gesellschaft, New York University
+## Copyright
+Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
 
-More Information
-----------------
+## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
 [Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)  
 [Hardware Overview](../../README.md)  
