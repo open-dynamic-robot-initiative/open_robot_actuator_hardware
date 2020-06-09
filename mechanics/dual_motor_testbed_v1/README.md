@@ -8,7 +8,7 @@
 
 ## Description
 * this is the simplest mechanical setup to get started with brushless motor torque control
-* the testbench consists of two brushless motors and two high resolution encoders mounted directly onto the motor motor shaft
+* the testbench consists of two brushless motors and two high resolution encoders mounted directly onto the motor shaft
 * the encoders are required for the precise commutation of the motors using field oriented control
 * in contrast to "sensorless" control (which the Texas Instruments boards also support) the torque control also works at slow speeds and when the motor is stalled
 
