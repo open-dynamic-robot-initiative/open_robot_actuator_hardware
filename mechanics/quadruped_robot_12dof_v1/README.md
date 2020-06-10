@@ -171,7 +171,7 @@ The simplified STL files for visualization and simulation can be found here: [ST
 * I recommend downloading the free eDrawings viewer for Windows, Mac, iOS and Android [here](https://www.edrawingsviewer.com/download-edrawings).
 * The eDrawing Viewer Software allows you to open and explore the 3d cad assembly files below.
 
-<a href="details/solo12_body_structure.EASM"><img src="details/quadruped_12dof_body_structure.png" width="450"></a><br>*Quadruped 12dof body structure - Click on picture to download and view the 3d assembly file.*
+<a href="details/solo12_body_structure.EASM"><img src="details/solo12_body_structure.png" width="450"></a><br>*Quadruped body structure - Click on picture to download and view the 3d assembly file.*
 
 <a href="details/solo12_quadruped.EASM"><img src="details/solo12_quadruped.png" width="450"></a><br>*Quadruped robot 12dof - Click on picture to download and view the 3d assembly file.*
 
