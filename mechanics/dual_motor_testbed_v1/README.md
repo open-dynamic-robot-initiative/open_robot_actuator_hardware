@@ -154,7 +154,7 @@
 ## How to work with this
 
 * I recommend downloading the free eDrawings viewer for Windows, Mac, iOS and Android [here](https://www.edrawingsviewer.com/download-edrawings).
-* The eDrawing Viewer Software allows you to open and explore this [easm cad assembly file](details/dual_motor_testbed.EASM)
+* The eDrawing Viewer Software allows you to open and explore the 3d cad assembly files below.
 
 <a href="details/dual_motor_testbed.EASM"><img src="details/dual_motor_testbed_cad_1.png" width="450"></a><br>*Dual Motor Testbed - Click on picture to download and view the 3d assembly file.*
 
