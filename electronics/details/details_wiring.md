@@ -1,42 +1,32 @@
-Details Wiring
-=======================
-
-Wiring Diagram - Encoder to Micro Driver Electronics
-----------------
+# Details Wiring
+## Wiring Diagram - Encoder to Micro Driver Electronics
 <img src="../images/encoder_wiring_micro_driver.png" width="600"> <br>*Encoder Wiring for the Micro Driver Electronics*
 
-Wiring Diagram - Encoder to TI Launchpad
-----------------
+---
+## Wiring Diagram - Encoder to TI Launchpad
 <img src="../images/encoder_wiring_launchpad.jpg" width="600"> <br>*Encoder Wiring for the TI Launchpad*
 
-Wiring Diagram - Foot Sensor
-----------------
+---
+## Wiring Diagram - Foot Sensor
 <img src="../images/foot_sensor_wiring.jpg" width="600"> <br>*Foot Sensor Wiring*
 
-CAN Connector Wiring
---------------
+---
+## CAN Connector Wiring
 <img src="../images/can_wiring.jpg" width="600"> <br>*CAN connector wiring*
 
 * 9 pin D-sub connector (RS 765-9555)
 
-Wiring - Power Connector
-----------------
-<img src="../images/power_connector_wiring.jpg" width="600"> <br>*Power Connector Wiring Convention*
-
-Authors
---------
+---
+## Authors
 Felix Grimminger
 
-License
--------
+## License
 BSD 3-Clause License
 
-Copyright
------------
-Copyright (c) 2019, Max Planck Gesellschaft, New York University
+## Copyright
+Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
 
-More Information
-----------------
+## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
 [Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
 [Hardware Overview](../../README.md)  
