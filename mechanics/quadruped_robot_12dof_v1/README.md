@@ -2,13 +2,13 @@
 <img src="images/solo_12_cad_1.png" width="400"><br>*CAD model 12 dof quadruped robot*  
 
 ## Dimensions
-<img src="images/solo_12_dimensions.png" width="500"> <br>   
+<img src="images/solo_12_dimensions.png" width="500"> <br>  
 
 ## Description
 * 12dof - 12 degree of freedom robot
 * dimensions: 45cm x 32cm x 6cm
 * weight: 2,5kg
-* consisting of 4 identical legs - details here -> [3DOF Leg](../leg_3dof_v1)
+* consisting of 4 identical leg modules - details here -> [3DOF Leg](../leg_3dof_v1)
 * external wire for power supply and ethernet communication
 
 ## Range of motion
@@ -95,16 +95,15 @@
 <img src="details/body_structure_preparation_5.png" width="400"> <br>
 
 ---
-## Off-the-shelf Components
+## Electronics
+### Master Board
+<img src="images/master_board_v2_1.jpg" width="300"> <br> *Master board v2 - weight: 19g*
+* Custom electronics board -> [Master Board Documentation](https://github.com/open-dynamic-robot-initiative/master-board#master-board)
+---
+### Micro Driver
+<img src="images/micro_driver_stack_1.jpg" width="300"> <br> *Micro Driver v2 - Stack with 3 cards - weight: 54g*
 
-### Hip AA Bearing
-
-<img src="images/bearing_ET25202ZVA.jpg" width="300"> <br>
-
-The bearing dimensions of the hip aa support are smaller to enable maximal range of motion of the leg.  
-We order the bearings in stainless steel from SBN.  
-* Dimensions: 25mm x 20mm x 4mm  
-* SBN part number: ET2520 2Z VA
+* Custom electronics board -> [Micro Driver Board Documentation](../../electronics/micro_driver_electronics/README.md)
 ---
 ### Inertia Measurement Unit
 <img src="images/imu_3dm_cx5_25_1.jpg" width="300"> <br>
@@ -114,18 +113,17 @@ We order the bearings in stainless steel from SBN.
   * Gyro Rate: +/- 900 deg/sec.
   * Accelerometer range: +/- 20G
 ---
-### Vicon Markers
-<img src="images/vicon_marker.jpg" width="300"> <br>*Reflective Markers for motion capture system*
-* 9.5mm Vicon Markers on the base
-* M4 x 10 set screws for a attachment  
----
-## Electronics
-### Master Board
-<img src="images/master_board_v2_1.jpg" width="300"> <br> *Master board v2 - weight: 19g*
-### Micro Driver
-<img src="images/micro_driver_stack_1.jpg" width="300"> <br> *Micro Driver v2 - Stack with 3 cards - weight: 54g*
+## Off-the-shelf Components
+### Hip AA Bearing
+<img src="images/bearing_ET25202ZVA.jpg" width="300"> <br>
 
+The bearing dimensions of the hip aa support are smaller to enable maximal range of motion of the leg.  
+We order the bearings in stainless steel from SBN.  
+* Dimensions: 25mm x 20mm x 4mm  
+* SBN part number: ET2520 2Z VA
+* Weight: 3,4g each
 ---
+
 ## Vicon Object
 <img src="details/vicon_solo_12_1.jpg" width="300"> <br>*Vicon Object - weight: 43g*  
 
@@ -135,6 +133,11 @@ We order the bearings in stainless steel from SBN.
 
 <a href="details/solo_12_body_structure_center_vicon.PDF"><img src="details/solo12_vicon_marker_coordinates.png" width="450"></a><br>*Click on picture above to view the PDF drawing*
 
+### Vicon Markers
+<img src="images/vicon_marker.jpg" width="300"> <br>*Reflective Markers for motion capture system*
+* 9.5mm Vicon Markers on the base
+* M4 x 10 set screws for a attachment  
+* Weight: 1g each
 ---
 ### 3D Model for Visualization
 
@@ -162,9 +165,15 @@ The simplified STL files for visualization and simulation can be found here: [ST
 | Hip AA Bearing | 4 | 25mm x 20mm x 4mm <br> SBN: ET2520 2Z VA| Stainless Steel |
 | Inertia Measurement Unit | 1 | Lord Microstrain<br> 3DM-CX5-25| Extended measurement range<br> Gyro Rate: +/- 900 deg/sec. Accelerometer range: +/- 20G|
 | Vicon Markers | 13 | 9,5mm diameter |  |
-| Fasteners Vicon Markers | 13 | Set Screw M4x10 | Stainless steel |
+| Fasteners Vicon Markers | 13 |M4x10 Set Screw|Stainless steel|
 | Master Board v2 | 1 | [Master Board Documentation](https://github.com/open-dynamic-robot-initiative/master-board#master-board) | Custom Electronics |
 | Micro Driver Board v2 | 6 | [Micro Driver Documentation](../../electronics/micro_driver_electronics/README.md)  | Custom electronics |
+|Fasteners Body Structure Side|16|M3x12 Socket Head Cap Screw|Stainless steel|
+|Fasteners Body Structure Top|8|M3x8 Socket Head Cap Screw|Stainless steel|
+|Fasteners Hip AA Actuator Modules|16|M2,5x10 Socket Head Cap Screw|Stainless steel|
+|Fasteners Hip AA Support|8|M3x14 Socket Head Cap Screw|Stainless steel|
+|Fasteners Micro Driver Stack|4|M2,5x25 Socket Head Cap Screw|Stainless steel|
+|Fasteners IMU|3|M2,5x16 Slotted Screw<br>Conrad 839940-62|Polyamide Plastic<br>Shorten to 13mm|
 
 ## How to work with this
 
@@ -174,7 +183,6 @@ The simplified STL files for visualization and simulation can be found here: [ST
 <a href="details/solo12_body_structure.EASM"><img src="details/solo12_body_structure.png" width="450"></a><br>*Quadruped body structure - Click on picture to download and view the 3d assembly file.*
 
 <a href="details/solo12_quadruped.EASM"><img src="details/solo12_quadruped.png" width="450"></a><br>*Quadruped robot 12dof - Click on picture to download and view the 3d assembly file.*
-
 
 ## Authors
 Felix Grimminger
