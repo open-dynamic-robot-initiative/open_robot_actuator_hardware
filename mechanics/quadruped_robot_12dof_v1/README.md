@@ -122,8 +122,12 @@ We order the bearings in stainless steel from SBN.
 * Dimensions: 25mm x 20mm x 4mm  
 * SBN part number: ET2520 2Z VA
 * Weight: 3,4g each
----
 
+### Fasteners IMU
+<img src="images/fasteners_imu.jpg" width="300"> <br>
+* M2,5x16 Slotted Screw - Polyamide Plastic
+* Conrad: 839940-62
+---
 ## Vicon Object
 <img src="details/vicon_solo_12_1.jpg" width="300"> <br>*Vicon Object - weight: 43g*  
 
