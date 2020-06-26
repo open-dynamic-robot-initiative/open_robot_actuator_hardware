@@ -23,11 +23,31 @@
 <img src="images/solo12_4.jpg" width="400"><br>*12dof quadruped front view*<br>  
 <img src="images/solo12_3.jpg" width="400"><br>*12dof quadruped - legs folded for transport*<br>  
 
+## Electronics
+### Master Board
+<img src="images/master_board_v2_1.jpg" width="300"> <br> *Master board v2 - weight: 19g*
+* Custom electronics board -> [Master Board Documentation](https://github.com/open-dynamic-robot-initiative/master-board#master-board)
+---
+### Micro Driver
+<img src="images/micro_driver_stack_2.jpg" width="300"> <br> *Micro Driver v2 - Stack with 3 cards - weight: 41g*
+
+* Custom electronics board -> [Micro Driver Board Documentation](../../electronics/micro_driver_electronics/README.md)
+---
+### Inertia Measurement Unit
+<img src="images/imu_3dm_cx5_25_1.jpg" width="300"> <br>
+* Lord Microstrain 3DM-CX5-25
+* Weight: 13g
+* Extended measurement range
+  * Gyro Rate: +/- 900 deg/sec.
+  * Accelerometer range: +/- 20G
+---
+
 ## 3D Printed Parts
 <img src="images/body_structure_cad_1.png" width="400"> <br>
 <img src="images/body_structure_components_1.jpg" width="400"> <br>
 
 * All the STL files for 3d printing the body structure can be found here: [STL Files Body Structure](stl_files). <br>
+
 ---
 <img src="details/body_structure_back.png" width="300"> <br>
 * [Body Structure Back - STL file](stl_files/body_structure_back.STL)<br>
@@ -96,24 +116,7 @@
 <img src="details/body_structure_preparation_5.png" width="400"> <br>
 
 ---
-## Electronics
-### Master Board
-<img src="images/master_board_v2_1.jpg" width="300"> <br> *Master board v2 - weight: 19g*
-* Custom electronics board -> [Master Board Documentation](https://github.com/open-dynamic-robot-initiative/master-board#master-board)
----
-### Micro Driver
-<img src="images/micro_driver_stack_1.jpg" width="300"> <br> *Micro Driver v2 - Stack with 3 cards - weight: 54g*
 
-* Custom electronics board -> [Micro Driver Board Documentation](../../electronics/micro_driver_electronics/README.md)
----
-### Inertia Measurement Unit
-<img src="images/imu_3dm_cx5_25_1.jpg" width="300"> <br>
-* Lord Microstrain 3DM-CX5-25
-* Weight: 13g
-* Extended measurement range
-  * Gyro Rate: +/- 900 deg/sec.
-  * Accelerometer range: +/- 20G
----
 ## Off-the-shelf Components
 ### Hip AA Bearing
 <img src="images/bearing_ET25202ZVA.jpg" width="300"> <br>
@@ -157,7 +160,7 @@ The simplified STL files for visualization and simulation can be found here: [ST
 
 | Part Name | Quantity | Ordering Information | Comments |  
 | --- | --- | --- | --- |   
-|3DOF Leg |4|[3DOF Leg Documentation](../leg_3dof_v1/README.md)|Custom assembly|
+|3DOF Leg |4|Custom assembly|[3DOF Leg Documentation](../leg_3dof_v1/README.md)|
 |Body Structure Back |1|[STL file](stl_files/body_structure_back.STL)|3d printed part|
 |Body Structure Bottom |2|[STL file](stl_files/body_structure_bottom.STL)|3d printed part|
 |Body Structure Center |1|[STL file](stl_files/body_structure_center.STL)|3d printed part|
