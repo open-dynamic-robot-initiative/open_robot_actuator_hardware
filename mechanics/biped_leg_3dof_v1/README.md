@@ -9,14 +9,52 @@
 * this makes the module shorter and more suitable for the biped robot
 * all the internal parts are identical to the original actuator module
 
-<img src="images/biped_hip_fe_module_1.png" width="350"> <br> <br>
-<img src="images/biped_hip_fe_module_2.png" width="350"> <br> <br>
+<img src="images/hip_fe_module_1.jpg" width="400"><br>*Biped Hip FE Actuator Module - weight: 155g* <br>
+
+<img src="images/biped_hip_fe_module_2.png" width="300"> <br> <br>
 
 ---
 ## Hip AA Actuator Module
-<img src="images/biped_hip_aa_module_1.png" width="300"> <br> <br>
-<img src="images/biped_hip_aa_module_2.png" width="300"> <br> <br>
+<img src="images/hip_aa_module_1.jpg" width="400"><br>*Biped Hip AA Actuator Module - weight: 153g* <br>
 
+<img src="images/biped_hip_aa_module_2.png" width="250"> <br> <br>
+
+## 3D Printed Parts
+`The recommended printing direction for all the parts below is the positive z direction of the stl file.`
+
+All the STL files for 3d printing the biped legs can be found here: [STL Files Biped Leg 3dof](stl_files). <br>
+
+<img src="details/hip_aa_structure_right_side_base.png" width="300"> <br>
+* [Hip AA Structure Right Side Base - STL file](stl_files/hip_aa_structure_right_side_base.STL)<br>
+* weight: 22g
+---
+<img src="details/hip_aa_structure_right_side_cover.png" width="300"> <br>
+* [Hip AA Structure Right Side Cover - STL file](stl_files/hip_aa_structure_right_side_cover.STL)<br>
+* weight: 17g
+---
+<img src="details/hip_aa_structure_left_side_base.png" width="300"> <br>
+* [Hip AA Structure Left Side Base - STL file](stl_files/hip_aa_structure_left_side_base.STL)<br>
+* weight: 22g
+---
+<img src="details/hip_aa_structure_left_side_cover.png" width="300"> <br>
+* [Hip AA Structure Left Side Cover - STL file](stl_files/hip_aa_structure_left_side_cover.STL)<br>
+* weight: 17g
+---
+<img src="details/hip_fe_structure_right_side_base.png" width="300"> <br>
+* [Hip FE Structure Right Side Base - STL file](stl_files/hip_fe_structure_right_side_base.STL)<br>
+* weight: 24g
+---
+<img src="details/hip_fe_structure_right_side_cover.png" width="300"> <br>
+* [Hip FE Structure Right Side Cover - STL file](stl_files/hip_fe_structure_right_side_cover.STL)<br>
+* weight: 16g
+---
+<img src="details/hip_fe_structure_left_side_base.png" width="300"> <br>
+* [Hip FE Structure Left Side Base - STL file](stl_files/hip_fe_structure_left_side_base.STL)<br>
+* weight: 24g
+---
+<img src="details/hip_fe_structure_left_side_cover.png" width="300"> <br>
+* [Hip FE Structure Left Side Cover - STL file](stl_files/hip_fe_structure_left_side_cover.STL)<br>
+* weight: 16g
 ---
 ## Authors
 Felix Grimminger
