@@ -144,8 +144,8 @@ The simplified STL files for visualization and simulation can be found here: [ST
 
 | Part Name | Quantity | Ordering Information | Comments |  
 | --- | --- | --- | --- |   
-|Biped Leg 3DOF Right Side|1|[Biped Leg 3DOF Documentation](../leg_3dof_v1/README.md)|Custom assembly|
-|Biped Leg 3DOF Left Side|1|[Biped Leg 3DOF Documentation](../leg_3dof_v1/README.md)|Custom assembly|
+|Biped Leg 3DOF Right Side|1|[Biped Leg 3DOF Documentation](../biped_leg_3dof_v1/README.md)|Custom assembly|
+|Biped Leg 3DOF Left Side|1|[Biped Leg 3DOF Documentation](../biped_leg_3dof_v1/README.md)|Custom assembly|
 | Master Board v2 | 1 | [Master Board Documentation](https://github.com/open-dynamic-robot-initiative/master-board#master-board) | Custom electronics |
 | Micro Driver Board v2 | 3 | [Micro Driver Documentation](../../electronics/micro_driver_electronics/README.md)  | Custom electronics |
 | Inertia Measurement Unit | 1 | Lord Microstrain<br> 3DM-CX5-25| Extended measurement range<br> Gyro Rate: +/- 900 deg/sec. Accelerometer range: +/- 20G|
