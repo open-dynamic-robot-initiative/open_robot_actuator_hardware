@@ -137,7 +137,7 @@ All the STL files for 3d printing the Leg Test Stand can be found here: [STL Fil
 
 <a href="details/leg_test_stand_v1.EASM"><img src="details/leg_test_stand_cad_1.png" width="450"></a><br>*Leg Test Stand 2dof - Click on picture to download and view the 3d eDrawings assembly file.*
 
-* You can download the Solidworks CAD files [here](/details/leg_test_stand_solidworks_files.zip).
+* You can download the Solidworks CAD files [here](details/leg_test_stand_v1_solidworks_files.zip).
 
 ## Authors
 Felix Grimminger
