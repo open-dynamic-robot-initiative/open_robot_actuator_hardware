@@ -10,6 +10,8 @@
 
 <img src="images/3_fingers.jpg" width="600"> <br> *Finger modules assembled - weight: 930g each*  
 
+<img src="images/tri_finger_edu_overlay.jpg" width="600"> <br> *TriFinger Manipulator Platform - picture overlay<br>Picture: Felix Widmaier, Manuel Wüthrich and Shruti Joshi*
+
 ## Frame
 <img src="images/manipulator_frame_1.jpg" width="400"> <br> *Frame structure - t-slotted aluminum profiles*
 
