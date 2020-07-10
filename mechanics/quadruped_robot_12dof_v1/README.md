@@ -155,6 +155,29 @@ The simplified STL files for visualization and simulation can be found here: [ST
 
 <a href="solo12_visualization_model.PDF"><img src="images/solo12_dimensions_visualization_1.png" width="500"></a><br>*Click on picture above to view the PDF drawing*
 
+## Micro Driver Stack Motor Assignment
+<img src="details/front_stack_motor_assignment_1.png" width="500">   
+
+---
+<img src="details/hind_stack_motor_assignment_1.png" width="500">   
+
+| Joint ID | Joint Name | Motor Driver Card | Motor Port |Motor Index |
+| --- | --- | --- | --- | ---|
+|0|FL_HAA|0|0|0|
+|1|FL_HFE|1|1|3|
+|2|FL_K|1|0|2|
+|3|FR_HAA|0|1|1|
+|4|FR_HFE|2|1|5|
+|5|FR_K|2|0|4|
+|6|HL_HAA|3|0|6|
+|7|HL_HFE|4|1|9|
+|8|HL_K|4|0|8|
+|9|HR_HAA|3|1|7|
+|10|HR_HFE|5|1|11|
+|11|HR_K|5|0|10|
+
+---
+
 ## Bill of Materials - Quadruped Robot 12dof
 <img src="images/solo_12_cad_1.png" width="250">
 
@@ -204,5 +227,7 @@ Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
 [Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
-[Hardware Overview](../../README.md)  
+[Open Dynamic Robot Initiative - Forum](https://odri.discourse.group/categories)  
+[Open Dynamic Robot Initiative - Paper](https://arxiv.org/pdf/1910.00093.pdf)  
+[Hardware Overview](../../README.md#open-robot-actuator-hardware#open-robot-actuator-hardware)  
 [Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)
