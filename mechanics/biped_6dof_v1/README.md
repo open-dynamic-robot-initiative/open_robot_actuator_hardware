@@ -132,7 +132,7 @@ We order the bearings in stainless steel from SBN.
 ### 3D Model for Visualization
 The simplified STL files for visualization and simulation can be found here: [STL Files Visualization](stl_files_for_visualization)
 
-<a href="biped_visualization_model.PDF"><img src="images/biped_dimensions_visualization.png" width="400"></a><br>*Click on picture above to view the PDF drawing*
+<a href="details/biped_visualization_model.PDF"><img src="images/biped_dimensions_visualization.png" width="400"></a><br>*Click on picture above to view the PDF drawing*
 
 ---
 ## Biped Inertia Parameters for Simulation
@@ -166,14 +166,24 @@ The simplified STL files for visualization and simulation can be found here: [ST
 |Fasteners IMU|3|M2,5x16 Slotted Screw<br>Conrad 839940-62|Polyamide Plastic<br>Shorten to 13mm|
 
 ---
+## CAD Files
+
+| Software | Source | Comments |
+| --- | --- | --- |
+|eDrawing Viewer|[Biped eDrawing Assembly file](cad_files/eDrawings/biped_6dof.EASM)|Can be opened and viewed with the free [eDrawings Software](https://www.edrawingsviewer.com/download-edrawings)|
+|Solidworks 2017|[Biped Solidworks Assembly Zip file](cad_files/Solidworks/biped_robot_solidworks_files.zip)|Requires Solidworks license version 2017 or higher|
+|FreeCAD|[Biped FreeCAD parts](cad_files/FreeCAD)|Modeled in FreeCAD by @maidenone|
+
+---
 ## How to work with this
 * I recommend downloading the free eDrawings viewer for Windows, Mac, iOS and Android [here](https://www.edrawingsviewer.com/download-edrawings).
 * The eDrawing Viewer Software allows you to open and explore the 3d cad assembly files below.
 
-<a href="details/body_structure_biped_6dof.EASM"><img src="details/body_structure_biped_1.png" width="300"></a><br>*Biped body structure - Click on picture to download and view the 3d assembly file.*
+<a href="cad_files/eDrawings/body_structure_biped_6dof.EASM"><img src="details/body_structure_biped_1.png" width="300"></a><br>*Biped body structure - Click on picture to download and view the 3d assembly file.*
 
 ---
-<a href="details/biped_6dof.EASM"><img src="images/biped_cad_2.png" width="300"></a><br>*Biped Robot 6dof - Click on picture to download and view the 3d assembly file.*
+<a href="cad_files/eDrawings/biped_6dof.EASM"><img src="images/biped_cad_2.png" width="300"></a><br>*Biped Robot 6dof - Click on picture to download and view the 3d assembly file.*
+
 
 ---
 ## Authors
