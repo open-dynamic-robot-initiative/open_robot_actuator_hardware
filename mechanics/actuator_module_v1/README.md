@@ -139,6 +139,54 @@ More Details
 * [Details Output Pulley Preparation](details/details_output_pulley_preparation.md)
 * [Details Actuator Module Assembly](details/details_assembly.md)
 
+## Bill of Materials - Brushless Actuator Module Core
+<img src="images/actuator_module_core_1.png" width="400">
+
+| Part Name | Quantity | Ordering Information | Comments |  
+| --- | :---: | --- | --- |   
+|T-Motor Antigravity 4004 300kV|1|[T-Motor Store](http://store-en.tmotor.com/goods.php?id=438)<br>[Globeflight # 1974](https://www.globe-flight.de/T-Motor-GF-Antigravity-Set-4004-300KV-2-pcs)|2 motors per set|
+|Encoder Broadcom AEDT-9810-Z00|1|[Mouser # 630-AEDT9810Z00](https://www.mouser.com/ProductDetail/Broadcom-Avago/AEDT-9810-Z00?qs=%2Fha2pyFadugH%252BV24sBozOzDoYJ6rlay1%2FjE%2FZBaGp8NtaorhU1uDSg%3D%3D)<br> [DigiKey # 516-3256-ND](https://www.digikey.com/products/en?keywords=516-3256-ND)|Encoder without codewheel|
+|Codewheel for Encoder AEDT-9810-Z00|1|[PWB Encoders GmbH # 104768](https://www.pwb-encoders.com/en/encoder-wheels)|Email Mr. Oberländer and ask for a quote. PWB ships worldwide. <br> Order number: 104768 / Codewheel with index / 625cpr 3K for AEDT98X / ID 7mm / OD 25,56mm|
+|Timing Belt Conti Synchroflex AT3 GEN III<br> width: 4mm / length: 150mm / 50 teeth<br>Timing belt first stage|1|[Reiff # 60047626](https://www.reiff-tpshop.de/shop/de/antriebstechnik/zahnriemen-gen-iii-at3/zahnriemen-gen-iii-at3-laenge-150-bis-1011-mm.html?filterStatus=60005271#DetailVarianten)<br> [Beltingonline](https://www.beltingonline.com/at3-gen-iii-synchroflex-timing-belts-4593)<br>|<br> Reiff: The belt with 4mm width is not listed on the Reiff webpage. <br> Ask for a quote: e-services@reiff-gruppe.de <br> Reiff ships within Europe.|
+|Timing Belt Conti Synchroflex AT3 GEN III<br> width: 6mm / length: 201mm / 67 teeth <br>Timing belt second stage|1|[Reiff # 60005258](https://www.reiff-tpshop.de/shop/de/antriebstechnik/zahnriemen-gen-iii-at3/zahnriemen-gen-iii-at3-laenge-150-bis-1011-mm.html?filterStatus=60005271#DetailVarianten) <br> [Beltingonline](https://www.beltingonline.com/at3-gen-iii-synchroflex-timing-belts-4593)|Reiff: Ask for a quote: e-services@reiff-gruppe.de <br>Reiff ships within Europe.|
+|Bearing Output Shaft<br>32mm x 25mm x 4mm |2|[SBN](https://www.sbn.de/en/)<br>[Online Bearing Store](https://www.onlinebearingstore.com/6705-2rs-6705-zz-ball-bearings.html)|Contact SBN (info@sbn.de) and ask for a quote - they ship worldwide. <br>EZO bearing 61705 2RS VA / SBN # C02748 <br>We use stainless steel bearings.<br>Alternative: Chrome steel bearings from the Online Bearing Store|
+|Bearing Motor Shaft and Center Shaft  <br> 8mm x 4mm x 2mm  |3|[SBN](https://www.sbn.de/en/)<br>[Online Bearing Store](https://www.onlinebearingstore.com/mr84-miniature-ball-bearing-4x8x2-open.html)|Contact SBN (info@sbn.de) and ask for a quote - they ship worldwide.  <br> EZO bearing MR84 VA / SBN # N09724 <br>We use stainless steel bearings.<br>Alternative: Chrome steel bearings from the Online Bearing Store|
+|Bearing Timing Belt Tensioner<br>7mm x 3mm x 3mm|2|[SBN](https://www.sbn.de/en/)<br>[Online Bearing Store](https://www.onlinebearingstore.com/683-zz-miniature-ball-bearing-id-3-x-od-7x-w-3mm-shielded.html)|Contact SBN (info@sbn.de) and ask for a quote  - they ship worldwide. <br>EZO bearing 683 2Z VA / SBN # N05560 <br> We use stainless steel bearings.<br>Alternative: Chrome steel bearings from the Online Bearing Store|
+|Encoder Codewheel PWB Mount|1|[STL file](stl_files/encoder_codewheel_pwb_mount.STL)|3d printed part - use SLA, Polyjet or Multijet printer|
+|Transmission Pulley AT3 T30 Center|1|[STL file ](stl_files/transmission_pulley_at3_t30_center.STL)|3d printed part - use SLA, Polyjet or Multijet printer|
+|Transmission Pulley AT3 T30 Output|1|[STL file ](stl_files/transmission_pulley_at3_t30_output.STL)|3d printed part - use SLA, Polyjet or Multijet printer|
+|Timing Belt Tensioner Roller 10mm|2|[STL file](stl_files/transmission_belt_tensioner_roller_10mm.STL)<br>|3d printed part - use SLA, Polyjet or Multijet printer|
+|Motor Shaft|1|[PDF drawing](drawings/motor_shaft.PDF)|Machined part|
+|Motor Pulley|1|[PDF drawing](drawings/motor_pulley_at3_t10.PDF)|Machined part|
+|Center Pulley|1| [PDF drawing](drawings/center_pulley_at3_t10.PDF)|Machined part|
+|Fasteners Encoder <br> M3 x 16 Philipps Flat Head Screw|2|[Conrad # 839967](https://www.conrad.com/p/toolcraft-839967-countersunk-screws-m3-16-mm-phillips-din-965-plastic-polyamide-10-pcs-839967)|Polyamide plastic<br>10 pieces per set|
+|Fasteners Motor<br>M3 x 5 Flat Head Screw |4|[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/ISO-10642-DIN-7991-Senkschrauben-mit-Innensechskant-aehnl.-DIN-7991/Edelstahl-Rostfrei-A2/M-3-Gewinde-M-metrisches-Gewinde)|Stainless Steel<br>Online Schrauben shipps within Europe.|
+|Fasteners Timing Belt Tensioner<br>M3 x 10 Flat Head Screw|2|[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/ISO-10642-DIN-7991-Senkschrauben-mit-Innensechskant-aehnl.-DIN-7991/Edelstahl-Rostfrei-A2/M-3-Gewinde-M-metrisches-Gewinde)|Stainless Steel<br>Online Schrauben shipps within Europe.|
+|Washers Timing Belt Tensioner<br>M2,5 Washer|2|[Online Schrauben](https://online-schrauben.de/shop/Scheiben-Federringe/ISO-7092-Unterlegscheiben-fuer-Zylinderkopfschrauben-aehnl.-DIN-433/Edelstahl-Rostfrei-A2-200-HV)|Stainless Steel<br>Online Schrauben shipps within Europe.|
+|Helical Insert Output Shaft<br> Helicoil M3 x 6|2|[Hoffmann # 082814 M3](https://www.hoffmann-group.com/GB/en/houk/Power-tools-and-workshop-supplies/Soldering-tools-cleaning-devices-thread-repair/Thread-insert-set%2C-10-or-20-pieces-2×D/p/082814-M3?tId=617)<br>[McMaster # 91732A773](https://www.mcmaster.com/91732A773/)|M3 Helicoil tools required|
+
+### Wires and Connectors
+| Part Name | Quantity | Ordering Information | Comments |  
+| --- | :---: | --- | --- |
+|Motor Phase Connectors 2mm gold<br>Reely RE-1373188|3|[Conrad # 1373188](https://www.conrad.com/p/reely-1373188-battery-plug-2-mm-gold-plated-2-pair-1373188)<br>[HobbyKing](https://hobbyking.com/en_us/2mm-gold-connectors-10-pairs-20pc.html?___store=en_us)|Conrad: 2 pairs per set<br>HobbyKing 10 pairs per set|
+|Motor Phase Wires<br>LiY 0.50 mm² black|3|[Kabeltronik # 1601050](https://www.kabeltronik.de/en/electronics-industry/hook-up-wires-stranded/art/hook-up-wire-stranded-extremely-flexible-lify-3/31)<br>[Conrad # 609337](https://www.conrad.com/p/conrad-components-609337-strand-liy-1-x-050-mm-black-25-m-609337)<br>[McMaster # 8054T14](https://www.mcmaster.com/8054t14-8054T184/)|Kabeltronik ships worldwide.<br>100m on spool. <br>The Kabeltronik wires are the most flexible.|
+|Encoder Connector<br>Hirose DF13 Socket 5 Pin|1|[RS # 143-015](https://americas.rsdelivers.com/product/hirose/df13-5s-125c/hirose-df13-male-connector-housing-125mm-pitch-5/0143015)<br>[DigiKey # H2182-ND](https://www.digikey.com/products/en?keywords=H2182-ND)|The Hirose DF13 Crimp Tool is required for crimping the wires.<br> [RS # 503-8331](https://americas.rsdelivers.com/product/hirose/df13-tb2630hc/hirose-plier-crimping-tool-for-df13-crimp/5038331)|
+|Encoder Connector Crimp Terminals|5|[RS 503-8325](https://americas.rsdelivers.com/product/hirose/df13-2630scf/hirose-df13-female-crimp-terminal-contact-26awg/5038325) <br> [Digi-Key H9992CT-ND](https://www.digikey.com/products/en?keywords=H9992CT-ND)|The Hirose DF13 Crimp Tool is required for crimping the wires.<br> [RS # 503-8331](https://americas.rsdelivers.com/product/hirose/df13-tb2630hc/hirose-plier-crimping-tool-for-df13-crimp/5038331)|
+|Encoder Wires<br>LifY 0.14 mm²|5|[Kabeltronik # 1601014](https://www.kabeltronik.de/en/kabeltronik/search/art/hook-up-wire-stranded-extremely-flexible-lify-1/)|Kabeltronik ships worldwide.<br>100m on spool - different colors available.<br> For the encoders we use red, yellow, black, white and green wires.|
+
+### Alternative Encoder Kit
+| Part Name | Quantity | Ordering Information | Comments |  
+| --- | :---: | --- | --- |
+|Broadcom Encoder Kit AEDM-5810-Z12|1|[Mouser # 630-AEDM5810Z12](https://www.mouser.de/ProductDetail/Broadcom-Avago/AEDM-5810Z12?qs=%2Fha2pyFadujtDdLrUGHWsKyfLkpJxYH2H0SfB7LySxyN5iN50m1syw%3D%3D)<br>[DigiKey # 516-3253-ND](https://www.digikey.com/product-detail/en/broadcom-limited/AEDM-5810-Z12/516-3253-ND/5357134)|Kit consisting of encoder and codewheel|
+|Codewheel Mount Encoder Kit|1|[STL file](stl_files/encoder_codewheel_kit_mount.STL)|3d printed part- use SLA, Polyjet or Multijet printer|
+
+### Alternative Timing Belt Tensioner
+| Part Name | Quantity | Ordering Information | Comments |  
+| --- | :---: | --- | --- |
+|Bearing Timing Belt Tensioner<br>SKF # 623-2Z<br> 10mm x 3mm x 4mm|2|<br>[RS Germany # 285-0807](https://de.rs-online.com/web/p/kugellager/2850807/)<br>[Quality Bearings Online](https://www.qualitybearingsonline.com/623-2z-skf-miniature-deep-groove-3x10x4mm/?setCurrencyId=2)|Alternative for 7mm x 3mm x 3mm bearing and timing belt tensioner roller above.|
+|Fasteners Timing Belt Tensioner<br>M3 x 10 Flat Head  Screw|2|[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/ISO-10642-DIN-7991-Senkschrauben-mit-Innensechskant-aehnl.-DIN-7991/Edelstahl-Rostfrei-A2/M-3-Gewinde-M-metrisches-Gewinde)|Stainless Steel<br>Online Schrauben shipps within Europe.|
+|Washers Timing Belt Tensioner<br>M3 Washer|2|[Online Schrauben](https://online-schrauben.de/shop/Scheiben-Federringe/ISO-7092-Unterlegscheiben-fuer-Zylinderkopfschrauben-aehnl.-DIN-433/Edelstahl-Rostfrei-A2-200-HV)<br>[McMaster # 90965A130](https://www.mcmaster.com/90965A130/)|Stainless Steel<br>Online Schrauben shipps within Europe.|
+
 PDF Drawing
 ------------
 View this pdf file to get a better overview of the actuator module assembly.
