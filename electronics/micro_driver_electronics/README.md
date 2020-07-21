@@ -69,29 +69,28 @@ For the encoder connectors, it's possible to use either [Hirose DF13 Straight Pi
 
 **Trick:** Use some solder at the tip to initially fix the resistor a bit. Then solder the other side and fix the initial side in the end properly.
 
-<img src="images/IMG_1604.jpg" width="500"><br>
-<img src="images/IMG_1606.jpg" width="500"><br>
-<img src="images/IMG_1597.jpg" width="500">
+<img src="images/IMG_1604.JPG" width="500"><br>
+<img src="images/IMG_1606.JPG" width="500"><br>
+<img src="images/IMG_1597.JPG" width="500">
 
 ## Hirose connector soldering
 
-<img src="images/IMG_1612.jpg" width="500"><br>
-<img src="images/IMG_1614.jpg" width="500"><br>
+<img src="images/IMG_1612.JPG" width="500"><br>
+<img src="images/IMG_1614.JPG" width="500"><br>
 
 ## Motor / power wire soldering
 
 Here, we are using a female header pin to connect the motor wire instead of soldering the motor wire to the MicroDriver directly. After soldering, clip the too long part.
 
-<img src="images/IMG_1617.jpg" width="500"><br>
-<img src="images/IMG_1618.jpg" width="500"><br>
-
-<img src="images/IMG_1621.jpg" width="500">
+<img src="images/IMG_1617.JPG" width="500"><br>
+<img src="images/IMG_1618.JPG" width="500"><br>
+<img src="images/IMG_1621.JPG" width="500">
 
 ___
 
 ## Authors
-Jonathan Fiene
-Julian Viereck
+* Jonathan Fiene
+* Julian Viereck
 
 ## License
 BSD 3-Clause License
