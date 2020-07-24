@@ -1,13 +1,19 @@
 # Details Wiring
-## Wiring Diagram - Encoder to Micro Driver Electronics
+## Wiring - Encoder to Micro Driver Electronics
 <img src="../images/encoder_wiring_micro_driver.png" width="600"> <br>*Encoder Wiring for the Micro Driver Electronics*
 
 ---
-## Wiring Diagram - Encoder to TI Launchpad
+## Wiring - Encoder to TI Launchpad
 <img src="../images/encoder_wiring_launchpad.jpg" width="600"> <br>*Encoder Wiring for the TI Launchpad*
 
 ---
-## Wiring Diagram - Foot Sensor
+## Wiring - Master Board to Micro Driver Boards
+
+<img src="../images/spi_wiring_1.png" width="600"> <br>*SPI bus connection between the master board and the micro driver boards*
+
+* high frequency spi bus - keep the wires short
+---
+## Wiring - Foot Sensor
 <img src="../images/foot_sensor_wiring.jpg" width="600"> <br>*Foot Sensor Wiring*
 
 ---
