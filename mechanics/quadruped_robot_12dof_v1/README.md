@@ -206,14 +206,12 @@ The simplified STL files for visualization and simulation can be found here: [ST
 |Fasteners Micro Driver Stack|4|M2,5x25 Socket Head Cap Screw|Stainless steel|
 |Fasteners IMU|3|M2,5x16 Slotted Screw<br>Conrad 839940-62|Polyamide Plastic<br>Shorten to 13mm|
 
-## How to work with this
+## View the biped cad model in your web browser
+<br>
 
-* I recommend downloading the free eDrawings viewer for Windows, Mac, iOS and Android [here](https://www.edrawingsviewer.com/download-edrawings).
-* The eDrawing Viewer Software allows you to open and explore the 3d cad assembly files below.
+<a href="https://open-dynamic-robot-initiative.github.io/cad_files/quadruped_12dof"><img src="details/solo12_quadruped_standing.png" width="400"></a><br>*Quadruped robot 12dof standing - Click on picture to view the cad model in your browser*
 
-<a href="details/solo12_body_structure.EASM"><img src="details/solo12_body_structure.png" width="450"></a><br>*Quadruped body structure - Click on picture to download and view the 3d assembly file.*
-
-<a href="details/solo12_quadruped.EASM"><img src="details/solo12_quadruped.png" width="450"></a><br>*Quadruped robot 12dof - Click on picture to download and view the 3d assembly file.*
+<a href="https://open-dynamic-robot-initiative.github.io/cad_files/quadruped_12dof_folded"><img src="details/solo12_quadruped.png" width="400"></a><br>*Quadruped robot 12dof folded - Click on picture to view the cad model in your browser*
 
 ## Authors
 Felix Grimminger
