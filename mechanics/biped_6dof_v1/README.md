@@ -175,15 +175,10 @@ The simplified STL files for visualization and simulation can be found here: [ST
 |FreeCAD|[Biped FreeCAD parts](cad_files/FreeCAD)|Modeled in FreeCAD by @maidenone|
 
 ---
-## How to work with this
-* I recommend downloading the free eDrawings viewer for Windows, Mac, iOS and Android [here](https://www.edrawingsviewer.com/download-edrawings).
-* The eDrawing Viewer Software allows you to open and explore the 3d cad assembly files below.
+## View the biped cad model in your web browser
+<br>
 
-<a href="cad_files/eDrawings/body_structure_biped_6dof.EASM"><img src="details/body_structure_biped_1.png" width="300"></a><br>*Biped body structure - Click on picture to download and view the 3d assembly file.*
-
----
-<a href="cad_files/eDrawings/biped_6dof.EASM"><img src="images/biped_cad_2.png" width="300"></a><br>*Biped Robot 6dof - Click on picture to download and view the 3d assembly file.*
-
+<a href="https://open-dynamic-robot-initiative.github.io/cad_files/biped"><img src="images/biped_cad_2.png" width="250"></a><br> *Biped Robot 6dof - Click on the picture to view the biped cad model in your browser*
 
 ---
 ## Authors
