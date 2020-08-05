@@ -71,8 +71,8 @@
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
-|XT30U  Connector Receptacle 20 Amps|Reely RE-1460539|Conrad 1460539||
-|XT30U Connector Plug 20 Amps|Reely RE-1460540|Conrad 1460540||
+|XT30U  Connector Receptacle 20 Amps|Reely RE-6619107|Conrad 2206369||
+|XT30U Connector Plug 20 Amps|Reely RE-6619104|Conrad 2206368||
 
 ---
 ## Ethernet Connector
