@@ -22,6 +22,17 @@ The leg can be used for experiments and measurements with external sensors in th
 
 <img src="images/leg_2dof_3.png" width="500"> <br>*The leg segments are stacked and can rotate past each other*
 
+### Shell structure
+<img src="images/shells_1.jpg" width="400"> <br>      
+The shell of the actuator module consists of two parts that are connected by eight M2,5 screws.  
+The shell structure supports the motor, encoder and the bearings for the transmission and the output joint.  
+We recommend to print the shells on a SLS 3D printer. (selective laser sintering printer)  
+We use Helicoil threaded inserts for increased stability.  
+
+  * Actuator Module Shell Base - 28g -> [STL file](stl_files/actuator_module_shell_base.STL)
+  * Actuator Module Shell Cover - 16g -> [STL file ](stl_files/actuator_module_shell_cover.STL)
+  * [Details 3D Printed Parts](details/details_3d_printed_parts.md)
+
 
 Convention Positive Motor Rotation
 -----------------------------------

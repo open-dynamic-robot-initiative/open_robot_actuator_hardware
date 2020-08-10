@@ -2,16 +2,15 @@
 
 <br>**Klick on the pictures below for more information**
 ## Electronics
-| TI Evaluation Boards  | BLMC µDriver | Master Board |
-| ---------------  | ------------- |------------- |
-| <a href="/electronics/ti_electronics/README.md"><img src="electronics/ti_electronics/images/ti_eval_board_1.jpg" width="350"></a>| <a href="electronics/micro_driver_electronics/README.md"><img src="electronics/micro_driver_electronics/images/microdriver_board_v2.jpg" width="270"></a>  | <a href="https://github.com/open-dynamic-robot-initiative/master-board"><img src="electronics/images/master_board_1.jpg" width="270"></a>  |
+| TI Evaluation Boards  | BLMC µDriver | Master Board |Components and Tools|
+| ---------------  | ------------- |------------- |---|
+| <a href="/electronics/ti_electronics/README.md"><img src="electronics/ti_electronics/images/ti_eval_board_1.jpg" width="350"></a>| <a href="electronics/micro_driver_electronics/README.md"><img src="electronics/micro_driver_electronics/images/microdriver_board_v2.jpg" width="270"></a>  | <a href="https://github.com/open-dynamic-robot-initiative/master-board"><img src="electronics/images/master_board_1.jpg" width="270"></a>  |<a href="electronics/details/details_components.md"><img src="electronics/details/components_tools_1.jpg" width="270"></a> |
 
 ## Mechanics
 
 | Quadruped 8dof  | Quadruped 12dof | Biped 6dof | TriFingerEdu |
 | ---------------  | ------------- |------------- |------------- |
 | <a href="mechanics/quadruped_robot_8dof_v1/README.md"><img src="mechanics/quadruped_robot_8dof_v1/images/quadruped_8dof_jump_1.jpg" width="300"></a>| <a href="mechanics/quadruped_robot_12dof_v1/README.md"><img src="mechanics/quadruped_robot_12dof_v1/images/solo_12_cad_1.png" width="300"></a>  |<a href="mechanics/biped_6dof_v1/README.md"><img src="mechanics/biped_6dof_v1/images/biped_navigation.png" width="210"></a>  |  <a href="mechanics/tri_finger_edu_v1/README.md"><img src="mechanics/tri_finger_edu_v1/images/manipulator_navigation.jpg" width="300"></a>   |
-
 
 | 2dof Leg  | 3dof Leg | Biped Leg |FingerEdu |
 | ------------- | ------------- |------------- |------------- |

@@ -1,43 +1,33 @@
-Brushless Actuator Module v1
-=======================
-<img src="images/actuator_module_1.png" width="600">
+# Brushless Actuator Module v1
 
-Introduction
-------------
+<img src="images/actuator_module_1.png" width="500">
+
+## Introduction
 We developed a light-weight, low cost, minimal complexity, torque-controlled actuator module for robotic research.  
 The actuator module consists of a brushless outrunner motor, a high resolution optical encoder, a dual stage timing belt transmission and mostly 3d printed parts and off-the-shelf components.  
 The module has a segment length of 160mm, weighs 150g and outputs 2,5Nm at 12A.
 
-Component Overview
--------------------
-<img src="images/actuator_module_component_overview_1.jpg" width="600">
+<img src="images/actuator_module_open_1.jpg" width="500"><br>*Actuator Module Assembly - core components with upper leg shell structure*
 
-Actuator Module Assembly
---------
-<img src="images/actuator_module_open_1.jpg" width="600">
+---
+## Core Components
+<img src="images/actuator_module_core_1.png" width="500"><br>
+We are using the same core components for all the robots described in this repository. <br> The only difference between the actuator modules is the surrounding shell structure.
 
+<img src="images/transmission_1.png" width="500">
 
+We are using a dual stage timing belt transmission with 3:1 gear reduction on each stage.
+The total gear reduction is 9:1.
 
-Dual Stage Timing Belt Transmission
------------------------------------------
+## Core Component Overview
+<img src="images/actuator_module_core_component_overview_1.jpg" width="500"><br>*Core components - the weight of all the components in the pictures is 95g*
 
-<img src="images/transmission_1.jpg" width="400"> <br> *Weight of the components in the picture: 18g*
+---
+## Off-the-shelf Components
 
-  * The small pulleys have 10 teeth - the large pulleys have 30 teeth
-
-Transmission Dimensions
---------------------------
-
-<img src="images/transmission_1.png" width="600">
-
-* Dual stage timing belt transmission with 3:1 gear reduction on each stage
-* Total gear reduction 9:1
-
-Off-the-shelf Components
---------------------------
 ### Brushless DC Motor
 
-<img src="images/antigravity_4004_1.jpg" width="400"> <br>
+<img src="images/antigravity_4004_1.jpg" width="300"> <br>
 
   * T-Motor Antigravity 4004 300kV
   * 24 magnets / 12 pole pairs / 18 slots
@@ -45,88 +35,85 @@ Off-the-shelf Components
   * Rotor diameter: 45mm
   * Weight: 53g
   * [Details Motor Preparation](details/details_motor_preparation.md)
-  * [T-Motor Webpage](http://store-en.tmotor.com/goods.php?id=438)
+  * [Details Motor Shaft Preparation](details/details_motor_shaft_preparation.md)
+  * [T-Motor Webpage](http://store-en.tmotor.com/goods.php?id=438) (the motors are sold in sets of 2 pieces)
 
-
-#### Motor Parameters for Antigravity 4004 300kV - determined with the Motorware Motor ID Software
-
-* Rr = 0
-* Rs = 0.23255 Ω
-* Ls_d = 1.4e-4
-* Ls_q = 1.4e-4
-* Rated Flux = 0.00954
-* Inertia = 0.12954
-* Friction = 0.10053
-___
 ### Optical Encoder
-<img src="images/broadcom_encoder_1.jpg" width="400"> <br>
+<img src="images/broadcom_encoder_1.jpg" width="300"> <br>
   * Broadcom AEDT-9810-Z00
   * 5000 pulses per revolution per channel
   * 5V two channel quadrature output with index pulse (ABZ)
   * Code wheel diameter: 26mm
   * Weight: 5g
   * [Details Encoder and Codewheel](details/details_encoder.md)
+  * [Details Encoder Preparation](details/details_encoder_preparation.md)
+  * [Details Motor Shaft and Codewheel Preparation](details/details_motor_shaft_preparation.md)
   * [Broadcom Webpage](https://www.broadcom.com/products/motion-control-encoders/incremental-encoders/transmissive-encoders/aedt-981x)  
 
 ### Timing Belts
-
-<img src="images/timing_belts_1.jpg" width="400"> <br> *Timing Belts AT3 GEN III with 50 teeth and 67 teeth*
-
-  * Timing Belt: Synchroflex AT3 GEN III
+<img src="images/timing_belts_1.jpg" width="300"> <br> *Timing Belts AT3 GEN III with 50 teeth and 67 teeth*
+  * Timing Belt: Synchroflex AT3 GEN III - 3mm tooth pitch
   * Heavy duty polyurethane timing belt with steel cord reinforcements
-  * 3mm tooth pitch
-  * First stage: 150mm timing belt - width 4mm - 1,5g
-  * Second stage: 201mm timing belt - width 6mm - 3g
+  * First stage: 150mm timing belt - 50 teeth - width 4mm - 1,5g
+  * Second stage: 201mm timing belt - 67 teeth - width 6mm - 3g
   * [Contitech Webpage](https://www.contitech.de/en-gl/Solutions/Power-Transmission/Industrial-Applications/Drive-Belts/Synchronous-Belts/Products/Product-range/CONTI-SYNCHROFLEX-GEN3)  
 
-### Timing Belt Tensioner Rollers
-<img src="images/timing_belt_tensioner_1.jpg" width="500"> <br> *Left side - 10mm bearings / Right side - 7mm bearings and 3d printed rollers*
-
 ### Bearings
-<img src="images/bearings_1.jpg" width="400"><br>
-* Miniature stainless steel roller bearings
+<img src="images/bearings_1.jpg" width="300"><br>*Stainless steel roller bearings - weight: 16g*
+* Miniature EZO stainless steel roller bearings
 * Ouput bearing: 32mm x 25mm x 4mm - 6.9g
 * Transmission bearing: 8mm x 4mm x 2mm - 0.4g
+* Belt tensioner bearing: 7mm x 3mm x 3mm - 0,4g
+* [EZO Webpage](https://www.ezo-usa.com/)
 
+### Fasteners
+<img src="images/fasteners_1.jpg" width="350"> <br> *All the fasteners that are part of the actuator core components*
 
-### Machined Parts
-<img src="images/machined_parts_1.jpg" width="400"> <br>  
-There are 3 parts in the assembly that have to be machined from metal.
+* Fasteners Motor: M3 x 5 Flat Head Screw
+* Fasteners Timing Belt Tensioner: M3 x 10 Flat Head Screw
+* Washers Timing Belt Tensioner: M2,5 Washer
+* Helical Insert Output Shaft: Helicoil M3 x 6
+* Fasteners Encoder: M3 x 16 Philipps Flat Head Screw
+
+---
+## Machined Parts
+<img src="images/machined_parts_1.jpg" width="300"><br>*The3 parts in the picture have to be machined from metal - weight: 5,9g*
+
   * motor pulley 10 teeth - aluminum - 0.6g -> [PDF drawing](drawings/motor_pulley_at3_t10.PDF)
   * center pulley 10 teeth - aluminum - 2,1g -> [PDF drawing](drawings/center_pulley_at3_t10.PDF)
   * motor shaft - 4mm steel rod - 3,2g -> [PDF drawing](drawings/motor_shaft.PDF)
   * [Details Machined Parts and Technical Drawings](details/details_machined_parts.md)
+---
+## 3D Printed Parts
 
-3D Printed Parts
------------------
-### Shell structure
-<img src="images/shells_1.jpg" width="500"> <br>      
-The shell of the actuator module consists of two parts that are connected by eight M2,5 screws.  
-The shell structure supports the motor, encoder and the bearings for the transmission and the output joint.  
-We recommend to print the shells on a SLS 3D printer. (selective laser sintering printer)  
-We use Helicoil threaded inserts for increased stability.  
+<img src="images/3d_printed_parts_1.jpg" width="350"> <br> *3d printed parts - weight of the parts in the picture: 11,3g*
 
-  * Actuator Module Shell Base - 28g -> [STL file](stl_files/actuator_module_shell_base.STL)
-  * Actuator Module Shell Cover - 16g -> [STL file ](stl_files/actuator_module_shell_cover.STL)
-  * [Details 3D Printed Parts](details/details_3d_printed_parts.md)
+The tooth profile of the pulleys has to be pretty precise and concentric.  
+We recommend to print all the parts listed below with a stereolithography or multijet printer.
 
-### Pulleys
-<img src="images/pulleys_1.jpg" width="500"> <br> *Parts shown in the picture: codewheel mount, center pulley and output pulley.*
+More information: [Details 3D Printed Parts](details/details_3d_printed_parts.md)
 
-The tooth profil of the pulleys has to be pretty precise and concentric.  
-We recommend to print the pulleys using a stereolithography or multijet printer.  
+`The recommended printing direction for all the parts below is the positive z direction of the stl files.`
 
-  * Encoder Codewheel PWB Mount - 0.2g -> [STL file](stl_files/encoder_codewheel_pwb_mount.STL)
-  * Transmission Pulley AT3 T30 Center - 4.2g -> [STL file ](stl_files/transmission_pulley_at3_t30_center.STL)
-  * Transmission Pulley AT3 T30 Output - 6.7g -> [STL file ](stl_files/transmission_pulley_at3_t30_output.STL)
-  * [Details 3D Printed Parts](details/details_3d_printed_parts.md)
+---
+<img src="details/encoder_codewheel_pwb_mount.png" width="200"> <br>
 
-Mechanical Interface
------------------------
-<img src="images/mechanical_interface.jpg" width="400"> <br> *The same mechanical interface is used for the hip, upper leg, lower leg and test adapters*
+* Encoder Codewheel PWB Mount - weight 0.3g -> [STL file](stl_files/encoder_codewheel_pwb_mount.STL)
 
-More Details
---------
+  ---
+  <img src="details/transmission_pulley_center.png" width="180"> <br>
+* Transmission Pulley AT3 T30 Center - weight 4.2g -> [STL file ](stl_files/transmission_pulley_at3_t30_center.STL)
+---
+<img src="details/transmission_pulley_output.png" width="220"> <br>
+* Transmission Pulley AT3 T30 Output - weight 6.7g -> [STL file ](stl_files/transmission_pulley_at3_t30_output.STL)
+---
+<img src="details/timing_belt_tensioner_roller.png" width="200"> <br>
+
+* Transmission Belt Tensioner Rollers - weight 0,2g each -> [STL file ](stl_files/transmission_belt_tensioner_roller_10mm.STL)
+
+---
+
+## More Details
 * [Details 3D Printed Parts](details/details_3d_printed_parts.md)  
 * [Details Machined Parts and Technical Drawings](details/details_machined_parts.md)
 * [Details Encoder and Codewheel](details/details_encoder.md)  
@@ -138,6 +125,7 @@ More Details
 * [Details Center Pulley Preparation](details/details_center_pulley_preparation.md)
 * [Details Output Pulley Preparation](details/details_output_pulley_preparation.md)
 * [Details Actuator Module Assembly](details/details_assembly.md)
+---
 
 ## Bill of Materials - Brushless Actuator Module Core
 <img src="images/actuator_module_core_1.png" width="400">
@@ -165,47 +153,42 @@ More Details
 |Washers Timing Belt Tensioner<br>M2,5 Washer|2|[Online Schrauben](https://online-schrauben.de/shop/Scheiben-Federringe/ISO-7092-Unterlegscheiben-fuer-Zylinderkopfschrauben-aehnl.-DIN-433/Edelstahl-Rostfrei-A2-200-HV)|Stainless Steel<br>Online Schrauben shipps within Europe.|
 |Helical Insert Output Shaft<br> Helicoil M3 x 6|2|[Hoffmann # 082814 M3](https://www.hoffmann-group.com/GB/en/houk/Power-tools-and-workshop-supplies/Soldering-tools-cleaning-devices-thread-repair/Thread-insert-set%2C-10-or-20-pieces-2×D/p/082814-M3?tId=617)<br>[McMaster # 91732A773](https://www.mcmaster.com/91732A773/)|M3 Helicoil tools required|
 
-### Wires and Connectors
-| Part Name | Quantity | Ordering Information | Comments |  
-| --- | :---: | --- | --- |
-|Motor Phase Connectors 2mm gold<br>Reely RE-1373188|3|[Conrad # 1373188](https://www.conrad.com/p/reely-1373188-battery-plug-2-mm-gold-plated-2-pair-1373188)<br>[HobbyKing](https://hobbyking.com/en_us/2mm-gold-connectors-10-pairs-20pc.html?___store=en_us)|Conrad: 2 pairs per set<br>HobbyKing 10 pairs per set|
-|Motor Phase Wires<br>LiY 0.50 mm² black|3|[Kabeltronik # 1601050](https://www.kabeltronik.de/en/electronics-industry/hook-up-wires-stranded/art/hook-up-wire-stranded-extremely-flexible-lify-3/31)<br>[Conrad # 609337](https://www.conrad.com/p/conrad-components-609337-strand-liy-1-x-050-mm-black-25-m-609337)<br>[McMaster # 8054T14](https://www.mcmaster.com/8054t14-8054T184/)|Kabeltronik ships worldwide.<br>100m on spool. <br>The Kabeltronik wires are the most flexible.|
-|Encoder Connector<br>Hirose DF13 Socket 5 Pin|1|[RS # 143-015](https://americas.rsdelivers.com/product/hirose/df13-5s-125c/hirose-df13-male-connector-housing-125mm-pitch-5/0143015)<br>[DigiKey # H2182-ND](https://www.digikey.com/products/en?keywords=H2182-ND)|The Hirose DF13 Crimp Tool is required for crimping the wires.<br> [RS # 503-8331](https://americas.rsdelivers.com/product/hirose/df13-tb2630hc/hirose-plier-crimping-tool-for-df13-crimp/5038331)|
-|Encoder Connector Crimp Terminals|5|[RS 503-8325](https://americas.rsdelivers.com/product/hirose/df13-2630scf/hirose-df13-female-crimp-terminal-contact-26awg/5038325) <br> [Digi-Key H9992CT-ND](https://www.digikey.com/products/en?keywords=H9992CT-ND)|The Hirose DF13 Crimp Tool is required for crimping the wires.<br> [RS # 503-8331](https://americas.rsdelivers.com/product/hirose/df13-tb2630hc/hirose-plier-crimping-tool-for-df13-crimp/5038331)|
-|Encoder Wires<br>LifY 0.14 mm²|5|[Kabeltronik # 1601014](https://www.kabeltronik.de/en/kabeltronik/search/art/hook-up-wire-stranded-extremely-flexible-lify-1/)|Kabeltronik ships worldwide.<br>100m on spool - different colors available.<br> For the encoders we use red, yellow, black, white and green wires.|
-
+---
 ### Alternative Encoder Kit
 | Part Name | Quantity | Ordering Information | Comments |  
 | --- | :---: | --- | --- |
 |Broadcom Encoder Kit AEDM-5810-Z12|1|[Mouser # 630-AEDM5810Z12](https://www.mouser.de/ProductDetail/Broadcom-Avago/AEDM-5810Z12?qs=%2Fha2pyFadujtDdLrUGHWsKyfLkpJxYH2H0SfB7LySxyN5iN50m1syw%3D%3D)<br>[DigiKey # 516-3253-ND](https://www.digikey.com/product-detail/en/broadcom-limited/AEDM-5810-Z12/516-3253-ND/5357134)|Kit consisting of encoder and codewheel|
 |Codewheel Mount Encoder Kit|1|[STL file](stl_files/encoder_codewheel_kit_mount.STL)|3d printed part- use SLA, Polyjet or Multijet printer|
 
+---
 ### Alternative Timing Belt Tensioner
+
+<img src="images/timing_belt_tensioner_1.jpg" width="400"> <br> *Left side - 10mm bearings / Right side - 7mm bearings and 3d printed rollers*
+
 | Part Name | Quantity | Ordering Information | Comments |  
 | --- | :---: | --- | --- |
 |Bearing Timing Belt Tensioner<br>SKF # 623-2Z<br> 10mm x 3mm x 4mm|2|<br>[RS Germany # 285-0807](https://de.rs-online.com/web/p/kugellager/2850807/)<br>[Quality Bearings Online](https://www.qualitybearingsonline.com/623-2z-skf-miniature-deep-groove-3x10x4mm/?setCurrencyId=2)|Alternative for 7mm x 3mm x 3mm bearing and timing belt tensioner roller above.|
 |Fasteners Timing Belt Tensioner<br>M3 x 10 Flat Head  Screw|2|[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/ISO-10642-DIN-7991-Senkschrauben-mit-Innensechskant-aehnl.-DIN-7991/Edelstahl-Rostfrei-A2/M-3-Gewinde-M-metrisches-Gewinde)|Stainless Steel<br>Online Schrauben shipps within Europe.|
 |Washers Timing Belt Tensioner<br>M3 Washer|2|[Online Schrauben](https://online-schrauben.de/shop/Scheiben-Federringe/ISO-7092-Unterlegscheiben-fuer-Zylinderkopfschrauben-aehnl.-DIN-433/Edelstahl-Rostfrei-A2-200-HV)<br>[McMaster # 90965A130](https://www.mcmaster.com/90965A130/)|Stainless Steel<br>Online Schrauben shipps within Europe.|
 
-PDF Drawing
-------------
+---
+## PDF Drawing
 View this pdf file to get a better overview of the actuator module assembly.
 
 <a href="_actuator_module.PDF"><img src="images/actuator_module_pdf.png" width="500"></a><br>*Actuator Module Overview - Click on picture to view PDF drawing.*
 
-3D Assembly File
--------------------
+---
+## 3D Assembly File
 Download and open the eDrawing file below to explore the actuator module assembly.  
 To open the file you will need to download and install the free eDrawings viewer [here](https://www.edrawingsviewer.com/download-edrawings).  
 
 <a href="_actuator_module.EASM"><img src="images/actuator_module_edrawing.png" width="500"></a><br>*Actuator Module Overview - Click on picture to download and view the 3d assembly file.*
 
-Authors
---------
+---
+## Authors
 Felix Grimminger
 
-License
--------
+## License
 BSD 3-Clause License
 
 ## Copyright

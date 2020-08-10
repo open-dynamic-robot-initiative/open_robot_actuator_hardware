@@ -9,6 +9,10 @@ Description
 The dimensions of 3d printed parts can vary quite a bit depending on the machine, the printing technology and the material.  
 That's why we print the diameters that has to fit the bearings a bit oversize and machine the part to the right diameter on a lathe.
 
+## Pulley for Hip AA Actuator module
+
+<img src="../images/hip_aa_output_pulley.png" width="400"> <br>*Hip AA Output Pulley - don't install helicoils*
+
 Instructions
 -------------
 
