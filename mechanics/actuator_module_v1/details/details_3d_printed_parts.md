@@ -1,10 +1,7 @@
-Details 3D Printed Parts
-=======================
+# Details 3D Printed Parts
 
-
-Shells
-------------
-<img src="../images/shells_1.jpg" width="600"> <br>  
+## Shells
+<img src="../../leg_2dof_v1/images/shells_1.jpg" width="500"> <br>  
 
 The shells should be printed on a selective laser sintering printer using high strength material.  
 The shells we are using were purchased from the ["3D Systems Part on Demand Service".](https://www.3dsystems.com/on-demand-manufacturing)
@@ -37,8 +34,7 @@ ___
 
 _____
 
-Pulleys and Code Wheel Mount
-----------
+## Pulleys and Code Wheel Mount
 The pulleys and the code wheel mount should be printed on a high-detail stereolithography or multijet printer.   
 We print these parts on our Projet 3500 HD max multijet printer using the M3X material.  
 
@@ -79,14 +75,14 @@ License
 -------
 BSD 3-Clause License
 
-Copyright
------------
-Copyright (c) 2019, Max Planck Gesellschaft, New York University
+## Copyright
+Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
 
-More Information
-----------------
+## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
-[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)  
-[Hardware Overview](../../README.md)  
-[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)  
+[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
+[Open Dynamic Robot Initiative - Forum](https://odri.discourse.group/categories)  
+[Open Dynamic Robot Initiative - Paper](https://arxiv.org/pdf/1910.00093.pdf)  
+[Hardware Overview](../../README.md#open-robot-actuator-hardware)  
+[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)
 [Back to Actuator Module](../README.md)

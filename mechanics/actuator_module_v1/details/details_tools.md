@@ -1,8 +1,4 @@
-Details Tools
-=======================
-
-Description
-------------
+# Details Tools
 
 <img src="../images/tap_drill.jpg" width="400"> <br>*M3 Tap*
 
@@ -18,30 +14,29 @@ Description
 
 <img src="../images/tube_cutter_1.jpg" width="400"> <br>*Tube Cutter*
 
-<img src="../images/loctite_406.jpg" width="400"> <br>*Superglue - Loctite 406*
+<img src="../images/loctite_406.jpg" width="200"> <br>*Superglue - Loctite 406*
 
-<img src="../images/loctite_648.jpg" width="400"> <br>*Retaining Compound - Loctite 648*
+<img src="../images/loctite_648.jpg" width="200"> <br>*Retaining Compound - Loctite 648*
 
-<img src="../images/tools_misc_1.jpg" width="400"> <br>*Miscellanious tools - tooth brush, q-tipps and tooth picks*
+<img src="../images/tools_misc_1.jpg" width="300"> <br>*Miscellanious tools - tooth brush, q-tipps and tooth picks*
 
-<img src="../images/collet_1.jpg" width="400"> <br>*25mm collet to hold the output pulley on a lathe*
+<img src="../images/collet_1.jpg" width="300"> <br>*25mm collet to hold the output pulley on a lathe*
 
-Authors
---------
+---
+## Authors
 Felix Grimminger
 
-License
--------
+## License
 BSD 3-Clause License
 
-Copyright
------------
-Copyright (c) 2019, Max Planck Gesellschaft, New York University
+## Copyright
+Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
 
-More Information
-----------------
+## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
-[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)  
-[Hardware Overview](../../README.md)  
+[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
+[Open Dynamic Robot Initiative - Forum](https://odri.discourse.group/categories)  
+[Open Dynamic Robot Initiative - Paper](https://arxiv.org/pdf/1910.00093.pdf)  
+[Hardware Overview](../../README.md#open-robot-actuator-hardware)  
 [Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)  
 [Back to Actuator Module](../README.md)  

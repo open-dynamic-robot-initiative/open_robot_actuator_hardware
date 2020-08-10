@@ -109,8 +109,16 @@ More information: [Details 3D Printed Parts](details/details_3d_printed_parts.md
 ---
 <img src="details/timing_belt_tensioner_roller.png" width="200"> <br>
 
-* Transmission Belt Tensioner Rollers - weight 0,2g each -> [STL file ](stl_files/transmission_belt_tensioner_roller_10mm.STL)
+* Transmission Belt Tensioner Rollers - weight 0,2g each
+* There are STL files with different outer diameters available
+* the default diameter that we are using is 10mm
+* the different roller diameters allow you to adjust the timing belt tension if required
 
+
+* 10.0mm Transmission Belt Tensioner Roller -> [STL file](stl_files/transmission_belt_tensioner_roller_10.0mm.STL)
+* 10.5mm Transmission Belt Tensioner Roller -> [STL file](stl_files/transmission_belt_tensioner_roller_10.5mm.STL)
+* 11.0mm Transmission Belt Tensioner Roller -> [STL file](stl_files/transmission_belt_tensioner_roller_11.0mm.STL)
+* 11.5mm Transmission Belt Tensioner Roller -> [STL file](stl_files/transmission_belt_tensioner_roller_11.5mm.STL)
 ---
 
 ## More Details
@@ -125,6 +133,8 @@ More information: [Details 3D Printed Parts](details/details_3d_printed_parts.md
 * [Details Center Pulley Preparation](details/details_center_pulley_preparation.md)
 * [Details Output Pulley Preparation](details/details_output_pulley_preparation.md)
 * [Details Actuator Module Assembly](details/details_assembly.md)
+* [Details Tools](details/details_tools.md)
+
 ---
 
 ## Bill of Materials - Brushless Actuator Module Core
