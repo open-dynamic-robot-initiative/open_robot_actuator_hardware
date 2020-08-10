@@ -52,7 +52,7 @@ The total gear reduction is 9:1.
 
 ### Timing Belts
 <img src="images/timing_belts_1.jpg" width="300"> <br> *Timing Belts AT3 GEN III with 50 teeth and 67 teeth*
-  * Timing Belt: Synchroflex AT3 GEN III - 3mm tooth pitch
+  * Timing Belt: Conti Synchroflex AT3 GEN III - 3mm tooth pitch
   * Heavy duty polyurethane timing belt with steel cord reinforcements
   * First stage: 150mm timing belt - 50 teeth - width 4mm - 1,5g
   * Second stage: 201mm timing belt - 67 teeth - width 6mm - 3g
@@ -158,9 +158,9 @@ More information: [Details 3D Printed Parts](details/details_3d_printed_parts.md
 |Motor Pulley|1|[PDF drawing](drawings/motor_pulley_at3_t10.PDF)|Machined part|
 |Center Pulley|1| [PDF drawing](drawings/center_pulley_at3_t10.PDF)|Machined part|
 |Fasteners Encoder <br> M3 x 16 Philipps Flat Head Screw|2|[Conrad # 839967](https://www.conrad.com/p/toolcraft-839967-countersunk-screws-m3-16-mm-phillips-din-965-plastic-polyamide-10-pcs-839967)|Polyamide plastic<br>10 pieces per set|
-|Fasteners Motor<br>M3 x 5 Flat Head Screw |4|[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/ISO-10642-DIN-7991-Senkschrauben-mit-Innensechskant-aehnl.-DIN-7991/Edelstahl-Rostfrei-A2/M-3-Gewinde-M-metrisches-Gewinde)|Stainless Steel<br>Online Schrauben shipps within Europe.|
-|Fasteners Timing Belt Tensioner<br>M3 x 10 Flat Head Screw|2|[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/ISO-10642-DIN-7991-Senkschrauben-mit-Innensechskant-aehnl.-DIN-7991/Edelstahl-Rostfrei-A2/M-3-Gewinde-M-metrisches-Gewinde)|Stainless Steel<br>Online Schrauben shipps within Europe.|
-|Washers Timing Belt Tensioner<br>M2,5 Washer|2|[Online Schrauben](https://online-schrauben.de/shop/Scheiben-Federringe/ISO-7092-Unterlegscheiben-fuer-Zylinderkopfschrauben-aehnl.-DIN-433/Edelstahl-Rostfrei-A2-200-HV)|Stainless Steel<br>Online Schrauben shipps within Europe.|
+|Fasteners Motor<br>M3 x 5 Flat Head Screw |4|[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/ISO-10642-DIN-7991-Senkschrauben-mit-Innensechskant-aehnl.-DIN-7991/Edelstahl-Rostfrei-A2/M-3-Gewinde-M-metrisches-Gewinde)|Stainless Steel<br>Online Schrauben ships within Europe.|
+|Fasteners Timing Belt Tensioner<br>M3 x 10 Flat Head Screw|2|[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/ISO-10642-DIN-7991-Senkschrauben-mit-Innensechskant-aehnl.-DIN-7991/Edelstahl-Rostfrei-A2/M-3-Gewinde-M-metrisches-Gewinde)|Stainless Steel<br>Online Schrauben ships within Europe.|
+|Washers Timing Belt Tensioner<br>M2,5 Washer|2|[Online Schrauben](https://online-schrauben.de/shop/Scheiben-Federringe/ISO-7092-Unterlegscheiben-fuer-Zylinderkopfschrauben-aehnl.-DIN-433/Edelstahl-Rostfrei-A2-200-HV)|Stainless Steel<br>Online Schrauben ships within Europe.|
 |Helical Insert Output Shaft<br> Helicoil M3 x 6|2|[Hoffmann # 082814 M3](https://www.hoffmann-group.com/GB/en/houk/Power-tools-and-workshop-supplies/Soldering-tools-cleaning-devices-thread-repair/Thread-insert-set%2C-10-or-20-pieces-2×D/p/082814-M3?tId=617)<br>[McMaster # 91732A773](https://www.mcmaster.com/91732A773/)|M3 Helicoil tools required|
 
 ---

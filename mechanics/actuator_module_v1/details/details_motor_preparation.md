@@ -28,9 +28,9 @@ Rotor Preparation
 
 <img src="../images/motor_mod_12.jpg" width="400"> <br>*Start with the smallest reamer. <br>Carefully insert and turn the reamer a couple of times.*
 
-<img src="../images/motor_mod_13.jpg" width="400"> <br>*Put a bit oil on the motor shaft.*
+<img src="../images/motor_mod_13.jpg" width="400"> <br>*Put a bit of oil on the motor shaft.*
 
-<img src="../images/motor_mod_14.jpg" width="400"> <br>*Try to insert the motor shaft. <br> If the reamed hole is too tight repeat the last two steps with the same reamer size.<br> If the bore is still too tight use the next reamer size. <br> Continue until the shaft can be installed and removed with moderate force.*
+<img src="../images/motor_mod_14.jpg" width="400"> <br>*Try to insert the motor shaft. <br> If the reamed hole is too tight repeat the last two steps with the same reamer size.<br> If the bore is still too tight use the next larger reamer size. <br> Continue until the shaft can be installed and removed with moderate force.*
 
 **Important:** Be careful not to increase the bore diameter too much.  
 If the fit is too loose the rotor will wobble when spinning.

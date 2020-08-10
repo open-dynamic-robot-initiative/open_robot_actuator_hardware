@@ -47,9 +47,9 @@ Step 2 - Code Wheel Bonding
 
 <img src="../images/motor_shaft_preparation_12.jpg" width="400"> <br>*Place the code wheel mount on the motor shaft and push it all the way down. <br> Make sure that the teeth of the pulley engage with the mount*
 
-<img src="../images/motor_shaft_preparation_11.jpg" width="400"> <br>*If the code wheel mount too tight you can adjust the diameter with a 4mm reamer.*
+<img src="../images/motor_shaft_preparation_11.jpg" width="400"> <br>*If the code wheel mount is too tight you can adjust the diameter with a 4mm reamer.*
 
-<img src="../images/motor_shaft_preparation_13.jpg" width="400"> <br>*Prepare your code wheel with the print facing upwards. <br> Prepare the superglue, tooth pick, q-tipps and the bonding tool.*
+<img src="../images/motor_shaft_preparation_13.jpg" width="400"> <br>*Prepare your code wheel with the print facing upwards. <br> Prepare the superglue, tooth pick, q-tipps and the bonding tool.<br>Use gloves to protect your skin from the superglue.*
 
 <img src="../images/motor_shaft_preparation_14.jpg" width="400"> <br>*Apply a thin layer of Loctite to the code wheel mount.*
 
