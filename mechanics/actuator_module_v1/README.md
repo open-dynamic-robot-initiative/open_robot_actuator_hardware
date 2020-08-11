@@ -113,8 +113,6 @@ More information: [Details 3D Printed Parts](details/details_3d_printed_parts.md
 * There are STL files with different outer diameters available
 * the default diameter that we are using is 10mm
 * the different roller diameters allow you to adjust the timing belt tension if required
-
-
 * 10.0mm Transmission Belt Tensioner Roller -> [STL file](stl_files/transmission_belt_tensioner_roller_10.0mm.STL)
 * 10.5mm Transmission Belt Tensioner Roller -> [STL file](stl_files/transmission_belt_tensioner_roller_10.5mm.STL)
 * 11.0mm Transmission Belt Tensioner Roller -> [STL file](stl_files/transmission_belt_tensioner_roller_11.0mm.STL)
@@ -134,6 +132,7 @@ More information: [Details 3D Printed Parts](details/details_3d_printed_parts.md
 * [Details Output Pulley Preparation](details/details_output_pulley_preparation.md)
 * [Details Actuator Module Assembly](details/details_assembly.md)
 * [Details Tools](details/details_tools.md)
+* [Details Actuator Module Wiring](details/details_wires_connectors.md)
 
 ---
 
@@ -147,9 +146,9 @@ More information: [Details 3D Printed Parts](details/details_3d_printed_parts.md
 |Codewheel for Encoder AEDT-9810-Z00|1|[PWB Encoders GmbH # 104768](https://www.pwb-encoders.com/en/encoder-wheels)|Email Mr. Oberländer and ask for a quote. PWB ships worldwide. <br> Order number: 104768 / Codewheel with index / 625cpr 3K for AEDT98X / ID 7mm / OD 25,56mm|
 |Timing Belt Conti Synchroflex AT3 GEN III<br> width: 4mm / length: 150mm / 50 teeth<br>Timing belt first stage|1|[Reiff # 60047626](https://www.reiff-tpshop.de/shop/de/antriebstechnik/zahnriemen-gen-iii-at3/zahnriemen-gen-iii-at3-laenge-150-bis-1011-mm.html?filterStatus=60005271#DetailVarianten)<br> [Beltingonline](https://www.beltingonline.com/at3-gen-iii-synchroflex-timing-belts-4593)<br>|<br> Reiff: The belt with 4mm width is not listed on the Reiff webpage. <br> Ask for a quote: e-services@reiff-gruppe.de <br> Reiff ships within Europe.|
 |Timing Belt Conti Synchroflex AT3 GEN III<br> width: 6mm / length: 201mm / 67 teeth <br>Timing belt second stage|1|[Reiff # 60005258](https://www.reiff-tpshop.de/shop/de/antriebstechnik/zahnriemen-gen-iii-at3/zahnriemen-gen-iii-at3-laenge-150-bis-1011-mm.html?filterStatus=60005271#DetailVarianten) <br> [Beltingonline](https://www.beltingonline.com/at3-gen-iii-synchroflex-timing-belts-4593)|Reiff: Ask for a quote: e-services@reiff-gruppe.de <br>Reiff ships within Europe.|
-|Bearing Output Shaft<br>32mm x 25mm x 4mm |2|[SBN](https://www.sbn.de/en/)<br>[Online Bearing Store](https://www.onlinebearingstore.com/6705-2rs-6705-zz-ball-bearings.html)|Contact SBN (info@sbn.de) and ask for a quote - they ship worldwide. <br>EZO bearing 61705 2RS VA / SBN # C02748 <br>We use stainless steel bearings.<br>Alternative: Chrome steel bearings from the Online Bearing Store|
-|Bearing Motor Shaft and Center Shaft  <br> 8mm x 4mm x 2mm  |3|[SBN](https://www.sbn.de/en/)<br>[Online Bearing Store](https://www.onlinebearingstore.com/mr84-miniature-ball-bearing-4x8x2-open.html)|Contact SBN (info@sbn.de) and ask for a quote - they ship worldwide.  <br> EZO bearing MR84 VA / SBN # N09724 <br>We use stainless steel bearings.<br>Alternative: Chrome steel bearings from the Online Bearing Store|
-|Bearing Timing Belt Tensioner<br>7mm x 3mm x 3mm|2|[SBN](https://www.sbn.de/en/)<br>[Online Bearing Store](https://www.onlinebearingstore.com/683-zz-miniature-ball-bearing-id-3-x-od-7x-w-3mm-shielded.html)|Contact SBN (info@sbn.de) and ask for a quote  - they ship worldwide. <br>EZO bearing 683 2Z VA / SBN # N05560 <br> We use stainless steel bearings.<br>Alternative: Chrome steel bearings from the Online Bearing Store|
+|Bearing Output Shaft<br>32mm x 25mm x 4mm<br>EZO bearing 61705 2RS VA  |2|[Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/)<br>[Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br>[EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br>[SBN](https://www.sbn.de/en/)<br>[Online Bearing Store](https://www.onlinebearingstore.com/6705-2rs-6705-zz-ball-bearings.html)|Italy: [Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/) or [Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br> USA: [EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br> All other countries: Contact [SBN](https://www.sbn.de/en/) (info@sbn.de) and ask for a quote - they ship worldwide. <br> SBN # C02748 <br>We use stainless steel bearings.<br>Alternative: Chrome steel bearings from the Online Bearing Store|
+|Bearing Motor Shaft and Center Shaft  <br> 8mm x 4mm x 2mm<br>EZO bearing MR84 VA |3|[Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/)<br>[Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br>[EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br>[SBN](https://www.sbn.de/en/)<br>[Online Bearing Store](https://www.onlinebearingstore.com/mr84-miniature-ball-bearing-4x8x2-open.html)|Italy: [Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/) or [Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br> USA: [EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br> All other countries: Contact [SBN](https://www.sbn.de/en/) (info@sbn.de) and ask for a quote - they ship worldwide.  <br> SBN # N09724 <br>We use stainless steel bearings.<br>Alternative: Chrome steel bearings from the Online Bearing Store|
+|Bearing Timing Belt Tensioner<br>7mm x 3mm x 3mm<br>EZO bearing 683 2Z VA<br><br> |2|[Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/)<br>[Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br>[EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br>[SBN](https://www.sbn.de/en/)<br>[Online Bearing Store](https://www.onlinebearingstore.com/683-zz-miniature-ball-bearing-id-3-x-od-7x-w-3mm-shielded.html)|Italy: [Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/) or [Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br> USA: [EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br> All other countries: Contact [SBN](https://www.sbn.de/en/) (info@sbn.de) and ask for a quote  - they ship worldwide. <br>SBN # N05560 <br> We use stainless steel bearings.<br>Alternative: Chrome steel bearings from the Online Bearing Store|
 |Encoder Codewheel PWB Mount|1|[STL file](stl_files/encoder_codewheel_pwb_mount.STL)|3d printed part - use SLA, Polyjet or Multijet printer|
 |Transmission Pulley AT3 T30 Center|1|[STL file ](stl_files/transmission_pulley_at3_t30_center.STL)|3d printed part - use SLA, Polyjet or Multijet printer|
 |Transmission Pulley AT3 T30 Output|1|[STL file ](stl_files/transmission_pulley_at3_t30_output.STL)|3d printed part - use SLA, Polyjet or Multijet printer|
@@ -164,16 +163,18 @@ More information: [Details 3D Printed Parts](details/details_3d_printed_parts.md
 |Helical Insert Output Shaft<br> Helicoil M3 x 6|2|[Hoffmann # 082814 M3](https://www.hoffmann-group.com/GB/en/houk/Power-tools-and-workshop-supplies/Soldering-tools-cleaning-devices-thread-repair/Thread-insert-set%2C-10-or-20-pieces-2×D/p/082814-M3?tId=617)<br>[McMaster # 91732A773](https://www.mcmaster.com/91732A773/)|M3 Helicoil tools required|
 
 ---
-### Alternative Encoder Kit
+### Encoder and Codewheel - Alternative B
+<img src="images/encoder_alternative_b.jpg" width="450"> <br> *Left side: Encoder and codewheel ordered seperately as described above<br>Right side: Alternative B - Encoder Kit - described below*
+
 | Part Name | Quantity | Ordering Information | Comments |  
 | --- | :---: | --- | --- |
-|Broadcom Encoder Kit AEDM-5810-Z12|1|[Mouser # 630-AEDM5810Z12](https://www.mouser.de/ProductDetail/Broadcom-Avago/AEDM-5810Z12?qs=%2Fha2pyFadujtDdLrUGHWsKyfLkpJxYH2H0SfB7LySxyN5iN50m1syw%3D%3D)<br>[DigiKey # 516-3253-ND](https://www.digikey.com/product-detail/en/broadcom-limited/AEDM-5810-Z12/516-3253-ND/5357134)|Kit consisting of encoder and codewheel|
+|Broadcom Encoder Kit AEDM-5810-Z12|1|[Mouser # 630-AEDM5810Z12](https://www.mouser.de/ProductDetail/Broadcom-Avago/AEDM-5810Z12?qs=%2Fha2pyFadujtDdLrUGHWsKyfLkpJxYH2H0SfB7LySxyN5iN50m1syw%3D%3D)<br>[DigiKey # 516-3253-ND](https://www.digikey.com/product-detail/en/broadcom-limited/AEDM-5810-Z12/516-3253-ND/5357134)|Kit consisting of encoder and codewheel<br>[Instructions Encoder Kit Disassembly](details/details_encoder_kit_disassembly.md)|
 |Codewheel Mount Encoder Kit|1|[STL file](stl_files/encoder_codewheel_kit_mount.STL)|3d printed part- use SLA, Polyjet or Multijet printer|
 
 ---
-### Alternative Timing Belt Tensioner
+### Timing Belt Tensioner - Alternative B
 
-<img src="images/timing_belt_tensioner_1.jpg" width="400"> <br> *Left side - 10mm bearings / Right side - 7mm bearings and 3d printed rollers*
+<img src="images/timing_belt_tensioner_1.jpg" width="400"> <br> *Left side: 7mm bearings and 3d printed rollers as described above<br>Right side: Alternative B - 10mm bearings - described below*
 
 | Part Name | Quantity | Ordering Information | Comments |  
 | --- | :---: | --- | --- |
