@@ -31,7 +31,7 @@ We use Helicoil threaded inserts for increased stability.
 
   * Actuator Module Shell Base - 28g -> [STL file](stl_files/actuator_module_shell_base.STL)
   * Actuator Module Shell Cover - 16g -> [STL file ](stl_files/actuator_module_shell_cover.STL)
-  * [Details 3D Printed Parts](details/details_3d_printed_parts.md)
+  * [Details 3D Printed Parts](../actuator_module_v1/details/details_3d_printed_parts.md)
 
 
 Convention Positive Motor Rotation
