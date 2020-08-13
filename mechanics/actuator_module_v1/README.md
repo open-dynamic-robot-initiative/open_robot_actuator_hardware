@@ -96,18 +96,18 @@ More information: [Details 3D Printed Parts](details/details_3d_printed_parts.md
 `The recommended printing direction for all the parts below is the positive z direction of the stl files.`
 
 ---
-<img src="details/encoder_codewheel_pwb_mount.png" width="200"> <br>
+<img src="images/encoder_codewheel_pwb_mount.png" width="200"> <br>
 
 * Encoder Codewheel PWB Mount - weight 0.3g -> [STL file](stl_files/encoder_codewheel_pwb_mount.STL)
 
   ---
-  <img src="details/transmission_pulley_center.png" width="180"> <br>
+  <img src="images/transmission_pulley_center.png" width="180"> <br>
 * Transmission Pulley AT3 T30 Center - weight 4.2g -> [STL file ](stl_files/transmission_pulley_at3_t30_center.STL)
 ---
-<img src="details/transmission_pulley_output.png" width="220"> <br>
+<img src="images/transmission_pulley_output.png" width="220"> <br>
 * Transmission Pulley AT3 T30 Output - weight 6.7g -> [STL file ](stl_files/transmission_pulley_at3_t30_output.STL)
 ---
-<img src="details/timing_belt_tensioner_roller.png" width="200"> <br>
+<img src="images/timing_belt_tensioner_roller.png" width="200"> <br>
 
 * Transmission Belt Tensioner Rollers - weight 0,2g each
 * There are STL files with different outer diameters available
@@ -130,7 +130,7 @@ More information: [Details 3D Printed Parts](details/details_3d_printed_parts.md
 * [Details Motor Shaft Preparation](details/details_motor_shaft_preparation.md)
 * [Details Center Pulley Preparation](details/details_center_pulley_preparation.md)
 * [Details Output Pulley Preparation](details/details_output_pulley_preparation.md)
-* [Details Actuator Module Assembly](details/details_assembly.md)
+* [Details Actuator Module Assembly](details/details_actuator_module_assembly.md)
 * [Details Tools](details/details_tools.md)
 * [Details Actuator Module Wiring](details/details_wires_connectors.md)
 
