@@ -207,13 +207,25 @@
 |JTAG EMULATOR XDS100V2 USB|Spectrum Digital XDS100V2 JTAG|Digi Key 702302-ND<br> Farnell 1831927||
 
 ---
-## Components Micro Driver
+## Components Micro Driver Board
 <img src="../images/resistors_micro_driver_1.jpg" width="300"> <br>*Precision Resistors for Micro Driver Electronics*
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
-|Precision Resistors 7mΩ ±1%|CRE2512-FZ-R007E-3|RS 824-0348 |Micro Driver Board|
+|Precision Resistors 7mΩ ±1%|CRE2512-FZ-R007E-3|RS 824-0348 |Phase Current Measurement Micro Driver Board|
+
+
+<img src="../images/flash_connector_8pin.jpg" width="300"> <br>*8 pin receptacle connector for flashing the micro driver boards*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
 |8 Position Receptacle Connector Through Hole 1,27mm pitch|	20021311-00008T4LF|	Digi-Key 609-3753-ND|Flash Connector on Micro Driver Board|
+
+<img src="../images/pin_headers_right_angle_1.jpg" width="300"> <br>*Right angle pin headers for connecting the motor phase wires*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Right Angle Pin Header|Molex 1 Row Right Angle Pin Header<br>Pitch 2.54mm|RS 360-6364 |Motor Phase Connection Micro Driver Board|
 
 # Power Supply
 <img src="../images/power_supply_1.jpg" width="300"> <br>*Voltcraft Power Supply*
@@ -221,6 +233,17 @@
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
 |Lab Power Supply<br>VOLTCRAFT DPPS-32-20|1-32V DC 0-20A 640 W<br>Supply Voltage 230V|Conrad 1086560-62||
+
+# Tools
+
+<img src="../images/heat_gun_1.jpg" width="300"> <br>*Heat Gun*
+
+<img src="../images/pliers_1.jpg" width="300"> <br>*Pliers*
+
+<img src="../images/soldering_iron_1.jpg" width="300"> <br>*Soldering iron with temperature control*
+
+<img src="../images/third_hand_1.jpg" width="300"> <br>*Third hand*
+
 
 ---
 ## Authors
