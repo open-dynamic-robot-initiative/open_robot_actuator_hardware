@@ -110,11 +110,11 @@ If the fit is too loose the rotor will wobble when spinning.
 
 | Motor Preparation  | Motor Shaft Preparation | Encoder Preparation |Center Pulley Preparation|
 | --- | --- | --- | --- |
-| <a href="details_motor_preparation.md"><img src="../images/motor_mod_1_1.jpg" width="200"></a>| <a href="details_motor_shaft_preparation.md"><img src="../images/motor_shaft_preparation_18.jpg" width="200"></a>  | <a href="details_encoder_preparation.md"><img src="../images/encoder_mod_7.jpg" width="200"></a>  |<a href="details_center_pully_preparation.md"><img src="../images/pulley_preparation_7.jpg" width="200"></a> |
+| <a href="details_motor_preparation.md#details-motor-preparation"><img src="../images/motor_mod_1_1.jpg" width="200"></a>| <a href="details_motor_shaft_preparation.md#details-motor-shaft-preparation"><img src="../images/motor_shaft_preparation_18.jpg" width="200"></a>  | <a href="details_encoder_preparation.md#details-encoder-preparation"><img src="../images/encoder_mod_7.jpg" width="200"></a>  |<a href="details_center_pulley_preparation.md#details-center-pulley-preparation"><img src="../images/pulley_preparation_7.jpg" width="200"></a> |
 
 | Output Pulley Preparation | Shell Preparation | Actuator Module Assembly |Actuator Module Testing|
 | --- | --- | --- | --- |
-| <a href="details_output_pulley_preparation.md"><img src="../images/output_pulley_preparation_9.jpg" width="200"></a>| <a href="details_shell_preparation.md"><img src="../../leg_2dof_v1/images/shells_1.jpg" width="200"></a>  | <a href="details_motor_module_assembly.md"><img src="../images/actuator_module_open_1.jpg" width="200"></a>  |<a href="details_actuator_module_testing.md"><img src="../images/actuator_module_1.png" width="200"></a> |
+| <a href="details_output_pulley_preparation.md#details-output-pulley-preparation"><img src="../images/output_pulley_preparation_9.jpg" width="200"></a>| <a href="details_shell_preparation.md#details-shell-preparation"><img src="../../leg_2dof_v1/images/shells_1.jpg" width="200"></a>  | <a href="details_actuator_module_assembly.md#details-actuator-module-assembly"><img src="../images/actuator_module_open_1.jpg" width="200"></a>  |<a href="details_actuator_module_testing.md#details-actuator-module-testing"><img src="../images/actuator_module_1.png" width="200"></a> |
 
 ---
 ## Authors

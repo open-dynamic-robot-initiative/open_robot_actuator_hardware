@@ -1,6 +1,6 @@
 # Details Wires and Connectors
 
-<img src="connectors_actuator_module_1.jpg" width="400"><br>*Connectors Actuator Module*
+<img src="../images/connectors_actuator_module_1.jpg" width="400"><br>*Connectors Actuator Module*
 
 ### Wires and Connectors
 | Part Name | Quantity | Ordering Information | Comments |  
@@ -12,7 +12,7 @@
 |Encoder Wires<br>LifY 0.14 mm²|5|[Kabeltronik # 1601014](https://www.kabeltronik.de/en/kabeltronik/search/art/hook-up-wire-stranded-extremely-flexible-lify-1/)|Kabeltronik ships worldwide.<br>100m on spool - different colors available.<br> For the encoders we use red, yellow, black, white and green wires.|
 
 ### Wiring Convention Encoder
-<img src="encoder_wiring_micro_driver.png" width="600"><br>*Wiring Convention Encoder with Kabeltronik Wires*
+<img src="../images/encoder_wiring_micro_driver.png" width="600"><br>*Wiring Convention Encoder with Kabeltronik Wires*
 
 ## Authors
 Felix Grimminger
