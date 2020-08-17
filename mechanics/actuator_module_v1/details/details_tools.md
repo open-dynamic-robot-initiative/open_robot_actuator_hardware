@@ -1,10 +1,18 @@
 # Details Tools
 
-<img src="../images/tap_drill.jpg" width="400"> <br>*M3 Tap*
+<img src="../images/wiha_tools_1.jpg" width="400"> <br>*Wiha Hex Drivers*
 
-<img src="../images/reamers_1.jpg" width="400"> <br>*Reamers*
+<img src="../images/tool_holders.jpg" width="400"> <br>*Tool Holders*
+
+<img src="../images/tap_drill.jpg" width="400"> <br>*M3 Tap Drill*
 
 <img src="../images/reamers_3.jpg" width="400"> <br>*Reamers*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Reamer 3,98mm||Hahn+Kolb 11624398||
+|Reamer 3,99mm||Hahn+Kolb 11624399||
+|Reamer 4,00mm||Hahn+Kolb 11624400<br>Hoffmann 1601504||
 
 <img src="../images/encoder_mod_3.jpg" width="400"> <br>*Chamfer Tool*
 

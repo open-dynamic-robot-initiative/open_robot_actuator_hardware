@@ -232,7 +232,8 @@
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
-|Lab Power Supply<br>VOLTCRAFT DPPS-32-20|1-32V DC 0-20A 640 W<br>Supply Voltage 230V|Conrad 1086560-62||
+|Lab Power Supply<br>VOLTCRAFT DPPS-32-20|1-32V DC 0-20A 640 W<br>Supply Voltage 230V|Conrad 1086560|20A max.|
+|Lab Power Supply<br>VOLTCRAFT DPPS-32-30|1-32V DC 0-30A 960 W<br>Supply Voltage 230V|Conrad 1086563|30A max.|
 
 # Tools
 
