@@ -75,7 +75,7 @@
 
 | Motor Preparation  | Motor Shaft Preparation | Encoder Preparation |Center Pulley Preparation|
 | --- | --- | --- | --- |
-| <a href="details_motor_preparation.md#details-motor-preparation"><img src="../images/motor_mod_1_1.jpg" width="200"></a>| <a href="details_motor_shaft_preparation.md#details-motor-shaft-preparation"><img src="../images/motor_shaft_preparation_18.jpg" width="200"></a>  | <a href="details_encoder_preparation.md#details-encoder-preparation"><img src="../images/encoder_1.jpg" width="200"></a>  |<a href="details_center_pulley_preparation.md#details-center-pulley-preparation"><img src="../images/pulley_preparation_7.jpg" width="200"></a> |
+| <a href="details_motor_preparation.md#details-motor-preparation"><img src="../images/motor_mod_1_1.jpg" width="200"></a>| <a href="details_motor_shaft_preparation.md#details-motor-shaft-preparation"><img src="../images/motor_shaft_preparation_18.jpg" width="200"></a>  | <a href="details_encoder_preparation.md#details-encoder-preparation"><img src="../images/encoder_1.jpg" width="200"></a>  |<a href="details_center_pulley_preparation.md#details-center-pulley-preparation"><img src="../images/pulley_preparation_1_1.jpg" width="200"></a> |
 
 | Output Pulley Preparation | Shell Preparation | Actuator Module Assembly |Actuator Module Testing|
 | --- | --- | --- | --- |
@@ -92,6 +92,7 @@
 [Back to Actuator Module](../README.md)  
 [Back to Top of Page](#details-encoder-preparation)
 
+---
 ## Authors
 Felix Grimminger
 
