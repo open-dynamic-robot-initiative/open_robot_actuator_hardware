@@ -1,8 +1,10 @@
 # Details Motor Preparation
-## Description
+
 <img src="../images/motor_mod_1.jpg" width="400"> <br>*Starting Point: Antigravity 4004 300kV from T-Motor*
 
 <img src="../images/motor_mod_1_2.jpg" width="450"> <br>*End Result: Stator and rotor separated and prepared for installation*
+
+## Description
 * this page describes how to prepare the the outrunner motor for the brushless actuator modules
 * stator and rotor are separated -> [Separating Rotor and Stator](#separating-rotor-and-stator)
 * the motor shaft is removed from the rotor -> [Removing the Motor Shaft](#removing-the-motor-shaft)

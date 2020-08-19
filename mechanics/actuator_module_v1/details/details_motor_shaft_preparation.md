@@ -1,12 +1,17 @@
 # Details Motor Shaft Preparation
-## Description
 <img src="../images/motor_shaft_preparation_1_1.jpg" width="350"> <br>*Starting Point: Components for the motor shaft assembly.*
 
 <img src="../images/motor_shaft_preparation_18.jpg" width="300"> <br>*End Result: Motor shaft, pulley and codewheel fully assembled.*
 
+## Description
 * this page describes how to prepare the the motor shaft assembly for the brushless actuator modules
 * the aluminum motor pulley and the stainless steel motor shaft are bonded with Loctite 648<br>  [-> Bonding the Pulley to the Motor Shaft](#bonding-the-pulley-to-the-motor-shaft)
-* the code wheel mount is installed and the code wheel is bonded to the mount<br> [-> Bonding the Codewheel](#bonding-the-codewheel)
+* the code wheel mount is installed and the code wheel is bonded to the mount<br> [-> Bonding the Codewheel](#bonding-the-codewheel)  
+
+
+* More information on the 3d printing: [Details 3d Printed Parts](details_3d_printed_parts.md#details-3d-printed-parts)  
+* More information on the machined part: [Details Machined Parts](details_machined_parts.md#details-machined-parts)
+
 
 
 * [PDF Drawing - Motor Shaft](../drawings/motor_shaft.PDF)
@@ -22,9 +27,9 @@
 
 <img src="../images/motor_shaft_preparation_1.png" width="300"> <br>*Make sure that the tool supports the pulley in the right position before bonding.*
 
-<img src="../images/motor_shaft_preparation_1_2.jpg" width="300"> <br>*Measure the depth of the tool using the depth gauge of your digital caliper.<br>The depth should be around 6,6mm.*
+<img src="../images/motor_shaft_preparation_1_2.jpg" width="300"> <br>*Measure the depth of the tool using the depth gauge of a digital caliper.<br>The depth should be around 6,6mm.*
 
-<img src="../images/motor_shaft_preparation_1_3.jpg" width="300"> <br>*You can also check the length of the motor shaft above the tool.<br>The motor shaft should measure about 26,8mm when it's fully inserted.*
+<img src="../images/motor_shaft_preparation_1_3.jpg" width="300"> <br>*The distance between the tool and the end of the motor shaft should be about 26,8mm.*
 
 <img src="../images/motor_shaft_preparation_1_4.jpg" width="300"> <br>*Clean the bonding surfaces with a cotton swab and ethanol.*
 
@@ -32,30 +37,33 @@
 
 <img src="../images/motor_shaft_preparation_2.jpg" width="300"> <br>*Apply a thin layer of Locitite 648 onto the bonding surfaces.*
 
-<img src="../images/motor_shaft_preparation_2_1.jpg" width="300"> <br>*Insert the motor shaft into the pulley.<br>Remove the excess Loctite from the bottom using a cotton swab.*
+<img src="../images/motor_shaft_preparation_2_1.jpg" width="300"> <br>*Insert the motor shaft into the pulley and rotate it a bit.<br>Remove the excess Loctite from the bottom using a cotton swab.*
 
 <img src="../images/motor_shaft_preparation_2_2.jpg" width="300"> <br>*Place the motor shaft and pulley on the bonding tool.<br>Make sure that the flats on the motor shaft are pointing upwards.<br>Remove the excess Loctite from the top using a cotton swab.*
 
-<img src="../images/motor_shaft_preparation_3.jpg" width="300"> <br>*Make sure that the motor shaft is fully inserted into the tool.<br>Make sure that the pulley sits flat on the surface of the tool.<br>Let the parts cure at room temperature for a couple of hours.*
+<img src="../images/motor_shaft_preparation_3.jpg" width="300"> <br>*Make sure that the motor shaft vertical and fully inserted into the tool.<br>Let the parts cure at room temperature for a couple of hours.*
 
-<img src="../images/motor_shaft_preparation_4.jpg" width="300"> <br>*Leave the parts on the tool, put them in an oven and cure for another couple of hours for full strength.*
+<img src="../images/motor_shaft_preparation_4.jpg" width="300"> <br>*Leave the parts on the tool, put them in an oven.<br>
+Cure the bond for another couple of hours for full strength.*
 
-<img src="../images/motor_shaft_preparation_5.jpg" width="300"> <br>*We cure the parts at 70 degrees celcius.*
+<img src="../images/motor_shaft_preparation_5.jpg" width="300"> <br>*We cure the parts at 70 degrees celcius for about 3 hours.*
 
-<img src="../images/motor_shaft_preparation_6.jpg" width="300"> <br>*The motor shaft and pulley assembly is now ready and can be used for the next step.*
+<img src="../images/motor_shaft_preparation_6.jpg" width="300"> <br>*The motor shaft and pulley assemblies are now ready and can be used for the next step.*
 
 ## Bonding the Codewheel
-<img src="../images/motor_shaft_preparation_9.jpg" width="300"> <br>*Motor shaft with pulley, code wheel, code wheel mount and bonding tool.*
+<img src="../images/motor_shaft_preparation_9.jpg" width="300"> <br>*Code wheel, code wheel mount, motor shaft with pulley and bonding tool.*
 
-<img src="../images/motor_shaft_preparation_7.jpg" width="300"> <br>*There are different sources for the code wheel. <br> Left side - code wheel ordered from PWB / Right side - code wheel from encoder kit. <br> Make sure to use the corresponding code wheel mount stl file.<br>[Codewheel mount for code wheel ordered from PWB](../stl_files/encoder_codewheel_pwb_mount.STL)<br>[Codewheel mount for code wheel from encoder kit](../stl_files/encoder_codewheel_kit_mount.STL)<br>All the other assembly steps are identical.*
+<img src="../images/motor_shaft_preparation_7.jpg" width="300"> <br>*There are two different sources for the code wheel. <br> A: Code wheel ordered from PWB / B: Code wheel from encoder kit. <br> Make sure to use the corresponding code wheel mount stl file.<br>[A: Codewheel mount for code wheel ordered from PWB](../stl_files/encoder_codewheel_pwb_mount.STL)<br>[B: Codewheel mount for code wheel from encoder kit](../stl_files/encoder_codewheel_kit_mount.STL)<br>All the other assembly steps are identical.*
 
-<img src="../images/motor_shaft_preparation_8.jpg" width="300"> <br>*Place the code wheel on the code wheel mount and make sure it fits before you apply glue. <br> Make sure that the code wheel is fully seated, flat and doesn't wobble when you turn it.*
+<img src="../images/motor_shaft_preparation_8.jpg" width="300"> <br>*Place the code wheel on the code wheel mount and make sure it fits before you apply glue.*
 
-<img src="../images/motor_shaft_preparation_8_1.jpg" width="300"> <br>*Sometimes the codewheel doesn't sit flat on the surface because of residue from the 3d printing.<br> Use a screw driver to scratch off the residue and try to position the codewheel.*
+<img src="../images/motor_shaft_preparation_8_2.jpg" width="300"> <br>*Make sure that the code wheel is fully seated, flat and doesn't wobble when you turn it.*
+
+<img src="../images/motor_shaft_preparation_8_1.jpg" width="300"> <br>*Sometimes the codewheel doesn't sit flat on the surface because of residue from the 3d printing.<br> Use a flat screw driver to scratch off the residue from the corner of the part.*
 
 <img src="../images/motor_shaft_preparation_10.jpg" width="300"> <br>*I find it easiest to bond the code wheel on the stator. <br> Insert the motor shaft with the flats downwards into the bearings of the stator.*
 
-<img src="../images/motor_shaft_preparation_11.jpg" width="300"> <br>*Try to place the code wheel mount on the motor shaft.<br> If the code wheel mount is too tight you can adjust the diameter with a 4mm reamer.*
+<img src="../images/motor_shaft_preparation_11.jpg" width="300"> <br>*Adjust the inner diameter of the codewheel mount with a 4mm reamer.*
 
 <img src="../images/motor_shaft_preparation_12.jpg" width="300"> <br>*Place the code wheel mount on the motor shaft and align the teeth of the pulley and the mount.<br> Push the code wheel mount all the way down.*
 
