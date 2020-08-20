@@ -20,6 +20,7 @@
 * [STL File - Tool Center Pulley Protection](../stl_files/tool_center_pulley_protection.STL)
 * [STL File - Tool Center Pulley Assembly](../stl_files/tool_center_pulley_assembly.STL)
 
+
 ## Press-Fitting the Pulleys
 
 <img src="../images/pulley_preparation_1_2.jpg" width="300"> <br>*Apply a bit of Loctite 648 onto the internal tooth profile of the 3d printed pulley.*

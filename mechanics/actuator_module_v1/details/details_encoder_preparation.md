@@ -1,8 +1,8 @@
 # Details Encoder Preparation
 
-<img src="../images/encoder_mod_1.jpg" width="300"> <br>*Starting Point: Broadcom AEDT 9810 Encoder*
+<img src="../images/encoder_mod_1_1.jpg" width="400"> <br>*Starting Point: Encoder, wires, crimps and cable.*
 
-<img src="../images/encoder_mod_1_2.jpg" width="300"> <br>*End Result: Modified Encoder with extension wires and connector*
+<img src="../images/encoder_mod_1_2.jpg" width="400"> <br>*End Result: Modified Encoder with extension wires and connector*
 
 ## Description
 * this page describes how to prepare the encoder for the brushless actuator modules
