@@ -9,10 +9,10 @@
 * this page describes how to prepare the output pulley for the brushless actuator modules
 * the shaft diameters of the output pulley are adjusted to fit the bearings <br> [-> Adjusting the Output Shaft Diameters](#adjusting-the-output-shaft-diameters)
 * two Helicoil thread inserts are installed in the mounting holes of the output pulley <br> [-> Installing Helicoil Thread Inserts](#installing-helicoil-thread-inserts)
-* **Exeception:** If you are preparing an output pulley for a Hip AA actuator module the helicoils shouldn't be installed [-> Pulley for Hip AA Actuator Module](#pulley-for-hip-aa-actuator-module)
+* **Exeception:** If you are preparing an output pulley for a Hip AA actuator module the helicoils shouldn't be installed<br> [-> Pulley for Hip AA Actuator Module](#pulley-for-hip-aa-actuator-module)
 
-
-* More information on the 3d printing: [Details 3d Printed Parts](details_3d_printed_parts.md#details-3d-printed-parts)  
+### More Information
+* More information 3d printing: [Details 3d Printed Parts](details_3d_printed_parts.md#details-3d-printed-parts)  
 * [STL File - Output Pulley](../stl_files/transmission_pulley_at3_t30_output.STL)
 
 ## Adjusting the Output Shaft Diameters

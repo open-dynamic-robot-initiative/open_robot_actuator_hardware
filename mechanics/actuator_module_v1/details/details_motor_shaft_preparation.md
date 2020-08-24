@@ -8,12 +8,9 @@
 * the aluminum motor pulley and the stainless steel motor shaft are bonded with Loctite 648<br>  [-> Bonding the Pulley to the Motor Shaft](#bonding-the-pulley-to-the-motor-shaft)
 * the code wheel mount is installed and the code wheel is bonded to the mount<br> [-> Bonding the Codewheel](#bonding-the-codewheel)  
 
-
+### More Information
 * More information on the 3d printing: [Details 3d Printed Parts](details_3d_printed_parts.md#details-3d-printed-parts)  
 * More information on the machined part: [Details Machined Parts](details_machined_parts.md#details-machined-parts)
-
-
-
 * [PDF Drawing - Motor Shaft](../drawings/motor_shaft.PDF)
 * [PDF Drawing Motor Pulley](../drawings/motor_pulley_at3_t10.PDF)
 * [STL File - Codewheel mount for code wheel ordered from PWB](../stl_files/encoder_codewheel_pwb_mount.STL)

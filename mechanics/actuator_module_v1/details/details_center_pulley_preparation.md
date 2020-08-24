@@ -7,19 +7,16 @@
 * This page describes how to prepare the center pulley and the timing belt tensioners for the brushless actuator modules
 * The center pulley consits of the 10 tooth aluminium pulley and the 30 tooth 3d printed pulley.
 * The pulleys are press-fit using an arbor press and 3d printed tools. [-> Press-Fitting the Pulleys](#press-fitting-the-pulleys)
-* The timing belt tensioners are prepared and assembled. [-> Assembling the Timing Belt Tensioners](#assembling-the-timing-belt-tensioners)
+* The timing belt tensioners are prepared and assembled. [-> Assembling the Timing Belt Tensioners](#assembling-the-timing-belt-tensioners)    
 
-
+### More Information
 * More information on the 3d printing: [Details 3d Printed Parts](details_3d_printed_parts.md#details-3d-printed-parts)  
 * More information on the machined part: [Details Machined Parts](details_machined_parts.md#details-machined-parts)
-
-
 * [PDF File - Pulley AT3 T10 Center](../drawings/center_pulley_at3_t10.PDF)
 * [STL File - Pulley AT3 T30 Center](../stl_files/transmission_pulley_at3_t30_center.STL)
 * [STL File - Timing Belt Tensioner Rollers 10mm](../stl_files/transmission_belt_tensioner_roller_10.0mm.STL)
 * [STL File - Tool Center Pulley Protection](../stl_files/tool_center_pulley_protection.STL)
 * [STL File - Tool Center Pulley Assembly](../stl_files/tool_center_pulley_assembly.STL)
-
 
 ## Press-Fitting the Pulleys
 
