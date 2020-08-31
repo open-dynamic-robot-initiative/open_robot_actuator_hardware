@@ -62,7 +62,7 @@ Cut the threads all the way through the shell*
 * the Hip FE actuator module for the 2dof legs is an **exception**
 * for all the other actuator modules ignore this step and continue below  [-> Adjusting the Bearing Seats](#adjusting-the-bearing-seats)
 * the Hip FE actuator modules for the 2dof leg require two extra M3 helicoil inserts for the second anchor point
-* the 2dof leg is used for the [8dof Quadruped Robot](../../quadruped_robot_8dof_v1) and the [Leg Test Stand](../../leg_test_stand_v1)
+* the 2dof leg is used for the [8dof Quadruped Robot](../../quadruped_robot_8dof_v1#quadruped-robot-8dof-v1) and the [Leg Test Stand](../../leg_test_stand_v1#leg-test-stand-v1)
 
 <img src="../images/shell_preparation_2_3.png" width="400"> <br>*Top View 8dof Quadruped: Second Anchor Point*
 
@@ -126,7 +126,13 @@ Cut the threads all the way through the shell*
 
 | Output Pulley Preparation | Shell Preparation | Actuator Module Assembly |Actuator Module Testing|
 | --- | --- | --- | --- |
-| <a href="details_output_pulley_preparation.md#details-output-pulley-preparation"><img src="../images/output_pulley_preparation_9.jpg" width="200"></a>| <a href="details_shell_preparation.md#details-shell-preparation"><img src="../../leg_2dof_v1/images/shells_1.jpg" width="200"></a>  | <a href="details_actuator_module_assembly.md#details-actuator-module-assembly"><img src="../images/actuator_module_open_1.jpg" width="200"></a>  |<a href="details_actuator_module_testing.md#details-actuator-module-testing"><img src="../images/actuator_module_1.png" width="200"></a>
+| <a href="details_output_pulley_preparation.md#details-output-pulley-preparation"><img src="../images/output_pulley_preparation_9.jpg" width="200"></a>| <a href="details_shell_preparation.md#details-shell-preparation"><img src="../../leg_2dof_v1/images/shells_1.jpg" width="200"></a>  | <a href="details_actuator_module_assembly.md#details-actuator-module-assembly"><img src="../images/actuator_module_open_1.jpg" width="200"></a>  |<a href="details_actuator_module_testing.md#details-actuator-module-testing"><img src="../images/actuator_module_1.png" width="200"></a> |
+
+---
+## More Details
+| Details 3d Printed Parts | Details Machined Parts | Mechanical Tools and Consumables |Electronic Components and Tools|
+| --- | --- | --- | --- |
+|<a href="details_3d_printed_parts.md#details-3d-printed-parts"><img src="../images/3d_printed_parts_2.jpg" width="200"></a>|<a href="details_machined_parts.md#details-machined-parts"><img src="../images/machined_parts_1.jpg" width="200"></a>|<a href="details_tools.md#details-mechanical-tools-and-consumables"><img src="../images/tools_1.jpg" width="200"></a>|<a href="../../../electronics/details/details_components.md#details-electronic-components-and-tools"><img src="../../../electronics/images/components_tools_1.jpg" width="200"></a>|
 
 ---
 ## More Information
@@ -134,7 +140,7 @@ Cut the threads all the way through the shell*
 [Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
 [Open Dynamic Robot Initiative - Forum](https://odri.discourse.group/categories)  
 [Open Dynamic Robot Initiative - Paper](https://arxiv.org/pdf/1910.00093.pdf)  
-[Hardware Overview](../../README.md#open-robot-actuator-hardware)  
+[Hardware Overview](../../../README.md#open-robot-actuator-hardware)  
 [Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)  
 [Back to Actuator Module](../README.md)  
 [Back to Top of Page](#details-shell-preparation)

@@ -119,23 +119,6 @@ More information: [Details 3D Printed Parts](details/details_3d_printed_parts.md
 * 11.5mm Transmission Belt Tensioner Roller -> [STL file](stl_files/transmission_belt_tensioner_roller_11.5mm.STL)
 ---
 
-## More Details
-* [Details 3D Printed Parts](details/details_3d_printed_parts.md)  
-* [Details Machined Parts and Technical Drawings](details/details_machined_parts.md)
-* [Details Encoder and Codewheel](details/details_encoder.md)  
-* [Details Encoder Preparation](details/details_encoder_preparation.md)  
-* [Details Encoder Kit Disassembly](details/details_encoder_kit_disassembly.md)
-* [Details Shell Preparation](details/details_shell_preparation.md)
-* [Details Motor Preparation](details/details_motor_preparation.md)
-* [Details Motor Shaft Preparation](details/details_motor_shaft_preparation.md)
-* [Details Center Pulley Preparation](details/details_center_pulley_preparation.md)
-* [Details Output Pulley Preparation](details/details_output_pulley_preparation.md)
-* [Details Actuator Module Assembly](details/details_actuator_module_assembly.md)
-* [Details Tools](details/details_tools.md)
-* [Details Actuator Module Wiring](details/details_wires_connectors.md)
-
----
-
 ## Bill of Materials - Brushless Actuator Module Core
 <img src="images/actuator_module_core_1.png" width="400">
 
@@ -183,17 +166,61 @@ More information: [Details 3D Printed Parts](details/details_3d_printed_parts.md
 |Washers Timing Belt Tensioner<br>M3 Washer|2|[Online Schrauben](https://online-schrauben.de/shop/Scheiben-Federringe/ISO-7092-Unterlegscheiben-fuer-Zylinderkopfschrauben-aehnl.-DIN-433/Edelstahl-Rostfrei-A2-200-HV)<br>[McMaster # 90965A130](https://www.mcmaster.com/90965A130/)|Stainless Steel<br>Online Schrauben shipps within Europe.|
 
 ---
+## Details Wires and Connectors
+
+<img src="images/connectors_actuator_module_1.jpg" width="400"><br>*Connectors Actuator Module*
+
+### Wires and Connectors
+| Part Name | Quantity | Ordering Information | Comments |  
+| --- | :---: | --- | --- |
+|Motor Phase Connectors 2mm gold<br>Reely RE-1373188|3|[Conrad # 1373188](https://www.conrad.com/p/reely-1373188-battery-plug-2-mm-gold-plated-2-pair-1373188)<br>[HobbyKing](https://hobbyking.com/en_us/2mm-gold-connectors-10-pairs-20pc.html?___store=en_us)|Conrad: 2 pairs per set<br>HobbyKing 10 pairs per set|
+|Motor Phase Wires<br>LiY 0.50 mm² black|3|[Kabeltronik # 1601050](https://www.kabeltronik.de/en/electronics-industry/hook-up-wires-stranded/art/hook-up-wire-stranded-extremely-flexible-lify-3/31)<br>[Conrad # 609337](https://www.conrad.com/p/conrad-components-609337-strand-liy-1-x-050-mm-black-25-m-609337)<br>[McMaster # 8054T14](https://www.mcmaster.com/8054t14-8054T184/)|Kabeltronik ships worldwide.<br>100m on spool. <br>The Kabeltronik wires are the most flexible.|
+|Encoder Connector<br>Hirose DF13 Socket 5 Pin|1|[RS # 143-015](https://americas.rsdelivers.com/product/hirose/df13-5s-125c/hirose-df13-male-connector-housing-125mm-pitch-5/0143015)<br>[DigiKey # H2182-ND](https://www.digikey.com/products/en?keywords=H2182-ND)|The Hirose DF13 Crimp Tool is required for crimping the wires.<br> [RS # 503-8331](https://americas.rsdelivers.com/product/hirose/df13-tb2630hc/hirose-plier-crimping-tool-for-df13-crimp/5038331)|
+|Encoder Connector Crimp Terminals|5|[RS 503-8325](https://americas.rsdelivers.com/product/hirose/df13-2630scf/hirose-df13-female-crimp-terminal-contact-26awg/5038325) <br> [Digi-Key H9992CT-ND](https://www.digikey.com/products/en?keywords=H9992CT-ND)|The Hirose DF13 Crimp Tool is required for crimping the wires.<br> [RS # 503-8331](https://americas.rsdelivers.com/product/hirose/df13-tb2630hc/hirose-plier-crimping-tool-for-df13-crimp/5038331)|
+|Encoder Wires<br>LifY 0.14 mm²|5|[Kabeltronik # 1601014](https://www.kabeltronik.de/en/kabeltronik/search/art/hook-up-wire-stranded-extremely-flexible-lify-1/)|Kabeltronik ships worldwide.<br>100m on spool - different colors available.<br> For the encoders we use red, yellow, black, white and green wires.|
+
+### Wiring Convention Encoder
+<img src="images/encoder_wiring_micro_driver.png" width="600"><br>*Wiring Convention Encoder with Kabeltronik Wires*
+
+---
 ## PDF Drawing
 View this pdf file to get a better overview of the actuator module assembly.
 
-<a href="_actuator_module.PDF"><img src="images/actuator_module_pdf.png" width="500"></a><br>*Actuator Module Overview - Click on picture to view PDF drawing.*
+<a href="_actuator_module.PDF"><img src="images/actuator_module_pdf.png" width="400"></a><br>*Actuator Module Overview - Click on picture to view PDF drawing.*
 
 ---
 ## 3D Assembly File
 Download and open the eDrawing file below to explore the actuator module assembly.  
 To open the file you will need to download and install the free eDrawings viewer [here](https://www.edrawingsviewer.com/download-edrawings).  
 
-<a href="_actuator_module.EASM"><img src="images/actuator_module_edrawing.png" width="500"></a><br>*Actuator Module Overview - Click on picture to download and view the 3d assembly file.*
+<a href="_actuator_module.EASM"><img src="images/actuator_module_edrawing.png" width="400"></a><br>*Actuator Module Overview - Click on picture to download and view the 3d assembly file.*
+
+---
+## Step-by-Step Instructions
+
+| Motor Preparation  | Motor Shaft Preparation | Encoder Preparation |Center Pulley Preparation|
+| --- | --- | --- | --- |
+| <a href="details/details_motor_preparation.md#details-motor-preparation"><img src="images/motor_mod_1_1.jpg" width="200"></a>| <a href="details/details_motor_shaft_preparation.md#details-motor-shaft-preparation"><img src="images/motor_shaft_preparation_18.jpg" width="200"></a>  | <a href="details/details_encoder_preparation.md#details-encoder-preparation"><img src="images/encoder_1.jpg" width="200"></a>  |<a href="details/details_center_pulley_preparation.md#details-center-pulley-preparation"><img src="images/pulley_preparation_1_1.jpg" width="200"></a> |
+
+| Output Pulley Preparation | Shell Preparation | Actuator Module Assembly |Actuator Module Testing|
+| --- | --- | --- | --- |
+| <a href="details/details_output_pulley_preparation.md#details-output-pulley-preparation"><img src="images/output_pulley_preparation_9.jpg" width="200"></a>| <a href="details/details_shell_preparation.md#details-shell-preparation"><img src="images/shells_1.jpg" width="200"></a>  | <a href="details/details_actuator_module_assembly.md#details-actuator-module-assembly"><img src="images/actuator_module_open_1.jpg" width="200"></a>  |<a href="details/details_actuator_module_testing.md#details-actuator-module-testing"><img src="images/actuator_module_1.png" width="200"></a> |
+
+---
+## More Details
+| Details 3d Printed Parts | Details Machined Parts | Mechanical Tools and Consumables |Electronic Components and Tools|
+| --- | --- | --- | --- |
+|<a href="details/details_3d_printed_parts.md#details-3d-printed-parts"><img src="images/3d_printed_parts_2.jpg" width="200"></a>|<a href="details/details_machined_parts.md#details-machined-parts"><img src="images/machined_parts_1.jpg" width="200"></a>|<a href="details/details_tools.md#details-mechanical-tools-and-consumables"><img src="images/tools_1.jpg" width="200"></a>|<a href="../../electronics/details/details_components.md#details-electronic-components-and-tools"><img src="images/components_tools_1.jpg" width="200"></a>|
+
+---
+## More Information
+[Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
+[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
+[Open Dynamic Robot Initiative - Forum](https://odri.discourse.group/categories)  
+[Open Dynamic Robot Initiative - Paper](https://arxiv.org/pdf/1910.00093.pdf)  
+[Hardware Overview](../../README.md#open-robot-actuator-hardware)  
+[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)  
+[Back to Top of Page](#brushless-actuator-module-v1)
 
 ---
 ## Authors
@@ -204,11 +231,3 @@ BSD 3-Clause License
 
 ## Copyright
 Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
-
-## More Information
-[Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
-[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
-[Open Dynamic Robot Initiative - Forum](https://odri.discourse.group/categories)  
-[Open Dynamic Robot Initiative - Paper](https://arxiv.org/pdf/1910.00093.pdf)  
-[Hardware Overview](../../README.md#open-robot-actuator-hardware)  
-[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)
