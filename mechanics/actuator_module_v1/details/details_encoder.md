@@ -23,19 +23,17 @@ So there are two options:
 * Encoder Codewheel Kit Mount -> [STL file](../stl_files/encoder_codewheel_kit_mount.STL)
 
 ### Option B - Codewheel Fabrication
-<img src="../images/code_wheel_pwb_1.jpg" width="400"> <br>*Codewheel fabricated by PWB*  
-
-We have ordered the codewheels from PWB in Germany. [PWB Website](https://www.pwb-encoders.com)  
-Broadcom has codewheel manufacturer lists for different countries.  
-We cannot share the list here but you can ask the Broadcom support for a list of code wheel suppliers in your region.
+<img src="../images/code_wheel_pwb_1.jpg" width="300"> <br>*Codewheel fabricated by PWB*  
 
 ### Instructions:
 
 * Find and order the AEDT-9810-Z00 encoder
-* Find a codewheel manufacturer in your region (ask the Broadcom Support for suppliers)
-* Ask them for a quote for producing a 5000cpr codewheel with index for the AEDT9810 encoder
-* Details: 625 lines / optical radius:11mm / disc diameter: 25,56mm / Inner bore diameter: 7mm
-* Use the correct stl to print encoder mount (the encoder mounts for the two options are different)
+* The encoder is available at Mouser and DigiKey:<br>Mouser # 630-AEDT9810Z00 / DigiKey # 516-3256-ND
+* Email Mr. Oberländer at PWB and ask for a quote for the codewheels with the ordering information below.
+* Email address: oberlaender@pwb-encoders.com
+* Ordering information codewheel: Order Number 104768 / Codewheel with index / 625cpr 3K for AEDT98X / ID 7mm / OD 25,56mm
+* PWB ships worldwide.  [-> PWB Website](https://www.pwb-encoders.com)
+* Use the stl file below to print encoder mount (the encoder mounts for the two options are different)
 * Encoder Codewheel PWB Mount -> [STL file](../stl_files/encoder_codewheel_pwb_mount.STL)
 
 ---
