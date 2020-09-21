@@ -1,6 +1,8 @@
 # Quadruped Robot 12dof v1
 <img src="images/solo_12_cad_1.png" width="400"><br>*CAD model 12 dof quadruped robot*  
 
+<img src="images/solo12_8.jpg" width="400"><br>*12dof quadruped robot*<br>  
+
 ## Dimensions
 <img src="images/solo_12_dimensions.png" width="500"> <br>  
 
@@ -18,7 +20,7 @@
 
 ## Pictures
 <img src="images/solo_12_mechanics_1.jpg" width="400"><br>*12dof quadruped without electronics*<br>  
-<img src="images/solo12_1.jpg" width="400"><br>*12dof quadruped fully assembled*<br>  
+<img src="images/solo12_1.jpg" width="400"><br>*12dof quadruped with electronics*<br>  
 <img src="images/solo12_2.jpg" width="400"><br>*12dof quadruped top view*<br>
 <img src="images/solo12_4.jpg" width="400"><br>*12dof quadruped front view*<br>  
 <img src="images/solo12_3.jpg" width="400"><br>*12dof quadruped - legs folded for transport*<br>  
