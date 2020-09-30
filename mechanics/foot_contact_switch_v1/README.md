@@ -83,7 +83,9 @@ Special thanks to Joshi Walzog for designing and manufacturing the electronics b
 
 * [Bill Of Materials Foot Contact Switch - PDF Document](documentation/bom_foot_contact_switch_v1.pdf)
 * [Bill Of Materials - Excel Document](documentation/bom_foot_contact_switch_v1.xlsx)  
-* [Eagle Files - Zipped Folder](documentation/foot_contact_switch_v1.zip)
+* [Eagle Files - Zipped Folder](documentation/eagle_files.zip)
+* [Gerber Files - Zipped Folder](documentation/gerber_files.zip)
+
 
 To view the Eagle files you need to download the free [Eagle PCB Design Software](https://www.autodesk.com/products/eagle/free-download#) for Windows, Mac and Linux.
 __________
