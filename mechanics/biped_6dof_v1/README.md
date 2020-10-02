@@ -143,7 +143,7 @@ The simplified STL files for visualization and simulation can be found here: [ST
 
 ---
 ## Bill of Materials - Biped Robot 6dof
-<img src="images/biped_cad_2.png" width="250">
+<img src="images/biped_cad_3.png" width="250">
 
 | Part Name | Quantity | Ordering Information | Comments |  
 | --- | --- | --- | --- |   
@@ -181,7 +181,7 @@ The simplified STL files for visualization and simulation can be found here: [ST
 ## View the biped cad model in your web browser
 <br>
 
-<a href="https://open-dynamic-robot-initiative.github.io/cad_files/biped"><img src="images/biped_cad_2.png" width="250"></a><br> *Biped Robot 6dof - Click on the picture to view the biped cad model in your browser*
+<a href="https://open-dynamic-robot-initiative.github.io/cad_files/biped"><img src="images/biped_cad_3.png" width="250"></a><br> *Biped Robot 6dof - Click on the picture to view the biped cad model in your browser*
 
 ---
 ## Authors
