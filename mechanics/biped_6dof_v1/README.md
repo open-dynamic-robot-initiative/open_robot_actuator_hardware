@@ -95,6 +95,9 @@ All the STL files for 3d printing the body structure can be found here: [STL Fil
 * [Stand Attachment - STL file](stl_files/stand_attachment.STL)<br>
 * weight: 23g
 ---
+<img src="details/master_board_protection.png" width="250"> <br>
+* [Master Board Protection - STL file](stl_files/body_structure_master_board_protection.STL)<br>
+---
 
 ## Off-the-shelf Components
 

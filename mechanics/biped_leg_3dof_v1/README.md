@@ -19,6 +19,39 @@
 
 <img src="images/biped_hip_aa_module_2.png" width="250"> <br> <br>
 
+---
+## Upper Leg Module
+
+<img src="images/upper_leg_200mm_1.png" width="400"> <br>*Extended upper leg module for biped robot* <br>
+
+* initially we were using the standard upper leg module with a segment length of 160mm for the biped
+* we are now using an extended upper leg structure with 200mm segment length
+* the lower leg length was also increased to 200mm
+* the longer legs help to decrease the natural frequency of the system
+* the interfaces of both versions are compatible and all the internal parts are identical
+
+<img src="images/upper_leg_comparison_1.png" width="350"> <br>*Comparison Upper Leg Versions - Top: Upper Leg 160mm / Bottom: Upper Leg 200mm* <br>
+
+---
+## Lower Leg with Passive Ankle Joint
+
+<img src="images/lower_leg_passive_ankle_1.png" width="350"> <br>*Foot with passive ankle joint* <br>
+
+
+* the length of the lower leg was increased to 200mm and a foot with passive ankle joint was added
+* the line contact of the new foot helps to stabilize yaw angle of the robot
+
+<img src="images/lower_leg_comparison_1.jpg" width="350"> <br>*Comparison Lower Leg Versions:<br>Lower Leg with point contact and lower leg with passive ankle joint* <br>
+
+## Off-the-shelf-components
+<img src="details/components_foot_ankle.jpg" width="350"> <br>
+
+* Steel pin - 5mm diameter / length 28mm
+* Silicone tube - O.D. 12mm / I.D. 8mm / RS 163-9362
+* Cut 4 silicone tube pieces - 2 x 25mm length and 2 x 8mm length
+* M2,5 x 20mm socket head cap screw with washers and locknut
+* Rubber band
+
 ## 3D Printed Parts
 `The recommended printing direction for all the parts below is the positive z direction of the stl file.`
 
@@ -56,6 +89,24 @@ All the STL files for 3d printing the biped legs can be found here: [STL Files B
 * [Hip FE Structure Left Side Cover - STL file](stl_files/hip_fe_structure_left_side_cover.STL)<br>
 * weight: 16g
 ---
+<img src="details/upper_leg_structure_base_200mm.png" width="350"> <br>
+* [Upper Leg Structure Base 200mm - STL file](stl_files/upper_leg_structure_base_200mm.STL)<br>
+* weight: 35g
+---
+<img src="details/upper_leg_structure_cover_200mm.png" width="350"> <br>
+* [Upper Leg Structure Cover 200mm - STL file](stl_files/upper_leg_structure_cover_200mm.STL)<br>
+* weight: 15g
+---
+<img src="details/lower_leg_structure.png" width="350"> <br>
+* [Lower Leg Structure 200mm - STL file](stl_files/lower_leg_structure_200mm.STL)<br>
+* printed with sparse double dense printer setting
+* weight: 28g
+---
+<img src="details/foot.png" width="250"> <br>
+* [Foot Structure - STL file](stl_files/foot_structure.STL)<br>
+* weight: 12g
+---
+
 ## Authors
 Felix Grimminger
 
