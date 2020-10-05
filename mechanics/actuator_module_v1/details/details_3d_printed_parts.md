@@ -1,6 +1,58 @@
 # Details 3D Printed Parts
 
-## Shells
+## Description
+* there are two categories of parts for which we use the following different printing technologies for best results.
+* for **large structural parts** like the shells and the body structures of the robots we use a **FDM** (Fused Deposition Modeling) printer  or a **SLS** (Selective Laser Sintering) printer.
+* for the **small parts** that require **high precision** like the pulleys for the timing belt transmission we use a **Multijet** or **SLA** (Stereolithography) printer.
+
+<img src="../images/3d_printing_1.jpg" width="400"><br>*Comparison 3d printed parts: Body structure from FDM printer and pulley from Multijet printer.*  
+
+---
+## Printing Tolerances
+
+<img src="../images/shell_preparation_3_1.png" width="500"><br>*Shell base and shell cover - the critical surfaces are colored yellow*  
+
+* the printing tolerances vary significantly depending on the supplier, the printing technology and even between orders from the same supplier
+* the critical surfaces for the shells are the bearing seats (colored yellow in the screenshot above)
+* if the bearing seat diameters are too tight you can use a end mill to adjust the diameter
+* if the bearing seat diameters are much too large the bearings will not be held securely and the parts might not be usable
+* ideally you can produce the 3d printed parts on your own 3d printer
+* that allows you to do test prints and adjust the printer settings or the STL files if necessary
+* at MPI in Tübingen we use the following two 3d printers to produce and evaluate the parts for our robots
+---
+## Printers at MPI Tübingen
+
+### Fortus FDM Printer
+<img src="../images/fortus.jpg" width="200"><br>*Fortus 360mc FDM Printer. Picture source: Stratasys*
+
+We use the following material and settings:
+* Model material: PC-ABS material black
+* Support material: SR20
+* T12 nozzle for material and support - slice height 0,178mm
+* Mechanical removal or alkaline bath removal of the support material
+* Standard solid interior printer setting for all the shell and body parts
+* Sparse double dense printer setting for the lower legs
+
+<img src="../images/3d_printing_3.jpg" width="400"><br>*3d printed shell parts on the build sheet - the brown material is the support.*
+
+<img src="../images/3d_printing_2.jpg" width="400"><br>*Lower leg printed with sparse double dense setting.<br>For the bottom part the printer was stopped half way to reveal the internal structure.*  
+
+### Projet Multijet Printer
+<img src="../images/projet.jpg" width="200"><br>*Projet 3500 HD Max Multijet Printer. Picture source: 3D Systems*  
+
+* Model material: VisiJet M3X
+* Support material: S300 Wax
+* Oven for removing the wax support material
+* Ultrasonic bath with baby oil for removing remaining wax
+* Ultrasonic bath with soap water for cleaning the parts
+* Quenching in ice water
+
+<img src="../images/3d_printed_parts_1.jpg" width="400"><br>*All the parts that require high precision and detail are printed on our Projet 3d printer.*
+
+<img src="../images/3d_printing_4.jpg" width="400"><br>*Projet parts on build plate.*
+
+---
+## Ordering Shells from 3D Systems
 <img src="../../leg_2dof_v1/images/shells_1.jpg" width="500"> <br>  
 
 The shells should be printed on a selective laser sintering printer using high strength material.  
