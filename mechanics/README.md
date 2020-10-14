@@ -2,17 +2,23 @@
 
 <br>**Klick on the pictures below for more information**
 
-| Quadruped 8dof  | Quadruped 12dof | Biped 6dof | TriFingerEdu |
+| Quadruped 8dof v2 | Quadruped 12dof | Biped 6dof | TriFingerEdu |
 | ---------------  | ------------- |------------- |------------- |
-| <a href="quadruped_robot_8dof_v1/README.md#quadruped-robot-8dof-v1"><img src="quadruped_robot_8dof_v1/images/quadruped_8dof_jump_1.jpg" width="300"></a>| <a href="quadruped_robot_12dof_v1/README.md#quadruped-robot-12dof-v1"><img src="quadruped_robot_12dof_v1/images/solo_12_cad_1.png" width="300"></a>  |<a href="biped_6dof_v1/README.md#biped-robot-6dof-v1"><img src="biped_6dof_v1/images/biped_navigation.png" width="210"></a>  |  <a href="tri_finger_edu_v1/README.md#trifingeredu-v1"><img src="tri_finger_edu_v1/images/manipulator_navigation.jpg" width="300"></a>   |
+| <a href="quadruped_robot_8dof_v2/README.md#quadruped-robot-8dof-v2"><img src="quadruped_robot_8dof_v2/images/solo8_v2_cad_1.png" width="300"></a>  | <a href="quadruped_robot_12dof_v1/README.md#quadruped-robot-12dof-v1"><img src="quadruped_robot_12dof_v1/images/solo_12_cad_1.png" width="300"></a>  |<a href="biped_6dof_v1/README.md#biped-robot-6dof-v1"><img src="biped_6dof_v1/images/biped_navigation.png" width="210"></a>  |  <a href="tri_finger_edu_v1/README.md#trifingeredu-v1"><img src="tri_finger_edu_v1/images/manipulator_navigation.jpg" width="300"></a>   |
 
-| 2dof Leg  | 3dof Leg | Biped Leg |FingerEdu |
+| 2dof Leg v2  | 3dof Leg | Biped Leg |FingerEdu |
 | ------------- | ------------- |------------- |------------- |
-| <a href="leg_2dof_v1/README.md#leg-2dof-v1"><img src="leg_2dof_v1/images/leg_2dof_1.png" width="350"></a>| <a href="leg_3dof_v1/README.md#leg-3dof-v1"><img src="leg_3dof_v1/images/3dof_leg_cad_1.png" width="300"></a>  | <a href="biped_leg_3dof_v1/README.md#biped-leg-3dof-v1"><img src="biped_leg_3dof_v1/images/biped_leg_2.png" width="300"></a>  |<a href="finger_edu_v1/README.md#fingeredu-v1"><img src="finger_edu_v1/images/finger_navigation.jpg" width="300"></a>  |
+| <a href="leg_2dof_v2/README.md#leg-2dof-v2"><img src="leg_2dof_v2/images/2dof_leg_v2_cad_1.png" width="250"></a>  | <a href="leg_3dof_v1/README.md#leg-3dof-v1"><img src="leg_3dof_v1/images/3dof_leg_cad_1.png" width="300"></a>  | <a href="biped_leg_3dof_v1/README.md#biped-leg-3dof-v1"><img src="biped_leg_3dof_v1/images/biped_leg_2.png" width="300"></a>  |<a href="finger_edu_v1/README.md#fingeredu-v1"><img src="finger_edu_v1/images/finger_navigation.jpg" width="300"></a>  |
 
-| Actuator Module  | Dual Motor Testbed | Leg Test Stand |Foot Contact Switch |
+| Actuator Module  | Dual Motor Testbed | NYU Finger |
+| ---------------  | ------------- |------------- |
+| <a href="actuator_module_v1/README.md#brushless-actuator-module-v1"><img src="actuator_module_v1/images/actuator_module_1.png" width="300"></a>| <a href="dual_motor_testbed_v1/README.md#dual-motor-testbed-v1"><img src="dual_motor_testbed_v1/images/dual_motor_testbed_1.jpg" width="300"></a>  | <a href="nyu_finger_v1/README.md#nyu-finger-v1"><img src="nyu_finger_v1/images/nyu_finger_cad_3.png" width="400"></a>  |
+
+---
+### Old versions for reference
+| Quadruped 8dof v1 | 2dof Leg v1 | Leg Test Stand v1| Foot Contact Switch |
 | ---------------  | ------------- |------------- |------------- |
-| <a href="actuator_module_v1/README.md#brushless-actuator-module-v1"><img src="actuator_module_v1/images/actuator_module_1.png" width="300"></a>| <a href="dual_motor_testbed_v1/README.md#dual-motor-testbed-v1"><img src="dual_motor_testbed_v1/images/dual_motor_testbed_1.jpg" width="300"></a>  |<a href="leg_test_stand_v1/README.md#leg-test-stand-v1"><img src="leg_test_stand_v1/images/leg_test_stand_1.png" width="300"></a>   | <a href="foot_contact_switch_v1/README.md#foot-contact-switch-v1"><img src="foot_contact_switch_v1/images/foot_sensor.jpg" width="350"></a>  |
+| <a href="quadruped_robot_8dof_v1/README.md#quadruped-robot-8dof-v1"><img src="quadruped_robot_8dof_v1/images/quadruped_8dof_jump_1.jpg" width="300"></a>|<a href="leg_2dof_v1/README.md#leg-2dof-v1"><img src="leg_2dof_v1/images/leg_2dof_1.png" width="350"></a> |<a href="leg_test_stand_v1/README.md#leg-test-stand-v1"><img src="leg_test_stand_v1/images/leg_test_stand_1.png" width="300"></a>|<a href="foot_contact_switch_v1/README.md#foot-contact-switch-v1"><img src="foot_contact_switch_v1/images/foot_sensor.jpg" width="350"></a>|
 
 ---
 ## Step-by-Step Instructions
