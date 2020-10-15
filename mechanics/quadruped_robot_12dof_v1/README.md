@@ -39,7 +39,8 @@
 <img src="images/imu_3dm_cx5_25_1.jpg" width="300"> <br>
 * Lord Microstrain 3DM-CX5-25
 * Weight: 13g
-* Extended measurement range
+* [Lord Microstrain webpage](https://www.microstrain.com/inertial/3dm-cx5-25)
+* We use the imu with an extended measurement range
   * Gyro Rate: +/- 900 deg/sec.
   * Accelerometer range: +/- 20G
 ---

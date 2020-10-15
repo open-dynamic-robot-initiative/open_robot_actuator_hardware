@@ -53,6 +53,11 @@
 
 * Lord Microstrain 3DM-CX5-25
 * Weight: 13g
+* [Lord Microstrain webpage](https://www.microstrain.com/inertial/3dm-cx5-25)
+* We use the imu with an extended measurement range
+  * Gyro Rate: +/- 900 deg/sec.
+  * Accelerometer range: +/- 20G
+
 ---
 ## 3D Printed Parts
 `The recommended printing direction for all the parts below is the positive z direction of the stl file.`
