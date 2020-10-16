@@ -39,7 +39,7 @@ We modified the original AT3 tooth profile in order to reduce backlash.**
 #### Instructions
 
 * [PDF Drawing Wire EDM Geometry](../drawings/pulley_at3_t10_wire_edm.PDF)  
-* [DXF File Wire EDM Geometry](../drawings/pulley_at3_t10_wire_edm.DXF)
+* [DXF File Wire EDM Geometry](../drawings/pulley_at3_t10_wire_edm.zip)
 
 ---
 
