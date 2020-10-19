@@ -61,6 +61,12 @@
 * [Body Structure Top - STL file](stl_files/body_structure_top.STL)<br>
 * weight: 35g
 ---
+<img src="images/body_structure_top_vicon.png" width="400"> <br>
+* [Body Structure Top Vicon- STL file](stl_files/body_structure_top_vicon.STL)<br>
+* weight: 37g
+* attachment points for Vicon markers
+---
+
 <img src="images/stand_adapter.png" width="250"> <br>
 * [Stand Adapter - STL file](stl_files/stand_adapter.STL)<br>
 ---
