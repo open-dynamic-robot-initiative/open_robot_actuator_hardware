@@ -99,19 +99,13 @@ ___
 Quadruped Robot In The Dark
 ---------------------------
 <img src="images/solo_in_dark_1.jpg" width="500"> <br>*In the picture you can see the light from the foot sensor leds and the microcontroller status leds*
-____
 
-Next steps
---------------
-* perform a jump onto a 24cm box
-* wireless communication
-* onboard batteries
-* onboard IMU
-* 12 degrees of freedom - add Hip AA degree of freedom
+---
+## View the quadruped cad model in your web browser <br>
 
-<img src="images/quadruped_jump_1.jpg" width="600"> <br>
+<a href="https://open-dynamic-robot-initiative.github.io/cad_files/quadruped_8dof_v1"><img src="images/quadruped_cad_1.png" width="300"></a><br> *Quadruped Robot 8dof v1 <br> Click on the picture to view the biped cad model in your browser*
 
-
+---
 Authors
 --------
 Felix Grimminger

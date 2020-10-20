@@ -85,6 +85,11 @@
 |3|Spare|0|1|1|
 
 ---
+## View the NYU finger cad model in your web browser <br>
+
+<a href="https://open-dynamic-robot-initiative.github.io/cad_files/nyu_finger"><img src="images/nyu_finger_cad_1.png" width="450"></a><br> *NYU Finger <br> Click on the picture to view the NYU finger cad model in your browser*
+
+---
 
 ## Authors
 Felix Grimminger

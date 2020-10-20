@@ -108,6 +108,11 @@ Helicoil Threaded Inserts|8|M3x6 Helicoil<br>||
 <img src="images/body_structure_preparation_4.png" width="500"><br>
 
 ---
+## View the quadruped cad model in your web browser <br>
+
+<a href="https://open-dynamic-robot-initiative.github.io/cad_files/quadruped_8dof_v2"><img src="images/solo8_v2_cad_2.png" width="300"></a><br> *Quadruped Robot 8dof v2 <br> Click on the picture to view the biped cad model in your browser*
+
+---
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
 [Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
