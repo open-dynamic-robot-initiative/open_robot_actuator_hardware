@@ -134,7 +134,7 @@ We order the bearings in stainless steel from SBN.
 
 <a href="details/biped_vicon_marker_positions.PDF"><img src="details/biped_vicon_marker_positions_1.png" width="300"></a><br>*Vicon marker positions - Click on picture above to view the PDF drawing*
 
-* You can download the Vicon object here: [Biped Vicon Object](details/biped.vsk)
+* You can download the Vicon object here: [Biped Vicon Object](details/biped_vicon_object.zip)
 ---
 
 ### 3D Model for Visualization

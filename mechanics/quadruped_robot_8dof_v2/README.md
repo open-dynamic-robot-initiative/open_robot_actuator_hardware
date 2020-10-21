@@ -94,6 +94,15 @@
 |Helicoil Threaded Inserts|25|M3x4,5 Helicoil<br>||
 Helicoil Threaded Inserts|8|M3x6 Helicoil<br>||
 
+## Vicon Object
+
+<img src="images/vicon_object_1.jpg" width="350"> <br>*Vicon Object - weight 48g* <br>
+
+<img src="images/vicon_marker_placement.png" width="400"> <br>*Vicon Marker Posititions*
+
+* You can download the Vicon object here: [Quadruped 8dof v2 Vicon Object](details/quadruped_8dof_v2_vicon_object.zip)
+
+---
 ## Preparing the 3d printed parts
 
 <img src="images/body_structure_preparation_1.png" width="500"><br>
