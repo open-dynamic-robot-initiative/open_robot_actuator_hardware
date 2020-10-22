@@ -1,15 +1,25 @@
-Leg 3dof v1
-=======================
+# Leg 3dof v1
+
 <img src="images/3dof_leg_cad_1.png" width="400"><br>*CAD model 3 dof leg*  
 
-Description
-----------------
+## Description
 <img src="images/3dof_actuator_modules_1.jpg" width="400"><br>*Actuator modules - Upper Leg, Hip FE and Hip AA*
 
-3D Printed Parts
------------------
+## 3D Printed Parts
 
 * The STL files for 3d printing the shells of the 3dof leg can be found here: [STL files 3dof leg](stl_files).
+
+<img src="images/hip_aa_module_shell_base_1.png" width="400"><br>
+
+<img src="images/hip_aa_module_shell_cover_1.png" width="400"><br>
+
+<img src="images/hip_fe_module_shell_base_1.png" width="400"><br>
+
+<img src="images/hip_fe_module_shell_cover_1.png" width="400"><br>
+
+<img src="images/upper_leg_module_shell_base_1.png" width="400"><br>
+
+<img src="images/upper_leg_module_shell_cover_1.png" width="400"><br>
 
 ## Joint Rotation Limiter
 
@@ -22,13 +32,12 @@ Description
 * we use 12mm x 8mm latex hose sections to soften impacts
 * drill the square holes to 2mm and tap for M2,5
 * use M2,5 x 8 and M2,5 x 10 screws for attachment
-
-
 * Stopper upper leg and lower leg base : [STL file](stl_files/stopper_upper_lower_leg_base.STL)
 * Stopper upper leg and lower leg cover : [STL file](stl_files/stopper_upper_lower_leg_cover.STL)
 * Stopper upper leg base : [STL file](stl_files/stopper_upper_leg_base.STL)
 * Stopper upper leg cover : [STL file](stl_files/stopper_upper_leg_cover.STL)  
-____
+
+---
 
 Authors
 --------
