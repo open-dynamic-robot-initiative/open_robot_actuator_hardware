@@ -21,9 +21,11 @@
 <img src="../quadruped_robot_12dof_v1/images/master_board_v2_1.jpg" width="300"> <br> *Master board v2 - weight: 19g*
 * Custom electronics board -> [Master Board Documentation](https://github.com/open-dynamic-robot-initiative/master-board#master-board)
 ---
-### Micro Driver
-<img src="../quadruped_robot_12dof_v1/images/micro_driver_stack_2.jpg" width="300"> <br> *Micro Driver v2 - Stack with 3 cards - weight: 41g*
+### Micro Driver Electronics
+<img src="images/micro_driver_stack.jpg" width="300"> <br> *Micro Driver v2 - Stack with 2 cards - weight: 32g*
 
+* each micro driver board controls 2 brushless motors
+* there is a stack with 2 cards in the front and in the back of the robot
 * Custom electronics board -> [Micro Driver Board Documentation](../../electronics/micro_driver_electronics/README.md)
 ---
 ### Inertia Measurement Unit
@@ -37,6 +39,8 @@
 ---
 ## 3D Printed Parts
 <img src="images/part_overview_body_structure_1.jpg" width="400"><br>*Body structure part overview - the weight of the parts in the picture is 226g.* <br>
+
+<img src="images/body_structure_assembled_1.jpg" width="400"><br>*Body structure assembled - weight: 247g* <br>
 
 * All the STL files for 3d printing the body structure can be found here: [STL Files Body Structure](stl_files). <br>
 
@@ -94,9 +98,30 @@
 |Helicoil Threaded Inserts|25|M3x4,5 Helicoil<br>||
 Helicoil Threaded Inserts|8|M3x6 Helicoil<br>||
 
+## Robot Stand
+
+<img src="images/robot_stand_1.jpg" width="300"> <br><br>
+
+| Part Name | Quantity | Ordering Information | Comments |  
+| --- | --- | --- | --- |   
+|Stand Adapter |1|[STL file](stl_files/stand_adapter.STL)|3d printed part|
+|Pin 3mm x 36mm |1|||
+|Slotted Aluminum Profile<br>Length 40cm |2|Item part number: 0.0.026.33|  Item Size 8 - 40mm x 40mm|
+|Slotted Aluminum Profile<br>Length 20cm |2|Item part number: 0.0.026.33|  Item Size 8 - 40mm x 40mm|
+|90 Degree  Angle Brackets|4|Item part number: 0.0.411.15|Item Size 8 |
+|End Caps |4|Item part number: 0.0.026.01|Item Size 8 - 40mm x 40mm |
+
 ## Vicon Object
 
 <img src="images/vicon_object_1.jpg" width="350"> <br>*Vicon Object - weight 48g* <br>
+
+| Part Name | Quantity | Ordering Information | Comments |  
+| --- | --- | --- | --- |   
+|Body Structure Top Vicon |1|[STL file](stl_files/body_structure_top_vicon.STL)|3d printed part|
+|Helicoil Threaded Inserts|8|M3x4,5 Helicoil<br>||
+|Vicon Markers |9|9,5mm diameter||
+|Fasteners Vicon Markers |9|M4x10 Set Screw|Stainless Steel|
+
 
 <img src="images/vicon_marker_placement.png" width="400"> <br>*Vicon Marker Posititions*
 
@@ -105,16 +130,29 @@ Helicoil Threaded Inserts|8|M3x6 Helicoil<br>||
 ---
 ## Preparing the 3d printed parts
 
-<img src="images/body_structure_preparation_1.png" width="500"><br>
+<img src="images/body_structure_preparation_1.png" width="550"><br>*Body Structure Side*
 
 ---
-<img src="images/body_structure_preparation_2.png" width="500"><br>
+<img src="images/body_structure_preparation_2.png" width="500"><br>*Body Structure Top*
 
 ---
-<img src="images/body_structure_preparation_3.png" width="500"><br>
+<img src="images/body_structure_preparation_5.png" width="500"><br>*Body Structure Top with Vicon marker attachments*
 
 ---
-<img src="images/body_structure_preparation_4.png" width="500"><br>
+<img src="images/body_structure_preparation_3.png" width="500"><br>*Body Structure Bottom - Helicoils*
+
+---
+<img src="images/body_structure_preparation_4.png" width="500"><br>*Body Structure Bottom - tapped holes for electronics*
+
+---
+## Fasteners Quadruped Body Structure
+<img src="images/body_structure_fasteners_1.png" width="500"><br>*Fasteners Body Structure - use the same fasteners on the opposite side.*
+
+---
+<img src="images/body_structure_fasteners_2.png" width="500"><br>*Fasteners Body Structure - use the same fasteners on the opposite side.*
+
+---
+<img src="images/body_structure_fasteners_3.png" width="500"><br>*Fasteners electronic components.*
 
 ---
 ## View the quadruped cad model in your web browser <br>
