@@ -37,6 +37,10 @@
 | --- | --- | --- | --- |
 |<a href="actuator_module_v1/details/details_3d_printed_parts.md#details-3d-printed-parts"><img src="actuator_module_v1/images/3d_printed_parts_2.jpg" width="200"></a>|<a href="actuator_module_v1/details/details_machined_parts.md#details-machined-parts"><img src="actuator_module_v1/images/machined_parts_1.jpg" width="200"></a>|<a href="actuator_module_v1/details/details_tools.md#details-mechanical-tools-and-consumables"><img src="actuator_module_v1/images/tools_1.jpg" width="200"></a>|<a href="../electronics/details/details_components.md#details-electronic-components-and-tools"><img src="../electronics/images/components_tools_1.jpg" width="200"></a>|
 
+| Details Electronics <br>Quadruped Robot 12dof | Conventions | Known Issues|
+| --- | --- | --- |
+|<a href="quadruped_robot_12dof_v1/details/details_electronics_quadruped_12dof.md#details-electronics-quadruped-robot-12dof-v1"><img src="quadruped_robot_12dof_v1/details/wire_routing_bottom.jpg" width="200"></a>|<a href="general/conventions.md#conventions"><img src="general/images/conventions.png" width="200"></a>|<a href="general/known_issues.md#known-issues"><img src="general/images/known_issues.jpg" width="200"></a>||
+
 ---
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  

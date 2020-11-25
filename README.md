@@ -44,7 +44,7 @@
 
 | Details Electronics <br>Quadruped Robot 12dof | Conventions | Known Issues|
 | --- | --- | --- |
-|<a href="mechanics/quadruped_robot_12dof_v1/details/details_electronics_quadruped_12dof.md#details-electronics-quadruped-robot-12dof-v1"><img src="mechanics/quadruped_robot_12dof_v1/details/wire_routing_bottom.jpg" width="200"></a>|<a href="mechanics/general/conventions.md"><img src="mechanics/general/images/conventions.png" width="200"></a>|<a href="mechanics/general/known_issues.md"><img src="mechanics/general/images/known_issues.jpg" width="200"></a>||
+|<a href="mechanics/quadruped_robot_12dof_v1/details/details_electronics_quadruped_12dof.md#details-electronics-quadruped-robot-12dof-v1"><img src="mechanics/quadruped_robot_12dof_v1/details/wire_routing_bottom.jpg" width="200"></a>|<a href="mechanics/general/conventions.md#conventions"><img src="mechanics/general/images/conventions.png" width="200"></a>|<a href="mechanics/general/known_issues.md#known-issues"><img src="mechanics/general/images/known_issues.jpg" width="200"></a>||
 
 ---
 ## More Information
