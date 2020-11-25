@@ -2,10 +2,19 @@
 
 <img src="../images/wiha_tools_1.jpg" width="300"> <br>*Wiha Hex Drivers*
 
+---
 <img src="../images/allen_keys_1.jpg" width="300"> <br>*Allen Key Set from Wera*
 
+---
 <img src="../images/tool_holders.jpg" width="300"> <br>*Tool Holders*
 
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Tool Holder 2mm-3mm||Hahn+Kolb 51003200||
+|Tool Holder 3mm-4,5mm||Hahn+Kolb 51003205||
+|Tool Holder 4mm-6mm||Hahn+Kolb 51003210||
+
+---
 <img src="../images/tap_drills_1.jpg" width="300"> <br>*M2, M2,5 and M3 Taps*
 
 |Description|Details|Ordering Information|Comments|
@@ -14,6 +23,7 @@
 |M2,5 Tap||Hoffmann 131300 M2,5||
 |M3 Tap||Hoffmann 131300 M3||
 
+---
 <img src="../images/reamers_3.jpg" width="300"> <br>*Reamers*
 
 |Description|Details|Ordering Information|Comments|
@@ -22,8 +32,10 @@
 |Reamer 3,99mm||Hahn+Kolb 11624399||
 |Reamer 4,00mm||Hahn+Kolb 11624400<br>Hoffmann 1601504||
 
+---
 <img src="../images/encoder_mod_3.jpg" width="300"> <br>*Chamfer Tool*
 
+---
 <img src="../images/helicoil_tools.jpg" width="300"> <br>*Helicoil Tools*
 
 |Description|Details|Ordering Information|Comments|
@@ -32,7 +44,7 @@
 |M3 Helicoil Tool Set||Hoffmann 082800 M3||
 |||||
 
-
+---
 <img src="../images/end_mills_1.jpg" width="300"> <br>*End Mills*
 
 |Description|Details|Ordering Information|Comments|
@@ -41,14 +53,19 @@
 |End Mill 25mm ||Hoffmann 156730 1/25 ||
 |End Mill 32mm ||Hoffmann 156730 2/32 ||
 
+---
 <img src="../images/tube_cutter_1.jpg" width="300"> <br>*Tube Cutter*
 
+---
 <img src="../images/loctite_406.jpg" width="190"> <br>*Superglue - Loctite 406*
 
+---
 <img src="../images/loctite_648.jpg" width="180"> <br>*Retaining Compound - Loctite 648*
 
+---
 <img src="../images/tools_misc_1.jpg" width="300"> <br>*Miscellanious tools - tooth brush, q-tipps and tooth picks*
 
+---
 <img src="../images/collet_1.jpg" width="300"> <br>*25mm collet to hold the output pulley on a lathe*
 
 ---
