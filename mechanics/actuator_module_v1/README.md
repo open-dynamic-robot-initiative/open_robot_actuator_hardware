@@ -98,7 +98,7 @@ More information: [Details 3D Printed Parts](details/details_3d_printed_parts.md
 ---
 <img src="images/encoder_codewheel_pwb_mount.png" width="200"> <br>
 
-* Encoder Codewheel PWB Mount - weight 0.3g -> [STL file](stl_files/encoder_codewheel_pwb_mount.STL)
+* Encoder Codewheel Kit Mount - [STL file](stl_files/encoder_codewheel_kit_mount.STL) (Option A with AEDM-5810-Z12 encoder kit) or Encoder Codewheel PWB Mount - weight 0.3g -> [STL file](stl_files/encoder_codewheel_pwb_mount.STL) (Option B with Broadcom AEDT-9810-Z00 encoder)
 
   ---
   <img src="images/transmission_pulley_center.png" width="180"> <br>
