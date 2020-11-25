@@ -156,7 +156,7 @@ The simplified STL files for visualization and simulation can be found here: [ST
 
 <img src="images/solo12_coordinate_systems.png" width="500">
 
-<a href="solo12_visualization_model.PDF"><img src="images/solo12_dimensions_visualization_1.png" width="500"></a><br>*Click on picture above to view the PDF drawing*
+<a href="details/solo12_visualization_model.PDF"><img src="images/solo12_dimensions_visualization_1.png" width="500"></a><br>*Click on picture above to view the PDF drawing*
 
 ## Micro Driver Stack Motor Assignment
 <img src="details/front_stack_motor_assignment_1.png" width="500">   
