@@ -8,7 +8,7 @@
 
 | 2dof Leg v2  | 3dof Leg | Biped Leg |FingerEdu |
 | ------------- | ------------- |------------- |------------- |
-| <a href="leg_2dof_v2/README.md#leg-2dof-v2"><img src="leg_2dof_v2/images/2dof_leg_v2_cad_1.png" width="250"></a>  | <a href="leg_3dof_v1/README.md#leg-3dof-v1"><img src="leg_3dof_v1/images/3dof_leg_cad_1.png" width="300"></a>  | <a href="biped_leg_3dof_v1/README.md#biped-leg-3dof-v1"><img src="biped_leg_3dof_v1/images/biped_leg_2.png" width="300"></a>  |<a href="finger_edu_v1/README.md#fingeredu-v1"><img src="finger_edu_v1/images/finger_navigation.jpg" width="300"></a>  |
+| <a href="leg_2dof_v2/README.md#leg-2dof-v2"><img src="leg_2dof_v2/images/2dof_leg_v2_cad_1.png" width="250"></a>  | <a href="leg_3dof_v1/README.md#leg-3dof-v1"><img src="leg_3dof_v1/images/3dof_leg_cad_2.png" width="300"></a>  | <a href="biped_leg_3dof_v1/README.md#biped-leg-3dof-v1"><img src="biped_leg_3dof_v1/images/biped_leg_2.png" width="300"></a>  |<a href="finger_edu_v1/README.md#fingeredu-v1"><img src="finger_edu_v1/images/finger_navigation.jpg" width="300"></a>  |
 
 | Actuator Module  | Dual Motor Testbed | NYU Finger |
 | ---------------  | ------------- |------------- |
