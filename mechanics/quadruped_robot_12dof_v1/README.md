@@ -8,6 +8,7 @@
 
 ## Description
 * 12dof - 12 degree of freedom robot
+* current control at 10kHz / communication with control pc at 1kHz
 * dimensions: 45cm x 32cm x 6cm
 * weight: 2,5kg
 * consisting of 4 identical leg modules - details here -> [3DOF Leg](../leg_3dof_v1)
@@ -20,10 +21,10 @@
 
 ## Pictures
 <img src="images/solo_12_mechanics_1.jpg" width="400"><br>*12dof quadruped without electronics*<br>  
-<img src="images/solo12_1.jpg" width="400"><br>*12dof quadruped with electronics*<br>  
-<img src="images/solo12_2.jpg" width="400"><br>*12dof quadruped top view*<br>
-<img src="images/solo12_4.jpg" width="400"><br>*12dof quadruped front view*<br>  
-<img src="images/solo12_3.jpg" width="400"><br>*12dof quadruped - legs folded for transport*<br>  
+<img src="images/quadruped_robot_iso_1.jpg" width="400"><br>*12dof quadruped with electronics and vicon top plate*<br>  
+<img src="images/quadruped_robot_top_1.jpg" width="400"><br>*12dof quadruped top view*<br>
+<img src="images/quadruped_robot_front_1.jpg" width="400"><br>*12dof quadruped front view*<br>  
+<img src="images/quadruped_robot_folded_1.jpg" width="400"><br>*12dof quadruped - legs folded for transport*<br>  
 
 ## Electronics
 ### Master Board

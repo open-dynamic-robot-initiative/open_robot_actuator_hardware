@@ -1,12 +1,11 @@
 # Details Electronics Quadruped Robot 12dof v1
-<img src="../images/electronics_overview_1.jpg" width="500"><br>*12dof robot - electronic component overview - weight 264g*  
+<img src="../images/electronics_overview_1.jpg" width="500"><br>*Electronic component overview 12dof robot- weight 264g*  
 
 ## Description
 * electronics for 12 degree of freedom robot
-* motor driver stack front
-* motor driver stack back
-* master board
-* inertia measurement unit
+* provides current control for 12 brushless motors at 10kHz
+* provides 1kHz control loop to external pc
+* inertia measurement unit data at 1kHz
 
 ### Micro Driver Stack Front
 <img src="../images/micro_driver_stack_front.jpg" width="400"><br>*Micro driver stack front fully wired - weight: 94g*  
@@ -14,7 +13,7 @@
 | Description | Quantity | Wire Length | Comments |  
 | --- | --- | --- | --- |   
 |Motor Phase Wires |18|8cm||
-|Power Supply Wires|3|?cm||
+|Power Supply Wires|3|25cm||
 
 ---
 ### Micro Driver Stack Back
@@ -23,8 +22,8 @@
 | Description | Quantity | Wire Length | Comments |  
 | --- | --- | --- | --- |   
 |Motor Phase Wires |18|8cm||
-|Power Supply Wires|3|?cm||
-|Master Board Supply Wire|1|?cm||
+|Power Supply Wires|3|15cm||
+|Master Board Supply Wire|1|12cm||
 
 ---
 ### Master Board
@@ -38,7 +37,7 @@
 |SPI wires micro driver stack back|3|14cm|3-AA / 4-HL / 5-HR|
 
 ---
-### Interita Measurement Unit
+### Inerita Measurement Unit
 <img src="../images/imu.jpg" width="400"><br>*IMU with wire and mounting plate - weight: 30g*  
 
 | Description | Quantity | Wire Length | Comments |  
@@ -46,7 +45,6 @@
 |IMU wire |1|35cm||
 
 ---
-
 ### Hip AA Actuator Modules
 <img src="../images/hip_aa_actuator_modules.jpg" width="400"><br>*Hip AA Actuator Modules - weight: 149g each*  
 
@@ -90,22 +88,34 @@
 |Hind Left Knee Encoder Wire |1|20cm|HLK|
 
 ## Wire Routing
-
-<img src="wire_routing_bottom.jpg" width="500"><br>*Bottom view - all the motor module wires are routet on the bottom of the robot. Details below.*
+<img src="wire_routing_bottom.jpg" width="500"><br>*Bottom view - all the actuator module wires are routet on the bottom of the robot. Details below.*
 
 <img src="wire_routing_top.jpg" width="500"><br>*Top view - the power, imu and spi wires are routed on the top of the robot. Details below*
 
 ### Wire Routing Hip AA Modules
-<img src="wire_routing_hip_aa.png" width="500"><br>*Keep the wires away from the motor rotors.<br> The rotors are marked with red boxes in the picture above.*  
+<img src="wire_routing_hip_aa.png" width="500"><br>*Each line represents 3 motor phase wires and the 5 pole encoder wire.<br> Keep the wires away from the motor rotors (red boxes in the picture above).*
 
 ### Wire Routing Hip FE Modules
-<img src="wire_routing_hip_fe.png" width="500"><br>*Keep the wires away from the motor rotors.<br> The rotors are marked with red boxes in the picture above.*  
+<img src="wire_routing_hip_fe.png" width="500"><br>*Each line represents 3 motor phase wires and the 5 pole encoder wire.<br> Keep the wires away from the motor rotors (red boxes in the picture above).*
 
 ### Wire Routing Upper Leg Modules
-<img src="wire_routing_upper_leg.png" width="500"><br>*Keep the wires away from the motor rotors.<br> The rotors are marked with red boxes in the picture above.*  
+<img src="wire_routing_upper_leg.png" width="500"><br>*Each line represents 3 motor phase wires and the 5 pole encoder wire.<br>Keep the wires away from the motor rotors (red boxes in the picture above).*
 
 ### Wire Routing Power, SPI and IMU
-<img src="wire_routing_power_spi.png" width="500"><br>*Keep the wires away from the motor rotors.<br> The rotors are marked with red boxes in the picture above.*
+<img src="wire_routing_power_spi.png" width="500"><br>*The lines represent 3 spi wires, 3 power wires and the imu wire.<br>Keep the wires away from the motor rotors (red boxes in the picture above).*
+
+### Wire Routing Top
+<img src="../images/quadruped_robot_top_1.jpg" width="500"><br>*Quadruped Robot Top View*
+
+### Wire Routing Bottom
+<img src="../images/quadruped_robot_bottom_1.jpg" width="500"><br>*Quadruped Robot Bottom View*
+
+### Robot Connection Cable
+<img src="../images/connection_wire_1.jpg" width="400"><br>*External wire for power supply and ethernet communication.*
+
+<img src="../images/connection_wire_2.jpg" width="400"><br>*External wire robot side.*
+
+<img src="../images/connection_wire_3.jpg" width="400"><br>*External wire pc and power supply side.*
 
 ## View the biped cad model in your web browser
 <br>
