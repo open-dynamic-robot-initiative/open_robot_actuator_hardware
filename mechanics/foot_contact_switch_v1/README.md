@@ -1,9 +1,7 @@
-Foot Contact Switch v1
-=======================
+# Foot Contact Switch v1
 <img src="images/foot_sensor_principle_1.jpg" width="500"> <br>*Working principle of the optical foot contact switch*
 
-Description
-------------
+## Description
 We designed simple, low cost, lightweight and robust optical foot contact switch for our [quadruped robot.](../quadruped_robot_8dof_v1)  
 The contact switch consists of a spring loaded aperture that is located between a led light source and a light sensor.  
 External loads displace the aperture and change the light intensity measured by the sensor.  
@@ -13,12 +11,10 @@ For visual feedback and monitoring there are bi-color leds mounted on each side 
 
 <img src="images/foot_sensor_1.png" width="500"><br>*Left side: Foot Contact Switch loaded / Right side: Foot Contact Switch unloaded*
 
-Video
-----------
+## Video
 [![Foot Sensor Video](https://img.youtube.com/vi/1TluBZRFed8/0.jpg)](https://www.youtube.com/watch?v=1TluBZRFed8)
 
-Lower Leg and Foot Contact Switch
----------------------------------
+## Lower Leg and Foot Contact Switch
 <img src="images/lower_leg_1.jpg" width="600"> <br>*Lower Leg and Foot Contact Switch Component Overview - the weigth of the lower leg assembly is 35g*
 
 <img src="images/lower_leg_2.jpg" width="600"> <br>*Lower Leg and Foot Contact Switch assembled*
@@ -35,9 +31,7 @@ The data was logged at 1kHz using a Realtime Linux PC.
 <img src="images/foot_sensor_4.jpg" width="410"><br>*Foot Contact Switch Electronics*
 
 
-Off-the-shelf components
---------------------------
-
+## Off-the-shelf components
 <img src="images/elastic_elements_1.jpg" width="300"> <br> *Elastic elements cut from silicone tube*
 
 * Silicone tube - outer diameter 6mm / inner diameter 4mm / length 3mm  
@@ -47,8 +41,7 @@ Off-the-shelf components
 * cut to 65mm x 10mm pieces
 * bonded to the foot with Loctite 404  
 
-3D Printed Parts  - Lower Leg and Foot Contact Switch
------------------
+## 3D Printed Parts  - Lower Leg and Foot Contact Switch
 The files for 3d printing the parts are available in the [STL folder.](stl_files)
 
 * [Lower Leg Structure Base - 18g](stl_files/lower_leg_structure_base.STL)
@@ -57,19 +50,18 @@ The files for 3d printing the parts are available in the [STL folder.](stl_files
 
 <img src="images/foot_sensor_2.png" width="600">
 
-3D Printing Orientation - SLS Printer
--------------------------
+## 3D Printing Orientation - SLS Printer
 <img src="images/print_orientation_lower_leg_structure_base.png" width="600"><br>  
-  ____
-<img src="images/print_orientation_lower_leg_structure_fork.png" width="300"><br>  
-___
-3D Printing Orientation - SLA Printer
--------------------------
-<img src="images/print_orientation_foot_structure.png" width="300"><br>  
-___
 
-Custom Electronic Boards
---------------------
+---
+<img src="images/print_orientation_lower_leg_structure_fork.png" width="300"><br>  
+
+---
+## 3D Printing Orientation - SLA Printer
+<img src="images/print_orientation_foot_structure.png" width="300"><br>  
+
+
+## Custom Electronic Boards
 The foot contact switch consists of two boards with traces and components on all four sides.  
 The diameter of the electronics boards is 10mm.  
 
@@ -77,8 +69,7 @@ The diameter of the electronics boards is 10mm.
 
 <img src="images/foot_contact_switch_satellite_v1.png" width="600"> <br>*Foot Contact Switch Satellite Board  - Left: Outer side / Right: Inner Side*
 
-Details Foot Contact Switch
--------------------------------
+## Details Foot Contact Switch
 Special thanks to Joshi Walzog for designing and manufacturing the electronics boards!
 
 * [Bill Of Materials Foot Contact Switch - PDF Document](documentation/bom_foot_contact_switch_v1.pdf)
@@ -86,11 +77,10 @@ Special thanks to Joshi Walzog for designing and manufacturing the electronics b
 * [Eagle Files - Zipped Folder](documentation/eagle_files.zip)
 * [Gerber Files - Zipped Folder](documentation/gerber_files.zip)
 
-
 To view the Eagle files you need to download the free [Eagle PCB Design Software](https://www.autodesk.com/products/eagle/free-download#) for Windows, Mac and Linux.
-__________
-Simple Lower Leg
-----------------
+
+---
+## Simple Lower Leg
 You can also use a simplified version of the lower leg if you don't need the foot contact information.  
 This lower leg has the exact same dimensions as the original lower leg with foot contact switch.
 
@@ -101,22 +91,19 @@ We print it on our FDM printer using sparse infill to match the weight of the or
 <img src="images/simple_lower_leg_2.jpg" width="600"> <br>  
 
 <img src="images/print_orientation_lower_leg_solid.png" width="600"> <br>
-____________
 
-Foot Contact Switch Wiring
-----------------------------
+
+## Foot Contact Switch Wiring
 <img src="../../electronics/images/foot_sensor_wiring.jpg" width="600"> <br>*Foot Contact Switch Connectors and Wiring*
 
-Sensor characteristics
-------------------------
+## Sensor characteristics
 <img src="images/measurement_foot_contact_sensor.png" width="600"> <br>  
 
 * x-axis -> vertical force [N] measured with ATI Mini40 Sensor  
 * y-axis -> foot contact sensor ouput signal inverted and normalized
 * 0-1 on the y-axis corresponds to 3V - 0V range
 
-Adjusting the sensitivity
------------------------------
+## Adjusting the sensitivity
 The sensitivity of the switch can be adjusted depending on the application by changing:
 * the number of elastic elements
 * the diameter of elastic elements
@@ -125,39 +112,26 @@ The sensitivity of the switch can be adjusted depending on the application by ch
 * the distance between emitter and receiver
 * the emitter led brightness
 
-Next Steps / Future Work
-------------------------
-
-* 3d print elastic elements  
-* Reduce weight of traction element on the foot  
-* Reduce sensor signal noise  
-
-<img src="images/silicone_foot_sensor_spring_1.jpg" width="400"> <br>
-
-<img src="images/silicone_foot_sensor_spring_2.jpg" width="400"> <br>
-
-How to work with this
----------------------
+## How to work with this
 * To get an better overview of the assembly you can view this [pdf file](lower_leg.PDF)
 * I recommend downloading the free eDrawings viewer for Windows, Mac, iOS and Android [here](https://www.edrawingsviewer.com/download-edrawings).
 * The eDrawing Viewer Software allows you to open and explore this [easm cad assembly file](lower_leg.EASM)
 
-Authors
---------
-Felix Grimminger  
-Joshi Walzog
-
-License
--------
-BSD 3-Clause License
-
-## Copyright
-Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
-
+---
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
 [Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
 [Open Dynamic Robot Initiative - Forum](https://odri.discourse.group/categories)  
 [Open Dynamic Robot Initiative - Paper](https://arxiv.org/pdf/1910.00093.pdf)  
 [Hardware Overview](../../README.md#open-robot-actuator-hardware)  
-[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)
+[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)  
+
+---
+## Authors
+Felix Grimminger
+
+## License
+BSD 3-Clause License
+
+## Copyright
+Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University

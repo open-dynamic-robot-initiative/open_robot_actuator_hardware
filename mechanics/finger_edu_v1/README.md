@@ -18,7 +18,7 @@ For the finger we are using the same actuator modules that are used for the 12do
 <img src="images/finger_base_frame_1.jpg" width="400"> <br>
 *Assembled base frame - weight: 226g*<br>
 
-The STL files for 3d printing the shells of the 3dof leg can be found here: [STL files finger base frame](stl_files).
+The STL files for 3d printing the finger base frame can be found here: [STL files finger base frame](stl_files).
 
 ## Finger Link
 <img src="images/finger_tip_1.jpg" width="400"><br>*Finger link with finger tip - weight: 22g*
@@ -36,6 +36,49 @@ The STL file for 3d printing the finger link can be found here: [STL files finge
 
 Since space and weight isn't a concern here we are using the [Texas Instruments evaluation motor driver electronics](../../electronics/ti_electronics/README.md).<br>
 Each finger module requires 24V power supply and 2 CAN communication channels.
+
+## 3D Printed Parts
+
+<img src="images/printing_direction.png" width="400"> <br>
+
+`The recommended printing direction for all the parts below is the positive z direction of the stl files.`
+
+* All the STL files for 3d printing the frame and the finger tip can be found here: [STL Files Frame Structure](stl_files) <br>
+
+* All the STL files for 3d printing the actuator shells can be found here: [STL Files Actuator Module Shells](../leg_3dof_v1/stl_files) <br>
+
+---
+<img src="images/finger_adapter.png" width="250"> <br>
+* [Finger Adapter - STL file](stl_files/finger_adapter.STL)<br>
+* weight: ?g
+---
+<img src="images/finger_tip.png" width="400"> <br>
+* [Finger Tip - STL file](stl_files/finger_tip.STL)<br>
+* weight: ?g
+---
+<img src="images/structure_bottom_plate.png" width="400"> <br>
+* [Structure Bottom Plate - STL file](stl_files/structure_bottom_plate.STL)<br>
+* weight: ?g
+---
+<img src="images/structure_front_plate.png" width="400"> <br>
+* [Structure Front Plate - STL file](stl_files/structure_front_plate.STL)<br>
+* weight: ?g
+---
+<img src="images/structure_side_plate_left.png" width="400"> <br>
+* [Structure Side Plate Left- STL file](stl_files/structure_side_plate_left.STL)<br>
+* weight: ?g
+---
+<img src="images/structure_side_plate_right.png" width="400"> <br>
+* [Structure Side Plate Right- STL file](stl_files/structure_side_plate_right.STL)<br>
+* weight: ?g
+---
+<img src="images/stack_spacer.png" width="300"> <br>
+* [TI Stack Spacer- STL file](stl_files/ti_stack_spacer.STL)<br>
+* weight: ?g
+---
+<img src="images/stack_support.png" width="300"> <br>
+* [TI Stack Support- STL file](stl_files/ti_stack_support.STL)<br>
+* weight: ?g
 
 -------------
 ## Authors

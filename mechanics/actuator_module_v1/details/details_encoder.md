@@ -19,8 +19,15 @@ So there are two options:
 * Disassemble the encoder kit and extract the encoder and the codewheel.
 * Dissasembly instructions can be found [here](details_encoder_kit_disassembly.md).
 * Modify the aluminium flange according to [this drawing](../drawings/codewheel_modification.PDF)
+* the tool shown below can help to clamp the codewheel on the lathe
+* make sure not to scratch the codewheel - you can use tape to protect the surfaces
+* the codewheel can be cleaned using ethanol
 * Use the correct stl to print encoder mount (the encoder mounts for the two options are different)
 * Encoder Codewheel Kit Mount -> [STL file](../stl_files/encoder_codewheel_kit_mount.STL)
+
+<img src="../images/tool_codewheel_preparation.jpg" width="400"> <br>*Tool for clamping the codewheel on the lathe.*
+
+<img src="../images/tool_codewheel_preparation.png" width="400"> <br>*Dimensions codewheel clamping tool.*
 
 ### Option B - Codewheel Fabrication
 <img src="../images/code_wheel_pwb_1.jpg" width="300"> <br>*Codewheel fabricated by PWB*  

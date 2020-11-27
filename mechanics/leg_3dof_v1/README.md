@@ -13,7 +13,9 @@
 
 ## 3D Printed Parts
 
-`The recommended printing direction for all the parts below is the positive z direction of the stl file.`
+<img src="images/printing_direction.png" width="400"> <br>
+
+`The recommended printing direction for all the parts below is the positive z direction of the stl files.`
 
 * The STL files for 3d printing the shells of the 3dof leg can be found here: [STL files 3dof leg](stl_files).
 ---

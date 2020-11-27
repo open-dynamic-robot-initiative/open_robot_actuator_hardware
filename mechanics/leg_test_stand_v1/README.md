@@ -62,9 +62,13 @@ The teststand has a linear guided vertical degree of freedom and a carriage that
 ---
 ## 3D Printed Parts
 
-**The recommended printing direction for all the parts below is the positive z axis direction of the stl file.**<br>
+<img src="images/printing_direction.png" width="400"> <br>
+
+`The recommended printing direction for all the parts below is the positive z direction of the stl files.`
+
 All the STL files for 3d printing the Leg Test Stand can be found here: [STL Files Leg Test Stand](stl_files).
 
+---
 <img src="details/carriage.png" width="300"> <br>
 * [Carriage - STL file](stl_files/carriage.STL)<br>
 ---

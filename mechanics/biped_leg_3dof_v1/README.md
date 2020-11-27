@@ -53,10 +53,13 @@
 * Rubber band
 
 ## 3D Printed Parts
-`The recommended printing direction for all the parts below is the positive z direction of the stl file.`
+<img src="images/printing_direction.png" width="400"> <br>
+
+`The recommended printing direction for all the parts below is the positive z direction of the stl files.`
 
 All the STL files for 3d printing the biped legs can be found here: [STL Files Biped Leg 3dof](stl_files). <br>
 
+---
 <img src="details/hip_aa_structure_right_side_base.png" width="300"> <br>
 * [Hip AA Structure Right Side Base - STL file](stl_files/hip_aa_structure_right_side_base.STL)<br>
 * weight: 22g

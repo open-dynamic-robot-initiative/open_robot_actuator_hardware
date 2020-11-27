@@ -93,6 +93,8 @@ We recommend to print all the parts listed below with a stereolithography or mul
 
 More information: [Details 3D Printed Parts](details/details_3d_printed_parts.md)
 
+<img src="images/printing_direction.png" width="400"> <br>
+
 `The recommended printing direction for all the parts below is the positive z direction of the stl files.`
 
 ---

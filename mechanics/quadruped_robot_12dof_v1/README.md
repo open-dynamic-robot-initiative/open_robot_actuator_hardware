@@ -52,61 +52,63 @@
 
 * All the STL files for 3d printing the body structure can be found here: [STL Files Body Structure](stl_files). <br>
 
+<img src="details/printing_direction.png" width="400"><br>
+
+`The recommended printing direction for all the parts below is the positive z direction of the stl files.`
+
 ---
 <img src="details/body_structure_back.png" width="300"> <br>
 * [Body Structure Back - STL file](stl_files/body_structure_back.STL)<br>
 * weight: 12g
-* the recommended printing direction is the positive z direction of the stl file
 ---
 <img src="details/body_structure_bottom.png" width="300"> <br>
 * [Body Structure Bottom - STL file](stl_files/body_structure_bottom.STL)<br>
 * weight: 9g
-* the recommended printing direction is the positive z direction of the stl file
 ---
 <img src="details/body_structure_center.png" width="350"> <br>
 * [Body Structure Center - STL file](stl_files/body_structure_center.STL)<br>
 * weight: 24g
-* the recommended printing direction is the positive z direction of the stl file
+
 ---
 <img src="details/body_structure_center_vicon.png" width="350"> <br>
 * [Body Structure Center Vicon- STL file](stl_files/body_structure_center_vicon.STL)<br>
 * weight: 30g
-* the recommended printing direction is the positive z direction of the stl file
 ---
 <img src="details/body_structure_center_handle.png" width="350"> <br>
 * [Body Structure Center Handle- STL file](stl_files/body_structure_center_handle.STL)<br>
 * weight: 29g
-* the recommended printing direction is the positive z direction of the stl file
 ---
 <img src="details/body_structure_front.png" width="300"> <br>
 * [Body Structure Front - STL file](stl_files/body_structure_front.STL)<br>
 * weight: 12g
-* the recommended printing direction is the positive z direction of the stl file
 ---
 <img src="details/body_structure_hip_aa_support.png" width="300"> <br>
 * [Body Structure Hip AA Support - STL file](stl_files/body_structure_hip_aa_support.STL)<br>
 * weight: 18g
-* the recommended printing direction is the positive z direction of the stl file
+
 ---
 <img src="details/body_structure_side.png" width="300"> <br>
 * [Body Structure Side - STL file](stl_files/body_structure_side.STL)<br>
 * weight: 18g
-* the recommended printing direction is the positive z direction of the stl file
+
 ---
 <img src="details/body_structure_top_imu.png" width="300"> <br>
 * [Body Structure Top IMU - STL file](stl_files/body_structure_top_imu.STL)<br>
 * weight: 12g
-* the recommended printing direction is the positive z direction of the stl file
+
 ---
 <img src="details/body_structure_top_master_board.png" width="300"> <br>
 * [Body Structure Top Master Board - STL file](stl_files/body_structure_top_master_board.STL)<br>
 * weight: 11g
-* the recommended printing direction is the positive z direction of the stl file
+---
+<img src="details/led_cover.png" width="300"> <br>
+* [Led cover - STL file](stl_files/led_cover.STL)<br>
+
 ---
 <img src="details/hip_adapter.png" width="250"> <br>
 * [Hip Adapter - STL file](stl_files/hip_adapter.STL)<br>
 * weight: 5g
-* the recommended printing direction is the positive z direction of the stl file
+
 ---
 ## Preparing the 3d printed parts
 <img src="details/body_structure_preparation_1.png" width="400"> <br>
@@ -181,7 +183,6 @@ The simplified STL files for visualization and simulation can be found here: [ST
 |11|HR_K|5|0|10|
 
 ---
-
 ## Bill of Materials - Quadruped Robot 12dof
 <img src="images/solo_12_cad_1.png" width="250">
 
@@ -196,6 +197,7 @@ The simplified STL files for visualization and simulation can be found here: [ST
 |Body Structure Side |4|[STL file](stl_files/body_structure_side.STL)|3d printed part|
 |Body Structure Top IMU |1|[STL file](stl_files/body_structure_top_imu.STL)|3d printed part|
 |Body Structure Top Master Board |1|[STL file](stl_files/body_structure_top_master_board.STL)|3d printed part|
+|Led Cover |1|[STL file](stl_files/led_cover.STL)|3d printed part|
 |Hip Adapter|2|[STL file](stl_files/hip_adapter.STL)|3d printed part|
 | Hip AA Bearing | 4 | 25mm x 20mm x 4mm <br> SBN: ET2520 2Z VA| Stainless Steel |
 | Inertia Measurement Unit | 1 | Lord Microstrain<br> 3DM-CX5-25| Extended measurement range<br> Gyro Rate: +/- 900 deg/sec. Accelerometer range: +/- 20G|
@@ -217,6 +219,16 @@ The simplified STL files for visualization and simulation can be found here: [ST
 
 <a href="https://open-dynamic-robot-initiative.github.io/cad_files/quadruped_12dof_folded"><img src="details/solo12_quadruped.png" width="400"></a><br>*Quadruped robot 12dof folded - Click on picture to view the cad model in your browser*
 
+---
+## More Information
+[Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
+[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
+[Open Dynamic Robot Initiative - Forum](https://odri.discourse.group/categories)  
+[Open Dynamic Robot Initiative - Paper](https://arxiv.org/pdf/1910.00093.pdf)  
+[Hardware Overview](../../README.md#open-robot-actuator-hardware)  
+[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)  
+
+---
 ## Authors
 Felix Grimminger
 
@@ -225,11 +237,3 @@ BSD 3-Clause License
 
 ## Copyright
 Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
-
-## More Information
-[Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
-[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
-[Open Dynamic Robot Initiative - Forum](https://odri.discourse.group/categories)  
-[Open Dynamic Robot Initiative - Paper](https://arxiv.org/pdf/1910.00093.pdf)  
-[Hardware Overview](../../README.md#open-robot-actuator-hardware)  
-[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)

@@ -1,6 +1,5 @@
 # TriFingerEdu v1
 
-
 <img src="images/manipulator_platform_1.jpg" width="600"><br>*TriFinger Manipulator Platform*
 
 * the manipulator platform has 9 torque-controlled degrees of freedom
@@ -75,7 +74,16 @@ The simplified STL files for visualization and simulation can be found here: [ST
 
 <a href="details/manipulator_dimensions_visualization.pdf"><img src="images/manipulator_dimensions_visualization.png" width="600"></a><br>*Click on picture above to view the PDF drawing*
 
---------
+---
+## More Information
+[Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
+[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
+[Open Dynamic Robot Initiative - Forum](https://odri.discourse.group/categories)  
+[Open Dynamic Robot Initiative - Paper](https://arxiv.org/pdf/1910.00093.pdf)  
+[Hardware Overview](../../README.md#open-robot-actuator-hardware)  
+[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)  
+
+---
 ## Authors
 Felix Grimminger
 
@@ -84,11 +92,3 @@ BSD 3-Clause License
 
 ## Copyright
 Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
-
-## More Information
-[Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
-[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
-[Open Dynamic Robot Initiative - Forum](https://odri.discourse.group/categories)  
-[Open Dynamic Robot Initiative - Paper](https://arxiv.org/pdf/1910.00093.pdf)  
-[Hardware Overview](../../README.md#open-robot-actuator-hardware)  
-[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)

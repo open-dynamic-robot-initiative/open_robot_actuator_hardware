@@ -24,7 +24,12 @@
 ---
 
 ## 3D Printed Parts
+
+<img src="images/printing_direction.png" width="400"> <br>
+
 `The recommended printing direction for all the parts below is the positive z direction of the stl files.`
+
+
 * All the STL files for 3d printing the NYU Finger can be found here: [STL Files NYU Finger](stl_files). <br>
 
 ---

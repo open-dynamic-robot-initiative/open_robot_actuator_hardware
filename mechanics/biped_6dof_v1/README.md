@@ -60,10 +60,14 @@
 
 ---
 ## 3D Printed Parts
-`The recommended printing direction for all the parts below is the positive z direction of the stl file.`
+
+<img src="images/printing_direction.png" width="400"> <br>
+
+`The recommended printing direction for all the parts below is the positive z direction of the stl files.`
 
 All the STL files for 3d printing the body structure can be found here: [STL Files Biped Body Structure](stl_files). <br>
 
+---
 <img src="details/body_structure_front.png" width="300"> <br>
 * [Body Structure Front - STL file](stl_files/body_structure_biped_front.STL)<br>
 * weight: 19g

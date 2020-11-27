@@ -46,6 +46,11 @@
 
 ## 3D Printed Parts
 
+<img src="images/printing_direction.png" width="400"> <br>
+
+`The recommended printing direction for all the parts below is the positive z direction of the stl files.`
+
+---
 <img src="details/dual_motor_testbed_base.png" width="400"> <br>
 * [Dual Motor Testbed Base - STL file](stl_files/dual_motor_testbed_base.STL)<br>
 * we print this part with the "sparse double dense" printer setting

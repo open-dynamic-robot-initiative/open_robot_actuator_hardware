@@ -3,20 +3,35 @@
 
 ## Description
 
-
 ## 3d printed parts
+
+<img src="images/printing_direction.png" width="400"> <br>
+
+`The recommended printing direction for all the parts below is the positive z direction of the stl files.`
 
 * All the STL files for 3d printing the leg structure can be found here: [STL Files Leg Structure](stl_files). <br>
 
-`The recommended printing direction for all the parts below is the positive z direction of the stl file.`
-
+---
 <img src="images/hip_module_shell_base_1.png" width="450"> <br>
-
+* [Hip Module Shell Base - STL file](stl_files/hip_module_shell_base.STL)<br>
+* weight: ?g
+---
 <img src="images/hip_module_shell_cover_1.png" width="450"> <br>
-
+* [Hip Module Shell Cover - STL file](stl_files/hip_module_shell_cover.STL)<br>
+* weight: ?g
+---
 <img src="images/upper_leg_module_shell_base.png" width="450"> <br>
-
+* [Upper Leg Module Shell Base - STL file](stl_files/upper_leg_module_shell_base.STL)<br>
+* weight: ?g
+---
+<img src="images/hip_module_shell_cover_1.png" width="450"> <br>
+* [Upper Leg Module Shell Cover - STL file](stl_files/upper_leg_module_shell_cover.STL)<br>
+* weight: ?g
+---
 <img src="images/lower_leg_1.png" width="450"> <br>
+* [Lower Leg - STL file](stl_files/lower_leg_solid_v1.STL)<br>
+* weight: ?g
+---
 
 ## Authors
 Felix Grimminger

@@ -42,9 +42,11 @@
 
 <img src="images/body_structure_assembled_1.jpg" width="400"><br>*Body structure assembled - weight: 247g* <br>
 
-* All the STL files for 3d printing the body structure can be found here: [STL Files Body Structure](stl_files). <br>
+<img src="images/printing_direction.png" width="400"> <br>
 
-`The recommended printing direction for all the parts below is the positive z direction of the stl file.`
+`The recommended printing direction for all the parts below is the positive z direction of the stl files.`
+
+* All the STL files for 3d printing the body structure can be found here: [STL Files Body Structure](stl_files). <br>
 
 ---
 <img src="images/body_structure_bottom.png" width="400"> <br>
