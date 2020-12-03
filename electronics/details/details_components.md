@@ -104,11 +104,11 @@
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
-|LiY Wire 0.50 mm² Black|25m|Conrad 1567229||
-|LifY 0,50 mm² Black|100m|Kabeltronik 160105009||
+|LifY 0,50 mm² black|100m|Kabeltronik 160105009|Highly flexible|
+|LiY Wire 0,50 mm² black|25m|Conrad 1567229|Alternative to Kabeltronik wire|
 
 ---
-# Kabeltronik Encoder Wires
+## Kabeltronik Encoder Wires
 <img src="../images/encoder_wires_1.jpg" width="400"> <br>*Kabeltronik Encoder Wires*
 
 |Description|Details|Ordering Information|Comments|
@@ -123,7 +123,7 @@
 |LifY Cable 0,14 mm² Purple|100m| Kabeltronik 160101410||
 
 ---
-# Ribbon Cable
+## Ribbon Cable
 <img src="../images/ribbon_cable.jpg" width="250"> <br>*Kabeltronic Encoder Wires*
 
 |Description|Details|Ordering Information|Comments|
@@ -232,7 +232,7 @@
 |---|---|---|---|
 |Right Angle Pin Header|Molex 1 Row Right Angle Pin Header<br>Pitch 2.54mm|RS 360-6364 |Motor Phase Connection Micro Driver Board|
 
-# Power Supply
+## Power Supply
 <img src="../images/power_supply_1.jpg" width="300"> <br>*Voltcraft Power Supply*
 
 |Description|Details|Ordering Information|Comments|
