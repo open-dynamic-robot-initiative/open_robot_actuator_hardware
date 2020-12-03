@@ -137,7 +137,7 @@ More information: [Details 3D Printed Parts](details/details_3d_printed_parts.md
 |Encoder Codewheel PWB Mount|1|[STL file](stl_files/encoder_codewheel_pwb_mount.STL)|3d printed part - use SLA, Polyjet or Multijet printer|
 |Transmission Pulley AT3 T30 Center|1|[STL file ](stl_files/transmission_pulley_at3_t30_center.STL)|3d printed part - use SLA, Polyjet or Multijet printer|
 |Transmission Pulley AT3 T30 Output|1|[STL file ](stl_files/transmission_pulley_at3_t30_output.STL)|3d printed part - use SLA, Polyjet or Multijet printer|
-|Timing Belt Tensioner Roller 10mm|2|[STL file](stl_files/transmission_belt_tensioner_roller_10mm.STL)<br>|3d printed part - use SLA, Polyjet or Multijet printer|
+|Timing Belt Tensioner Roller 10mm|2|[STL file](stl_files/transmission_belt_tensioner_roller_10.0mm.STL)<br>|3d printed part - use SLA, Polyjet or Multijet printer|
 |Motor Shaft|1|[PDF drawing](drawings/motor_shaft.PDF)|Machined part|
 |Motor Pulley|1|[PDF drawing](drawings/motor_pulley_at3_t10.PDF)|Machined part|
 |Center Pulley|1| [PDF drawing](drawings/center_pulley_at3_t10.PDF)|Machined part|
