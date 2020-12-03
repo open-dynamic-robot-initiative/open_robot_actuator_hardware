@@ -136,6 +136,7 @@
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
+|Black Heat Shrink Tubing 1.1mm|Alpha Wire FIT-221 / 2:1 Ratio|RS 8395457||
 |Black Heat Shrink Tubing 1.5mm|HellermannTyton<br>10m / 3:1 Ratio|RS 448-247||
 |Black Heat Shrink Tubing 2.4mm |HellermannTyton<br>10m / 2:1 Ratio|RS 914-6821||
 |Black Heat Shrink Tubing 3mm |HellermannTyton<br>10m / 3:1 Ratio|RS 501-4133||
@@ -187,8 +188,10 @@
 |Power Connector male 4mm red|Hirschmann 930729101|RS 738-890||
 |Power Connector female 4mm black|Hirschmann 931804100|RS 175-8974||
 |Power Connector female 4mm red|Hirschmann 931804101|RS 175-8980||
-|Power Wire 1mm² black|Lapp H05V-K 100m|RS 724-4364||
-|Power Wire 1mm² red|Lapp H05V-K 100m|RS 724-4361||
+|Power Wire 1mm² black|LifY 1mm² - 100m|Kabeltronik 160110009|Highly flexible|
+|Power Wire 1mm² red|LifY 1mm² - 100m|Kabeltronik 160110008|Highly flexible|
+|Power Wire 1mm² black|Lapp H05V-K 100m|RS 724-4364|Alternative to Kabeltronik wire|
+|Power Wire 1mm² red|Lapp H05V-K 100m|RS 724-4361|Alternative to Kabeltronik wire|
 
 ---
 ## E-Stop Switch
@@ -207,13 +210,14 @@
 |JTAG EMULATOR XDS100V2 USB|Spectrum Digital XDS100V2 JTAG|Digi Key 702302-ND<br> Farnell 1831927||
 
 ---
-## Components Micro Driver Board
+## Precision Resistors
 <img src="../images/resistors_micro_driver_1.jpg" width="300"> <br>*Precision Resistors for Micro Driver Electronics*
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
 |Precision Resistors 7mΩ ±1%|CRE2512-FZ-R007E-3|RS 824-0348 |Phase Current Measurement Micro Driver Board|
 
+## 8 Pin Flash Connector
 
 <img src="../images/flash_connector_8pin.jpg" width="300"> <br>*8 pin receptacle connector for flashing the micro driver boards*
 
@@ -221,6 +225,7 @@
 |---|---|---|---|
 |8 Position Receptacle Connector Through Hole 1,27mm pitch|	20021311-00008T4LF|	Digi-Key 609-3753-ND|Flash Connector on Micro Driver Board|
 
+## Right Angle Pin Headers
 <img src="../images/pin_headers_right_angle_1.jpg" width="300"> <br>*Right angle pin headers for connecting the motor phase wires*
 
 |Description|Details|Ordering Information|Comments|
@@ -235,6 +240,20 @@
 |Lab Power Supply<br>VOLTCRAFT DPPS-32-20|1-32V DC 0-20A 640 W<br>Supply Voltage 230V|Conrad 1086560|20A max.|
 |Lab Power Supply<br>VOLTCRAFT DPPS-32-30|1-32V DC 0-30A 960 W<br>Supply Voltage 230V|Conrad 1086563|30A max.|
 
+## CAN Card
+<img src="../images/can_card.jpg" width="300"> <br>*Dual Channel PCI Express card*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|PCAN - PCI Express CAN Card|Dual Channel|PEAK System<br>IPEH-003027|Galvanically isolated|
+
+## CAN Connector
+<img src="../images/can_connector.jpg" width="300"> <br>*9pin D-Sub connector*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|9 pin D-Sub Connector||RS 765-9555||
+
 # Tools
 
 <img src="../images/heat_gun_1.jpg" width="300"> <br>*Heat Gun*
@@ -245,8 +264,15 @@
 
 <img src="../images/third_hand_1.jpg" width="300"> <br>*Third hand*
 
-
 ---
+## More Information
+[Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
+[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
+[Open Dynamic Robot Initiative - Forum](https://odri.discourse.group/categories)  
+[Open Dynamic Robot Initiative - Paper](https://arxiv.org/pdf/1910.00093.pdf)  
+[Hardware Overview](../../README.md#open-robot-actuator-hardware)  
+[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)  
+
 ## Authors
 Felix Grimminger
 
@@ -255,11 +281,3 @@ BSD 3-Clause License
 
 ## Copyright
 Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
-
-## More Information
-[Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
-[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
-[Open Dynamic Robot Initiative - Forum](https://odri.discourse.group/categories)  
-[Open Dynamic Robot Initiative - Paper](https://arxiv.org/pdf/1910.00093.pdf)  
-[Hardware Overview](../../README.md#open-robot-actuator-hardware)  
-[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)
