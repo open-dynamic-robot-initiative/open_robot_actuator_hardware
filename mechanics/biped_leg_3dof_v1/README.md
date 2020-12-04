@@ -4,20 +4,31 @@
 <img src="images/biped_leg_1.jpg" width="400"><br>*Biped Leg 3dof - weight: 500g*
 
 ---
-## Hip FE Actuator Module
-* the timing belt of the second stage was rotated by 145 degrees
-* this makes the module shorter and more suitable for the biped robot
+## Biped Hip Modules
+
+* compared to the upper leg module the timing belt of the second stage of the hip AA and hip FE modules was rotated by 145 degrees
+* this makes the modules shorter and more suitable for the biped robot
 * all the internal parts are identical to the original actuator module
+<img src="details/biped_hip_module_comparison.png" width="400"><br>*Comparison upper leg module and biped hip module* <br>
+
+---
+## Hip FE Actuator Module
 
 <img src="images/hip_fe_module_1.jpg" width="400"><br>*Biped Hip FE Actuator Module - weight: 155g* <br>
 
 <img src="images/biped_hip_fe_module_2.png" width="300"> <br> <br>
+
+* there is a left side and a right side version of the Hip FE actuator modules
+* the left side and right side modules are mirrored versions of each other
 
 ---
 ## Hip AA Actuator Module
 <img src="images/hip_aa_module_1.jpg" width="400"><br>*Biped Hip AA Actuator Module - weight: 153g* <br>
 
 <img src="images/biped_hip_aa_module_2.png" width="250"> <br> <br>
+
+* there is a left side and a right side version of the Hip Aa actuator modules
+* the left side and right side modules are mirrored versions of each other
 
 ---
 ## Upper Leg Module
@@ -46,7 +57,7 @@
 ## Off-the-shelf-components
 <img src="details/components_foot_ankle.jpg" width="350"> <br>
 
-* Steel pin - 5mm diameter / length 28mm
+* Steel pin - diameter 5mm  / length 28mm
 * Silicone tube - O.D. 12mm / I.D. 8mm / RS 163-9362
 * Cut 4 silicone tube pieces - 2 x 25mm length and 2 x 8mm length
 * M2,5 x 20mm socket head cap screw with washers and locknut
@@ -108,7 +119,15 @@ All the STL files for 3d printing the biped legs can be found here: [STL Files B
 <img src="details/foot.png" width="250"> <br>
 * [Foot Structure - STL file](stl_files/foot_structure.STL)<br>
 * weight: 12g
+
 ---
+## More Information
+[Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
+[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
+[Open Dynamic Robot Initiative - Forum](https://odri.discourse.group/categories)  
+[Open Dynamic Robot Initiative - Paper](https://arxiv.org/pdf/1910.00093.pdf)  
+[Hardware Overview](../../README.md#open-robot-actuator-hardware)  
+[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)  
 
 ## Authors
 Felix Grimminger
@@ -118,11 +137,3 @@ BSD 3-Clause License
 
 ## Copyright
 Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
-
-## More Information
-[Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
-[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
-[Open Dynamic Robot Initiative - Forum](https://odri.discourse.group/categories)  
-[Open Dynamic Robot Initiative - Paper](https://arxiv.org/pdf/1910.00093.pdf)  
-[Hardware Overview](../../README.md#open-robot-actuator-hardware)  
-[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)

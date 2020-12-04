@@ -32,7 +32,24 @@
 <img src="images/biped_body_structure_parts_1.jpg" width="400"><br>*Parts body structure*
 
 ---
+## Biped Wiring
 <img src="images/biped_wiring.jpg" width="400"><br>*Biped wiring*
+
+More wiring information: [Details Wiring](../../electronics/details/details_wiring.md#details-wiring)
+
+| Description | Quantity | Wire Length | Comments |  
+| --- | --- | --- | --- |   
+|Hip AA Motor Phases |3|20cm|FRHAA and FLHAA |
+|Hip AA Encoder Wire |1|28cm|FRHAA and FLHAA|
+|Hip FE Motor Phases |3|27cm|FRHFE and FLHFE |
+|Hip FE Encoder Wire |1|33cm|FRHFE and FLHFE|
+|Knee Motor Phases |3|35cm|FRK and FLK |
+|Knee Encoder Wire |1|42cm|FRK and FLK|
+
+## SPI Wires
+| Description | Quantity | Wire Length | Comments |  
+| --- | --- | --- | --- |   
+|SPI Wires |3|9cm|  |
 
 ---
 <img src="images/biped_handle_1.jpg" width="300"><br>*The biped robot can be carried like this*

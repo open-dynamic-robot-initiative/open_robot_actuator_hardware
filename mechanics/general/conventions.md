@@ -44,7 +44,7 @@
 |HLK|Hind Left Knee|
 
 ### Direction of Rotation Motor
-<img src="images/convention_motor_rotation.png" width="250"><br>*The positive direction of rotation is counterclockwise when looking at the motor from the top.*<br>
+<img src="images/convention_motor_rotation.png" width="400"><br>*The positive direction of rotation is counterclockwise when looking at the motor from the top.*<br>
 
 ### Direction of Rotation Leg
 <img src="images/convention_leg_rotation.png" width="250"><br>*The positive direction of rotation is clockwise when looking at the robot leg from the side.*<br>
@@ -59,12 +59,13 @@ Our quadrupeds have a segment length of 16cm and a neutral standing height of 24
 ## Mechanics
 ### 3D Printing
 
-
 <img src="images/printing_direction.png" width="450"><br>*The recommended printing direction is the positive z-axis-direction of the STL files.*<br>
 
+### Mechanical Interface Actuator Modules
 
-### Mechanical Interface
+<img src="images/mechanical_interface_output.png" width="450"><br>*We use the same mechanical output interface for all the actuator modules.*<br>
 
+<img src="images/mechanical_interface_segment.png" width="450"><br>*Mechanical interface for the segments.*<br>
 
 
 ---

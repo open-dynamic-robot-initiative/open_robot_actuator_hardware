@@ -100,8 +100,32 @@
 |Helicoil Threaded Inserts|25|M3x4,5 Helicoil<br>||
 Helicoil Threaded Inserts|8|M3x6 Helicoil<br>||
 
-## Robot Stand
+## Quadruped 8dof Wiring
+More wiring information: [Details Wiring](../../electronics/details/details_wiring.md#details-wiring)
 
+### Actuator Module Wires
+| Description | Quantity | Wire Length | Comments |  
+| --- | --- | --- | --- |   
+|Hip FE Motor Phases |3|6cm|FRHFE, FLHFE, HRHFE and HLHFE |
+|Hip FE Encoder Wire |1|10cm|FRHFE, FLHFE, HRHFE and HLHFE|
+|Knee Motor Phases |3|12cm|FRK, FLK, HRK and HLK |
+|Knee Encoder Wire |1|19cm|FRK, FLK, HRK and HLK|
+
+### SPI Wires
+| Description | Quantity | Wire Length | Comments |  
+| --- | --- | --- | --- |   
+|SPI Wire |1|16cm| #0 - FLHFE and FLK|
+|SPI Wire |1|16cm| #1 - FRHFE and FRK|
+|SPI Wire |1|20cm| #2 - HLHFE and HLK |
+|SPI Wire |1|14cm| #3 - HRHFE and HRK|
+
+### Micro Driver Wires
+| Description | Quantity | Wire Length | Comments |  
+| --- | --- | --- | --- |   
+|Motor Phase Wires |24|7cm||
+
+
+## Robot Stand
 <img src="images/robot_stand_1.jpg" width="300"> <br><br>
 
 | Part Name | Quantity | Ordering Information | Comments |  

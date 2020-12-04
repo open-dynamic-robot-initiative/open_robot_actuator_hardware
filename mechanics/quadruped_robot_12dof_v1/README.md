@@ -37,9 +37,8 @@
 * Custom electronics board -> [Micro Driver Board Documentation](../../electronics/micro_driver_electronics/README.md)
 ---
 ### Inertia Measurement Unit
-<img src="images/imu_3dm_cx5_25_1.jpg" width="300"> <br>
+<img src="images/imu_3dm_cx5_25_1.jpg" width="300"><br>*Inertia measurement unit - weight: 13g*<br>
 * Lord Microstrain 3DM-CX5-25
-* Weight: 13g
 * [Lord Microstrain webpage](https://www.microstrain.com/inertial/3dm-cx5-25)
 * We use the imu with an extended measurement range
   * Gyro Rate: +/- 900 deg/sec.
@@ -51,6 +50,8 @@
 <img src="images/body_structure_components_1.jpg" width="400"> <br>
 
 * All the STL files for 3d printing the body structure can be found here: [STL Files Body Structure](stl_files). <br>
+
+<img src="details/body_structure_center_options.png" width="500">*There are 3 different versions for the body structure center top plate.<br>Minimal, with handle and with handle and Vicon marker attachments.* <br>
 
 <img src="details/printing_direction.png" width="400"><br>
 
@@ -67,16 +68,16 @@
 ---
 <img src="details/body_structure_center.png" width="350"> <br>
 * [Body Structure Center - STL file](stl_files/body_structure_center.STL)<br>
+* this part can be used on the bottom and the top of the robot
 * weight: 24g
-
----
-<img src="details/body_structure_center_vicon.png" width="350"> <br>
-* [Body Structure Center Vicon- STL file](stl_files/body_structure_center_vicon.STL)<br>
-* weight: 30g
 ---
 <img src="details/body_structure_center_handle.png" width="350"> <br>
 * [Body Structure Center Handle- STL file](stl_files/body_structure_center_handle.STL)<br>
 * weight: 29g
+---
+<img src="details/body_structure_center_vicon.png" width="350"> <br>
+* [Body Structure Center Vicon- STL file](stl_files/body_structure_center_vicon.STL)<br>
+* weight: 30g
 ---
 <img src="details/body_structure_front.png" width="300"> <br>
 * [Body Structure Front - STL file](stl_files/body_structure_front.STL)<br>
@@ -110,6 +111,10 @@
 * weight: 5g
 
 ---
+<img src="details/stack_spacer.png" width="200"> <br>
+* [Micro Driver Stack Spacer - STL file](stl_files/spacer_micro_driver_stack.STL)<br>
+
+---
 ## Preparing the 3d printed parts
 <img src="details/body_structure_preparation_1.png" width="400"> <br>
 
@@ -122,7 +127,6 @@
 <img src="details/body_structure_preparation_5.png" width="400"> <br>
 
 ---
-
 ## Off-the-shelf Components
 ### Hip AA Bearing
 <img src="images/bearing_ET25202ZVA.jpg" width="300"> <br>
@@ -199,6 +203,7 @@ The simplified STL files for visualization and simulation can be found here: [ST
 |Body Structure Top Master Board |1|[STL file](stl_files/body_structure_top_master_board.STL)|3d printed part|
 |Led Cover |1|[STL file](stl_files/led_cover.STL)|3d printed part|
 |Hip Adapter|2|[STL file](stl_files/hip_adapter.STL)|3d printed part|
+|Spacer Micro Driver Stack|16|[STL file](stl_files/spacer_micro_driver_stack.STL)|3d printed part|
 | Hip AA Bearing | 4 | 25mm x 20mm x 4mm <br> SBN: ET2520 2Z VA| Stainless Steel |
 | Inertia Measurement Unit | 1 | Lord Microstrain<br> 3DM-CX5-25| Extended measurement range<br> Gyro Rate: +/- 900 deg/sec. Accelerometer range: +/- 20G|
 | Vicon Markers | 13 | 9,5mm diameter |  |
@@ -211,6 +216,7 @@ The simplified STL files for visualization and simulation can be found here: [ST
 |Fasteners Hip AA Support|8|M3x14 Socket Head Cap Screw|Stainless steel|
 |Fasteners Micro Driver Stack|4|M2,5x25 Socket Head Cap Screw|Stainless steel|
 |Fasteners IMU|3|M2,5x16 Slotted Screw<br>Conrad 839940-62|Polyamide Plastic<br>Shorten to 13mm|
+|Helical Inserts M3 x 4,5|32|||
 
 ## View the biped cad model in your web browser
 <br>

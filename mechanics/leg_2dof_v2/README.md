@@ -14,25 +14,39 @@
 ---
 <img src="images/hip_module_shell_base_1.png" width="450"> <br>
 * [Hip Module Shell Base - STL file](stl_files/hip_module_shell_base.STL)<br>
-* weight: ?g
+* weight: 27g
 ---
 <img src="images/hip_module_shell_cover_1.png" width="450"> <br>
 * [Hip Module Shell Cover - STL file](stl_files/hip_module_shell_cover.STL)<br>
-* weight: ?g
+* weight: 15g
 ---
 <img src="images/upper_leg_module_shell_base.png" width="450"> <br>
 * [Upper Leg Module Shell Base - STL file](stl_files/upper_leg_module_shell_base.STL)<br>
-* weight: ?g
+* weight: 27g
 ---
 <img src="images/hip_module_shell_cover_1.png" width="450"> <br>
 * [Upper Leg Module Shell Cover - STL file](stl_files/upper_leg_module_shell_cover.STL)<br>
-* weight: ?g
+* weight: 15g
 ---
 <img src="images/lower_leg_1.png" width="450"> <br>
-* [Lower Leg - STL file](stl_files/lower_leg_solid_v1.STL)<br>
-* weight: ?g
+* [Lower Leg v1- STL file](stl_files/lower_leg_solid_v1.STL)<br>
+* this lower leg is meant for printing with "sparse double dense" setting
+* weight: 20g
 ---
+<img src="images/lower_leg_2.png" width="450"> <br>
+* [Lower Leg v2 - STL file](stl_files/lower_leg_solid_v2.STL)<br>
+* this lower leg is meant for printing as a solid part
+* weight: 18g
+---
+## More Information
+[Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
+[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
+[Open Dynamic Robot Initiative - Forum](https://odri.discourse.group/categories)  
+[Open Dynamic Robot Initiative - Paper](https://arxiv.org/pdf/1910.00093.pdf)  
+[Hardware Overview](../../README.md#open-robot-actuator-hardware)  
+[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)  
 
+---
 ## Authors
 Felix Grimminger
 
@@ -41,11 +55,3 @@ BSD 3-Clause License
 
 ## Copyright
 Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
-
-## More Information
-[Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
-[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
-[Open Dynamic Robot Initiative - Forum](https://odri.discourse.group/categories)  
-[Open Dynamic Robot Initiative - Paper](https://arxiv.org/pdf/1910.00093.pdf)  
-[Hardware Overview](../../README.md#open-robot-actuator-hardware)  
-[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)
