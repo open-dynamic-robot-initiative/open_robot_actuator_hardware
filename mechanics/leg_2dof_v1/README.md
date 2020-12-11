@@ -25,9 +25,14 @@ The shell structure supports the motor, encoder and the bearings for the transmi
 We recommend to print the shells on a SLS 3D printer. (selective laser sintering printer)  
 We use Helicoil threaded inserts for increased stability.  
 
-  * Actuator Module Shell Base - 28g -> [STL file](stl_files/actuator_module_shell_base.STL)
-  * Actuator Module Shell Cover - 16g -> [STL file ](stl_files/actuator_module_shell_cover.STL)
-  * [Details 3D Printed Parts](../actuator_module_v1/details/details_3d_printed_parts.md)
+### New Shell Version
+
+We upgraded the shell design for improved stability.  
+We recommend to use the [new version of the 2dof leg (leg_2dof_v2)](../leg_2dof_v2).
+
+### Outdated Shell Components for Reference
+  * Actuator Module Shell Base **Outdated** - 28g -> [STL file](stl_files/actuator_module_shell_base_outdated.STL)
+  * Actuator Module Shell Cover **Outdated** - 16g -> [STL file ](stl_files/actuator_module_shell_cover_outdated.STL)
 
 ## Convention Positive Motor Rotation
 <img src="images/convention_motor_rotation.jpg" width="400"> <br>*Counterclockwise when looking at the motor from the top*
@@ -46,11 +51,9 @@ Credit: Brandon G. Knox
 <img src="images/table_attachment_1.jpg" width="600"><br>*Leg mounted at 45 degrees and in parallel to the table*
 
 The 3d printed table attachment can be used to attach the leg to the table and orient it at 45 degrees or in parallel with the table.  
-The table attachment was designed to print without support on a FDM printer (fused deposition modelling printer) in the orientation documented below.
+The table attachment was designed to print without support on a FDM printer (fused deposition modelling printer). The recommended printing direction is the positive z-axis direction of the STL file.
 
 * Table Attachment -> [STL](stl_files/table_attachment.STL)
-
-<img src="images/table_attachment_1.png" width="600">
 
 ## How to work with this
 * To get an better overview of the assembly you can view this [pdf file](leg_2dof.PDF)

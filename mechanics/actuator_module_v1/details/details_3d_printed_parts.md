@@ -67,23 +67,17 @@ The shells we are using were purchased from the ["3D Systems Part on Demand Serv
 * choose the material: Duraform HST
 * choose number of copies
 * save the order and write down the order number (don't order online)
-* send an email to the 3D Systems engineering support with the order number and ask for a quote for printing the parts in the orientation defined in this [pdf file](20190910_actuator_module_3d_printing_orientation.pdf).
+* send an email to the 3D Systems engineering support with the order number and ask for a quote for printing the parts with the printing direction in the positive z axis direction of the STL files as shown below
 * You can find the email contact for Germany, France and the US below.
+
+<img src="../images/printing_direction.png" width="500"> <br>  <br>
 
 **Important:**   
 The print orientation of the parts for the actuator module is critical.  
 If you order the parts directly from the online system they will be automatically placed in the print volume by an algorithm.  
 If the algorithm places the parts under some random angle they might be not usable.  
 In order to control the print orientation and therefore the quality of the parts you have to go through the 3D Systems engineering support.   
-Write an email (contact information below) with the order number from the web interface and ask them to give you a quote for printing the parts in the orientation defined in this [pdf file](20190910_actuator_module_3d_printing_orientation.pdf).
-
-#### Actuator Shell Base: y and z axis in horizontal plane -> x axis pointing upwards  
-
-<img src="../images/print_orientation_shell_base_1.png" width="500"> <br>
-
----
-#### Actuator Shell Cover: y and z axis in horizontal plane -> x axis pointing downwards
-<img src="../images/print_orientation_shell_cover_1.png" width="500"> <br>
+Write an email (contact information below) with the order number from the web interface and ask them to give you a quote for printing the parts with the printing direction in the positive z-axis direction of the STL files as shown above.
 
 ---
 ## Pulleys and Code Wheel Mount
@@ -99,22 +93,10 @@ Therefore you should choose the SLA Steroelithography printer and the Accura Ext
 * choose the material: Accura Extreme Grey
 * choose number of copies
 * save the order and write down the order number (don't order online)
-* send an email to the 3D Systems engineering support with the order number and ask for a quote for printing the parts in the orientation defined in this [pdf file](20190910_actuator_module_3d_printing_orientation.pdf).  
+* send an email to the 3D Systems engineering support with the order number and ask for a quote for printing the parts with the printing direction in the positive z-axis direction of the STL files as shown above.
 * You can find the email contact for Germany, France and the US below.
 
 <img src="../images/3d_systems_2.png" width="400"> <br>
-
----
-#### Code Wheel Mount: x and y axis in horizontal plane -> z axis pointing downwards
-<img src="../images/print_orientation_codewheel_mount_1.png" width="400"> <br>
-
----
-#### Center Pulley: x and y axis in horizontal plane -> z axis pointing downwards
-<img src="../images/print_orientation_center_pulley_1.png" width="400"> <br>
-
----
-#### Output Pulley: x and y axis in horizontal plane -> z axis pointing upwards
-<img src="../images/print_orientation_output_pulley_1.png" width="400"> <br>
 
 ---
 ### 3D Systems Engineering Support:
