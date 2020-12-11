@@ -33,11 +33,11 @@ The robot consists of:
 ---
 
 <img src="images/body_bottom_part_1.png" width="400"> <br>
-* Body Structure Bottom Part - 230g - [STL file](stl_files/quadruped_body_bottom.STL)  
+* Body Structure Bottom Part - 230g - [STL file](stl_files/body_structure_bottom.STL)  
 
 ---
 <img src="images/body_top_part_1.png" width="400"> <br>
-* Body Shell Top - 110g - [STL file](stl_files/quadruped_body_top.STL)
+* Body Structure Top Part - 110g - [STL file](stl_files/body_structure_top.STL)
 
 ---
 ## Body Shell Preparation
