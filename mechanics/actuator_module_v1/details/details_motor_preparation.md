@@ -17,7 +17,7 @@
 ## Separating Rotor and Stator
 <img src="../images/motor_mod_2.jpg" width="250"> <br>*Bottom view: the retaining ring holds the motor shaft in place*  
 
-<img src="../images/motor_mod_2_1.jpg" width="250"> <br>*Remove the retaining ring from the motor shaft.<br>
+<img src="../images/motor_mod_2_1.jpg" width="250"> <br>*Remove the retaining ring from the motor shaft using small pliers.<br>
 Don't worry about damaging the retaining ring - it's no longer needed*  
 
 <img src="../images/motor_mod_3.jpg" width="300"> <br>*Separate the rotor from the stator by pulling gently to overcome the magnetic forces.. <br>Make sure to keep the brass washer. Store the rotor on a clean surface. <br>Metal particles will stick to the magnets and can cause problems later.*
@@ -52,12 +52,14 @@ Don't worry about damaging the retaining ring - it's no longer needed*
 **Important:** Be careful not to increase the bore diameter too much.  
 If the fit is too loose the rotor will wobble when spinning.
 
-<img src="../images/motor_mod_16.jpg" width="300"> <br>*The rotor is now ready for assembly.*
+<img src="../images/motor_mod_6_1.jpg" width="300"> <br>*Install the two M3 set screws half way using a 1,5mm hex driver.*
+
+<img src="../images/motor_mod_6_2.jpg" width="300"> <br>*The rotor is now ready for assembly.*
 
 ---
 ## Stator Preparation
 ### Removing the Motor Phase Insulation
-<img src="../images/motor_mod_7.jpg" width="300"> <br>*Stator with insulated phase wires*  
+<img src="../images/motor_mod_7.jpg" width="300"> <br>*Stator with original phase wires*  
 
 <img src="../images/motor_mod_7_1.jpg" width="300"> <br>*Carefully cut and remove the large heat shrink at the base.*  
 
@@ -74,7 +76,7 @@ If the fit is too loose the rotor will wobble when spinning.
 <img src="../images/motor_mod_8.jpg" width="300"> <br>*Stator with insulation removed.*  
 
 ### Preparing the Motor Phase Wires
-<img src="../images/motor_mod_8_1.jpg" width="300"> <br>*We shorten the motor phase wires to about 2,5cm measured from the base of the stator.<br>This helps to keep the solder connection inside of the shell structure.*  
+<img src="../images/motor_mod_8_1.jpg" width="300"> <br>*We shorten the motor phase wires to about 3cm measured from the base of the stator.<br>This helps to keep the solder connection inside of the shell structure.<br>Don't shorten the motor phase wires for the Hip AA actuator modules.*  
 
 <img src="../images/motor_mod_8_2.jpg" width="300"> <br>*We use a temperature controlled soldering iron to burn off the orange insulation.<br>Set your soldering iron to a temperature of abour 400 degrees celcius.*  
 

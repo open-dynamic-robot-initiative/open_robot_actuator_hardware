@@ -6,6 +6,7 @@
 
 ## Description
 *  this page describes how to prepare the shells for the brushless actuator modules
+* the shell assembly consists of two parts (the shell base and the shell cover) which are connected by eight M2,5 screws
 * the flatness of the 3d printed parts and the diameters of the through holes is verified  [-> Checking the 3D Printed Shells](#checking-the-3d-printed-shells)
 * the metric threads are cut with a M3 tap [-> Cutting the Metric Threads](#cutting-the-metric-threads)
 * the threaded inserts are installed [-> Installing the Helicoil Inserts](#installing-the-helicoil-inserts)
@@ -115,7 +116,7 @@ Cut the threads all the way through the shell*
 
 <img src="../images/shell_preparation_3_3.jpg" width="300"> <br>*Install three M2,5x10 screws and one M2,5x6 screw on the base shell.*
 
-<img src="../images/shell_preparation_3_4.jpg" width="400"> <br>*The shell is now fully prepared and ready for assembly.*
+<img src="../images/shell_preparation_3_4.jpg" width="400"> <br>*The shell is now fully prepared and ready for assembly.<br>Weight of the actuator module shell assembly: 61g*
 
 ---
 ## Step-by-Step Instructions

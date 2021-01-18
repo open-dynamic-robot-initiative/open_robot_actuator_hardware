@@ -29,13 +29,19 @@
 ## SPI Wires
 <img src="../images/spi_wires.jpg" width="500"> <br>
 
-* for the SPI connections between the master board and the micro driver boards we use [0,14 mm² Kabeltronik wires](details_components.md#kabeltronik-encoder-wires) with a [5 pole Hirose DF13 connector](details_components.md#hirose-df13-sockets)
+* for the SPI connections between the master board and the micro driver boards we use [0,14 mm² Kabeltronik wires](details_components.md#kabeltronik-encoder-wires) with two [5 pole Hirose DF13 connectors](details_components.md#hirose-df13-sockets)
 * for crimping the wires you will need the [DF13 crimp terminals](details_components.md#hirose-df13-crimp-terminals) and the [Hirose DF13 crimp tool](details_components.md#hirose-crimp-tool)
 * the color code and pin assignment is documented below
 * the spi bus operates at high frequencies - keep the wires short
 
 <img src="../images/spi_wiring_1.png" width="600"> <br>*SPI bus connection between the master board and the micro driver boards*
 
+---
+## IMU Wire
+<img src="../images/imu_wire_1.jpg" width="500"><br>*Inertia Measurement Wire*<br>
+
+* for connecting the inertia measurement unit to the master board we use a [ribbon cable with a 10 pin rectangular connector](details_components.md#imu-cable) and extension wires with a [4 pin Hirose connector](details_components.md#hirose-df13-sockets)
+* the pin assignment is documented here: [Master Board Wiring](https://github.com/open-dynamic-robot-initiative/master-board/blob/master/documentation/masterboard_wiring.md#imu)
 ---
 ## Robot Interface Wire
 <img src="../images/connection_wire_3.jpg" width="400"><br>*Robot Interface Wire - Supply Side*<br>

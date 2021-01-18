@@ -38,6 +38,12 @@ We modified the original AT3 tooth profile in order to reduce backlash.**
 
 #### Instructions
 
+* alternatively the tooth profile can be generated with a wire edm machine
+* we did some initial tests to evaluate this option
+* in terms of cost it doesn't seem to be an advantage and we're not sure how the much rougher surface will affect the life span of the timing belts
+* we are therefore not pursuing this option any longer
+
+
 * [PDF Drawing Wire EDM Geometry](../drawings/pulley_at3_t10_wire_edm.PDF)  
 * [DXF File Wire EDM Geometry](../drawings/pulley_at3_t10_wire_edm.zip)
 
@@ -47,7 +53,12 @@ We modified the original AT3 tooth profile in order to reduce backlash.**
 
 <img src="../images/motor_shaft_1.jpg" width="400"> <br>
 
-[PDF Drawing Motor Shaft](../drawings/motor_shaft.PDF)
+* for the machining the motor shafts we order 4mm h9 precision ground stainless steel stock material
+* the stock material diameter is between 3,99mm and 3,97mm
+* the stock material fits the motor bearings without additional adjustments
+* we order the stock material from [Weinmann Aach](https://weinmann-aach.de/standard-titel/stabstahl) in Germany
+* Precision Ground Stainless Steel Rod 1.4301 EN10278 h9 4,0mm (erd4)
+* machine the motor shafts according to this drawing: [PDF Drawing Motor Shaft](../drawings/motor_shaft.PDF)
 
 ---
 ## Step-by-Step Instructions

@@ -34,7 +34,7 @@
 
 <img src="../images/pulley_preparation_5_1.jpg" width="300"> <br>*Alternative: You can also use a vise to press-fit the parts.*
 
-<img src="../images/pulley_preparation_5.jpg" width="300"> <br>*Place your stack of parts on the arbor press. <br>Push all the way down using moderate force.*
+<img src="../images/pulley_preparation_5.jpg" width="300"> <br>*Place your stack of parts on the arbor press. <br>Slowly push the aluminum pulley all the way down.*
 
 <img src="../images/pulley_preparation_5_2.jpg" width="300"> <br>*Remove the protection and the assembly tool.<br>Use a cotton swab to remove excess Loctite.*
 
@@ -57,7 +57,7 @@
 
 <img src="../images/pulley_preparation_8_6.jpg" width="300"> <br>*Timing belt tensioner, M3x10 flat head screw and modified M2,5 washer.*
 
-<img src="../images/pulley_preparation_8_8.jpg" width="300"> <br>*Insert the screw into the side with the ledge as shown in the picture.*
+<img src="../images/pulley_preparation_8_8.jpg" width="300"> <br>*Insert the M3 screw into the side with the ledge as shown in the picture.<br>Turn the assembly around and install the modified M2,5 washers.*
 
 <img src="../images/pulley_preparation_1_1.jpg" width="300"> <br>*The center pulley and the two timing belt tensioners are now ready for assembly.*
 

@@ -1,6 +1,6 @@
 # Details Encoder Preparation
 
-<img src="../images/encoder_mod_1_1.jpg" width="400"> <br>*Starting Point: Encoder, wires, crimps and cable.*
+<img src="../images/encoder_mod_1_1.jpg" width="400"> <br>*Starting Point: Encoder, wires, Hirose connector and crimp contacts.*
 
 <img src="../images/encoder_mod_1_2.jpg" width="400"> <br>*End Result: Modified Encoder with extension wires and connector*
 
@@ -48,7 +48,7 @@
 
 ## Crimping Hirose Connector
 
-<img src="../images/encoder_mod_8_3.jpg" width="300"> <br>*For this step you will need the Hirose DF13 Crimping Tool and the crimp contacts.*  
+<img src="../images/encoder_mod_8_3.jpg" width="300"> <br>*For this step you will need the Hirose DF13 Crimping Tool, the crimp contacts and a wire stripper.*  
 
 <img src="../images/encoder_mod_8_4.jpg" width="300"> <br>*For crimping about 1mm of the insulation has to be removed.*  
 
@@ -64,7 +64,7 @@
 
 <img src="../images/encoder_mod_8_11.jpg" width="300"> <br>*Prepare the Hirose 5pin connector.*
 
-<img src="../images/encoder_mod_8_10.jpg" width="300"> <br>*Insert the crimped wires into the connector.<br>Tweezers make it easier to insert the contacts.*   
+<img src="../images/encoder_mod_8_10.jpg" width="300"> <br>*Insert the crimped wires into the connector.<br>Tweezers make it easier to insert the contacts.<br>The order is documented in the wiring diagramm below.*   
 
 <img src="../images/encoder_mod_1_2.jpg" width="400"> <br>*The encoder is now ready for installation.*
 
