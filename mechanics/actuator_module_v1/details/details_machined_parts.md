@@ -26,8 +26,6 @@ We modified the original AT3 tooth profile in order to reduce backlash.**
 * You should mention that the tool will be used to machine 7075 aluminum.
 * We use a 3mm shaft form cutter with 3 teeth at a helix angle of 20 degrees.
 * When you have received your custom form cutter send the tool and the drawings below to a machine shop of your choice and have the parts machined.  
-
-
 * [Drawing Motor Pulley](../drawings/motor_pulley_at3_t10.PDF)  
 * [Drawing Center Pulley](../drawings/center_pulley_at3_t10.PDF)
 
@@ -42,8 +40,6 @@ We modified the original AT3 tooth profile in order to reduce backlash.**
 * we did some initial tests to evaluate this option
 * in terms of cost it doesn't seem to be an advantage and we're not sure how the much rougher surface will affect the life span of the timing belts
 * we are therefore not pursuing this option any longer
-
-
 * [PDF Drawing Wire EDM Geometry](../drawings/pulley_at3_t10_wire_edm.PDF)  
 * [DXF File Wire EDM Geometry](../drawings/pulley_at3_t10_wire_edm.zip)
 
@@ -56,7 +52,7 @@ We modified the original AT3 tooth profile in order to reduce backlash.**
 * for the machining the motor shafts we order 4mm h9 precision ground stainless steel stock material
 * the stock material diameter is between 3,99mm and 3,97mm
 * the stock material fits the motor bearings without additional adjustments
-* we order the stock material from [Weinmann Aach](https://weinmann-aach.de/standard-titel/stabstahl) in Germany
+* we order the stock material from [Weinmann Aach](https://weinmann-aach.de/) in Germany
 * Precision Ground Stainless Steel Rod 1.4301 EN10278 h9 4,0mm (erd4)
 * machine the motor shafts according to this drawing: [PDF Drawing Motor Shaft](../drawings/motor_shaft.PDF)
 

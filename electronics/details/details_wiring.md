@@ -38,7 +38,7 @@
 
 ---
 ## IMU Wire
-<img src="../images/imu_wire_1.jpg" width="500"><br>*Inertia Measurement Wire*<br>
+<img src="../images/imu_wire_1.jpg" width="500"><br>*Wire for Inertia Measurement Unit*<br>
 
 * for connecting the inertia measurement unit to the master board we use a [ribbon cable with a 10 pin rectangular connector](details_components.md#imu-cable) and extension wires with a [4 pin Hirose connector](details_components.md#hirose-df13-sockets)
 * the pin assignment is documented here: [Master Board Wiring](https://github.com/open-dynamic-robot-initiative/master-board/blob/master/documentation/masterboard_wiring.md#imu)
