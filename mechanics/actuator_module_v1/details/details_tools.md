@@ -1,72 +1,152 @@
 # Details Mechanical Tools and Consumables
 
-<img src="../images/wiha_tools_1.jpg" width="300"> <br>*Wiha Hex Drivers*
+## Hex Drivers and Screw Drivers
+<img src="../images/wiha_tools_1.jpg" width="300"> <br>*Wiha Hex Driver Set*
 
----
-<img src="../images/allen_keys_1.jpg" width="300"> <br>*Allen Key Set from Wera*
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Wiha PicoFinish 42992|Set with 6 hex drivers|Hoffmann 42992<br>Amazon|[Rotor Preparation](details_motor_preparation.md#rotor-preparation)<br>[Actuator Module Assembly](details_actuator_module_assembly.md#mounting-the-stator)|
 
----
+<img src="../images/wiha_tools_3.jpg" width="300"> <br>*Wiha Slotted and Phillips Screw Driver Set*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Wiha PicoFinish 42991|Set with 7 Slotted and Phillips Screwdrivers|Conrad 2126940<br>Amazon|[Encoder Mounting](details_actuator_module_assembly.md#installing-the-encoder)<br>[Closing the Shell](details_actuator_module_assembly.md#closing-the-shell)|
+
+<img src="../images/wiha_tools_2.jpg" width="300"> <br>*Wiha Ball Head Hex Driver Set*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Wiha PicoFinish 42993|Set with 6 ball head hex drivers|Conrad  2126966<br>Amazon||
+
+## Power Drill
+<img src="../images/power_drill.jpg" width="350"> <br>*Power Drill*
+
+## Drill Bit Set
+<img src="../images/drill_bits.jpg" width="350"> <br>*Metric Drill Bit Set*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Drill Bit Set|0,1mm increments|Hahn+Kolb 11049011||
+
+* a drill bit set with 0,1mm diameter increments is really useful for adjusting the 3d printed parts
+* the diameters of the holes in 3d printed parts have to be increased in small steps
+* increasing the hole diameters in large steps can cause the 3d printed parts to crack
+
+## Tool Holders
 <img src="../images/tool_holders.jpg" width="300"> <br>*Tool Holders*
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
-|Tool Holder 2mm-3mm||Hahn+Kolb 51003200||
-|Tool Holder 3mm-4,5mm||Hahn+Kolb 51003205||
-|Tool Holder 4mm-6mm||Hahn+Kolb 51003210||
+|Tool Holder 2mm-3mm||Hahn+Kolb 51003200|[Shell Preparation](details_shell_preparation.md#cutting-the-metric-threads)|
+|Tool Holder 3mm-4,5mm||Hahn+Kolb 51003205|[Rotor Preparation](details_motor_preparation.md#increasing-the-rotor-bore-diameter)|
+|Tool Holder 4mm-6mm||Hahn+Kolb 51003210|[Encoder Preparation](details_encoder_preparation.md#mechanical-modification-encoder)|
 
----
+## Taps
 <img src="../images/tap_drills_1.jpg" width="300"> <br>*M2, M2,5 and M3 Taps*
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
-|M2 Tap||Hoffmann 131300 M2||
-|M2,5 Tap||Hoffmann 131300 M2,5||
-|M3 Tap||Hoffmann 131300 M3||
+|M2,5 Tap||Hoffmann 131300 M2,5|[Micro Driver and IMU Support](../../quadruped_robot_12dof_v1/README.md#preparing-the-3d-printed-parts)|
+|M3 Tap||Hoffmann 131300 M3|[Shell Preparation](details_shell_preparation.md#cutting-the-metric-threads)|
+|M4 Tap||Hoffmann 131300 M4|[Vicon Marker Support](../../quadruped_robot_12dof_v1/README.md#preparing-the-3d-printed-parts)|
 
----
+## Reamers
 <img src="../images/reamers_3.jpg" width="300"> <br>*Reamers*
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
-|Reamer 3,98mm||Hahn+Kolb 11624398||
-|Reamer 3,99mm||Hahn+Kolb 11624399||
-|Reamer 4,00mm||Hahn+Kolb 11624400<br>Hoffmann 1601504||
+|Reamer 3,98mm||Hahn+Kolb 11624398|[Rotor Modification](details_motor_preparation.md#increasing-the-rotor-bore-diameter)|
+|Reamer 3,99mm||Hahn+Kolb 11624399|[Rotor Modification](details_motor_preparation.md#increasing-the-rotor-bore-diameter)|
+|Reamer 4,00mm||Hahn+Kolb 11624400<br>Hoffmann 1601504|[Rotor Modification](details_motor_preparation.md#increasing-the-rotor-bore-diameter)|
 
----
-<img src="../images/encoder_mod_3.jpg" width="300"> <br>*Chamfer Tool*
+## Countersink Tool
+<img src="../images/countersink_tool_1.jpg" width="300"> <br>*Countersink Tool*
 
----
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Countersink Tool 90° 8mm||Hahn+Kolb 11500041|[Encoder Modification](details_encoder_preparation.md#mechanical-modification-encoder)|
+
+## Helicoil Tools
 <img src="../images/helicoil_tools.jpg" width="300"> <br>*Helicoil Tools*
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
-|M2,5 Helicoil Tool Set||Hoffmann 082800 M2,5||
-|M3 Helicoil Tool Set||Hoffmann 082800 M3||
-|||||
+|M2,5 Helicoil Tool Set|Helicoil Tap,<br>Insertion Tool,<br>Tang Breakoff Tool|Hoffmann 082800 M2,5|[Shell Preparation](details_shell_preparation.md#installing-the-helicoil-inserts)|
+|M3 Helicoil Tool Set|Helicoil Tap,<br>Insertion Tool,<br>Tang Breakoff Tool|Hoffmann 082800 M3|[Output Pulley Preparation](details_output_pulley_preparation.md#installing-helicoil-thread-inserts)|
 
----
+## Helicoils
+<img src="../images/helicoils.jpg" width="300"> <br>*Helicoil Threaded Inserts*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|M2,5x3,75 Helicoil Threaded Inserts|1,5xD|Hoffmann 082812 M2,5||
+|M2,5x5 Helicoil Threaded Inserts|2xD|Hoffmann 082814 M2,5||
+|M3x4,5 Helicoil Threaded Inserts|1,5xD|Hoffmann  082812 M3||
+|M3x6 Helicoil Threaded Inserts|2xD|Hoffmann 082814 M3||
+
+## End Mills
 <img src="../images/end_mills_1.jpg" width="300"> <br>*End Mills*
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
-|End Mill 8mm||Hoffmann 2033208||
-|End Mill 25mm ||Hoffmann 156730 1/25 ||
-|End Mill 32mm ||Hoffmann 156730 2/32 ||
+|End Mill 8mm||Hoffmann 2033208|[Shell Preparation](details_shell_preparation.md#adjusting-the-bearing-seats)|
+|End Mill 25mm ||Hoffmann 156730 1/25 |[12dof Quadruped Hip AA Support Adjustment](../../quadruped_robot_12dof_v1#3d-printed-parts)|
+|End Mill 32mm ||Hoffmann 156730 2/32 |[Shell Preparation](details_shell_preparation.md#adjusting-the-bearing-seats)|
 
----
-<img src="../images/tube_cutter_1.jpg" width="300"> <br>*Tube Cutter*
+## Pin Punches
+<img src="../images/pin_drivers.jpg" width="300"> <br>*Hammer and pin punch set*
 
----
-<img src="../images/loctite_406.jpg" width="190"> <br>*Superglue - Loctite 406*
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Pin Punch Set|PB Swiss Tools<br>PB 755.BL RB|Hoffmann 7469306|[Rotor Preparation](details_motor_preparation.md#rotor-preparation)|
 
----
-<img src="../images/loctite_648.jpg" width="180"> <br>*Retaining Compound - Loctite 648*
+## Digital Calipers
+<img src="../images/digital_calipers.jpg" width="400"> <br>*Digital Calipers*
 
----
-<img src="../images/tools_misc_1.jpg" width="300"> <br>*Miscellanious tools - tooth brush, q-tipps and tooth picks*
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Digital Calipers|Mitutoyo|Hoffmann 412632||
 
----
+## Label Maker and Tape
+<img src="../images/label_maker.jpg" width="400"> <br>*Label maker and different tape sizes*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Label Maker|Brother P-touch<br> PT H500|Conrad 1094473||
+|Label Tape 6mm|TZe-211|Conrad 775819|black on white|
+|Label Tape 9mm|TZe-221|Conrad 770248|black on white|
+|Label Tape 12mm|TZe-231|Conrad 775843|black on white|
+|Label Tape 18mm|TZe-241|Conrad 770230|black on white|
+|Label Tape 24mm|TZe-251|Conrad 770299|black on white|
+
+## Loctite
+<img src="../images/loctite.jpg" width="300"> <br>*Loctite superglue and retaining compound*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Loctite 406<br>Superglue|20g bottle|RS 517-7458|[Code Wheel Bonding](details_motor_shaft_preparation.md#bonding-the-codewheel)|
+|Loctite 648<br>Retaining Compound|10ml bottle<br>50ml bottle|RS 258-5991<br>RS 373-1498|[Motor Pulley Bonding](details_motor_shaft_preparation.md#bonding-the-pulley-to-the-motor-shaft)|
+
+## Collet
 <img src="../images/collet_1.jpg" width="300"> <br>*25mm collet to hold the output pulley on a lathe*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Collet 25mm|| Hahn+Kolb 23356450|[Output Pulley Adjustment](details_output_pulley_preparation.md#adjusting-the-output-shaft-diameters)|
+
+## Allen Keys
+<img src="../images/allen_keys_1.jpg" width="300"> <br>*Allen Key Set from Wera*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Wera Allen Key Set 05022210001 |Set with 9 allen keys|RS 136-7121<br>Amazon||
+
+## Miscellaneous Tools
+<img src="../images/tools_misc_1.jpg" width="350"> <br>*Miscellanious tools - tooth brush, q-tipps and tooth picks*
+
+## Nitril Gloves
+<img src="../images/tools_misc_2.jpg" width="350"> <br>*Nitril Gloves*
 
 ---
 ## Step-by-Step Instructions

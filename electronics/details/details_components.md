@@ -256,13 +256,37 @@
 
 # Tools
 
-<img src="../images/heat_gun_1.jpg" width="300"> <br>*Heat Gun*
+## Heat Shrink Label Maker
 
+<img src="../images/heat_shrink_label_maker_1.jpg" width="300"> <br>*Rhino Heat Shrink Label Maker*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|DYMO Rhino 5200 Heat Shrink Label Maker||RS 686-4702|DYMO S0841400|
+|Heat Shrink ø 6mm|black on white|RS 515-6760|DYMO #18051|
+|Heat Shrink ø 9mm|black on white|RS 733-5883|DYMO #18053|
+|Heat Shrink ø 12mm|black on white|RS 515-5565|DYMO #18055|
+|Heat Shrink ø 19mm|black on white|RS 515-6782|DYMO #18057|
+
+---
+## Heat Gun
+<img src="../images/heat_gun_1.jpg" width="300"> <br>*Heat Gun*<br>
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Steinel Heat Gun||Steinel #3479|Temperature not adjustable.|
+
+---
 <img src="../images/pliers_1.jpg" width="300"> <br>*Pliers*
 
 <img src="../images/soldering_iron_1.jpg" width="300"> <br>*Soldering iron with temperature control*
 
-<img src="../images/third_hand_1.jpg" width="300"> <br>*Third hand*
+---
+<img src="../images/third_hand_1.jpg" width="300"> <br>*Third hand*<br>
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Third Hand||RS 221-7531||
 
 ---
 ## More Information
