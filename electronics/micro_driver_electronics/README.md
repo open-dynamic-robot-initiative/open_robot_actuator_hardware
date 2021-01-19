@@ -67,6 +67,7 @@ For the encoder connectors, it's possible to use either [Hirose DF13 Straight Pi
 
 ## Resistor soldering
 
+The six [precision resistors](../details/details_components.md#precision-resistors) needs to be soldered on the back of the MicroDriver.
 **Trick:** Use some solder at the tip to initially fix the resistor a bit. Then solder the other side and fix the initial side in the end properly.
 
 <img src="images/micro_driver_resistor_soldering_preparation.jpg" width="500"><br>
