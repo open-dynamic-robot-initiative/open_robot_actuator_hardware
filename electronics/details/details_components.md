@@ -254,7 +254,6 @@
 |---|---|---|---|
 |9 pin D-Sub Connector||RS 765-9555||
 
-# Tools
 
 ## Heat Shrink Label Maker
 
@@ -268,20 +267,46 @@
 |Heat Shrink ø 12mm|black on white|RS 515-5565|DYMO #18055|
 |Heat Shrink ø 19mm|black on white|RS 515-6782|DYMO #18057|
 
----
+## Soldering Iron
+<img src="../images/soldering_iron_1.jpg" width="300"> <br>*Soldering iron with temperature control*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Soldering Iron |Ersa i-CON| Conrad 2272879 <br>Farnell 1625358|Temperature Range: 150°C to 450°C|
+
 ## Heat Gun
 <img src="../images/heat_gun_1.jpg" width="300"> <br>*Heat Gun*<br>
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
-|Steinel Heat Gun||Steinel #3479|Temperature not adjustable.|
+|Steinel Heat Gun|Steinel HL Stick| Conrad 818872<br>Farnell 2138307|Temperature not adjustable.|
 
----
-<img src="../images/pliers_1.jpg" width="300"> <br>*Pliers*
+## Multimeter
 
-<img src="../images/soldering_iron_1.jpg" width="300"> <br>*Soldering iron with temperature control*
+<img src="../images/multimeter.jpg" width="300"> <br>*Multimeter - Fluke 175*
 
----
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Multimeter|Fluke 175|RS 394-4470<br>Farnell 3558678||
+
+## Test Probes
+
+<img src="../images/test_probes.jpg" width="300"> <br>*Miniature Test Probes*<br>
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Miniature Test Probes|Hirschmann 	932959001|RS 775-681<br>Farnell 1011414||
+
+## Pliers
+<img src="../images/pliers_1.jpg" width="350"> <br>*Wire cutter, pliers and wire stripper*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Wire Cutter|Knipex 7732115|Hahn+Kolb 53106040<br>Farnell 3330436||
+|Pliers|Knipex 3522115|Hahn+Kolb 53104020<br>Farnell 1715017||
+|Wire Stripper|Knipex 1182130|Hahn+Kolb 53110015<br>Farnell 1779811||
+
+## Third Hand
 <img src="../images/third_hand_1.jpg" width="300"> <br>*Third hand*<br>
 
 |Description|Details|Ordering Information|Comments|
