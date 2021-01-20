@@ -1,23 +1,24 @@
 # Details Mechanical Tools and Consumables
 
-## Hex Drivers and Screw Drivers
+## Hex Drivers
 <img src="../images/wiha_tools_1.jpg" width="300"> <br>*Wiha Hex Driver Set*
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
 |Wiha PicoFinish 42992|Set with 6 hex drivers|Hoffmann 42992<br>Amazon|[Rotor Preparation](details_motor_preparation.md#rotor-preparation)<br>[Actuator Module Assembly](details_actuator_module_assembly.md#mounting-the-stator)|
 
-<img src="../images/wiha_tools_3.jpg" width="300"> <br>*Wiha Slotted and Phillips Screw Driver Set*
-
-|Description|Details|Ordering Information|Comments|
-|---|---|---|---|
-|Wiha PicoFinish 42991|Set with 7 Slotted and Phillips Screwdrivers|Conrad 2126940<br>Amazon|[Encoder Mounting](details_actuator_module_assembly.md#installing-the-encoder)<br>[Closing the Shell](details_actuator_module_assembly.md#closing-the-shell)|
-
 <img src="../images/wiha_tools_2.jpg" width="300"> <br>*Wiha Ball Head Hex Driver Set*
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
 |Wiha PicoFinish 42993|Set with 6 ball head hex drivers|Conrad  2126966<br>Amazon||
+
+## Screw Drivers
+<img src="../images/wiha_tools_3.jpg" width="300"> <br>*Wiha Slotted and Phillips Screw Driver Set*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Wiha PicoFinish 42991|Set with 7 Slotted and Phillips Screwdrivers|Conrad 2126940<br>Amazon|[Encoder Mounting](details_actuator_module_assembly.md#installing-the-encoder)<br>[Closing the Shell](details_actuator_module_assembly.md#closing-the-shell)|
 
 ## Power Drill
 <img src="../images/power_drill.jpg" width="350"> <br>*Power Drill*
@@ -27,7 +28,7 @@
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
-|Drill Bit Set|0,1mm increments|Hahn+Kolb 11049011||
+|Drill Bit Set|0,1mm increments|Hahn+Kolb 11049011|1mm - 5,9mm|
 
 * a drill bit set with 0,1mm diameter increments is really useful for adjusting the 3d printed parts
 * the diameters of the holes in 3d printed parts have to be increased in small steps
@@ -42,7 +43,7 @@
 |Tool Holder 3mm-4,5mm||Hahn+Kolb 51003205|[Rotor Preparation](details_motor_preparation.md#increasing-the-rotor-bore-diameter)|
 |Tool Holder 4mm-6mm||Hahn+Kolb 51003210|[Encoder Preparation](details_encoder_preparation.md#mechanical-modification-encoder)|
 
-## Taps
+## Metric Taps
 <img src="../images/tap_drills_1.jpg" width="300"> <br>*M2, M2,5 and M3 Taps*
 
 |Description|Details|Ordering Information|Comments|
@@ -58,7 +59,7 @@
 |---|---|---|---|
 |Reamer 3,98mm||Hahn+Kolb 11624398|[Rotor Modification](details_motor_preparation.md#increasing-the-rotor-bore-diameter)|
 |Reamer 3,99mm||Hahn+Kolb 11624399|[Rotor Modification](details_motor_preparation.md#increasing-the-rotor-bore-diameter)|
-|Reamer 4,00mm||Hahn+Kolb 11624400<br>Hoffmann 1601504|[Rotor Modification](details_motor_preparation.md#increasing-the-rotor-bore-diameter)|
+|Reamer 4,00mm||Hahn+Kolb 11624400<br>Hoffmann 1601504|[Encoder Mount Adjustment](details_motor_shaft_preparation.md#bonding-the-codewheel)|
 
 ## Countersink Tool
 <img src="../images/countersink_tool_1.jpg" width="300"> <br>*Countersink Tool*
@@ -94,19 +95,36 @@
 |End Mill 25mm ||Hoffmann 156730 1/25 |[12dof Quadruped Hip AA Support Adjustment](../../quadruped_robot_12dof_v1#3d-printed-parts)|
 |End Mill 32mm ||Hoffmann 156730 2/32 |[Shell Preparation](details_shell_preparation.md#adjusting-the-bearing-seats)|
 
+## Files
+<img src="../images/files.jpg" width="350"> <br>*Flat Files*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Flat File Rough |Vallorbe Habilis|Hoffmann 527060|Length 215mm|
+|Flat File Smooth |Vallorbe Habilis|Hoffmann 527070|Length 215mm|
+
 ## Pin Punches
 <img src="../images/pin_drivers.jpg" width="300"> <br>*Hammer and pin punch set*
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
-|Pin Punch Set|PB Swiss Tools<br>PB 755.BL RB|Hoffmann 7469306|[Rotor Preparation](details_motor_preparation.md#rotor-preparation)|
+|Pin Punch Set|PB Swiss Tools<br>PB 755.BL RB|Hoffmann 7469306|Only 3mm pin punch required.<br>[Rotor Preparation](details_motor_preparation.md#rotor-preparation)|
+|Pin Punch 3mm|PB Swiss Tools|Hoffmann 7469203|[Rotor Preparation](details_motor_preparation.md#rotor-preparation)|
+|Hammer|Gedore|Hahn+Kolb 51184410|[Rotor Preparation](details_motor_preparation.md#rotor-preparation)|
+
+## Vise
+<img src="../images/vise.jpg" width="300"> <br>*Precision Vise*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Precision Vise|Röhm 60mm PL-G|Hahn+Kolb 28604060|Jaw width 60mm|
 
 ## Digital Calipers
 <img src="../images/digital_calipers.jpg" width="400"> <br>*Digital Calipers*
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
-|Digital Calipers|Mitutoyo|Hoffmann 412632||
+|Digital Calipers|Mitutoyo|Hoffmann 412632|Battery SR44|
 
 ## Label Maker and Tape
 <img src="../images/label_maker.jpg" width="400"> <br>*Label maker and different tape sizes*

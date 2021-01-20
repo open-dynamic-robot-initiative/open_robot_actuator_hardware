@@ -256,16 +256,15 @@
 
 
 ## Heat Shrink Label Maker
-
 <img src="../images/heat_shrink_label_maker_1.jpg" width="300"> <br>*Rhino Heat Shrink Label Maker*
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
-|DYMO Rhino 5200 Heat Shrink Label Maker||RS 686-4702|DYMO S0841400|
-|Heat Shrink ø 6mm|black on white|RS 515-6760|DYMO #18051|
-|Heat Shrink ø 9mm|black on white|RS 733-5883|DYMO #18053|
-|Heat Shrink ø 12mm|black on white|RS 515-5565|DYMO #18055|
-|Heat Shrink ø 19mm|black on white|RS 515-6782|DYMO #18057|
+|DYMO Rhino 5200 Heat Shrink Label Maker|DYMO #1755749|RS 686-4702||
+|Heat Shrink ø 6mm|DYMO #18051|RS 515-6760|black on white|
+|Heat Shrink ø 9mm|DYMO #18053|RS 733-5883|black on white|
+|Heat Shrink ø 12mm|DYMO #18055|RS 515-5565|black on white|
+|Heat Shrink ø 19mm|DYMO #18057|RS 515-6782|black on white|
 
 ## Soldering Iron
 <img src="../images/soldering_iron_1.jpg" width="300"> <br>*Soldering iron with temperature control*
@@ -273,6 +272,7 @@
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
 |Soldering Iron |Ersa i-CON| Conrad 2272879 <br>Farnell 1625358|Temperature Range: 150°C to 450°C|
+|Solder|Stannol HS10|RS 518-012|Ø 0.5mm / 250g|
 
 ## Heat Gun
 <img src="../images/heat_gun_1.jpg" width="300"> <br>*Heat Gun*<br>
@@ -282,7 +282,6 @@
 |Steinel Heat Gun|Steinel HL Stick| Conrad 818872<br>Farnell 2138307|Temperature not adjustable.|
 
 ## Multimeter
-
 <img src="../images/multimeter.jpg" width="300"> <br>*Multimeter - Fluke 175*
 
 |Description|Details|Ordering Information|Comments|
@@ -290,7 +289,6 @@
 |Multimeter|Fluke 175|RS 394-4470<br>Farnell 3558678||
 
 ## Test Probes
-
 <img src="../images/test_probes.jpg" width="300"> <br>*Miniature Test Probes*<br>
 
 |Description|Details|Ordering Information|Comments|
@@ -305,6 +303,13 @@
 |Wire Cutter|Knipex 7732115|Hahn+Kolb 53106040<br>Farnell 3330436||
 |Pliers|Knipex 3522115|Hahn+Kolb 53104020<br>Farnell 1715017||
 |Wire Stripper|Knipex 1182130|Hahn+Kolb 53110015<br>Farnell 1779811||
+
+## Tweezers
+<img src="../images/tweezers.jpg" width="350"> <br>*Tweezers*<br>
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Tweezers|LINDSTRÖM|Hoffmann 727502||
 
 ## Third Hand
 <img src="../images/third_hand_1.jpg" width="300"> <br>*Third hand*<br>
