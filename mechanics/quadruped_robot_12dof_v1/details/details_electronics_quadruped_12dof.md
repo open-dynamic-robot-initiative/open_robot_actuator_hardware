@@ -37,7 +37,7 @@
 |SPI wires micro driver stack back|3|14cm|3-AA / 4-HL / 5-HR|
 
 ---
-### Inerita Measurement Unit
+### Inertia Measurement Unit
 <img src="../images/imu.jpg" width="400"><br>*IMU with wire and mounting plate - weight: 30g*  
 
 | Description | Quantity | Wire Length | Comments |  

@@ -158,13 +158,17 @@
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
-|Wera Allen Key Set 05022210001 |Set with 9 allen keys|RS 136-7121<br>Amazon||
-
-## Miscellaneous Tools
-<img src="../images/tools_misc_1.jpg" width="350"> <br>*Miscellanious tools - tooth brush, q-tipps and tooth picks*
+|Allen Key Set |Wera 05022210001|RS 136-7121<br>Amazon|Set with 9 allen keys|
 
 ## Nitril Gloves
 <img src="../images/tools_misc_2.jpg" width="350"> <br>*Nitril Gloves*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Disposable Gloves |Ansell 92-600/075|RS 261-6736|Nitril|
+
+## Miscellaneous Tools
+<img src="../images/tools_misc_1.jpg" width="350"> <br>*Miscellanious tools - tooth brush, q-tipps and tooth picks*
 
 ---
 ## Step-by-Step Instructions
