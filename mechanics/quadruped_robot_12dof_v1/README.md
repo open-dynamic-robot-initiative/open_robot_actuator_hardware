@@ -62,8 +62,14 @@
 * [Body Structure Back - STL file](stl_files/body_structure_back.STL)<br>
 * weight: 12g
 ---
+<img src="details/body_structure_bottom_rev_a.png" width="300"> <br>
+* [Body Structure Bottom Rev A - STL file](stl_files/body_structure_bottom_rev_a.STL)<br>
+* for Micro Driver boards with 90 degree Hirose encoder connectors
+* weight: 10g
+
 <img src="details/body_structure_bottom.png" width="300"> <br>
 * [Body Structure Bottom - STL file](stl_files/body_structure_bottom.STL)<br>
+* for Micro Driver boards with straight Hirose encoder connectors
 * weight: 9g
 ---
 <img src="details/body_structure_center.png" width="350"> <br>
@@ -123,6 +129,8 @@
 <img src="details/body_structure_preparation_3.png" width="400"> <br>
 
 <img src="details/body_structure_preparation_4.png" width="400"> <br>
+
+<img src="details/body_structure_preparation_4_rev_a.png" width="400"> <br>
 
 <img src="details/body_structure_preparation_5.png" width="400"> <br>
 
@@ -200,7 +208,7 @@ The simplified STL files for visualization and simulation can be found here: [ST
 | --- | --- | --- | --- |   
 |3DOF Leg |4|Custom assembly|[3DOF Leg Documentation](../leg_3dof_v1/README.md)|
 |Body Structure Back |1|[STL file](stl_files/body_structure_back.STL)|3d printed part|
-|Body Structure Bottom |2|[STL file](stl_files/body_structure_bottom.STL)|3d printed part|
+|Body Structure Bottom |2|[STL file - Rev A](stl_files/body_structure_bottom_rev_a.STL)<br>[STL file](stl_files/body_structure_bottom.STL)|3d printed part|
 |Body Structure Center |1|[STL file](stl_files/body_structure_center.STL)|3d printed part|
 |Body Structure Front |1|[STL file](stl_files/body_structure_front.STL)|3d printed part|
 |Body Structure Hip AA Support |4|[STL file](stl_files/body_structure_hip_aa_support.STL)|3d printed part|
