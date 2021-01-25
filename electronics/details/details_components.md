@@ -91,6 +91,31 @@
 |Crimping Tool for RJ45 connectors |Paladin|RS 472-6762||
 
 ---
+## Ethernet Jack
+<img src="../images/hanrun_ethernet_jack.jpg" width="400"> <br>*HanRun Ethernet Jack*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Ethernet Jack|HanRun RJ45 HR911105A|[CSD Electronics](https://csd-electronics.de/Mechanical-Comp-/Connectors/Modular/Network/HanRun-RJ45-jack-HR911105A-2xLED::12367.html?MODsid=foornd5v6nnu0bs9n58bvpqck1)|Used for MasterBoard.|
+
+---
+## Neo Pixel Leds
+<img src="../images/neo_pixel_leds.jpg" width="400"> <br>*NeoPixel Leds*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Neo Pixel Led|WS2818B LED SMD 5050 with WS2811 controller|Amazon|Used for MasterBoard.|
+
+---
+## Neo Pixel Led Rings
+<img src="../images/neo_pixel_led_rings.jpg" width="400"> <br>*NeoPixel Led Rings*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|NeoPixel Ring RGB LED 12 x WS2812|Adafruit 1643|Mouser 485-1643||
+|Neo Pixel Ring RGB LED 16 x WS2812 |Adafruit 1463|Mouser 485-1463||
+
+---
 ## Motor Phase Connectors
 <img src="../images/motor_phase_connectors_1.jpg" width="400"> <br>*Motor Phase Connectors*
 
@@ -253,7 +278,6 @@
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
 |9 pin D-Sub Connector||RS 765-9555||
-
 
 ## Heat Shrink Label Maker
 <img src="../images/heat_shrink_label_maker_1.jpg" width="300"> <br>*Rhino Heat Shrink Label Maker*

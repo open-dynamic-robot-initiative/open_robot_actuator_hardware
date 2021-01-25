@@ -51,7 +51,7 @@
 
 * All the STL files for 3d printing the body structure can be found here: [STL Files Body Structure](stl_files). <br>
 
-<img src="details/body_structure_center_options.png" width="500">*There are 3 different versions for the body structure center top plate.<br>Minimal, with handle and with handle and Vicon marker attachments.* <br>
+<img src="details/body_structure_center_options.png" width="500"><br>*There are 3 different versions for the body structure center top plate.<br>Minimal, with handle and with handle and Vicon marker attachments.* <br>
 
 <img src="details/printing_direction.png" width="400"><br>
 

@@ -2,7 +2,7 @@
 <img src="images/ti_eval_board_1.jpg" width="400"> <br>*Launchpad F28069M with two DRV8305 Booster Packs - weight: 85g*
 
 ## Description
-<img src="images/ti_eval_board_2.jpg" width="300"><br>  
+<img src="images/ti_eval_board_3.jpg" width="400"><br>  
 
 * the Launchpad F28069M is optimized for high performance dual brushless motor control
 * each Booster Pack drives one brushless motor with continuous current up to 15A (20A peak)
@@ -39,6 +39,7 @@ The TI Evaluation Board Electronics are used for the following robots:
 * we have developed a miniaturized version of the Texas Instruments motor driver cards called Micro Driver Electronics
 * the micro driver electronics have the same capabilities as the TI evaluation boards
 * the only difference is that the onboard USB flash programmer was removed - so for flashing the micro driver cards you need an external [flash programmer](../details/details_components.md#jtag-flash-programmer)
+* the Micro Driver v2 board also features SPI communication for controlling the motors via the MasterBoard
 * the micro driver cards are a factor of 10 smaller and a factor of 6 lighter
 * more information: [Micro Driver Electronics Documentation](../micro_driver_electronics/README.md#micro-driver-electronics)
 
@@ -50,7 +51,7 @@ The TI Evaluation Board Electronics are used for the following robots:
 * connecting the GPIO 26 to ground will disable the motor drivers
 * the launchpad has 16 analog input channels
 * for each booster pack it measures the three phase voltages, the three phase currents and the supply voltage
-* so there are 2 analog channels free - ADCIN A6 and ADCIN B6
+* so there are only 2 analog channels free - ADCIN A6 and ADCIN B6
 * **Caution:** Don't connect 5V sources to the analog input channels
 * the maximal voltage for the analog input channels is 3,3V
 ---
@@ -58,6 +59,7 @@ The TI Evaluation Board Electronics are used for the following robots:
 <img src="images/launchpad_pins_2.png" width="500"><br>
 
 ---
+## Preparing the Launchpad
 ### Setting the Jumpers
 <img src="images/ti_board_preparation_1.jpg" width="600"><br>*TI Launchpad with jumper setting as delivered*
 
@@ -71,7 +73,7 @@ This insulates your computer from the external power that is supplied through th
 <img src="images/ti_board_preparation_3.jpg" width="600"><br>*Install jumper JP6 - make sure that JP7 and JP3 are also connected*
 
 ---
-## Preparing the Connector Interface
+### Preparing the Connector Interface
 <img src="images/connector_interface.jpg" width="400"><br>*Connector interface TI Evaluation Boards after modification.*
 
 We modify the connectors of the TI Evaluation Boards in order to make them compatible with our [actuator module connector interface](../details/details_wiring.md#actuator-module-wiring).
