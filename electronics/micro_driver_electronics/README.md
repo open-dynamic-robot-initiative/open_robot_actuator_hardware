@@ -28,8 +28,8 @@
 
 <br><br><img src="images/micro_drivers_v2_1.jpg" width="400"> <br>
 
-## Beta Layout Ordering Instructions
-
+## Ordering Instructions
+### Beta Layout
 We have mostly been ordering the Micro Driver boards from [BetaLayout](https://us.beta-layout.com/pcb/).
 Beta Layout has the permission to replicate our MicroDriver v2 board order for anybody who is interested - they ship worldwide.
 
@@ -39,19 +39,93 @@ They will send you a quote for producing the boards and for the placing and sold
 
 After you have placed the order for the boards Beta Layout will search for the components and will send you the component list with the actual component prices for your approval. For our last orders the component price was around 50€ per board.
 
-We order the boards with all the components placed and soldered - except for the precision resistors and the Hirose connectors.
+We order the boards with all the components placed and soldered - except for the precision resistors and the Hirose connectors. The soldering of those components is described [below](#soldering-work).
+
+### MacroFab
+
+In the US we have also successfully ordered the Micro Driver Boards from [MacroFab](https://macrofab.com/).
+
+---
+## Bill of Materials
+### Micro Driver Boards
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|MicroDriver v2||[BetaLayout](https://us.beta-layout.com/pcb/)<br> USA: [MacroFab](https://macrofab.com/)|[Ordering Instructions](#ordering-instructions)|
+|Precision Resistors 7mΩ ±1%|CRE2512-FZ-R007E-3|RS 824-0348 |Phase Current Measurement Micro Driver Board|
+|Right Angle Pin Header|Pitch 2.54mm|RS 360-6364 |Motor Phase and Power Connection Micro Driver Board|
+|Hirose DF13 Right Angle Header 5 Pin|DF13-5P-1.25DS(20)|Digi-Key H2202-ND|Encoder and SPI connector Micro Driver Board. We use the [right angle connectors](../details/details_components.md#hirose-df13-right-angle-pin-headers). Alternatively you can use the [straight connectors](../details/details_components.md#hirose-df13-straight-pin-headers).|
+
+### Flash Adapter and Flash Wire
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|JTAG EMULATOR XDS100V2 USB|Spectrum Digital XDS100V2 JTAG|Digi Key 702302-ND<br> Farnell 1831927||
+|Pin Header 8 Position 1.27mm pitch|Amphenol ICC 20021111-00008T4LF|Digi-Key 609-3711-ND|Flash Cable Connector Micro Driver Side|
+|Pin Header 2,54 mm pitch|Assmann AWL254-DG-G72A|RS 674-2347|Flash Cable Connector Emulator Side|
+|Ribbon Cable|HARTING 09180107001|DigiKey 1195-4452-ND|Pitch 1,27mm / 0,050" |
+
+---
+# Soldering Work
+
+The MicroDrivers come without any connectors (for power wires, encoders, spi and motor wires). These have to been added. In addition, six resistors have to been soldered on the back of the MicroDriver.
+
+For the encoder connectors, it's possible to use either [Hirose DF13 Straight Pin Headers](../details/details_components.md#hirose-df13-straight-pin-headers) or the [Hirose DF13 Right Angle Pin Headers](../details/details_components.md#hirose-df13-right-angle-pin-headers)
+
+## Resistor Soldering
+The six [precision resistors](../details/details_components.md#precision-resistors) needs to be soldered on the back of the MicroDriver.
+**Trick:** Use some solder at the tip to initially fix the resistor a bit. Then solder the other side and fix the initial side in the end properly.
+
+<img src="images/micro_driver_resistor_soldering_preparation.jpg" width="400"><br>
+
+<img src="images/micro_driver_resistor_soldering.jpg" width="400"><br>
+
+<img src="images/micro_driver_resistor_final.jpg" width="400"><br>
+
+## Hirose Connector Soldering
+
+<img src="images/micro_driver_stack_1.jpg" width="400"><br>*Micro Driver Stack with right angle Hirose connectors.*<br>
+
+We recommend to use the right angle Hirose connectors for the encoders and the SPI communication if the cards are mounted in a stack. This allows for connecting and disconnecting the encoder and SPI wires without disassembling the stack.
+
+The **right angle Hirose connectors** are mounted to the **bottom side** of the micro driver boards as shown in the picture below.
+The **straight Hirose connectors** are mounted on the **top side** of the micro driver boards. That way the pin assignment is identical and both connector options are compatible with the [Actuator Module Wiring Interface](../details/details_wiring.md#actuator-module-wiring).
+
+<img src="images/micro_driver_hirose_connectors_1.jpg" width="400"><br>*Micro Driver Boards with Hirose encoder connectors.<br>Left side: right angle connectors / Right side: straight connectors*<br>
+
+<img src="images/micro_driver_hirose_connectors_2.jpg" width="400"><br>*Micro Driver Boards with Hirose connector for SPI communication.<br>Left side: right angle connectors / Right side: straight connectors*<br>
+
+<img src="images/micro_driver_hirose_preparation.jpg" width="400"><br>*Use a vise to clamp the board and locate the Hirose connector.*<br>
+
+<img src="images/micro_driver_hirose_soldering.jpg" width="400"><br>*Solder the two encoder connectors and the spi connector onto the board.*<br>
+
+## Motor / Power Wire Soldering
+
+<img src="images/power_preparation_1.jpg" width="300"><br>*Solder a two pin right angle connector to the power interface.*<br>
+
+<img src="images/power_preparation_2.jpg" width="300"><br>*Shorten the pins, solder the extension wires and apply heat shrink.*<br>
+
+<img src="images/motor_phase_preparation_1.jpg" width="300"><br>*Right angle pin and mating connector.*<br>
+
+<img src="images/motor_phase_preparation_2.jpg" width="300"><br>*Use a mating connector to hold the pin during soldering.*<br>
+
+<img src="images/motor_phase_preparation_3.jpg" width="300"><br>*Orient the pin as desired, apply solder and shorten the pins.*<br>
+
+<img src="images/motor_phase_preparation_4.jpg" width="300"><br>*Repeat for all six motor phase connections.*<br>
+
+<img src="images/motor_phase_preparation_5.jpg" width="300"><br>*Apply the extension wires and heat shrink.*<br>
+
+<img src="images/motor_phase_preparation_6.jpg" width="300"><br>*Attach the 2mm motor phase connectors and label the wires.<br>On one of the boards we attach a 2 pin Hirose wire to power the Master Board.*<br>
 
 ---
 ## Flashing
 
-The MicroDriver are flashed using a JTAG emulator connected via USB. The emulator is connected to the MicroDriver using a connector cable.
+The MicroDriver boards are flashed using a JTAG emulator connected via USB.<br> The emulator is connected to the MicroDriver using the connector cable described below.
 
 <img src="images/udrive_programmable.jpg" width="500">
 
 
-## Wiring MicroDriver <-> JTAG emulator
+## Wiring MicroDriver <-> JTAG Emulator
 
-Note: A long wire might cause communication problems when attempting to flash the MicroDriver. A cable length of 10 cm worked good for us.
+Note: A long wire might cause communication problems when attempting to flash the MicroDriver. A cable length of 10 cm worked well for us.
 
 <img src="images/wire_programmable.jpg" width="500">
 
@@ -60,50 +134,6 @@ Note: A long wire might cause communication problems when attempting to flash th
 | <img src="images/udrive_wireng_programmable.png" width="500"> | <img src="images/udrive_wireng_micro_driver.png" width="300"> |
 
 ---
-# Bill of Material
-
-| Part        | Description | Suppliers   |
-|-------------|-------------|------------|
-| MicroDriver | v2 | USA: [MacroFab](https://macrofab.com/) <br> Germany: [BetaLayout](https://us.beta-layout.com/pcb/)|
-| JTAG Emulator | Spectrum Digital XDS100V2 | USA: [Mouser](https://www.mouser.com/ProductDetail/Spectrum-Digital/702302?qs=%2Fha2pyFadugCs%252BN3rqeKGQ5rHGsjcLGLHwUgh92e22D%252BaV4SDvb2Vg%3D%3D) <br> Germany: [Farnell](https://de.farnell.com/spectrum-digital/xds100v2-jtag/emulator-usb-jtag-xds100v2/dp/1831927?ost=1831927&ddkey=https%3Ade-DE%2FElement14_Germany%2Fsearch) |
-| Connector wire MicroDriver | Amphenol MiniTek 127 20021111-00008T4LF | Germany: [DigiKey](https://www.digikey.com/products/en?keywords=609-3711-ND) |
-
----
-# Soldering work
-
-The MicroDriver come without any connectors (for power wires, encoders, motor wires, ...). These have to been added. In addition, six resistors have to been soldered on the back of the MicroDriver.
-
-For the encoder connectors, it's possible to use either [Hirose DF13 Straight Pin Headers](../details/details_components.md#hirose-df13-straight-pin-headers) or the [Hirose DF13 Right Angle Pin Headers](../details/details_components.md#hirose-df13-right-angle-pin-headers)
-
-## JTAG connector
-
-**Todo:** Add pictures and instructions.
-
-<img src="images/micro_driver_v2_1_jtag.jpg" width="500">
-
-## Resistor soldering
-
-The six [precision resistors](../details/details_components.md#precision-resistors) needs to be soldered on the back of the MicroDriver.
-**Trick:** Use some solder at the tip to initially fix the resistor a bit. Then solder the other side and fix the initial side in the end properly.
-
-<img src="images/micro_driver_resistor_soldering_preparation.jpg" width="500"><br>
-<img src="images/micro_driver_resistor_soldering.jpg" width="500"><br>
-<img src="images/micro_driver_resistor_final.jpg" width="500">
-
-## Hirose connector soldering
-
-<img src="images/micro_driver_hirose_preparation.jpg" width="500"><br>
-<img src="images/micro_driver_hirose_soldering.jpg" width="500"><br>
-
-## Motor / power wire soldering
-
-Here, we are using a female header pin to connect the motor wire instead of soldering the motor wire to the MicroDriver directly. After soldering, clip the too long part.
-
-<img src="images/header_pin.jpg" width="500"><br>
-<img src="images/micro_driver_motor_wire_pin.jpg" width="500"><br>
-<img src="images/micro_driver_motor_wire_attachment.jpg" width="500">
-
-
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
 [Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)  
