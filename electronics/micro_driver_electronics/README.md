@@ -99,7 +99,7 @@ The **straight Hirose connectors** are mounted on the **top side** of the micro 
 
 ## Motor / Power Wire Soldering
 
-<img src="images/power_preparation_1.jpg" width="300"><br>*Solder a two pin right angle connector to the power interface.*<br>
+<img src="images/power_preparation_1.jpg" width="300"><br>*Solder a two pin right angle connector to the power terminals.*<br>
 
 <img src="images/power_preparation_2.jpg" width="300"><br>*Shorten the pins, solder the extension wires and apply heat shrink.*<br>
 

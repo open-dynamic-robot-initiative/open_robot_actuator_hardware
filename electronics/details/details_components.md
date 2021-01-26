@@ -11,7 +11,6 @@
 |Hirose DF13 Socket 5 Pin|DF13-5S-1.25C|RS 143-015<br>Digi-Key H2182-ND||
 |Hirose DF13 Socket 7 Pin|DF13-7S-1.25C|RS 143-037<br>Digi-Key H2184-ND||  
 
----
 ## Hirose DF13 Straight Pin Headers
 <img src="../images/hirose_straight_header_1.jpg" width="400"> <br>*Hirose Straight Pin Headers*
 
@@ -23,7 +22,6 @@
 |Hirose DF13 Straight Header 5 Pin|DF13-5P-1.25DSA|Digi-Key H2194-ND||
 |Hirose DF13 Straight Header 7 Pin|DF13-7P-1.25DSA|Digi-Key H2196-ND ||
 
----
 ## Hirose DF13 Right Angle Pin Headers
 <img src="../images/hirose_right_angle_header_1.jpg" width="400"> <br>*Hirose Right Angle Pin Headers*
 
@@ -35,7 +33,6 @@
 |Hirose DF13 Right Angle Header 5 Pin|DF13-5P-1.25DS(20)|Digi-Key H2202-ND||
 |Hirose DF13 Right Angle Header 7 Pin|DF13-7P-1.25DS(20)|Digi-Key H2204-ND||
 
----
 ## Hirose DF13 Crimp Terminals
 <img src="../images/hirose_crimps_1.jpg" width="400"> <br>*Hirose Crimp Terminals*
 
@@ -44,7 +41,6 @@
 |Crimp Terminal Contact 26-30 AWG<br>Cut tape|DF13-2630SCF|RS 503-8325<br>Digi-Key H9992CT-ND||
 |Crimp Terminal Contact 26-30 AWG<br>Reel with 10000 crimp terminals|DF13-2630SCF|Digi-Key H9992TR-ND||
 
----
 ## Hirose Crimp Tool
 <img src="../images/hirose_crimp_tool_1.jpg" width="400"> <br>*Hirose Crimp Tool*
 
@@ -52,7 +48,6 @@
 |---|---|---|---|
 |Hirose Crimping Tool for DF13 Crimp Terminals|DF13-TB2630HC|RS 503-8331||
 
----
 ## 30cm Pre-Crimped Hirose Wires
 <img src="../images/hirose_precrimp_1.jpg" width="400"> <br>*Precrimped Hirose Wires*
 
@@ -65,7 +60,6 @@
 |30cm pre-crimped DF13 Hirose Wire White|Pack of 5 wires|RS 180-6027||
 |30cm pre-crimped DF13 Hirose Wire Blue|Pack of 5 wires|RS 180-6042||
 
----
 ## Power Connectors
 <img src="../images/xt30_1.jpg" width="300"> <br>*XT30 Connectors*
 
@@ -74,7 +68,6 @@
 |XT30U  Connector Receptacle 20 Amps|Reely RE-6619107|Conrad 2206369||
 |XT30U Connector Plug 20 Amps|Reely RE-6619104|Conrad 2206368||
 
----
 ## Ethernet Connector
 <img src="../images/ethernet_connector.jpg" width="300"> <br>*Ethernet Connector*
 
@@ -82,7 +75,6 @@
 |---|---|---|---|
 |RJ45 Connector Plug Cat5e|Pack of 5 connectors|RS 821-2949||
 
----
 ## Crimp Tool Ethernet Connector
 <img src="../images/ethernet_crimp_tool_1.jpg" width="400"> <br>*Crimp Tool Ethernet Connector*
 
@@ -90,7 +82,6 @@
 |---|---|---|---|
 |Crimping Tool for RJ45 connectors |Paladin|RS 472-6762||
 
----
 ## Ethernet Jack
 <img src="../images/hanrun_ethernet_jack.jpg" width="400"> <br>*HanRun Ethernet Jack*
 
@@ -98,7 +89,6 @@
 |---|---|---|---|
 |Ethernet Jack|HanRun RJ45 HR911105A|[CSD Electronics](https://csd-electronics.de/Mechanical-Comp-/Connectors/Modular/Network/HanRun-RJ45-jack-HR911105A-2xLED::12367.html?MODsid=foornd5v6nnu0bs9n58bvpqck1)|Used for MasterBoard.|
 
----
 ## Neo Pixel Leds
 <img src="../images/neo_pixel_leds.jpg" width="400"> <br>*NeoPixel Leds*
 
@@ -106,7 +96,6 @@
 |---|---|---|---|
 |Neo Pixel Led|WS2818B LED SMD 5050 with WS2811 controller|Amazon|Used for MasterBoard.|
 
----
 ## Neo Pixel Led Rings
 <img src="../images/neo_pixel_led_rings.jpg" width="400"> <br>*NeoPixel Led Rings*
 
@@ -115,7 +104,6 @@
 |NeoPixel Ring RGB LED 12 x WS2812|Adafruit 1643|Mouser 485-1643||
 |Neo Pixel Ring RGB LED 16 x WS2812 |Adafruit 1463|Mouser 485-1463||
 
----
 ## Motor Phase Connectors
 <img src="../images/motor_phase_connectors_1.jpg" width="400"> <br>*Motor Phase Connectors*
 
@@ -123,7 +111,6 @@
 |---|---|---|---|
 |2mm Gold Connector|Reely RE-1373188<br>2 pairs per pack|Conrad 1373188||
 
----
 ## Motor Phase Wires
 <img src="../images/motor_phase_wires_1.jpg" width="300"> <br>*Motor Phase Wire*
 
@@ -132,7 +119,6 @@
 |LifY 0,50 mm² black|100m|Kabeltronik 160105009|Highly flexible|
 |LiY Wire 0,50 mm² black|25m|Conrad 1567229|Alternative to Kabeltronik wire|
 
----
 ## Kabeltronik Encoder Wires
 <img src="../images/encoder_wires_1.jpg" width="400"> <br>*Kabeltronik Encoder Wires*
 
@@ -147,15 +133,6 @@
 |LifY Cable 0,14 mm² Green|100m| Kabeltronik 160101405||
 |LifY Cable 0,14 mm² Purple|100m| Kabeltronik 160101410||
 
----
-## Ribbon Cable
-<img src="../images/ribbon_cable.jpg" width="250"> <br>*Kabeltronic Encoder Wires*
-
-|Description|Details|Ordering Information|Comments|
-|---|---|---|---|
-|	Ribbon Cable 10 Conductors|Pitch 1,27mm - 26AWG|Digi-Key MC010M-300-ND||
-
----
 ## Heat Shrink
 <img src="../images/heat_shrink_1.jpg" width="400"> <br>*Heat Shrink Tubing*
 
@@ -169,7 +146,6 @@
 |Black Heat Shrink Tubing 9mm |HellermannTyton<br>5m / 3:1 Ratio|RS 447-399||
 |Black Heat Shrink Tubing 12mm |HellermannTyton<br>5m / 3:1 Ratio|RS 501-4111||
 
----
 ## Braided Cable Sleeve
 <img src="../images/braided_sleeve_1.jpg" width="400"> <br>*Braided Cable Sleeves*
 
@@ -182,7 +158,6 @@
 |Braided Cable Sleeve 8mm Black|HellermannTyton|RS 187-4644||
 |Braided Cable Sleeve 10mm Black|HellermannTyton|RS 187-4650||
 
----
 ## Flashing Connectors
 <img src="../images/flash_connectors_micro_driver_1.jpg" width="400"> <br>*Flashing Connectors*
 
@@ -190,6 +165,14 @@
 |---|---|---|---|
 |Pin Header 8 Position 1.27mm pitch|Amphenol ICC 20021111-00008T4LF|Digi-Key 609-3711-ND|Flash Cable Micro Driver Side|
 |Pin Header 2,54 mm pitch|Assmann AWL254-DG-G72A|RS 674-2347|Flash Cable Flasher Side|
+
+## Ribbon Cable
+<img src="../images/ribbon_cable.jpg" width="300"> <br>*Ribbon Cables*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Ribbon Cable Gray|HARTING 09180107001|DigiKey 1195-4452-ND|Pitch 1,27mm / 0,050" / 10 conductors|
+|Ribbon Cable Multicolor|3M 3302-10|DigiKey MC10M-25-ND<br>RS 105-5281|Pitch 1,27mm / 0,050" / 10 conductors|
 
 ## IMU Cable
 <img src="../images/connector_imu_1.jpg" width="300"> <br>*Connector for Microstrain IMU*
@@ -201,7 +184,6 @@
 |10 Position Rectangular Connector for Cable Mount|HARWIN M50-3300542|Digi-Key 952-2561-ND<br>RS 909-4391|IMU connector|
 |Ribbon Cable|10 conductors - pitch 0,050" /1,27mm - AWG28|Digi-Key AE10G-300-ND|IMU cable|
 
----
 ## Power Connectors and Cable
 <img src="../images/connectors_power_supply_1.jpg" width="400"> <br>*Power Supply Connectors*
 
@@ -218,7 +200,6 @@
 |Power Wire 1mm² black|Lapp H05V-K 100m|RS 724-4364|Alternative to Kabeltronik wire|
 |Power Wire 1mm² red|Lapp H05V-K 100m|RS 724-4361|Alternative to Kabeltronik wire|
 
----
 ## E-Stop Switch
 <img src="../images/e_stop_button_1.jpg" width="250"> <br>*E-Stop Switch*
 
@@ -226,7 +207,6 @@
 |---|---|---|---|
 |E-Stop Switch|Schneider Electric Harmony XALK Ø 40mm|RS 330-8587||
 
----
 ## JTAG Flash Programmer
 <img src="../images/flasher_micro_driver_1.jpg" width="300"> <br>*JTAG Flash Programmer*
 
@@ -234,21 +214,12 @@
 |---|---|---|---|
 |JTAG EMULATOR XDS100V2 USB|Spectrum Digital XDS100V2 JTAG|Digi Key 702302-ND<br> Farnell 1831927||
 
----
 ## Precision Resistors
 <img src="../images/resistors_micro_driver_1.jpg" width="300"> <br>*Precision Resistors for Micro Driver Electronics*
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
 |Precision Resistors 7mΩ ±1%|CRE2512-FZ-R007E-3|RS 824-0348 |Phase Current Measurement Micro Driver Board|
-
-## 8 Pin Flash Connector
-
-<img src="../images/flash_connector_8pin.jpg" width="300"> <br>*8 pin receptacle connector for flashing the micro driver boards*
-
-|Description|Details|Ordering Information|Comments|
-|---|---|---|---|
-|8 Position Receptacle Connector Through Hole 1,27mm pitch|	20021311-00008T4LF|	Digi-Key 609-3753-ND|Flash Connector on Micro Driver Board|
 
 ## Right Angle Pin Headers
 <img src="../images/pin_headers_right_angle_1.jpg" width="300"> <br>*Right angle pin headers for connecting the motor phase wires*
