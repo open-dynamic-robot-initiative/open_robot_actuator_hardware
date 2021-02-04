@@ -125,6 +125,7 @@
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
 |Digital Calipers|Mitutoyo|Hoffmann 412632|Battery SR44|
+|Coin battery|SR44|RS 593-423||
 
 ## Label Maker and Tape
 <img src="../images/label_maker.jpg" width="400"> <br>*Label maker and different tape sizes*
