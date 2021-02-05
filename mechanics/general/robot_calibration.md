@@ -37,7 +37,7 @@
 ### Preparing the Calibration Tools
 <img src="images/calibration_tool_preparation_5.png" width="350"><br>*Calibration tool - pin locations.*<br>
 
-<img src="images/calibration_tool_preparation_1.png" width="350"><br>*Use a 2mm drill to adjust the hole diameters for the 2mm pins.<br>Install the 2mm pins using a hammer.<br>The pins should protrude 5mm from the surface.<br>The [Pin Spacer Tool](stl_files/pin_spacer_5mm) can help to position the pin correctly.*<br>
+<img src="images/calibration_tool_preparation_1.png" width="350"><br>*Use a 2mm drill to adjust the hole diameters for the 2mm pins.<br>Install the 2mm pins using a hammer.<br>The pins should protrude 5mm from the surface.<br>The [Pin Spacer Tool](stl_files/pin_spacer_5mm.STL) can help to position the pin correctly.*<br>
 
 <img src="images/calibration_tool_preparation_2.png" width="300"><br>*Use a 2,5mm drill to adjust the hole diameters for the 2,5mm pins.<br>Install the 2,5mm pins using a hammer.<br>*<br>
 
@@ -62,16 +62,16 @@
 |Pin 2mm x 16mm|8|[Online Schrauben](https://online-schrauben.de/shop/Stifte-ohne-Gewinde/DIN-7-Toleranzfeld-m6-Zylinderstifte-Toleranzfeld-m6-aehnl.-ISO-2338-Form-A/Edelstahl-Rostfrei-A1-1.4305/2,0-mm-Durchmesser)|Stainless Steel A1|
 |Pin 2,5mm x 12mm|8|[Online Schrauben](https://online-schrauben.de/shop/Stifte-ohne-Gewinde/DIN-7-Toleranzfeld-m6-Zylinderstifte-Toleranzfeld-m6-aehnl.-ISO-2338-Form-A/Edelstahl-Rostfrei-A1-1.4305/2,5-mm-Durchmesser)|Stainless Steel A1|
 |Socket Head Cap Screw M3 x 16|8|[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/ISO-4762-DIN-912-Zylinderkopfschrauben-mit-Innensechskant-aehnl.-DIN-912/Edelstahl-Rostfrei-A2/M-3-Gewinde-M-metrisches-Regelgewinde)|Stainless Steel A2|
-|Threaded Inserts M3 x 4,5|8|[Hoffmann](https://www.hoffmann-group.com/GB/en/houk/Power-tools-and-workshop-supplies/Soldering-tools-cleaning-devices-thread-repair/Thread-insert-set%2C-100-pieces-1-5×D/p/082818?tId=116)<br>[McMaster](https://www.mcmaster.com/91732A647/)|Helicoil|
+|Threaded Inserts M3 x 4,5|8|[Hoffmann](https://www.hoffmann-group.com/US/en/hus/Power-tools-and-workshop-supplies/Soldering-tools-cleaning-devices-thread-repair/Thread-insert-set%2C-100-pieces-1-5×D/p/082818)<br>[McMaster](https://www.mcmaster.com/91732A647/)|Helicoil|
 
 ### Preparing the Calibration Tools
 <img src="images/calibration_tool_preparation_5.png" width="350"><br>*Calibration tool - pin locations.*<br>
 
-<img src="images/calibration_tool_preparation_3.png" width="350"><br>*Use a 2mm drill to adjust the hole diameters for the 2mm pins.<br>Install the 2mm pins using a hammer.<br>The pins should protrude 4mm from the surface.<br>The [Pin Spacer Tool](stl_files/pin_spacer_4mm) can help to position the pin correctly.*<br>
+<img src="images/calibration_tool_preparation_3.png" width="350"><br>*Use a 2mm drill to adjust the hole diameters for the 2mm pins.<br>Install the 2mm pins using a hammer.<br>The pins should protrude 4mm from the surface.<br>The [Pin Spacer Tool](stl_files/pin_spacer_4mm.STL) can help to position the pin correctly.*<br>
 
 <img src="images/calibration_tool_preparation_2.png" width="300"><br>*Use a 2,5mm drill to adjust the hole diameters for the 2,5mm pins.<br>Install the 2,5mm pins using a hammer.<br>*<br>
 
-<img src="images/calibration_tool_preparation_4.png" width="300"><br>*Increase the square holes on the side of the connector in small steps.<br>Drill with 2,5mm / 2,7mm / 2,9mm and 3,1mm diameter.<br>Install M3x4,5 Helicoil thread inserts in all four locations.*<br>
+<img src="images/calibration_tool_preparation_4.png" width="300"><br>*Increase the square holes on the side of the connector in small steps.<br>Drill with 2,5mm / 2,7mm / 2,9mm and 3,1mm diameter.<br>Install M3x4,5 Helicoil threaded inserts in all four locations.*<br>
 
 ### Installing the Calibration Tools
 <img src="images/quadruped_12dof_calibration_1.jpg" width="400"><br>*Insert the pins into the screw heads of the actuator module and the lower leg.<br>Make sure that the tool is fully seated and that there is no gap between the parts.<br>We use velcro straps to keep the calibration tools in place.<br>Use M3x16 screws to install the connector part.*<br>
