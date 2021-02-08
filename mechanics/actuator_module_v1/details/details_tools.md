@@ -168,6 +168,30 @@
 |---|---|---|---|
 |Disposable Gloves |Ansell 92-600/075|RS 261-6736|Nitril|
 
+## Work Gloves
+<img src="../images/work_gloves.jpg" width="350"> <br>*Work Gloves*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Work Gloves |Holex<br>Size 7|Hoffmann 0942417|Sizes 6-11 available|
+
+## Weight Scales
+<img src="../images/weight_scales.jpg" width="350"> <br>*Weight Scales*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Precision Weight Scale|Holex|Hoffmann 479442 500|500g range<br>0,1g scale divisions<br>AAA batteries|
+|Weight Scale|Kern|Hoffmann 4794502200|2200g range<br>1g scale divisions<br>AA batteries|
+
+## Velcro
+<img src="../images/velcro_1.jpg" width="350"> <br>*Velcro Tapes*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Monacor Hook and Loop Tape|Monacor CS-10/SW|Conrad 1331453|Double sided<br>"back-to-back" - the band top adheres to the band bottom|
+|Velcro Loop Tape|20mm x 5m|RS 251-4309|Loop Side<br>Adhesive Backing|
+|Velcro Hook Tape|20mm x 5m|RS 549-921|Hook Side<br>Adhesive Backing|
+
 ## Miscellaneous Tools
 <img src="../images/tools_misc_1.jpg" width="350"> <br>*Miscellanious tools - tooth brush, q-tipps and tooth picks*
 
