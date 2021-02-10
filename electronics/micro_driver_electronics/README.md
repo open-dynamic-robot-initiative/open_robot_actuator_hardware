@@ -8,6 +8,7 @@
 * 6 layer board / FR4 / copper thickness 35μm
 * Dimensions: 51mm x 50mm
 * Weight: 13g
+* input voltage: 5... 40 Volt (we operate our robots at 24V)
 
 ## Motor Driver Electronics Comparison
 <br><img src="images/motor_driver_comparison.png" width="400"> <br>
