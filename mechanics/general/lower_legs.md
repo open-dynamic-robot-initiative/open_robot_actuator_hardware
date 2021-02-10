@@ -50,7 +50,7 @@
 ---
 ## Preparing the Lower Legs
 
-<img src="images/lower_leg_preparation_1.jpg" width="300"><br>*Increase the size of the through holes with a 3mm drill bit if required.*
+<img src="images/lower_leg_preparation_1.jpg" width="300"><br>*Increase the size of the mounting holes with a 3mm drill bit if required.*
 
 <img src="images/lower_leg_preparation_2.jpg" width="300"><br>*If the lower legs have been printed on a FDM printer there might be beads on the surfaces.<br>The bead on the rectangular interface can cause problems later when the lower leg is installed.<br>Remove the bead on the rectangular interface surface with a sharp tool.*
 
@@ -64,9 +64,9 @@
 
 <img src="images/lower_leg_preparation_7.jpg" width="300"><br>*The lower leg is now prepared for bonding.*<br>
 
-<img src="images/lower_leg_preparation_8.jpg" width="300"><br>*Apply a thin layer of Loctite 406 onto the surface of the tire.*<br>
+<img src="images/lower_leg_preparation_8.jpg" width="300"><br>*Apply a thin layer of [Loctite 406](../actuator_module_v1/details/details_tools.md#loctite) onto the surface of the tire.*<br>
 
-<img src="images/lower_leg_preparation_9.jpg" width="300"><br>*Place the tire around the foot and secure it with a tape.<br>Wait for 30 minutes - remove the tape and the pin.*<br>
+<img src="images/lower_leg_preparation_9.jpg" width="300"><br>*Place the tire on the foot and secure it with an electrical tape.<br>Stretch the tape and wrap the foot tightly.<br>Wait for 30 minutes - remove the tape and the pin.*<br>
 
 <img src="images/lower_leg_preparation_10.jpg" width="300"><br>*Cut off the ends of the tire horizontally.*<br>
 
