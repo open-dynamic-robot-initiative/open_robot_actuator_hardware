@@ -12,7 +12,8 @@
 ## Calibration Tools
 <img src="images/calibration_tools_1.jpg" width="500">
 
-* we use 3d printed calibration tools to align the legs in the zero position and to determine the correct offsets from the index position for each joint
+* we use 3d printed calibration tools to align the legs in the zero position
+* this helps to determine the correct offsets from the index position for each joint
 * steel pins that fit into the screw heads of the actuator modules are used to align the segments
 
 <img src="images/calibration_tool_8dof_1.jpg" width="400">
@@ -24,7 +25,7 @@
 * this calibration tool can be used for the [Quadruped Robot 8dof v1](../quadruped_robot_8dof_v1#quadruped-robot-8dof-v1) and the [Quadruped Robot 8dof v2](../quadruped_robot_8dof_v2#quadruped-robot-8dof-v2)
 
 ### Bill of Materials - Calibration Tool Quadruped 8dof
-<img src="images/calibration_tool_8dof_1.png" width="350">
+<img src="images/calibration_tool_8dof_3.png" width="450">
 
 |Description|Quantity|Ordering Information|Comments|
 |---|---|---|---|
@@ -42,7 +43,7 @@
 <img src="images/calibration_tool_preparation_2.png" width="300"><br>*Use a 2,5mm drill to adjust the hole diameters for the 2,5mm pins.<br>Install the 2,5mm pins using a hammer.<br>*<br>
 
 ### Installing the Calibration Tools
-<img src="images/quadruped_8dof_calibration_1.jpg" width="400"><br>*Insert the pins into the screw heads of the actuator module and the lower leg.<br>Make sure that the tool is fully seated and that there is no gap between the parts.<br>We use velcro straps to keep the calibration tools in place.*<br>
+<img src="images/quadruped_8dof_calibration_1.jpg" width="400"><br>*Insert the pins into the screw heads of the actuator module and the lower leg.<br>Make sure that the tool is fully seated and that there is no gap between the parts.<br>We use velcro straps around the knee to keep the calibration tools in place.*<br>
 
 ---
 ## Calibration Tool Quadruped 12dof
@@ -51,7 +52,7 @@
 * this calibration tool can be used for the [Quadruped Robot 12 dof  v1](../quadruped_robot_12dof_v1#quadruped-robot-12dof-v1)
 
 ### Bill of Materials - Calibration Tool Quadruped 12dof
-<img src="images/calibration_tool_12dof_1.png" width="350"><br>
+<img src="images/calibration_tool_12dof_3.png" width="550"><br>
 
 |Description|Quantity|Ordering Information|Comments|
 |---|---|---|---|
@@ -74,7 +75,7 @@
 <img src="images/calibration_tool_preparation_4.png" width="300"><br>*Increase the square holes on the side of the connector in small steps.<br>Drill with 2,5mm / 2,7mm / 2,9mm and 3,1mm diameter.<br>Install M3x4,5 Helicoil threaded inserts in all four locations.*<br>
 
 ### Installing the Calibration Tools
-<img src="images/quadruped_12dof_calibration_1.jpg" width="400"><br>*Insert the pins into the screw heads of the actuator module and the lower leg.<br>Make sure that the tool is fully seated and that there is no gap between the parts.<br>We use velcro straps to keep the calibration tools in place.<br>Use M3x16 screws to install the connector part.*<br>
+<img src="images/quadruped_12dof_calibration_1.jpg" width="400"><br>*Insert the pins into the screw heads of the actuator module and the lower leg.<br>Make sure that the tool is fully seated and that there is no gap between the parts.<br>We use velcro straps around the knees to keep the calibration tools in place.<br>Use M3x16 screws to install the connector part.*<br>
 
 ---
 ## More Information

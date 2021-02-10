@@ -30,10 +30,10 @@ The TI Evaluation Board Electronics are used for the following robots:
 ## FOC - Field Oriented Control
 <img src="images/foc.jpg" width="500"><br>
 
-* [Talk Dave Wilson - Teaching Old Motors New Tricks ](https://www.youtube.com/watch?v=VI7pdKrchM0)
+* [Seminar with Dave Wilson from Texas Instruments - Teaching Old Motors New Tricks ](https://www.youtube.com/watch?v=VI7pdKrchM0)
 
 ---
-## Miniaturized Micro Driver Electronics
+## Miniaturized Motor Driver Electronics
 <img src="images/launchpad_comparison_2.jpg" width="400"><br>*Comparision: Micro Driver Electronics and TI Evaluation Boards*
 
 * we have developed a miniaturized version of the Texas Instruments motor driver cards called Micro Driver Electronics
@@ -183,7 +183,7 @@ We modify the connectors of the TI Evaluation Boards in order to make them compa
 ## More Details
 * [Details Wiring](../details/details_wiring.md#details-wiring)
 * [Details Electronic Components and Tools](../details/details_components.md#details-electronic-components)
-
+* [Micro Driver Electronics Documentation](../micro_driver_electronics/README.md#micro-driver-electronics)
 ---
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
@@ -201,4 +201,4 @@ Felix Grimminger
 BSD 3-Clause License
 
 ## Copyright
-Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
+Copyright (c) 2019-2021, Max Planck Gesellschaft and New York University

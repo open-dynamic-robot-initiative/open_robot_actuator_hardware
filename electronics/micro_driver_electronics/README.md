@@ -3,8 +3,9 @@
 <br><img src="images/micro_driver_v2_1.jpg" width="400"> <br>
 
 * dual brushless motor driver electronics
+* performs torque control at 10kHz for each motor
 * miniaturized version of the [Texas Instruments Evaluation Boards](../ti_electronics/README.md#texas-instruments-evaluation-board-electronics)
-* SPI communication with [Master Board](https://github.com/open-dynamic-robot-initiative/master-board#master-board)
+* SPI communication with [Master Board](https://github.com/open-dynamic-robot-initiative/master-board#master-board) at 1kHz
 * 6 layer board / FR4 / copper thickness 35μm
 * Dimensions: 51mm x 50mm
 * Weight: 13g
@@ -48,6 +49,8 @@ In the US we have also successfully ordered the Micro Driver Boards from [MacroF
 ---
 ## Bill of Materials
 ### Micro Driver Boards
+<br><img src="images/micro_driver_components_1.jpg" width="400"> <br>
+
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
 |MicroDriver v2||[BetaLayout](https://us.beta-layout.com/pcb/)<br> USA: [MacroFab](https://macrofab.com/)|[Ordering Instructions](#ordering-instructions)|
@@ -56,6 +59,8 @@ In the US we have also successfully ordered the Micro Driver Boards from [MacroF
 |Hirose DF13 Right Angle Header 5 Pin|DF13-5P-1.25DS(20)|Digi-Key H2202-ND|Encoder and SPI connector Micro Driver Board. We use the [right angle connectors](../details/details_components.md#hirose-df13-right-angle-pin-headers). Alternatively you can use the [straight connectors](../details/details_components.md#hirose-df13-straight-pin-headers).|
 
 ### Flash Adapter and Flash Wire
+<br><img src="images/flash_adapter_1.jpg" width="400"> <br>
+
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
 |JTAG EMULATOR XDS100V2 USB|Spectrum Digital XDS100V2 JTAG|Digi Key 702302-ND<br> Farnell 1831927||
@@ -71,7 +76,7 @@ The MicroDrivers come without any connectors (for power wires, encoders, spi and
 For the encoder connectors, it's possible to use either [Hirose DF13 Straight Pin Headers](../details/details_components.md#hirose-df13-straight-pin-headers) or the [Hirose DF13 Right Angle Pin Headers](../details/details_components.md#hirose-df13-right-angle-pin-headers)
 
 ## Resistor Soldering
-The six [precision resistors](../details/details_components.md#precision-resistors) needs to be soldered on the back of the MicroDriver.
+The six [precision resistors](../details/details_components.md#precision-resistors) needs to be soldered on the back of the MicroDriver.<br>
 **Trick:** Use some solder at the tip to initially fix the resistor a bit. Then solder the other side and fix the initial side in the end properly.
 
 <img src="images/micro_driver_resistor_soldering_preparation.jpg" width="400"><br>
@@ -113,7 +118,7 @@ The **straight Hirose connectors** are mounted on the **top side** of the micro 
 
 <img src="images/motor_phase_preparation_5.jpg" width="300"><br>*Apply the extension wires and heat shrink.*<br>
 
-<img src="images/motor_phase_preparation_6.jpg" width="300"><br>*Attach the 2mm motor phase connectors and label the wires.<br>On one of the boards we attach a 2 pin Hirose wire to power the Master Board.*<br>
+<img src="images/motor_phase_preparation_6.jpg" width="300"><br>*Attach the [2mm motor phase connectors](../details/details_components.md#motor-phase-connectors) and label the wires.<br>On one of the boards we attach a 2 pin Hirose wire to power the Master Board.*<br>
 
 ---
 ## Flashing
@@ -151,4 +156,4 @@ Note: A long wire might cause communication problems when attempting to flash th
 BSD 3-Clause License
 
 ## Copyright
-Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
+Copyright (c) 2019-2021, Max Planck Gesellschaft and New York University

@@ -161,6 +161,14 @@
 |---|---|---|---|
 |Allen Key Set |Wera 05022210001|RS 136-7121<br>Amazon|Set with 9 allen keys|
 
+## Tube Cutter
+<img src="../images/tube_cutter_2.jpg" width="300"> <br>*Tube Cutter*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Tube Cutter|Legris 3000 71 00|RS 722-198|Cuts 4mm to 14 mm diameter tubes.|
+
+
 ## Nitril Gloves
 <img src="../images/tools_misc_2.jpg" width="350"> <br>*Nitril Gloves*
 
