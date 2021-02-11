@@ -113,6 +113,16 @@ All the STL files for 3d printing the body structure can be found here: [STL Fil
 * [Body Structure Top Vicon - STL file](stl_files/body_structure_biped_top_vicon.STL)<br>
 * weight: 15g
 ---
+<img src="details/body_structure_top_imu.png" width="300"> <br>
+* [Body Structure Top IMU - STL file](stl_files/body_structure_biped_top_imu.STL)<br>
+* added IMU attachment to the top structure
+* weight: 16g
+---
+<img src="details/body_structure_top_imu_vicon.png" width="300"> <br>
+* [Body Structure Top IMU Vicon - STL file](stl_files/body_structure_biped_top_imu.STL)<br>
+* added IMU attachment to the top structure
+* weight: 16g
+---
 <img src="details/micro_driver_stack_spacer.png" width="150"> <br>
 * [Micro Driver Stack Spacer - STL file](stl_files/micro_driver_stack_spacer.STL)<br>
 * weight: 0,2g
@@ -183,8 +193,10 @@ The simplified STL files for visualization and simulation can be found here: [ST
 |Body Structure Right Side |1|[STL file](stl_files/body_structure_biped_right_side.STL)|3d printed part|
 |Body Structure Left Side |1|[STL file](stl_files/body_structure_biped_left_side.STL)|3d printed part|
 |Body Structure Bottom |1|[STL file](stl_files/body_structure_biped_bottom.STL)|3d printed part|
-|Body Structure Top |1|[STL file](stl_files/body_structure_biped_top.STL)|3d printed part|
-|Body Structure Top Vicon |1|[STL file](stl_files/body_structure_biped_top_vicon.STL)|3d printed part|
+|Body Structure Top |1|[STL file](stl_files/body_structure_biped_top.STL)|3d printed part<br>Alternatives below|
+|Body Structure Top Vicon |1|[STL file](stl_files/body_structure_biped_top_vicon.STL)|3d printed part<br>With Vicon marker attachments|
+|Body Structure Top IMU |1|[STL file](stl_files/body_structure_biped_top_imu.STL)|3d printed part<br>With IMU attachment|
+|Body Structure Top IMU Vicon|1|[STL file](stl_files/body_structure_biped_top_imu_vicon.STL)|3d printed part<br>With IMU and Vicon marker attachment|
 |Micro Driver Stack Spacer |4|[STL file](stl_files/micro_driver_stack_spacer.STL)|3d printed part|
 |Stand Attachment|1|[STL file](stl_files/stand_attachment.STL)|3d printed part|
 | Hip AA Bearing | 2 | 25mm x 20mm x 4mm <br> SBN: ET2520 2Z VA| Stainless Steel |
