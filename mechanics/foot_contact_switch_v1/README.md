@@ -2,7 +2,7 @@
 <img src="images/foot_sensor_principle_1.jpg" width="400"> <br>*Working principle of the optical foot contact switch*
 
 ## Description
-We designed simple, low cost, lightweight and robust optical foot contact switch for our [quadruped robot.](../quadruped_robot_8dof_v1)  
+We designed simple, low cost, lightweight and robust optical foot contact switch for our [quadruped robot.](../quadruped_robot_8dof_v1#quadruped-robot-8dof-v1)  
 The contact switch consists of a spring loaded aperture that is located between a led light source and a light sensor.  
 External loads displace the aperture and change the light intensity measured by the sensor.  
 For centering the foot we use 12 elastic silicone elements (6 on each side).
