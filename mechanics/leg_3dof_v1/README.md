@@ -51,9 +51,18 @@
 ---
 
 <img src="images/lower_leg_1.png" width="400"><br>
-* [Lower Leg - STL file](stl_files/lower_leg_solid_v1.STL)<br>
+* [Lower Leg v2 - STL file](stl_files/lower_leg_v2.STL)<br>
 * we print the lower leg on a FDM printer using the "sparse double dense" setting
-* weight: 19g
+* alternative Lower Leg Version 3 below
+* [Lower Leg Documentation](../general/lower_legs.md#lower-leg-v2)
+* weight: 20g
+---
+<img src="images/lower_leg_2.png" width="400"> <br>
+* [Lower Leg v3 - STL file](stl_files/lower_leg_v3.STL)<br>
+* this lower leg is meant for printing as a solid part
+* [Lower Leg Documentation](../general/lower_legs.md#lower-leg-v3)
+* weight: 20g
+
 ---
 ## Bill of Materials
 <img src="images/3dof_leg_cad_2.png" width="250"><br>
@@ -68,7 +77,8 @@
 |Upper Leg Module Shell Base |1|[STL file](stl_files/upper_leg_module_shell_base.STL)|3d printed part|
 |Upper Leg Module Shell Cover |1|[STL file](stl_files/upper_leg_module_shell_cover.STL)|3d printed part|
 |Hip Adapter |1|[STL file](stl_files/hip_adapter.STL)|3d printed part<br>Only required for 2 of the 4 legs.|
-|Lower Leg |1|[STL file](stl_files/lower_leg_solid_v1.STL)|3d printed part<br>FDM printer setting: sparse double dense|
+|Lower Leg v2|1|[STL file](stl_files/lower_leg_v2.STL)|3d printed part<br>FDM printer setting: sparse double dense|
+|Lower Leg v3 |1|[STL file](stl_files/lower_leg_v3.STL)|3d printed part<br>Print as a solid part.<br>Alternative for Lower Leg v2|
 |Rubber Foot ||Bicycle tire - for example: Schwalbe Lugano 28" 23-622 |Cut 75mm x 7mm segments|
 |Fasteners M3x35|2|M3x35 Socket Head Cap Screw|Stainless Steel<br>For Hip AA to Hip FE connection with adapter.|
 |Fasteners M3x22|2|M3x22 Socket Head Cap Screw|Stainless Steel<br>For Hip AA to Hip FE connection without adapter.|
@@ -106,7 +116,6 @@
 [Hardware Overview](../../README.md#open-robot-actuator-hardware)  
 [Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)  
 
----
 ## Authors
 Felix Grimminger
 
@@ -114,4 +123,4 @@ Felix Grimminger
 BSD 3-Clause License
 
 ## Copyright
-Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
+Copyright (c) 2019-2021, Max Planck Gesellschaft and New York University

@@ -3,7 +3,7 @@
 
 ## Description
 
-## 3d printed parts
+## 3d Printed Parts
 
 <img src="images/printing_direction.png" width="400"> <br>
 
@@ -29,14 +29,16 @@
 * weight: 15g
 ---
 <img src="images/lower_leg_1.png" width="450"> <br>
-* [Lower Leg v1- STL file](stl_files/lower_leg_solid_v1.STL)<br>
+* [Lower Leg v2- STL file](stl_files/lower_leg_v2.STL)<br>
 * this lower leg is meant for printing with "sparse double dense" setting
+* [Lower Leg Documentation](../general/lower_legs.md#lower-leg-v2)
 * weight: 20g
 ---
 <img src="images/lower_leg_2.png" width="450"> <br>
-* [Lower Leg v2 - STL file](stl_files/lower_leg_solid_v2.STL)<br>
+* [Lower Leg v3 - STL file](stl_files/lower_leg_v3.STL)<br>
 * this lower leg is meant for printing as a solid part
-* weight: 18g
+* [Lower Leg Documentation](../general/lower_legs.md#lower-leg-v3)
+* weight: 20g
 ---
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
@@ -46,7 +48,6 @@
 [Hardware Overview](../../README.md#open-robot-actuator-hardware)  
 [Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)  
 
----
 ## Authors
 Felix Grimminger
 
@@ -54,4 +55,4 @@ Felix Grimminger
 BSD 3-Clause License
 
 ## Copyright
-Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
+Copyright (c) 2019-2021, Max Planck Gesellschaft and New York University
