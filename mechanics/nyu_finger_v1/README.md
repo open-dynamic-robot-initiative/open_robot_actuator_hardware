@@ -39,8 +39,8 @@
 
 | Part Name | Quantity | Ordering Information | Comments |  
 | --- | --- | --- | --- |   
-|Actuator Module Shell Base |1|[STL file](stl_files/actuator_module_shell_base.STL)|3d printed part|
-|Actuator Module Shell Cover |1|[STL file](stl_files/actuator_module_shell_cover.STL)|3d printed part|
+|Upper Leg Module Shell Base |1|[STL file](stl_files/upper_leg_module_shell_base.STL)|3d printed part|
+|Upper Leg Module Shell Cover |1|[STL file](stl_files/upper_leg_module_shell_cover.STL)|3d printed part|
 |Finger Adapter |1|[STL file](stl_files/finger_adapter.STL)|3d printed part|
 |Hip AA Module Shell Base |1|[STL file](stl_files/hip_aa_module_shell_base.STL)|3d printed part|
 |Hip AA Module Shell Cover |1|[STL file](stl_files/hip_aa_module_shell_cover.STL)|3d printed part|
