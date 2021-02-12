@@ -1,6 +1,6 @@
 # Open Robot Actuator Hardware
 
-**Klick on the pictures below for more information**
+**Click on the pictures below for more information**
 ## Electronics
 | TI Evaluation Boards  | BLMC µDriver | Master Board |Details Wiring|
 | ---------------  | ------------- |------------- |---|
