@@ -1,4 +1,4 @@
-# Brushless Actuator Module v1
+# Brushless Actuator Module Core v1
 
 <img src="images/actuator_module_1.png" width="500">
 

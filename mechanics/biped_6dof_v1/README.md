@@ -119,7 +119,7 @@ All the STL files for 3d printing the body structure can be found here: [STL Fil
 * weight: 16g
 ---
 <img src="details/body_structure_top_imu_vicon.png" width="300"> <br>
-* [Body Structure Top IMU Vicon - STL file](stl_files/body_structure_biped_top_imu.STL)<br>
+* [Body Structure Top IMU Vicon - STL file](stl_files/body_structure_biped_top_imu_vicon.STL)<br>
 * added IMU attachment to the top structure
 * weight: 16g
 ---

@@ -1,6 +1,6 @@
 # Open Robot Actuator Mechanics
 
-**Klick on the pictures below for more information**
+**Click on the pictures below for more information**
 
 | Quadruped 8dof v2 | Quadruped 12dof | Biped 6dof | TriFingerEdu |
 | ---------------  | ------------- |------------- |------------- |

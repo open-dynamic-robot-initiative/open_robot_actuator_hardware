@@ -198,7 +198,7 @@ The simplified STL files for visualization and simulation can be found here: [ST
 ---
 ## Quadruped Robot Details Electronics
 
-<a href="details/details_electronics_quadruped_12dof.md#details-electronics-quadruped-robot-12dof-v1"><img src="details/wire_routing_bottom.jpg" width="400"></a><br>*Klick on picture above for more details regarding the electronics and wiring.*
+<a href="details/details_electronics_quadruped_12dof.md#details-electronics-quadruped-robot-12dof-v1"><img src="details/wire_routing_bottom.jpg" width="400"></a><br>*Click on picture above for more details regarding the electronics and wiring.*
 
 ---
 ## Bill of Materials - Quadruped Robot 12dof
@@ -256,4 +256,4 @@ Felix Grimminger
 BSD 3-Clause License
 
 ## Copyright
-Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
+Copyright (c) 2019-2021, Max Planck Gesellschaft and New York University
