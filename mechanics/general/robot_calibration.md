@@ -38,9 +38,9 @@
 ### Preparing the Calibration Tools
 <img src="images/calibration_tool_preparation_5.png" width="350"><br>*Calibration tool - pin locations.*<br>
 
-<img src="images/calibration_tool_preparation_1.png" width="350"><br>*Use a 2mm drill to adjust the hole diameters for the 2mm pins.<br>Install the 2mm pins using a hammer.<br>The pins should protrude 5mm from the surface.<br>The [Pin Spacer Tool](stl_files/pin_spacer_5mm.STL) can help to position the pin correctly.*<br>
+<img src="images/calibration_tool_preparation_1.png" width="350"><br>*Use a 1,9mm drill bit to adjust the hole diameters for the 2mm pins.<br>Install the 2mm pins using a hammer.<br>The pins should protrude 5mm from the surface.<br>The [Pin Spacer Tool](stl_files/pin_spacer_5mm.STL) can help to position the pin correctly.*<br>
 
-<img src="images/calibration_tool_preparation_2.png" width="300"><br>*Use a 2,5mm drill to adjust the hole diameters for the 2,5mm pins.<br>Install the 2,5mm pins using a hammer.<br>*<br>
+<img src="images/calibration_tool_preparation_2.png" width="300"><br>*Use a 2,4mm drill bit to adjust the hole diameters for the 2,5mm pins.<br>Install the 2,5mm pins using a hammer.<br>*<br>
 
 ### Installing the Calibration Tools
 <img src="images/quadruped_8dof_calibration_1.jpg" width="400"><br>*Insert the pins into the screw heads of the actuator module and the lower leg.<br>Make sure that the tool is fully seated and that there is no gap between the parts.<br>We use velcro straps around the knee to keep the calibration tools in place.*<br>
@@ -68,9 +68,9 @@
 ### Preparing the Calibration Tools
 <img src="images/calibration_tool_preparation_5.png" width="350"><br>*Calibration tool - pin locations.*<br>
 
-<img src="images/calibration_tool_preparation_3.png" width="350"><br>*Use a 2mm drill to adjust the hole diameters for the 2mm pins.<br>Install the 2mm pins using a hammer.<br>The pins should protrude 4mm from the surface.<br>The [Pin Spacer Tool](stl_files/pin_spacer_4mm.STL) can help to position the pin correctly.*<br>
+<img src="images/calibration_tool_preparation_3.png" width="350"><br>*Use a 1,9mm drill bit to adjust the hole diameters for the 2mm pins.<br>Install the 2mm pins using a hammer.<br>The pins should protrude 4mm from the surface.<br>The [Pin Spacer Tool](stl_files/pin_spacer_4mm.STL) can help to position the pin correctly.*<br>
 
-<img src="images/calibration_tool_preparation_2.png" width="300"><br>*Use a 2,5mm drill to adjust the hole diameters for the 2,5mm pins.<br>Install the 2,5mm pins using a hammer.<br>*<br>
+<img src="images/calibration_tool_preparation_2.png" width="300"><br>*Use a 2,4mm drill bit to adjust the hole diameters for the 2,5mm pins.<br>Install the 2,5mm pins using a hammer.<br>*<br>
 
 <img src="images/calibration_tool_preparation_4.png" width="300"><br>*Increase the square holes on the side of the connector in small steps.<br>Drill with 2,5mm / 2,7mm / 2,9mm and 3,1mm diameter.<br>Install M3x4,5 Helicoil threaded inserts in all four locations.*<br>
 
@@ -78,6 +78,37 @@
 <img src="images/quadruped_12dof_calibration_1.jpg" width="400"><br>*Insert the pins into the screw heads of the actuator module and the lower leg.<br>Make sure that the tool is fully seated and that there is no gap between the parts.<br>We use velcro straps around the knees to keep the calibration tools in place.<br>Use M3x16 screws to install the connector part.*<br>
 
 ---
+## Calibration Tool Biped 6dof
+<img src="images/calibration_tool_biped_6dof_1.png" width="300"><br>*6dof biped cad model with calibration tools.*<br>
+
+* this calibration tool can be used for the [Biped Robot 6 dof  v1](../biped_6dof_v1/README.md#biped-robot-6dof-v1)
+
+### Bill of Materials - Calibration Tool Biped 6dof
+<img src="images/calibration_tool_biped_6dof_2.png" width="300"><br>
+
+|Description|Quantity|Ordering Information|Comments|
+|---|---|---|---|
+|Calibration Tool Biped 6dof v1|1|[STL file](stl_files/calibration_tool_biped_6dof_v1.STL)|3d printed part<br>We print this part with the "sparse double dense" setting on our FDM printer.|
+|Calibration Tool Biped 6dof v1 - Mirrored version|1|[STL file](stl_files/calibration_tool_biped_6dof_v1_mirror.STL)|3d printed part<br>We print this part with the "sparse double dense" setting on our FDM printer.|
+|Calibration Tool Biped 6dof v1 Connector|1|[STL file](stl_files/calibration_tool_biped_6dof_v1_connector.STL)|3d printed part|
+|Pin Spacer Tool 4mm|1|[STL file](stl_files/pin_spacer_4mm.STL)|3d printed tool|
+|Pin 2mm x 16mm|4|[Online Schrauben](https://online-schrauben.de/shop/Stifte-ohne-Gewinde/DIN-7-Toleranzfeld-m6-Zylinderstifte-Toleranzfeld-m6-aehnl.-ISO-2338-Form-A/Edelstahl-Rostfrei-A1-1.4305/2,0-mm-Durchmesser)|Stainless Steel A1|
+|Pin 2,5mm x 12mm|4|[Online Schrauben](https://online-schrauben.de/shop/Stifte-ohne-Gewinde/DIN-7-Toleranzfeld-m6-Zylinderstifte-Toleranzfeld-m6-aehnl.-ISO-2338-Form-A/Edelstahl-Rostfrei-A1-1.4305/2,5-mm-Durchmesser)|Stainless Steel A1|
+|Socket Head Cap Screw M3 x 16|4|[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/ISO-4762-DIN-912-Zylinderkopfschrauben-mit-Innensechskant-aehnl.-DIN-912/Edelstahl-Rostfrei-A2/M-3-Gewinde-M-metrisches-Regelgewinde)|Stainless Steel A2|
+|Threaded Inserts M3 x 4,5|4|[Hoffmann](https://www.hoffmann-group.com/US/en/hus/Power-tools-and-workshop-supplies/Soldering-tools-cleaning-devices-thread-repair/Thread-insert-set%2C-100-pieces-1-5×D/p/082818)<br>[McMaster](https://www.mcmaster.com/91732A647/)|Helicoil|
+
+### Preparing the Calibration Tools
+<img src="images/calibration_tool_preparation_5.png" width="350"><br>*Calibration tool - pin locations.*<br>
+
+<img src="images/calibration_tool_preparation_3.png" width="350"><br>*Use a 1,9mm drill bit to adjust the hole diameters for the 2mm pins.<br>Install the 2mm pins using a hammer.<br>The pins should protrude 4mm from the surface.<br>The [Pin Spacer Tool](stl_files/pin_spacer_4mm.STL) can help to position the pin correctly.*<br>
+
+<img src="images/calibration_tool_preparation_2.png" width="300"><br>*Use a 2,4mm drill bit to adjust the hole diameters for the 2,5mm pins.<br>Install the 2,5mm pins using a hammer.<br>*<br>
+
+<img src="images/calibration_tool_preparation_4.png" width="300"><br>*Increase the square holes on the side of the connector in small steps.<br>Drill with 2,5mm / 2,7mm / 2,9mm and 3,1mm diameter.<br>Install M3x4,5 Helicoil threaded inserts in all four locations.*<br>
+
+### Installing the Calibration Tools
+<img src="images/biped_6dof_calibration_1.jpg" width="400"><br>*Insert the pins into the screw heads of the actuator module and the lower leg.<br>Make sure that the tool is fully seated and that there is no gap between the parts.<br>We use velcro straps around the knees to keep the calibration tools in place.<br>Use M3x16 screws to install the connector part.*<br>
+
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
 [Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
