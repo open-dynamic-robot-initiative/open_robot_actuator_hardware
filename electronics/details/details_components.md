@@ -313,6 +313,20 @@
 |---|---|---|---|
 |Third Hand||RS 221-7531||
 
+## Batteries and Accessories
+
+<img src="../images/battery_xcube_1.jpg" width="300"> <br>*X-Cube Battery - weight: 68g*<br>
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|LiPo Battery SLS X-Cube 850mAh |3S1P 11,1V 30C / 60C<br> Dimensions: 60mm x 30mm x 21mm|[SLS Webpage](https://www.stefansliposhop.de/en/batteries/sls-x-cube/sls-x-cube-30c/sls-x-cube-850mah-3s1p-11-1v-30c-60c::1534.html)<br>SLSCUX08503130|Power connector: XT 30<br>Balancer connector: XH|
+|ISDT SMART DUO CHARGER D2|200W, 12A, 2X6S LiPo, Integrated Power Supply|[SLS Webpage](https://www.stefansliposhop.de/en/chargers-power-supplys/isdt/isdt-smart-duo-charger-d2-200w-12a-2x6s-lipo-integrated-power-supply::1916.html)<br>ISDT-D2|Power connector: XT 60<br>Balancer connector: XH|
+|BAT-SAFE Safety Case|Inner dimensions: 250 x 165 x 90mm|[SLS Webpage](https://www.stefansliposhop.de/en/lipo-safety-case/bat-safe-safety-case::1841.html)<br>BAT-SAFE||
+|Fire Extinguishing Granulate|1L Pillow|[SLS Webpage](https://www.stefansliposhop.de/en/lipo-safety-case/extover-fire-protection-fire-extinguishing-granulate-for-lithium-batteries-pillow-1l::2061.html)<br>EXV-KISS1L||
+|Adapter Cable - XT60 to 4mm|Length: 30cm|[SLS Webpage](https://www.stefansliposhop.de/en/chargers-power-supplys/isdt/sls-isdt-adapter-cable-for-charging-cable-with-4mm-banana-plug::1821.html)<br>SLS-ISDT ALK||
+|Adapter Cable - XT30 to 4mm|Length: 30cm|[SLS Webpage](https://www.stefansliposhop.de/en/accessories/charge-cable/sls-xt30-charge-cable::1872.html)<br>SLS XT30 Ladekabel||
+|XH-XH Balancer Extension Wire|Length: 25cm|[SLS Webpage](https://www.stefansliposhop.de/en/accessories/balancer-cables/sls-sensor-cable-xh-xh-3s-long::1754.html)<br>SLSXHXHL3S| XH female to XH male 3S|
+
 ---
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
@@ -329,4 +343,4 @@ Felix Grimminger
 BSD 3-Clause License
 
 ## Copyright
-Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
+Copyright (c) 2019-2021, Max Planck Gesellschaft and New York University
