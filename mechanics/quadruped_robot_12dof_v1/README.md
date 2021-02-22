@@ -53,6 +53,8 @@
 
 <img src="details/body_structure_center_options.png" width="500"><br>*There are 3 different versions for the body structure center top plate.<br>Minimal, with handle and with handle and Vicon marker attachments.* <br>
 
+<img src="images/body_structure_1.jpg" width="450"><br>*Body Structure with Vicon markers on top plate.*<br>
+
 <img src="details/printing_direction.png" width="400"><br>
 
 `The recommended printing direction for all the parts below is the positive z direction of the stl files.`

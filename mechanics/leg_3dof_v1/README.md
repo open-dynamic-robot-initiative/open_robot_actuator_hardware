@@ -107,6 +107,8 @@
 * Stopper upper leg base : [STL file](stl_files/stopper_upper_leg_base.STL)
 * Stopper upper leg cover : [STL file](stl_files/stopper_upper_leg_cover.STL)  
 
+<img src="images/stoppers_1.jpg" width="400"><br>
+
 ---
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  

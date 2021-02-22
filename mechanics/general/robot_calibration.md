@@ -79,7 +79,7 @@
 
 ---
 ## Calibration Tool Biped 6dof
-<img src="images/calibration_tool_biped_6dof_1.png" width="300"><br>*6dof biped cad model with calibration tools.*<br>
+<img src="images/calibration_tool_biped_6dof_1.png" width="450"><br>*6dof biped cad model with calibration tool.*<br>
 
 * this calibration tool can be used for the [Biped Robot 6 dof  v1](../biped_6dof_v1/README.md#biped-robot-6dof-v1)
 
