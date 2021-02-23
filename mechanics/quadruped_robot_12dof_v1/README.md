@@ -166,8 +166,18 @@ We order the bearings in stainless steel from SBN.
 * 9.5mm Vicon Markers on the base
 * M4 x 10 set screws for a attachment  
 * Weight: 1g each
----
-### 3D Model for Visualization
+
+## Robot Coordinate System Origin
+<img src="images/quadruped_12dof_origin.png" width="500"> <br>
+
+## Inertial Sensor Origin Position
+<img src="images/imu_origin.png" width="350"> <br>
+
+* the inertial sensor origin is not in the geometrical center of the IMU
+* [IMU Technical Drawing - see Page 2](https://s3.amazonaws.com/download.microstrain.com/Drawings/3065-0291-ICD.pdf)
+* inertial sensor origin position in the robot coordinate system (x|y|z): ( 104,07mm | -6,35mmmm | 15,40mm )
+
+## 3D Model for Visualization
 
 The simplified STL files for visualization and simulation can be found here: [STL Files Visualization](stl_files_for_visualization)
 

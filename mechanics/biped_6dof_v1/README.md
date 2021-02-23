@@ -166,9 +166,18 @@ We order the bearings in stainless steel from SBN.
 <a href="details/biped_vicon_marker_positions.PDF"><img src="details/biped_vicon_marker_positions_1.png" width="300"></a><br>*Vicon marker positions - Click on picture above to view the PDF drawing*
 
 * You can download the Vicon object here: [Biped Vicon Object](details/biped_vicon_object.zip)
----
 
-### 3D Model for Visualization
+## Robot Coordinate System Origin
+<img src="images/biped_6dof_origin.png" width="450"> <br>
+
+## Inertial Sensor Origin Position
+<img src="images/imu_origin.png" width="350"> <br>
+
+* the inertial sensor origin is not in the geometrical center of the IMU
+* [IMU Technical Drawing - see Page 2](https://s3.amazonaws.com/download.microstrain.com/Drawings/3065-0291-ICD.pdf)
+* inertial sensor origin position in the robot coordinate system (x|y|z): ( -0,13mm | -6,35mm | 77,40mm )
+
+## 3D Model for Visualization
 The simplified STL files for visualization and simulation can be found here: [STL Files Visualization](stl_files_for_visualization)
 
 <a href="details/biped_visualization_model.PDF"><img src="images/biped_dimensions_visualization.png" width="400"></a><br>*Click on picture above to view the PDF drawing*
