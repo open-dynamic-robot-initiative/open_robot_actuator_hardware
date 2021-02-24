@@ -319,7 +319,7 @@
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
-|LiPo Battery SLS X-Cube 850mAh |3S1P 11,1V 30C / 60C<br> Dimensions: 60mm x 30mm x 21mm|[SLS Product Page](https://www.stefansliposhop.de/en/batteries/sls-x-cube/sls-x-cube-30c/sls-x-cube-850mah-3s1p-11-1v-30c-60c::1534.html)<br>SLSCUX08503130|Power connector: XT 30<br>Balancer connector: XH|
+|LiPo Battery SLS X-Cube 850mAh |3S1P 11,1V 30C / 60C<br> Dimensions: 60mm x 30mm x 21mm|[SLS Product Page](https://www.stefansliposhop.de/en/batteries/sls-x-cube/sls-x-cube-30c/sls-x-cube-850mah-3s1p-11-1v-30c-60c::1534.html)<br>SLSCUX08503130|The batteries haven't been tested yet - don't use without power management board!<br>Power connector: XT 30<br>Balancer connector: XH|
 |ISDT SMART DUO CHARGER D2|200W, 12A, 2X6S LiPo, Integrated Power Supply|[SLS Product Page](https://www.stefansliposhop.de/en/chargers-power-supplys/isdt/isdt-smart-duo-charger-d2-200w-12a-2x6s-lipo-integrated-power-supply::1916.html)<br>ISDT-D2|Power connector: XT 60<br>Balancer connector: XH|
 |BAT-SAFE Safety Case|Inner dimensions: 250 x 165 x 90mm|[SLS Product Page](https://www.stefansliposhop.de/en/lipo-safety-case/bat-safe-safety-case::1841.html)<br>BAT-SAFE||
 |Fire Extinguishing Granulate|1L Pillow|[SLS Product Page](https://www.stefansliposhop.de/en/lipo-safety-case/extover-fire-protection-fire-extinguishing-granulate-for-lithium-batteries-pillow-1l::2061.html)<br>EXV-KISS1L||

@@ -73,6 +73,10 @@
 * attachment points for Vicon markers
 ---
 
+<img src="images/spacer_micro_driver_stack.png" width="200"> <br>
+* [Spacer Micro Driver Stack 12mm- STL file](stl_files/spacer_micro_driver_stack_12mm.STL)<br>
+---
+
 <img src="images/stand_adapter.png" width="250"> <br>
 * [Stand Adapter - STL file](stl_files/stand_adapter.STL)<br>
 ---
@@ -87,14 +91,14 @@
 |Body Structure Front |2|[STL file](stl_files/body_structure_front.STL)|3d printed part<br>The front and back plates are identical.|
 |Body Structure Side |2|[STL file](stl_files/body_structure_side.STL)|3d printed part<br>The left and right side plates are identical.|
 |Body Structure Top |1|[STL file](stl_files/body_structure_top.STL)|3d printed part|
-|Spacer Micro Driver Stack |8|[STL file](stl_files/spacer_micro_driver_stack.STL)|3d printed part|
+|Spacer Micro Driver Stack 12mm |8|[STL file](stl_files/spacer_micro_driver_stack_12mm.STL)|3d printed part|
 |Stand Adapter |1|[STL file](stl_files/stand_adapter.STL)|3d printed part<br>(optional)|
 | Inertia Measurement Unit | 1 | Lord Microstrain<br> 3DM-CX5-25| Extended measurement range<br> Gyro Rate: +/- 900 deg/sec. Accelerometer range: +/- 20G|
 | Master Board v2 | 1 | [Master Board Documentation](https://github.com/open-dynamic-robot-initiative/master-board#master-board) | Custom Electronics |
 | Micro Driver Board v2 | 4 | [Micro Driver Documentation](../../electronics/micro_driver_electronics/README.md)  | Custom electronics |
 |Fasteners Body Structure |25|M3x8 Socket Head Cap Screw|Stainless steel|
 |Fasteners Legs to Front Plate|8|M3x12 Socket Head Cap Screw|Stainless steel|
-|Fasteners Micro Driver Electronics|8|M2,5x16 Socket Head Cap Screw|Stainless steel|
+|Fasteners Micro Driver Electronics|8|M2,5x20 Socket Head Cap Screw|Stainless steel|
 |Fasteners Master Board|3|M2x6 Socket Head Cap Screw|Stainless steel|
 |Fasteners IMU|3|M2,5x16 Slotted Screw<br>Conrad 839940-62|Polyamide Plastic|
 |Helicoil Threaded Inserts|25|M3x4,5 Helicoil<br>||

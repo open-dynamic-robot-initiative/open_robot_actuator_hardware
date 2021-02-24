@@ -79,6 +79,10 @@ Make sure to use a M16 x 1,5mm fine pitch thread cutter to prepare the thread in
 <img src="images/quadruped_coordinate_system_8.jpg" width="400"> <br>  
 
 ---
+## Robot Coordinate System Origin
+<img src="images/quadruped_8dof_v1_origin.png" width="500"> <br>
+
+---
 ## 3D Model for Visualization
 The simplified stl files for visualization and simulation can be found here: [STL Files Visualization](stl_files_for_visualization).
 
