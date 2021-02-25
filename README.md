@@ -10,11 +10,11 @@
 
 | Quadruped 8dof v2 | Quadruped 12dof | Biped 6dof | TriFingerEdu |
 | ---------------  | ------------- |------------- |------------- |
-|<a href="mechanics/quadruped_robot_8dof_v2/README.md#quadruped-robot-8dof-v2"><img src="mechanics/quadruped_robot_8dof_v2/images/solo8_v2_cad_1.png" width="300"></a>|<a href="mechanics/quadruped_robot_12dof_v1/README.md#quadruped-robot-12dof-v1"><img src="mechanics/quadruped_robot_12dof_v1/images/solo_12_cad_1.png" width="300"></a>|<a href="mechanics/biped_6dof_v1/README.md#biped-robot-6dof-v1"><img src="mechanics/biped_6dof_v1/images/biped_navigation.png" width="210"></a>|<a href="mechanics/tri_finger_edu_v1/README.md#trifingeredu-v1"><img src="mechanics/tri_finger_edu_v1/images/manipulator_navigation.jpg" width="300"></a>|
+|<a href="mechanics/quadruped_robot_8dof_v2/README.md#quadruped-robot-8dof-v2"><img src="mechanics/general/images/nav_solo_8_v2.png" width="300"></a>|<a href="mechanics/quadruped_robot_12dof_v1/README.md#quadruped-robot-12dof-v1"><img src="mechanics/general/images/nav_solo_12_v1.png" width="300"></a>|<a href="mechanics/biped_6dof_v1/README.md#biped-robot-6dof-v1"><img src="mechanics/general/images/nav_biped_v1.png" width="140"></a>|<a href="mechanics/tri_finger_edu_v1/README.md#trifingeredu-v1"><img src="mechanics/general/images/nav_trifinger_edu_v1.png" width="250"></a>|
 
 | 2dof Leg v2  | 3dof Leg | Biped Leg |FingerEdu |
 | ------------- | ------------- |------------- |------------- |
-| <a href="mechanics/leg_2dof_v2/README.md#leg-2dof-v2"><img src="mechanics/leg_2dof_v2/images/2dof_leg_v2_cad_1.png" width="250"></a>  | <a href="mechanics/leg_3dof_v1/README.md#leg-3dof-v1"><img src="mechanics/leg_3dof_v1/images/3dof_leg_cad_2.png" width="300"></a>  | <a href="mechanics/biped_leg_3dof_v1/README.md#biped-leg-3dof-v1"><img src="mechanics/biped_leg_3dof_v1/images/biped_leg_2.png" width="300"></a>  |<a href="mechanics/finger_edu_v1/README.md#fingeredu-v1"><img src="mechanics/finger_edu_v1/images/finger_navigation.jpg" width="300"></a>  |
+| <a href="mechanics/leg_2dof_v2/README.md#leg-2dof-v2"><img src="mechanics/general/images/nav_2dof_leg_v2.png" width="250"></a>  | <a href="mechanics/leg_3dof_v1/README.md#leg-3dof-v1"><img src="mechanics/general/images/nav_3dof_leg_v1.png" width="270"></a>  | <a href="mechanics/biped_leg_3dof_v1/README.md#biped-leg-3dof-v1"><img src="mechanics/general/images/nav_biped_leg_v1.png" width="220"></a>  |<a href="mechanics/finger_edu_v1/README.md#fingeredu-v1"><img src="mechanics/general/images/nav_finger_edu_v1.png" width="260"></a>  |
 
 | Actuator Module Core| Lower Legs | Details 3d Printed Parts | Details Machined Parts |
 | ---------------  | ------------- |------------- |------------- |
