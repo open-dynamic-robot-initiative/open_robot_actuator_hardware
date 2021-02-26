@@ -11,6 +11,16 @@
 * Weight: 13g
 * input voltage: 5V - 32V (we operate our robots at 24V)
 
+## LED status
+GREEN/BLUE LED (shows system and motor status):<br>
+Off = system disabled<br>
+On =system enabled<br>
+Slow Blinking = motor enabled<br>
+Fast Blinking = aligning motor<br>
+
+RED LED: Turn on if there is an error
+
+
 ## Motor Driver Electronics Comparison
 <br><img src="images/motor_driver_comparison.png" width="400"> <br>
 
