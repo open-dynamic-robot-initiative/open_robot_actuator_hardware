@@ -74,6 +74,11 @@ The simplified STL files for visualization and simulation can be found here: [ST
 
 <a href="details/manipulator_dimensions_visualization.pdf"><img src="images/manipulator_dimensions_visualization.png" width="600"></a><br>*Click on picture above to view the PDF drawing*
 
+----
+## View the TriFinger cad model in your web browser <br>
+
+<a href="https://open-dynamic-robot-initiative.github.io/cad_files/trifinger_edu_v1"><img src="images/trifinger_cad_1.png" width="350"></a><br> *TriFinger Edu v1 <br> Click on the picture to view the cad model in your browser*
+
 ---
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  

@@ -109,6 +109,12 @@ To view the Eagle files you need to download the free [Eagle PCB Design Software
 
 * alternative lower leg versions without contact sensor are documented here: [Lower Leg Documentation](../general/lower_legs.md#lower-legs)
 
+---
+## View the foot contact switch cad model in your web browser
+<br>
+
+<a href="https://open-dynamic-robot-initiative.github.io/cad_files/foot_contact_switch_v1"><img src="images/foot_contact_switch_cad_1.png" width="400"></a><br> *Foot Contact Switch - Click on the picture to view the cad model in your browser*
+
 ## How to work with this
 * To get an better overview of the assembly you can view this [pdf file](lower_leg.PDF)
 * I recommend downloading the free eDrawings viewer for Windows, Mac, iOS and Android [here](https://www.edrawingsviewer.com/download-edrawings).

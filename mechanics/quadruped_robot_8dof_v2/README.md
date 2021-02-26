@@ -197,7 +197,9 @@ More wiring information: [Details Wiring](../../electronics/details/details_wiri
 ---
 ## View the quadruped cad model in your web browser <br>
 
-<a href="https://open-dynamic-robot-initiative.github.io/cad_files/quadruped_8dof_v2"><img src="images/solo8_v2_cad_2.png" width="300"></a><br> *Quadruped Robot 8dof v2 <br> Click on the picture to view the biped cad model in your browser*
+<a href="https://open-dynamic-robot-initiative.github.io/cad_files/quadruped_8dof_v2"><img src="images/solo8_v2_cad_3.png" width="350"></a><br> *Quadruped Robot 8dof v2 <br> Click on the picture to view the cad model in your browser*
+
+<a href="https://open-dynamic-robot-initiative.github.io/cad_files/quadruped_8dof_v2_folded"><img src="images/solo8_v2_cad_4.png" width="400"></a><br> *Quadruped Robot 8dof v2 folded <br> Click on the picture to view the cad model in your browser*
 
 ---
 ## More Information

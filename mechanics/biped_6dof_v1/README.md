@@ -228,7 +228,7 @@ The simplified STL files for visualization and simulation can be found here: [ST
 ## View the biped cad model in your web browser
 <br>
 
-<a href="https://open-dynamic-robot-initiative.github.io/cad_files/biped"><img src="images/biped_cad_3.png" width="250"></a><br> *Biped Robot 6dof - Click on the picture to view the biped cad model in your browser*
+<a href="https://open-dynamic-robot-initiative.github.io/cad_files/biped"><img src="images/biped_cad_4.png" width="250"></a><br> *Biped Robot 6dof - Click on the picture to view the biped cad model in your browser*
 
 ---
 ## Authors
@@ -238,7 +238,7 @@ Felix Grimminger
 BSD 3-Clause License
 
 ## Copyright
-Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
+Copyright (c) 2019-2021, Max Planck Gesellschaft and New York University
 
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  

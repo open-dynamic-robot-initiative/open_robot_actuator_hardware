@@ -135,6 +135,12 @@ All the STL files for 3d printing the Leg Test Stand can be found here: [STL Fil
 |Stopper Attachment|2|[STL file](stl_files/stopper_attachment.STL)|3d printed part|
 |Stopper Wing|1|[STL file](stl_files/stopper_wing.STL)|3d printed part|
 
+## View the Leg Test Stand cad model in your web browser
+<br>
+
+<a href="https://open-dynamic-robot-initiative.github.io/cad_files/leg_test_stand_v1"><img src="images/leg_test_stand_cad_1.png" width="400"></a><br> *Leg Test Stand v1 - Click on the picture to view the cad model in your browser*
+
+---
 ## How to work with this
 * To get an better overview of the assembly you can view this [pdf file](details/leg_test_stand_v1.PDF)
 * I recommend downloading the free eDrawings viewer for Windows, Mac, iOS and Android [here](https://www.edrawingsviewer.com/download-edrawings).
@@ -150,7 +156,7 @@ Felix Grimminger
 BSD 3-Clause License
 
 ## Copyright
-Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
+Copyright (c) 2019-2021, Max Planck Gesellschaft and New York University
 
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  

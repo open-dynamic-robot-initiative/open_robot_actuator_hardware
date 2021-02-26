@@ -154,6 +154,11 @@
 | CAN PCI Express Card | 1 | PEAK IPEH-003027 | Dual channel |
 | CAN Connector | 1 | 9 pole D-Sub connector<br>RS 765-9555 |  |
 
+---
+## View the dual motor testbed cad model in your web browser
+<br>
+
+<a href="https://open-dynamic-robot-initiative.github.io/cad_files/dual_motor_testbed"><img src="images/dual_motor_testbed_cad_1.png" width="500"></a><br> *Dual Motor Testbed - Click on the picture to view the cad model in your browser*
 
 ---
 ## How to work with this
@@ -172,7 +177,7 @@ Felix Grimminger
 BSD 3-Clause License
 
 ## Copyright
-Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
+Copyright (c) 2019-2021, Max Planck Gesellschaft and New York University
 
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  

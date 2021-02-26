@@ -103,7 +103,9 @@ The inertial values are being used in this repository: [Robot Properties Solo](h
 ---
 ## View the quadruped cad model in your web browser <br>
 
-<a href="https://open-dynamic-robot-initiative.github.io/cad_files/quadruped_8dof_v1"><img src="images/quadruped_cad_1.png" width="300"></a><br> *Quadruped Robot 8dof v1 <br> Click on the picture to view the biped cad model in your browser*
+<a href="https://open-dynamic-robot-initiative.github.io/cad_files/quadruped_8dof_v1"><img src="images/quadruped_cad_2.png" width="300"></a><br> *Quadruped Robot 8dof v1 - Click on the picture to view the biped cad model in your browser*
+
+<a href="https://open-dynamic-robot-initiative.github.io/cad_files/quadruped_8dof_v1_folded"><img src="images/quadruped_cad_3.png" width="350"></a><br>*Quadruped robot 8dof v1 folded - Click on picture to view the cad model in your browser*
 
 ---
 ## More Information
@@ -122,4 +124,4 @@ Felix Grimminger
 BSD 3-Clause License
 
 ## Copyright
-Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
+Copyright (c) 2019-2021, Max Planck Gesellschaft and New York University
