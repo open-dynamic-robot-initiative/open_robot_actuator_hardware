@@ -327,6 +327,14 @@
 |Adapter Cable - XT30 to 4mm|Length: 30cm|[SLS Product Page](https://www.stefansliposhop.de/en/accessories/charge-cable/sls-xt30-charge-cable::1872.html)<br>SLS XT30 Ladekabel||
 |XH-XH Balancer Extension Wire|Length: 25cm|[SLS Product Page](https://www.stefansliposhop.de/en/accessories/balancer-cables/sls-sensor-cable-xh-xh-3s-long::1754.html)<br>SLSXHXHL3S| XH female to XH male 3S|
 
+## Switches
+<img src="../images/switches_1.jpg" width="350"> <br>*Push button switches - weight: 3,5g each*<br>
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Push Button Switch Red|ø13,6mm<br>Normally closed - momentarily open while pushed |RS 820-7587|E-stop switch for robots|
+|Push Button Switch Green|ø13,6mm<br>Normally open - momentarily closed while pushed |RS 820-7593|On-off switch for robots|
+
 ---
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
