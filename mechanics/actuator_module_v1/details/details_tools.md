@@ -81,10 +81,10 @@
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
-|M2,5x3,75 Helicoil Threaded Inserts|1,5xD|Hoffmann 082812 M2,5||
-|M2,5x5 Helicoil Threaded Inserts|2xD|Hoffmann 082814 M2,5||
-|M3x4,5 Helicoil Threaded Inserts|1,5xD|Hoffmann  082812 M3||
-|M3x6 Helicoil Threaded Inserts|2xD|Hoffmann 082814 M3||
+|M2,5x3,75 Helicoil Threaded Inserts|1,5xD<br>Böllhoff 41890250375|RS 470-856<br>Hoffmann 082812 M2,5||
+|M2,5x5 Helicoil Threaded Inserts|2xD<br>Böllhoff 41890250005|RS 470-822<br>Hoffmann 082814 M2,5||
+|M3x4,5 Helicoil Threaded Inserts|1,5xD<br>Böllhoff 41890030045|RS 470-838<br>Hoffmann  082812 M3||
+|M3x6 Helicoil Threaded Inserts|2xD<br>Böllhoff 41890030006|RS 470-834<br>Hoffmann 082814 M3||
 
 ## End Mills
 <img src="../images/end_mills_1.jpg" width="300"> <br>*End Mills*
