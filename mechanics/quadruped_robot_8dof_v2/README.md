@@ -72,7 +72,12 @@
 * weight: 37g
 * attachment points for Vicon markers
 ---
-
+<img src="images/body_structure_top_roll_bar.png" width="400"> <br>
+* [Body Structure Top Roll Bar- STL file](stl_files/body_structure_top_roll_bar.STL)<br>
+* weight: 55g
+* attachment points for Vicon markers
+* roll bars for protecting the Vicon markers
+---
 <img src="images/spacer_micro_driver_stack.png" width="200"> <br>
 * [Spacer Micro Driver Stack 12mm- STL file](stl_files/spacer_micro_driver_stack_12mm.STL)<br>
 ---
