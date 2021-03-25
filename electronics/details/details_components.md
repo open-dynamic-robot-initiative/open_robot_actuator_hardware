@@ -101,7 +101,7 @@
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
-|NeoPixel Ring RGB LED 12 x WS2812|Adafruit 1643|Mouser 485-1643||
+|NeoPixel Ring RGB LED 12 x WS2812|Adafruit 1643|Mouser 485-1643 <br>Conrad 1516560||
 |Neo Pixel Ring RGB LED 16 x WS2812 |Adafruit 1463|Mouser 485-1463||
 
 ## Motor Phase Connectors
@@ -345,6 +345,15 @@
 |---|---|---|---|
 |Push Button Switch Red|ø13,6mm<br>Normally closed - momentarily open while pushed |RS 820-7587|E-stop switch for robots|
 |Push Button Switch Green|ø13,6mm<br>Normally open - momentarily closed while pushed |RS 820-7593|On-off switch for robots|
+
+## Gamepad - Robot Input Device
+
+<img src="../images/game_pad.jpg" width="350"> <br>*XBox One Game Pad with Rechargeable Batteries*<br>
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|XBox One Wireless Controller Gamepad|Microsoft QAT-00002|Conrad 2336905|USB C charging interface|
+|XBox Play&Charge Kit|Microsoft SXW-00002|Conrad 2336907|For gamepad with USB C charging interface|
 
 ---
 ## More Information
