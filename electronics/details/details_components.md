@@ -200,12 +200,23 @@
 |Power Wire 1mm² black|Lapp H05V-K 100m|RS 724-4364|Alternative to Kabeltronik wire|
 |Power Wire 1mm² red|Lapp H05V-K 100m|RS 724-4361|Alternative to Kabeltronik wire|
 
+## Wire Splice Connectors
+
+<img src="../images/wire_splice_connectors.jpg" width="400"> <br>*Wire Splice Connectors*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|2 Conductor Wire Splice Connector|Wago 221-412|RS 883-7544|0,2 – 4mm²<br>24 – 12 AWG|
+|3 Conductor Wire Splice Connector|Wago 221-413|RS 883-7548|0,2 – 4mm²<br>24 – 12 AWG|
+|5 Conductor Wire Splice Connector|Wago 221-415|RS 883-7557|0,2 – 4mm²<br>24 – 12 AWG|
+
 ## E-Stop Switch
 <img src="../images/e_stop_button_1.jpg" width="250"> <br>*E-Stop Switch*
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
 |E-Stop Switch|Schneider Electric Harmony XALK Ø 40mm|RS 330-8587||
+|Cable Gland for E-Stop|M20 thread<br>Maximum wire diameter 9mm|RS 669-4660||
 
 ## JTAG Flash Programmer
 <img src="../images/flasher_micro_driver_1.jpg" width="300"> <br>*JTAG Flash Programmer*
