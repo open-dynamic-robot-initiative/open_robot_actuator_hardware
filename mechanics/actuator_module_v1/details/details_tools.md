@@ -191,6 +191,14 @@
 |Precision Weight Scale|Holex|Hoffmann 479442 500|500g range<br>0,1g scale divisions<br>AAA batteries|
 |Weight Scale|Kern|Hoffmann 4794502200|2200g range<br>1g scale divisions<br>AA batteries|
 
+## Digital Angle Meter
+<img src="../images/angle_meter.jpg" width="350"> <br>*Digital Angle Meter*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Digital Angle Meter|56mm x 56mm x 31mm|Hoffmann 467564|9V Battery|
+|9V Battery|6LR61 / PP3|RS 386-9997||
+
 ## Velcro
 <img src="../images/velcro_1.jpg" width="350"> <br>*Velcro Tapes*
 
@@ -199,6 +207,14 @@
 |Monacor Hook and Loop Tape|Monacor CS-10/SW|Conrad 1331453|Double sided<br>"back-to-back" - the band top adheres to the band bottom|
 |Velcro Loop Tape|20mm x 5m|RS 251-4309|Loop Side<br>Adhesive Backing|
 |Velcro Hook Tape|20mm x 5m|RS 549-921|Hook Side<br>Adhesive Backing|
+
+## Rubber Feet
+<img src="../images/rubber_feet.jpg" width="400"> <br>*Rubber Feet*
+
+|Description|Details|Ordering Information|Comments|
+|---|---|---|---|
+|Rubber Feet Round|Ø 12.7mm x 3,5mm|RS 236-509|adhesive-backed polyurethane|
+|Rubber Feet Square|20,5mm x 20,5mm x 7,5mm|RS 223-663|adhesive-backed polyurethane|
 
 ## Miscellaneous Tools
 <img src="../images/tools_misc_1.jpg" width="350"> <br>*Miscellanious tools - tooth brush, q-tipps and tooth picks*
