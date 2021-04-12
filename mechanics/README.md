@@ -14,9 +14,9 @@
 | ---------------  | ------------- |------------- |------------- |
 | <a href="actuator_module_v1/README.md#brushless-actuator-module-v1"><img src="actuator_module_v1/images/actuator_module_1.png" width="250"></a>| <a href="general/lower_legs.md#lower-legs"><img src="general/images/nav_lower_legs.png" width="250"></a> |<a href="actuator_module_v1/details/details_3d_printed_parts.md#details-3d-printed-parts"><img src="actuator_module_v1/images/3d_printed_parts_2.jpg" width="200"></a> | <a href="actuator_module_v1/details/details_machined_parts.md#details-machined-parts"><img src="actuator_module_v1/images/machined_parts_1.jpg" width="200"></a> |
 
-| Robot Calibration | Details Electronics <br>Quadruped Robot 12dof| Dual Motor Testbed | NYU Finger |
+| Quadruped 12dof v1.1<br>Autonomy Upgrade | Details Electronics <br>Quadruped Robot 12dof| Dual Motor Testbed | NYU Finger |
 | ---------------  | ------------- |------------- |-----------|
-| <a href="general/robot_calibration.md#robot-calibration"><img src="general/images/nav_robot_calibration.png" width="280"></a> |<a href="quadruped_robot_12dof_v1/details/details_electronics_quadruped_12dof.md#details-electronics-quadruped-robot-12dof-v1"><img src="quadruped_robot_12dof_v1/details/wire_routing_bottom.jpg" width="300"></a>| <a href="dual_motor_testbed_v1/README.md#dual-motor-testbed-v1"><img src="dual_motor_testbed_v1/images/dual_motor_testbed_1.jpg" width="300"></a>  | <a href="nyu_finger_v1/README.md#nyu-finger-v1"><img src="nyu_finger_v1/images/nyu_finger_cad_3.png" width="400"></a> |
+| <a href="quadruped_robot_12dof_v1.1#quadruped-robot-12dof-v11"><img src="general/images/nav_solo_12_v1.1.png" width="300"></a>|<a href="quadruped_robot_12dof_v1/details/details_electronics_quadruped_12dof.md#details-electronics-quadruped-robot-12dof-v1"><img src="quadruped_robot_12dof_v1/details/wire_routing_bottom.jpg" width="300"></a>| <a href="dual_motor_testbed_v1/README.md#dual-motor-testbed-v1"><img src="dual_motor_testbed_v1/images/dual_motor_testbed_1.jpg" width="300"></a>  | <a href="nyu_finger_v1/README.md#nyu-finger-v1"><img src="nyu_finger_v1/images/nyu_finger_cad_3.png" width="400"></a> |
 
 ### Old Versions for Reference
 | Quadruped 8dof v1 | 2dof Leg v1 | Leg Test Stand v1| Foot Contact Switch |
@@ -36,6 +36,11 @@
 | Mechanical Tools and Consumables |Electronic Components and Tools| Conventions | Known Issues |
 | --- | --- | --- |--- |
 |<a href="actuator_module_v1/details/details_tools.md#details-mechanical-tools-and-consumables"><img src="actuator_module_v1/images/tools_1.jpg" width="200"></a>|<a href="../electronics/details/details_components.md#details-electronic-components-and-tools"><img src="../electronics/images/components_tools_1.jpg" width="200"></a>| <a href="general/conventions.md#conventions"><img src="general/images/conventions.png" width="300"></a> | <a href="general/known_issues.md#known-issues"><img src="general/images/known_issues.jpg" width="300"></a>|
+
+| Robot Calibration ||||
+| --- | --- | --- | --- |
+|<a href="general/robot_calibration.md#robot-calibration"><img src="general/images/nav_robot_calibration.png" width="200"></a> |<img src="general/images/nav_spacer.png" width="200">|<img src="general/images/nav_spacer.png" width="200">|<img src="general/images/nav_spacer.png" width="200">|
+
 
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
