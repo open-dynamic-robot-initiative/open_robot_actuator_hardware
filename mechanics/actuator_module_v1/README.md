@@ -36,12 +36,14 @@ The total gear reduction is 9:1.
   * Weight: 53g
   * [Details Motor Preparation](details/details_motor_preparation.md)
   * [Details Motor Shaft Preparation](details/details_motor_shaft_preparation.md)
-  * [T-Motor Webpage](http://store-en.tmotor.com/goods.php?id=438) (the motors are sold in sets of 2 pieces)
+  * [T-Motor Product Webpage](http://store-en.tmotor.com/goods.php?id=438) (the motors are sold in sets of 2 pieces)
+  * [Ordering information below](#bill-of-materials---brushless-actuator-module-core)
 
 ### Optical Encoder
 <img src="images/broadcom_encoder_1.jpg" width="300"> <br>
   * Broadcom AEDT-9810-Z00
   * 5000 pulses per revolution per channel
+  * 20000 counts per revolution at the micro controller
   * 5V two channel quadrature output with index pulse (ABZ)
   * Code wheel diameter: 26mm
   * Weight: 5g
@@ -49,14 +51,16 @@ The total gear reduction is 9:1.
   * [Details Encoder Preparation](details/details_encoder_preparation.md)
   * [Details Motor Shaft and Codewheel Preparation](details/details_motor_shaft_preparation.md)
   * [Broadcom Webpage](https://www.broadcom.com/products/motion-control-encoders/incremental-encoders/transmissive-encoders/aedt-981x)  
+  * [Ordering information below](#bill-of-materials---brushless-actuator-module-core)
 
 ### Timing Belts
-<img src="images/timing_belts_1.jpg" width="300"> <br> *Timing Belts AT3 GEN III with 50 teeth and 67 teeth*
+<img src="images/timing_belts_1.jpg" width="300"> <br> *Timing Belts AT3 GEN III with 50 teeth and 67 teeth - weight: 4,5g*
   * Timing Belt: Conti Synchroflex AT3 GEN III - 3mm tooth pitch
   * Heavy duty polyurethane timing belt with steel cord reinforcements
   * First stage: 150mm timing belt - 50 teeth - width 4mm - 1,5g
   * Second stage: 201mm timing belt - 67 teeth - width 6mm - 3g
   * [Contitech Webpage](https://www.contitech.de/en-gl/Solutions/Power-Transmission/Industrial-Applications/Drive-Belts/Synchronous-Belts/Products/Product-range/CONTI-SYNCHROFLEX-GEN3)  
+  * [Ordering information below](#bill-of-materials---brushless-actuator-module-core)
 
 ### Bearings
 <img src="images/bearings_1.jpg" width="300"><br>*Stainless steel roller bearings - weight: 16g*
@@ -65,23 +69,25 @@ The total gear reduction is 9:1.
 * Transmission bearing: 8mm x 4mm x 2mm - 0.4g
 * Belt tensioner bearing: 7mm x 3mm x 3mm - 0,4g
 * [EZO Webpage](https://www.ezo-usa.com/)
+* [Ordering information below](#bill-of-materials---brushless-actuator-module-core)
 
 ### Fasteners
-<img src="images/fasteners_1.jpg" width="350"> <br> *All the fasteners that are part of the actuator core components*
+<img src="images/fasteners_1.jpg" width="350"> <br> *Fasteners Actuator Module Core - weight: 2,9g*
 
 * Fasteners Motor: M3 x 5 Flat Head Screw
 * Fasteners Timing Belt Tensioner: M3 x 10 Flat Head Screw
 * Washers Timing Belt Tensioner: M2,5 Washer
 * Helical Insert Output Shaft: Helicoil M3 x 6
 * Fasteners Encoder: M3 x 16 Philipps Flat Head Screw
+* [Ordering information below](#bill-of-materials---brushless-actuator-module-core)
 
 ---
 ## Machined Parts
-<img src="images/machined_parts_1.jpg" width="300"><br>*The3 parts in the picture have to be machined from metal - weight: 5,9g*
+<img src="images/machined_parts_1.jpg" width="300"><br>*The 3 parts in the picture need to be machined from metal - weight: 5,9g*
 
   * motor pulley 10 teeth - aluminum - 0.6g -> [PDF drawing](drawings/motor_pulley_at3_t10.PDF)
   * center pulley 10 teeth - aluminum - 2,1g -> [PDF drawing](drawings/center_pulley_at3_t10.PDF)
-  * motor shaft - 4mm steel rod - 3,2g -> [PDF drawing](drawings/motor_shaft.PDF)
+  * motor shaft - 4mm stainless steel rod - 3,2g -> [PDF drawing](drawings/motor_shaft.PDF)
   * [Details Machined Parts and Technical Drawings](details/details_machined_parts.md)
 ---
 ## 3D Printed Parts
@@ -92,6 +98,8 @@ The tooth profile of the pulleys has to be pretty precise and concentric.
 We recommend to print all the parts listed below with a stereolithography or multijet printer.
 
 More information: [Details 3D Printed Parts](details/details_3d_printed_parts.md)
+
+All the STL files for 3d printing the parts below can be found here: [STL Files](stl_files) <br>
 
 <img src="images/printing_direction.png" width="400"> <br>
 
@@ -128,12 +136,12 @@ More information: [Details 3D Printed Parts](details/details_3d_printed_parts.md
 | --- | :---: | --- | --- |   
 |T-Motor Antigravity 4004 300kV|1|[T-Motor Store](http://store-en.tmotor.com/goods.php?id=438)<br>[Globeflight # 1974](https://www.globe-flight.de/T-Motor-GF-Antigravity-Set-4004-300KV-2-pcs)|2 motors per set|
 |Encoder Broadcom AEDT-9810-Z00|1|[Mouser # 630-AEDT9810Z00](https://www.mouser.com/ProductDetail/Broadcom-Avago/AEDT-9810-Z00?qs=%2Fha2pyFadugH%252BV24sBozOzDoYJ6rlay1%2FjE%2FZBaGp8NtaorhU1uDSg%3D%3D)<br> [DigiKey # 516-3256-ND](https://www.digikey.com/products/en?keywords=516-3256-ND)|Encoder without codewheel|
-|Codewheel for Encoder AEDT-9810-Z00|1|[PWB Encoders GmbH # 104768](https://www.pwb-encoders.com/en/encoder-wheels)|Email Mr. Oberländer and ask for a quote. PWB ships worldwide. <br> Order number: 104768 / Codewheel with index / 625cpr 3K for AEDT98X / ID 7mm / OD 25,56mm|
-|Timing Belt Conti Synchroflex AT3 GEN III<br> width: 4mm / length: 150mm / 50 teeth<br>Timing belt first stage|1|[Reiff # 60047626](https://www.reiff-tpshop.de/shop/de/antriebstechnik/synchroflex-zahnriemen-gen-iii-at3/gen-iii-at3-laenge-150-bis-1011-mm.html)<br> [Beltingonline](https://www.beltingonline.com/at3-gen-iii-synchroflex-timing-belts-4593)<br>|<br> Reiff: The belt with 4mm width is not listed on the Reiff webpage. <br> Ask for a quote: e-services@reiff-gruppe.de <br> Reiff ships within Europe.|
-|Timing Belt Conti Synchroflex AT3 GEN III<br> width: 6mm / length: 201mm / 67 teeth <br>Timing belt second stage|1|[Reiff # 60005258](https://www.reiff-tpshop.de/shop/de/antriebstechnik/synchroflex-zahnriemen-gen-iii-at3/gen-iii-at3-laenge-150-bis-1011-mm.html) <br> [Beltingonline](https://www.beltingonline.com/at3-gen-iii-synchroflex-timing-belts-4593)|Reiff: Ask for a quote: e-services@reiff-gruppe.de <br>Reiff ships within Europe.|
-|Bearing Output Shaft<br>32mm x 25mm x 4mm<br>EZO bearing 61705 2RS VA  |2|[Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/)<br>[Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br>[EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br>[SBN](https://www.sbn.de/en/)<br>[Online Bearing Store](https://www.onlinebearingstore.com/6705-2rs-6705-zz-ball-bearings.html)|Italy: [Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/) or [Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br> USA: [EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br> All other countries: Contact [SBN](https://www.sbn.de/en/) (info@sbn.de) and ask for a quote - they ship worldwide. <br> SBN # C02748 <br>We use stainless steel bearings.<br>Alternative: Chrome steel bearings from the Online Bearing Store|
-|Bearing Motor Shaft and Center Shaft  <br> 8mm x 4mm x 2mm<br>EZO bearing MR84 VA |3|[Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/)<br>[Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br>[EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br>[SBN](https://www.sbn.de/en/)<br>[Online Bearing Store](https://www.onlinebearingstore.com/mr84-miniature-ball-bearing-4x8x2-open.html)|Italy: [Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/) or [Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br> USA: [EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br> All other countries: Contact [SBN](https://www.sbn.de/en/) (info@sbn.de) and ask for a quote - they ship worldwide.  <br> SBN # N09724 <br>We use stainless steel bearings.<br>Alternative: Chrome steel bearings from the Online Bearing Store|
-|Bearing Timing Belt Tensioner<br>7mm x 3mm x 3mm<br>EZO bearing 683 2Z VA<br><br> |2|[Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/)<br>[Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br>[EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br>[SBN](https://www.sbn.de/en/)<br>[Online Bearing Store](https://www.onlinebearingstore.com/683-zz-miniature-ball-bearing-id-3-x-od-7x-w-3mm-shielded.html)|Italy: [Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/) or [Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br> USA: [EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br> All other countries: Contact [SBN](https://www.sbn.de/en/) (info@sbn.de) and ask for a quote  - they ship worldwide. <br>SBN # N05560 <br> We use stainless steel bearings.<br>Alternative: Chrome steel bearings from the Online Bearing Store|
+|Codewheel for Encoder AEDT-9810-Z00|1|[PWB Encoders GmbH # 104768](https://www.pwb-encoders.com/en/encoder-wheels)|Send an email to info@pwb-encoders.com and ask for a quote. PWB ships worldwide. <br> Order number: 104768 / Codewheel with index / 625cpr 3K for AEDT98X / ID 7mm / OD 25,56mm|
+|Timing Belt Conti Synchroflex AT3 GEN III<br> width: 4mm / length: 150mm / 50 teeth<br>Timing belt first stage|1|[Reiff # 60047626](https://www.reiff-tpshop.de/shop/de/antriebstechnik/synchroflex-zahnriemen-gen-iii-at3/gen-iii-at3-laenge-150-bis-1011-mm.html)<br> [Beltingonline](https://www.beltingonline.com/at3-gen-iii-synchroflex-timing-belts-4593)<br>|<br> Reiff: The belt with 4mm width is not listed on the Reiff webpage. <br> Send an email to e-services@reiff-gruppe.de and ask for a quote. <br> Reiff ships within Europe.|
+|Timing Belt Conti Synchroflex AT3 GEN III<br> width: 6mm / length: 201mm / 67 teeth <br>Timing belt second stage|1|[Reiff # 60005258](https://www.reiff-tpshop.de/shop/de/antriebstechnik/synchroflex-zahnriemen-gen-iii-at3/gen-iii-at3-laenge-150-bis-1011-mm.html) <br> [Beltingonline](https://www.beltingonline.com/at3-gen-iii-synchroflex-timing-belts-4593)|Send an email to e-services@reiff-gruppe.de and ask for a quote.<br>Reiff ships within Europe.|
+|Bearing Output Shaft<br>32mm x 25mm x 4mm<br>EZO bearing 61705 2RS VA  |2|[Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/)<br>[Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br>[EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br>[SBN](https://www.sbn.de/en/)<br>[Online Bearing Store](https://www.onlinebearingstore.com/6705-2rs-6705-zz-ball-bearings.html)|Italy: [Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/) or [Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br> USA: [EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br> All other countries: Send an email to info@sbn.de and ask for a quote - they ship worldwide. <br> SBN # C02748 <br>We use stainless steel bearings.<br>Alternative: Chrome steel bearings from the Online Bearing Store|
+|Bearing Motor Shaft and Center Shaft  <br> 8mm x 4mm x 2mm<br>EZO bearing MR84 VA |3|[Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/)<br>[Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br>[EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br>[SBN](https://www.sbn.de/en/)<br>[Online Bearing Store](https://www.onlinebearingstore.com/mr84-miniature-ball-bearing-4x8x2-open.html)|Italy: [Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/) or [Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br> USA: [EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br> All other countries: Send an email to info@sbn.de and ask for a quote - they ship worldwide.  <br> SBN # N09724 <br>We use stainless steel bearings.<br>Alternative: Chrome steel bearings from the Online Bearing Store|
+|Bearing Timing Belt Tensioner<br>7mm x 3mm x 3mm<br>EZO bearing 683 2Z VA<br><br> |2|[Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/)<br>[Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br>[EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br>[SBN](https://www.sbn.de/en/)<br>[Online Bearing Store](https://www.onlinebearingstore.com/683-zz-miniature-ball-bearing-id-3-x-od-7x-w-3mm-shielded.html)|Italy: [Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/) or [Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br> USA: [EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br> All other countries: Send an email to info@sbn.de and ask for a quote - they ship worldwide. <br>SBN # N05560 <br> We use stainless steel bearings.<br>Alternative: Chrome steel bearings from the Online Bearing Store|
 |Encoder Codewheel PWB Mount|1|[STL file](stl_files/encoder_codewheel_pwb_mount.STL)|3d printed part - use SLA, Polyjet or Multijet printer|
 |Transmission Pulley AT3 T30 Center|1|[STL file ](stl_files/transmission_pulley_at3_t30_center.STL)|3d printed part - use SLA, Polyjet or Multijet printer|
 |Transmission Pulley AT3 T30 Output|1|[STL file ](stl_files/transmission_pulley_at3_t30_output.STL)|3d printed part - use SLA, Polyjet or Multijet printer|
@@ -145,7 +153,7 @@ More information: [Details 3D Printed Parts](details/details_3d_printed_parts.md
 |Fasteners Motor<br>M3 x 5 Flat Head Screw |4|[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/ISO-10642-DIN-7991-Senkschrauben-mit-Innensechskant-aehnl.-DIN-7991/Edelstahl-Rostfrei-A2/M-3-Gewinde-M-metrisches-Gewinde)|Stainless Steel<br>Online Schrauben ships within Europe.|
 |Fasteners Timing Belt Tensioner<br>M3 x 10 Flat Head Screw|2|[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/ISO-10642-DIN-7991-Senkschrauben-mit-Innensechskant-aehnl.-DIN-7991/Edelstahl-Rostfrei-A2/M-3-Gewinde-M-metrisches-Gewinde)|Stainless Steel<br>Online Schrauben ships within Europe.|
 |Washers Timing Belt Tensioner<br>M2,5 Washer|2|[Online Schrauben](https://online-schrauben.de/shop/Scheiben-Federringe/ISO-7092-Unterlegscheiben-fuer-Zylinderkopfschrauben-aehnl.-DIN-433/Edelstahl-Rostfrei-A2-200-HV)|Stainless Steel<br>Online Schrauben ships within Europe.|
-|Helical Insert Output Shaft<br> Helicoil M3 x 6|2|[Hoffmann # 082814 M3](https://www.hoffmann-group.com/GB/en/houk/Power-tools-and-workshop-supplies/Soldering-tools-cleaning-devices-thread-repair/Thread-insert-set%2C-10-or-20-pieces-2×D/p/082814-M3?tId=617)<br>[McMaster # 91732A773](https://www.mcmaster.com/91732A773/)|M3 Helicoil tools required|
+|Helical Insert Output Shaft<br> Helicoil M3 x 6|2|[RS # 470-834](https://uk.rs-online.com/web/p/thread-repair-inserts/0470834/)<br>[Hoffmann # 082814 M3](https://www.hoffmann-group.com/GB/en/houk/Power-tools-and-workshop-supplies/Soldering-tools-cleaning-devices-thread-repair/Thread-insert-set%2C-10-or-20-pieces-2×D/p/082814-M3?tId=617)<br>[McMaster # 91732A773](https://www.mcmaster.com/91732A773/)|[M3 Helicoil tools](details/details_tools.md#helicoil-tools) required|
 
 ---
 ### Encoder and Codewheel - Alternative B
@@ -184,18 +192,13 @@ More information: [Details 3D Printed Parts](details/details_3d_printed_parts.md
 ### Wiring Convention Encoder
 <img src="images/encoder_wiring_micro_driver.png" width="600"><br>*Wiring Convention Encoder with Kabeltronik Wires*
 
+More wiring information here: [Details Wiring](../../electronics/details/details_wiring.md#details-wiring)
+
 ---
 ## PDF Drawing
 View this pdf file to get a better overview of the actuator module assembly.
 
 <a href="_actuator_module.PDF"><img src="images/actuator_module_pdf.png" width="400"></a><br>*Actuator Module Overview - Click on picture to view PDF drawing.*
-
----
-## 3D Assembly File
-Download and open the eDrawing file below to explore the actuator module assembly.  
-To open the file you will need to download and install the free eDrawings viewer [here](https://www.edrawingsviewer.com/download-edrawings).  
-
-<a href="_actuator_module.EASM"><img src="images/actuator_module_edrawing.png" width="400"></a><br>*Actuator Module Overview - Click on picture to download and view the 3d assembly file.*
 
 ---
 ## Step-by-Step Instructions
@@ -232,4 +235,4 @@ Felix Grimminger
 BSD 3-Clause License
 
 ## Copyright
-Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
+Copyright (c) 2019-2021, Max Planck Gesellschaft and New York University
