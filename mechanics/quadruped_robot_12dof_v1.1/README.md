@@ -1,9 +1,9 @@
 # Quadruped Robot 12dof v1.1
-<img src="images/quadruped_12dof_v1.1_1.jpg" width="600"><br>*Quadruped Robot 12dof v1.1 - Autonomy Upgrade - Weight: 2,8kg*<br>
+<img src="images/quadruped_12dof_v1.1_1.jpg" width="500"><br>*Quadruped Robot 12dof v1.1 - Autonomy Upgrade - Weight: 2,8kg*<br>
 
 ## Description
 
-### `Untested - not recommended for replication!`
+#### `Untested - not recommended for replication yet!`
 
 * this page describes the autonomy upgrade for the [Quadruped 12dof v1 Robot](../quadruped_robot_12dof_v1/README.md#quadruped-robot-12dof-v1)
 * onboard batteries and wireless communication will enable the robot to operate without power and ethernet wires
@@ -17,7 +17,7 @@
 
 <img src="images/quadruped_component_overview_1.png" width="600"><br>*Quadruped 12dof v1.1 Overview - the updated components are marked in red.* <br>
 
-<img src="images/quadruped_12dof_v1.1_2.jpg" width="600"><br>*Quadruped Robot 12dof v1.1 - Top View*<br>
+<img src="images/quadruped_12dof_v1.1_2.jpg" width="500"><br>*Quadruped Robot 12dof v1.1 - Top View*<br>
 
 ---
 ## Electronics
@@ -28,9 +28,9 @@
 * this custom Power Management Board is being developed by Thomas Flayols
 * Documentation: [Power Board GitHub Page](https://github.com/thomasfla/power-board)
 *	inrush current limitation
-*	supply voltage and current measurement with 20bit resolution
+*	high resolution supply voltage and current measurement
 *	SPI interface for communication with the Master Board
-*	8 x XT30 outputs connectors
+*	8 x XT30 output connectors
 * dimensions: 65mm x 35mm
 * mounting holes: ø 2,1mm / spacing 61mm x 31mm
 
@@ -40,7 +40,7 @@
 <img src="images/batteries_1.jpg" width="300"><br>*Lithium Polymer Batteries - weight: 68g each*<br>  
 
 * SLS X-Cube 850mAh lithium polymer batteries
-* 3S1P / 11,1V / 30C / 60C
+* 3S1P / 11,1V / 30C continous / 60C burst
 * weight: 68g
 * dimensions: 60mm x 30mm x 21mm
 * power connector: XT 30
