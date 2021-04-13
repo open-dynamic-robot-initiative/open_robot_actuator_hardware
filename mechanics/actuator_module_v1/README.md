@@ -97,7 +97,7 @@ The total gear reduction is 9:1.
 The tooth profile of the pulleys has to be pretty precise and concentric.  
 We recommend to print all the parts listed below with a stereolithography or multijet printer.
 
-More information: [Details 3D Printed Parts](details/details_3d_printed_parts.md)
+More information: [Details 3D Printed Parts](details/details_3d_printed_parts.md#details-3d-printed-parts)
 
 All the STL files for 3d printing the parts below can be found here: [STL Files](stl_files) <br>
 
@@ -108,7 +108,8 @@ All the STL files for 3d printing the parts below can be found here: [STL Files]
 ---
 <img src="images/encoder_codewheel_pwb_mount.png" width="200"> <br>
 
-* Encoder Codewheel Kit Mount - [STL file](stl_files/encoder_codewheel_kit_mount.STL) (Option A with AEDM-5810-Z12 encoder kit) or Encoder Codewheel PWB Mount - weight 0.3g -> [STL file](stl_files/encoder_codewheel_pwb_mount.STL) (Option B with Broadcom AEDT-9810-Z00 encoder)
+* Encoder Codewheel PWB Mount - weight: 0,3g<br> [STL file](stl_files/encoder_codewheel_pwb_mount.STL) ([Option A](#bill-of-materials---brushless-actuator-module-core) with Broadcom AEDT-9810-Z00 encoder)  
+* Encoder Codewheel Kit Mount - weight: 0,3g<br>[STL file](stl_files/encoder_codewheel_kit_mount.STL) ([Option B](#encoder-and-codewheel---alternative-b) with AEDM-5810-Z12 encoder kit)
 
   ---
   <img src="images/transmission_pulley_center.png" width="180"> <br>
@@ -161,7 +162,7 @@ All the STL files for 3d printing the parts below can be found here: [STL Files]
 
 | Part Name | Quantity | Ordering Information | Comments |  
 | --- | :---: | --- | --- |
-|Broadcom Encoder Kit AEDM-5810-Z12|1|[Mouser # 630-AEDM5810Z12](https://www.mouser.de/ProductDetail/Broadcom-Avago/AEDM-5810Z12?qs=%2Fha2pyFadujtDdLrUGHWsKyfLkpJxYH2H0SfB7LySxyN5iN50m1syw%3D%3D)<br>[DigiKey # 516-3253-ND](https://www.digikey.com/product-detail/en/broadcom-limited/AEDM-5810-Z12/516-3253-ND/5357134)|Kit consisting of encoder and codewheel<br>[Instructions Encoder Kit Disassembly](details/details_encoder_kit_disassembly.md)|
+|Broadcom Encoder Kit AEDM-5810-Z12|1|[Mouser # 630-AEDM5810Z12](https://www.mouser.de/ProductDetail/Broadcom-Avago/AEDM-5810Z12?qs=%2Fha2pyFadujtDdLrUGHWsKyfLkpJxYH2H0SfB7LySxyN5iN50m1syw%3D%3D)<br>[DigiKey # 516-3253-ND](https://www.digikey.com/product-detail/en/broadcom-limited/AEDM-5810-Z12/516-3253-ND/5357134)|Kit consisting of encoder and codewheel<br>[Instructions Encoder Kit Disassembly](details/details_encoder_kit_disassembly.md#details-encoder-kit-disassembly)|
 |Codewheel Mount Encoder Kit|1|[STL file](stl_files/encoder_codewheel_kit_mount.STL)|3d printed part- use SLA, Polyjet or Multijet printer|
 
 ---
