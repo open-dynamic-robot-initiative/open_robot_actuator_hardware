@@ -2,7 +2,7 @@
 
 <img src="images/actuator_module_1.png" width="500">
 
-## Introduction
+## Description
 We developed a light-weight, low cost, minimal complexity, torque-controlled actuator module for robotic research.  
 The actuator module consists of a brushless outrunner motor, a high resolution optical encoder, a dual stage timing belt transmission and mostly 3d printed parts and off-the-shelf components.  
 The module has a segment length of 160mm, weighs 150g and outputs 2,5Nm at 12A.
@@ -16,7 +16,7 @@ We are using the same core components for all the robots described in this repos
 
 <img src="images/transmission_1.png" width="500">
 
-We are using a dual stage timing belt transmission with 3:1 gear reduction on each stage.
+We are using a dual stage timing belt transmission with a 3:1 gear reduction on each stage.
 The total gear reduction is 9:1.
 
 ## Core Component Overview
@@ -83,12 +83,17 @@ The total gear reduction is 9:1.
 
 ---
 ## Machined Parts
-<img src="images/machined_parts_1.jpg" width="300"><br>*The 3 parts in the picture need to be machined from metal - weight: 5,9g*
+<img src="images/machined_parts_1.jpg" width="300"><br>*Motor shaft, motor pulley and center pulley - weight: 5,9g*
+
+The 3 parts in the picture need to be machined from metal.
 
   * motor pulley 10 teeth - aluminum - 0.6g -> [PDF drawing](drawings/motor_pulley_at3_t10.PDF)
   * center pulley 10 teeth - aluminum - 2,1g -> [PDF drawing](drawings/center_pulley_at3_t10.PDF)
   * motor shaft - 4mm stainless steel rod - 3,2g -> [PDF drawing](drawings/motor_shaft.PDF)
   * [Details Machined Parts and Technical Drawings](details/details_machined_parts.md)
+
+Alternatively you can order the ODRI Encoder Kit that includes all the machined parts. More information can be found in the [Actuator Module Core v1.1 Documentation](actuator_module_v1.1.md#brushless-actuator-module-core-v11).  
+
 ---
 ## 3D Printed Parts
 
@@ -133,7 +138,7 @@ All the STL files for 3d printing the parts below can be found here: [STL Files]
 ## Bill of Materials - Brushless Actuator Module Core
 <img src="images/actuator_module_core_1.png" width="400">
 
-| Part Name | Quantity | Ordering Information | Comments |  
+| Part Description | Quantity | Ordering Information | Comments |  
 | --- | :---: | --- | --- |   
 |T-Motor Antigravity 4004 300kV|1|[T-Motor Store](http://store-en.tmotor.com/goods.php?id=438)<br>[Globeflight # 1974](https://www.globe-flight.de/T-Motor-GF-Antigravity-Set-4004-300KV-2-pcs)|2 motors per set|
 |Encoder Broadcom AEDT-9810-Z00|1|[Mouser # 630-AEDT9810Z00](https://www.mouser.com/ProductDetail/Broadcom-Avago/AEDT-9810-Z00?qs=%2Fha2pyFadugH%252BV24sBozOzDoYJ6rlay1%2FjE%2FZBaGp8NtaorhU1uDSg%3D%3D)<br> [DigiKey # 516-3256-ND](https://www.digikey.com/products/en?keywords=516-3256-ND)|Encoder without codewheel|

@@ -1,5 +1,11 @@
 # Details Machined Parts
 
+<img src="../images/machined_parts_1.jpg" width="400"> <br >*Machined parts - motor shaft, motor pulley and center pulley.*<br>
+
+There are 3 parts in the actuator module that have to be machined from metal - there is more information below.
+
+Alternatively you can order the ODRI Encoder Kit that includes all the machined parts. More information can be found in the [Actuator Module Core v1.1 Documentation](../actuator_module_v1.1.md#brushless-actuator-module-core-v11).
+
 ## Timing Belt Pulleys
 
 ### Description:
