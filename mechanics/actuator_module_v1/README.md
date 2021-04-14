@@ -92,7 +92,8 @@ The 3 parts in the picture need to be machined from metal.
   * motor shaft - 4mm stainless steel rod - 3,2g -> [PDF drawing](drawings/motor_shaft.PDF)
   * [Details Machined Parts and Technical Drawings](details/details_machined_parts.md)
 
-Alternatively you can order the ODRI Encoder Kit that includes all the machined parts. More information can be found in the [Actuator Module Core v1.1 Documentation](actuator_module_v1.1.md#brushless-actuator-module-core-v11).  
+Alternatively you can order the ODRI Encoder Kit that includes all the machined parts.<br>
+More information can be found in the [Actuator Module Core v1.1 Documentation](actuator_module_v1.1.md#brushless-actuator-module-core-v11).  
 
 ---
 ## 3D Printed Parts

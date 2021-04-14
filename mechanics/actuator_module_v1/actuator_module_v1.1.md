@@ -42,9 +42,9 @@ We are using a dual stage timing belt transmission with a 3:1 gear reduction on 
 <img src="images/pwb_odri_kit_components_1.jpg" width="300"><br>*ODRI Encoder Kit Components - weight: 11g*<br>
 
 * The ODRI Encoder Kit includes the following components:
- * Fully prepared Motor Shaft Assembly
- * Center Pulley - Aluminum 7075
- * Broadcom AEDT-9810-Z00 encoder head
+  * Fully prepared Motor Shaft Assembly
+  * Center Pulley - Aluminum 7075
+  * Broadcom AEDT-9810-Z00 encoder head
 * [Ordering information below](#bill-of-materials---brushless-actuator-module-core)
 
 <a href="../general/details/20210407_ODRI-KIT-new.pdf"><img src="images/pwb_odri_kit_flyer_1.png" width="400"></a><br>*Click on picture above to view the [ODRI Encoder KIT Product Flyer](../general/details/20210407_ODRI-KIT-new.pdf).*
