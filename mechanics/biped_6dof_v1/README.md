@@ -18,7 +18,6 @@
 * power and ethernet communication over wire
 * IMU and Vicon Markers on body for base estimation
 
-
 ---
 <img src="images/biped_3.jpg" width="350"> <br>*6dof biped robot - for this picture the robot was held by a string*
 
@@ -37,19 +36,22 @@
 
 More wiring information: [Details Wiring](../../electronics/details/details_wiring.md#details-wiring)
 
-| Description | Quantity | Wire Length | Comments |  
-| --- | --- | --- | --- |   
-|Hip AA Motor Phases |3|20cm|FRHAA and FLHAA |
-|Hip AA Encoder Wire |1|28cm|FRHAA and FLHAA|
-|Hip FE Motor Phases |3|27cm|FRHFE and FLHFE |
-|Hip FE Encoder Wire |1|33cm|FRHFE and FLHFE|
-|Knee Motor Phases |3|35cm|FRK and FLK |
-|Knee Encoder Wire |1|42cm|FRK and FLK|
+| Description | Wire Length | Comments |  
+| --- | --- | --- |
+|Hip AA Motor Phases |20cm|RHAA and LHAA |
+|Hip AA Encoder Wire |28cm|RHAA and LHAA|
+|Hip FE Motor Phases |27cm|RHFE and LHFE |
+|Hip FE Encoder Wire |33cm|RHFE and LHFE|
+|Knee Motor Phases |35cm|RK and LK |
+|Knee Encoder Wire |42cm|RK and LK|
 
-## SPI Wires
+### SPI Wires
 | Description | Quantity | Wire Length | Comments |  
 | --- | --- | --- | --- |   
 |SPI Wires |3|9cm|  |
+
+### Micro Driver Stack Motor Assignment
+<img src="details/stack_assignment.png" width="400"><br>
 
 ---
 <img src="images/biped_handle_1.jpg" width="300"><br>*The biped robot can be carried like this*
