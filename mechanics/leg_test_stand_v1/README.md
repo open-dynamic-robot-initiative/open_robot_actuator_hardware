@@ -145,7 +145,7 @@ All the STL files for 3d printing the Leg Test Stand can be found here: [STL Fil
 
 | Description | Quantity | Ordering Information | Comments |  
 | --- | --- | --- | --- |   
-|2DOF Leg |1|Custom assembly|[2DOF Leg Documentation](../leg_2dof_v1/README.md)|
+|2DOF Leg |1|Custom assembly|[2DOF Leg Documentation](../leg_2dof_v1/README.md#leg-2dof-v1)|
 |TI Launchpad Microcontroller F28069M|1|[Mouser 595-LAUNCHXL-F28069M](https://www.mouser.com/ProductDetail/Texas-Instruments/LAUNCHXL-F28069M?qs=%2Fha2pyFaduifljxJVwC%252BkqKGHyURiOighk9%2FA6aeylVSHXBcrDR2gjNvgAhNORZA)<br>[DigiKey 296-38832-ND](https://www.digikey.com/en/products/detail/texas-instruments/LAUNCHXL-F28069M/5138373?s=N4IgTCBcDa4JwDYC0BmAHGlYkDkAiIAugL5A)|[Launchpad F28069M Product Page](https://www.ti.com/tool/LAUNCHXL-F28069M) |
 |TI Booster Packs DRV8305|2|[Mouser 595-STXL-DRV8305EVM](https://www.mouser.com/ProductDetail/Texas-Instruments/BOOSTXL-DRV8305EVM?qs=%2Fha2pyFaduiQ7YJ7ZoDBYZeijXynk0L8KTs1pL%2FXoHQhW9QtEWETsRRA17xKFnQe)<br>[DigiKey 296-43181-ND](https://www.digikey.com/en/products/detail/texas-instruments/BOOSTXL-DRV8305EVM/5761583?s=N4IgTCBcDa4JwDYC0AWAzARgBwaQOQBEQBdAXyA)|[DRV8305 Product Page](https://www.ti.com/tool/BOOSTXL-DRV8305EVM)|
 |String Potentiometer|1|Waycon LX-PA-40<br>[Waycon Distributors](https://www.waycon.biz/distributors/europe/)|1000mm measurement range<br>[Waycon String Potentiometer Datasheet](https://www.waycon.biz/fileadmin/draw-wire-sensors/Draw-Wire-Sensor-LX.pdf)|
@@ -173,7 +173,7 @@ All the STL files for 3d printing the Leg Test Stand can be found here: [STL Fil
 
 <a href="https://open-dynamic-robot-initiative.github.io/cad_files/leg_test_stand_v1"><img src="images/leg_test_stand_cad_1.png" width="400"></a><br> *Leg Test Stand v1 - Click on the picture to view the cad model in your browser* <br>
 
-* You can download the Solidworks CAD files [here](details/leg_test_stand_v1_solidworks_files.zip).
+* You can download the Solidworks CAD files [here](solidworks_files/leg_test_stand_v1.zip).
 
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
