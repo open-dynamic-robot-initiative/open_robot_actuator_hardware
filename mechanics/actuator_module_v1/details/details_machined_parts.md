@@ -98,4 +98,4 @@ Felix Grimminger
 BSD 3-Clause License
 
 ## Copyright
-Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
+Copyright (c) 2019-2021, Max Planck Gesellschaft and New York University

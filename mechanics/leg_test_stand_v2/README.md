@@ -30,7 +30,7 @@ The teststand has a linear guided vertical degree of freedom and a carriage that
 <img src="../../electronics/micro_driver_electronics/images/micro_driver_v2_1.jpg" width="300"> <br> *Micro Driver Electronics - weight: 13g*
 
 * the micro driver board controls 2 brushless motors
-* [Micro Driver Board Documentation](../../electronics/micro_driver_electronics/README.md)
+* [Micro Driver Board Documentation](../../electronics/micro_driver_electronics/README.md#micro-driver-electronics)
 
 ### Height Sensor
 <img src="images/string_potentiometer_1.jpg" width="300"><br>*Waycon string potentiometer*<br>
