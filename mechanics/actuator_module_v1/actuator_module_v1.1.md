@@ -1,5 +1,5 @@
 # Brushless Actuator Module Core v1.1
-<img src="images/pwb_odri_kit_components_1.jpg" width="500"><br>*ODRI Encoder Kit Components*<br>
+<img src="images/pwb_odri_kit_components_1.jpg" width="500"><br>*ODRI Encoder Kit Components - weight: 11g*<br>
 
 ## Description ODRI Encoder Kit
 [PWB encoders GmbH](https://www.pwb-encoders.com) is now offering a "Plug&Play” ODRI Encoder KIT which includes the completely pre-assembled motor shaft unit with the high-resolution code wheel, the center pulley and the modified encoder head as an “off-the-shelf-product”.
@@ -12,7 +12,7 @@ This page describes the ODRI Encoder Kit and the additionally requried core comp
 
 Functionally there is no difference between the two versions of the motor shaft assembly shown in the picture above. The assemblies are compatible and interchangeable. The reason for this new version is to make the ordering process easier and to reduce the time required for preparing the actuator modules.
 
-<img src="images/pwb_packaging_1.jpg" width="400"><br>*ODRI Encoder Kit components in transport box.*<br>
+<img src="images/pwb_packaging_1.jpg" width="400"><br>*ODRI Encoder Kit components in transport container.*<br>
 
 ## Description Actuator Module Core
 <img src="images/actuator_module_1.png" width="400"><br>
@@ -109,9 +109,11 @@ All the STL files for 3d printing the parts below can be found here: [STL Files]
   ---
   <img src="images/transmission_pulley_center.png" width="180"> <br>
 * Transmission Pulley AT3 T30 Center - weight 4.2g -> [STL file ](stl_files/transmission_pulley_at3_t30_center.STL)
+* print on SLA, Multijet or Polyjet printer
 ---
 <img src="images/transmission_pulley_output.png" width="220"> <br>
 * Transmission Pulley AT3 T30 Output - weight 6.7g -> [STL file ](stl_files/transmission_pulley_at3_t30_output.STL)
+* print on SLA, Multijet or Polyjet printer
 ---
 <img src="images/timing_belt_tensioner_roller.png" width="200"> <br>
 
@@ -123,12 +125,13 @@ All the STL files for 3d printing the parts below can be found here: [STL Files]
 * 10.5mm Transmission Belt Tensioner Roller -> [STL file](stl_files/transmission_belt_tensioner_roller_10.5mm.STL)
 * 11.0mm Transmission Belt Tensioner Roller -> [STL file](stl_files/transmission_belt_tensioner_roller_11.0mm.STL)
 * 11.5mm Transmission Belt Tensioner Roller -> [STL file](stl_files/transmission_belt_tensioner_roller_11.5mm.STL)
+* print on SLA, Multijet or Polyjet printer
 ---
 
 ## Bill of Materials - Brushless Actuator Module Core
 <img src="images/actuator_module_core_1.png" width="400">
 
-| Part Description | Quantity | Ordering Information | Comments |  
+| Description | Quantity | Ordering Information | Comments |  
 | --- | :---: | --- | --- |   
 |ODRI Encoder Kit |1|ODRI Encoder Kit v1.0 #109381<br>[PWB Encoders GmbH](https://www.pwb-encoders.com/en)|Send an email to info@pwb-encoders.com and ask for a quote. PWB ships worldwide.<br>ODRI Encoder Kit v1.0 / Order number: 109381<br>[Product Flyer “Plug & Play” ODRI Encoder KIT](../general/details/20210407_ODRI-KIT-new.pdf)<br><br>|
 |T-Motor Antigravity 4004 300kV|1|[T-Motor Store](http://store-en.tmotor.com/goods.php?id=438)<br>[Globeflight # 1974](https://www.globe-flight.de/T-Motor-GF-Antigravity-Set-4004-300KV-2-pcs)|2 motors per set|
@@ -151,7 +154,7 @@ All the STL files for 3d printing the parts below can be found here: [STL Files]
 
 <img src="images/timing_belt_tensioner_1.jpg" width="400"> <br> *Left side: 7mm bearings and 3d printed rollers as described above<br>Right side: Alternative B - 10mm bearings - described below*
 
-| Part Name | Quantity | Ordering Information | Comments |  
+| Description | Quantity | Ordering Information | Comments |  
 | --- | :---: | --- | --- |
 |Bearing Timing Belt Tensioner<br>SKF # 623-2Z<br> 10mm x 3mm x 4mm|2|<br>[RS Germany # 285-0807](https://de.rs-online.com/web/p/kugellager/2850807/)<br>[Quality Bearings Online](https://www.qualitybearingsonline.com/623-2z-skf-miniature-deep-groove-3x10x4mm/?setCurrencyId=2)|Alternative for 7mm x 3mm x 3mm bearing and timing belt tensioner roller above.|
 |Fasteners Timing Belt Tensioner<br>M3 x 10 Flat Head  Screw|2|[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/ISO-10642-DIN-7991-Senkschrauben-mit-Innensechskant-aehnl.-DIN-7991/Edelstahl-Rostfrei-A2/M-3-Gewinde-M-metrisches-Gewinde)|Stainless Steel<br>Online Schrauben shipps within Europe.|
@@ -163,7 +166,7 @@ All the STL files for 3d printing the parts below can be found here: [STL Files]
 <img src="images/connectors_actuator_module_1.jpg" width="400"><br>*Connectors Actuator Module*
 
 ### Wires and Connectors
-| Part Name | Quantity | Ordering Information | Comments |  
+| Description | Quantity | Ordering Information | Comments |  
 | --- | :---: | --- | --- |
 |Motor Phase Connectors 2mm gold<br>Reely RE-1373188|3|[Conrad # 1373188](https://www.conrad.com/p/reely-1373188-battery-plug-2-mm-gold-plated-2-pair-1373188)<br>[HobbyKing](https://hobbyking.com/en_us/2mm-gold-connectors-10-pairs-20pc.html?___store=en_us)|Conrad: 2 pairs per set<br>HobbyKing 10 pairs per set|
 |Motor Phase Wires<br>LiY 0.50 mm² black|3|[Kabeltronik # 1601050](https://www.kabeltronik.de/en/electronics-industry/hook-up-wires-stranded/art/hook-up-wire-stranded-extremely-flexible-lify-3/31)<br>[Conrad # 609337](https://www.conrad.com/p/conrad-components-609337-strand-liy-1-x-050-mm-black-25-m-609337)<br>[McMaster # 8054T14](https://www.mcmaster.com/8054t14-8054T184/)|Kabeltronik ships worldwide.<br>100m on spool. <br>The Kabeltronik wires are the most flexible.|
@@ -178,8 +181,6 @@ More wiring information here: [Details Wiring](../../electronics/details/details
 
 ---
 ## PDF Drawing
-View this pdf file to get a better overview of the actuator module assembly.
-
 <a href="_actuator_module.PDF"><img src="images/actuator_module_pdf.png" width="400"></a><br>*Actuator Module Overview - Click on picture to view PDF drawing.*
 
 ---

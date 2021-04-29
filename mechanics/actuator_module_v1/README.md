@@ -139,7 +139,7 @@ All the STL files for 3d printing the parts below can be found here: [STL Files]
 ## Bill of Materials - Brushless Actuator Module Core
 <img src="images/actuator_module_core_1.png" width="400">
 
-| Part Description | Quantity | Ordering Information | Comments |  
+| Description | Quantity | Ordering Information | Comments |  
 | --- | :---: | --- | --- |   
 |T-Motor Antigravity 4004 300kV|1|[T-Motor Store](http://store-en.tmotor.com/goods.php?id=438)<br>[Globeflight # 1974](https://www.globe-flight.de/T-Motor-GF-Antigravity-Set-4004-300KV-2-pcs)|2 motors per set|
 |Encoder Broadcom AEDT-9810-Z00|1|[Mouser # 630-AEDT9810Z00](https://www.mouser.com/ProductDetail/Broadcom-Avago/AEDT-9810-Z00?qs=%2Fha2pyFadugH%252BV24sBozOzDoYJ6rlay1%2FjE%2FZBaGp8NtaorhU1uDSg%3D%3D)<br> [DigiKey # 516-3256-ND](https://www.digikey.com/products/en?keywords=516-3256-ND)|Encoder without codewheel|
@@ -166,7 +166,7 @@ All the STL files for 3d printing the parts below can be found here: [STL Files]
 ### Encoder and Codewheel - Alternative B
 <img src="images/encoder_alternative_b.jpg" width="450"> <br> *Left side: Encoder and codewheel ordered seperately as described above<br>Right side: Alternative B - Encoder Kit - described below*
 
-| Part Name | Quantity | Ordering Information | Comments |  
+| Description | Quantity | Ordering Information | Comments |  
 | --- | :---: | --- | --- |
 |Broadcom Encoder Kit AEDM-5810-Z12|1|[Mouser # 630-AEDM5810Z12](https://www.mouser.de/ProductDetail/Broadcom-Avago/AEDM-5810Z12?qs=%2Fha2pyFadujtDdLrUGHWsKyfLkpJxYH2H0SfB7LySxyN5iN50m1syw%3D%3D)<br>[DigiKey # 516-3253-ND](https://www.digikey.com/product-detail/en/broadcom-limited/AEDM-5810-Z12/516-3253-ND/5357134)|Kit consisting of encoder and codewheel<br>[Instructions Encoder Kit Disassembly](details/details_encoder_kit_disassembly.md#details-encoder-kit-disassembly)|
 |Codewheel Mount Encoder Kit|1|[STL file](stl_files/encoder_codewheel_kit_mount.STL)|3d printed part- use SLA, Polyjet or Multijet printer|
@@ -176,7 +176,7 @@ All the STL files for 3d printing the parts below can be found here: [STL Files]
 
 <img src="images/timing_belt_tensioner_1.jpg" width="400"> <br> *Left side: 7mm bearings and 3d printed rollers as described above<br>Right side: Alternative B - 10mm bearings - described below*
 
-| Part Name | Quantity | Ordering Information | Comments |  
+| Description | Quantity | Ordering Information | Comments |  
 | --- | :---: | --- | --- |
 |Bearing Timing Belt Tensioner<br>SKF # 623-2Z<br> 10mm x 3mm x 4mm|2|<br>[RS Germany # 285-0807](https://de.rs-online.com/web/p/kugellager/2850807/)<br>[Quality Bearings Online](https://www.qualitybearingsonline.com/623-2z-skf-miniature-deep-groove-3x10x4mm/?setCurrencyId=2)|Alternative for 7mm x 3mm x 3mm bearing and timing belt tensioner roller above.|
 |Fasteners Timing Belt Tensioner<br>M3 x 10 Flat Head  Screw|2|[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/ISO-10642-DIN-7991-Senkschrauben-mit-Innensechskant-aehnl.-DIN-7991/Edelstahl-Rostfrei-A2/M-3-Gewinde-M-metrisches-Gewinde)|Stainless Steel<br>Online Schrauben shipps within Europe.|
@@ -188,7 +188,7 @@ All the STL files for 3d printing the parts below can be found here: [STL Files]
 <img src="images/connectors_actuator_module_1.jpg" width="400"><br>*Connectors Actuator Module*
 
 ### Wires and Connectors
-| Part Name | Quantity | Ordering Information | Comments |  
+| Description | Quantity | Ordering Information | Comments |  
 | --- | :---: | --- | --- |
 |Motor Phase Connectors 2mm gold<br>Reely RE-1373188|3|[Conrad # 1373188](https://www.conrad.com/p/reely-1373188-battery-plug-2-mm-gold-plated-2-pair-1373188)<br>[HobbyKing](https://hobbyking.com/en_us/2mm-gold-connectors-10-pairs-20pc.html?___store=en_us)|Conrad: 2 pairs per set<br>HobbyKing 10 pairs per set|
 |Motor Phase Wires<br>LiY 0.50 mm² black|3|[Kabeltronik # 1601050](https://www.kabeltronik.de/en/electronics-industry/hook-up-wires-stranded/art/hook-up-wire-stranded-extremely-flexible-lify-3/31)<br>[Conrad # 609337](https://www.conrad.com/p/conrad-components-609337-strand-liy-1-x-050-mm-black-25-m-609337)<br>[McMaster # 8054T14](https://www.mcmaster.com/8054t14-8054T184/)|Kabeltronik ships worldwide.<br>100m on spool. <br>The Kabeltronik wires are the most flexible.|
@@ -203,8 +203,6 @@ More wiring information here: [Details Wiring](../../electronics/details/details
 
 ---
 ## PDF Drawing
-View this pdf file to get a better overview of the actuator module assembly.
-
 <a href="_actuator_module.PDF"><img src="images/actuator_module_pdf.png" width="400"></a><br>*Actuator Module Overview - Click on picture to view PDF drawing.*
 
 ---

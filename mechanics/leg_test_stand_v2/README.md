@@ -13,17 +13,17 @@ The teststand has a linear guided vertical degree of freedom and a carriage that
   * [Details Micro Driver Board](../../electronics/micro_driver_electronics/README.md#micro-driver-electronics)
 
 ## Details Leg Test Stand
-<img src="images/teststand_v2_2.jpg" width="500"> <br>*Carriage with 2dof leg and custom motor driver electronics*<br>
+<img src="images/teststand_v2_2.jpg" width="500"> <br>*Carriage with 2dof leg and custom motor driver electronics  - weight: 713g*<br>
 
-* weight carriage with electronics and 2dof leg: 650g
-* Vertical Range: 85cm  
-* Hip height: 7cm - 92cm  
+* weight carriage with electronics and 2dof leg: 713g
+* vertical range: 85cm  
+* hip height: 7cm - 92cm  
 * 24V power supply and ethernet connection
 
 ## Electronics
 
 ### Master Board
-<img src="../quadruped_robot_12dof_v1/images/master_board_v2_1.jpg" width="300"> <br> *Master Board v2 - weight: 19g*
+<img src="images/master_board_1.jpg" width="350"> <br> *Master Board v2 - weight: 19g each*
 * [Master Board Documentation](https://github.com/open-dynamic-robot-initiative/master-board#master-board)
 
 ### Micro Driver Electronics
