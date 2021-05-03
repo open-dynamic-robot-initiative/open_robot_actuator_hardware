@@ -1,8 +1,13 @@
 # Leg Test Stand v1
 <img src="images/leg_test_stand_1.png" width="600"> <br>  
 
-## Description
+## Updated Version
+`There is a newer version of the Leg Test Stand available.`<br>
+The new version uses the custom Master Board and Micro Driver Board instead of the Texas Instruments evaluation electronics.
 
+* [Leg Test Stand v2 Documentation](../leg_test_stand_v2/README.md#leg-test-stand-v2)
+
+## Description
 This teststand allows us to evaluate the performance of a single 2dof leg with external sensors.
 The teststand has a linear guided vertical degree of freedom and a carriage that holds the leg and the motor driver electronics. The ground reaction forces are measured with a 6 axis force-torque-sensor and are transmitted to the control pc at 1kHz. The vertical position of the carriage is measured with an analog string potentiometer. The acceleration can be measured with an inertia measurement unit which is mounted to the carriage. The test stand can be equipped with a pull-up-motor module for automated resetting to the initial position for machine learning experiments.
 
@@ -14,8 +19,8 @@ The teststand has a linear guided vertical degree of freedom and a carriage that
 <img src="images/components_teststand_1.jpg" width="450"> <br>*Carriage with 2dof leg and motor driver electronics / Slider Box*<br>
 
 * weight carriage with electronics and 2dof leg: 650g
-* Vertical Range: 85cm  
-* Hip height: 7cm - 92cm  
+* vertical range: 85cm  
+* pull-force height sensor about 2N
 
 ## Electronics
 <img src="images/ti_eval_board_1.jpg" width="350"> <br>*Texas Instruments Dual Motor Driver stack*<br>

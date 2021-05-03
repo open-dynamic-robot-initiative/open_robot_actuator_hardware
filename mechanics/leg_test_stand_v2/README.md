@@ -13,14 +13,19 @@ The teststand has a linear guided vertical degree of freedom and a carriage that
   * [Details Micro Driver Board](../../electronics/micro_driver_electronics/README.md#micro-driver-electronics)
 
 ## Details Leg Test Stand
-<img src="images/teststand_v2_2.jpg" width="500"> <br>*Carriage with 2dof leg and custom motor driver electronics  - weight: 713g*<br>
 
+<img src="details/leg_test_stand_cad_2.png" width="500"> <br>*Leg Test Stand v2 cad model*<br>
+
+* vertical range: 85cm
+* pull-force height sensor about 2N
 * weight carriage with electronics and 2dof leg: 713g
-* vertical range: 85cm  
-* hip height: 7cm - 92cm  
 * 24V power supply and ethernet connection
 
+<img src="images/teststand_v2_2.jpg" width="500"> <br>*Carriage with 2dof leg and custom motor driver electronics  - weight: 713g*<br>
+
 ## Electronics
+
+<img src="images/electronics_stack.jpg" width="350"> <br> *Electronics Stack - weight: 45g*
 
 ### Master Board
 <img src="images/master_board_1.jpg" width="350"> <br> *Master Board v2 - weight: 19g each*
@@ -83,6 +88,17 @@ The teststand has a linear guided vertical degree of freedom and a carriage that
 * T-slot nuts M5
 * ordering information [below](#bill-of-materials---leg-test-stand-v2)
 
+### Steel Pins
+<img src="images/steel_pins.jpg" width="300"> <br> *5mm Steel Pins*<br>
+* Steel Pins - 5mm x 28mm
+* ordering information [below](#bill-of-materials---leg-test-stand-v2)
+
+### Carbon-Fiber Tube
+<img src="images/carbon_tube.jpg" width="300"> <br> *Carbon-fiber tube*<br>
+* O.D. 6mm / I.D. 4mm / Length 30cm
+* for wire management
+* ordering information [below](#bill-of-materials---leg-test-stand-v2)
+
 ---
 ## 3D Printed Parts
 
@@ -96,11 +112,14 @@ All the STL files for 3d printing the Leg Test Stand can be found here: [STL Fil
 <img src="details/carriage.png" width="300"> <br>
 * [Carriage - STL file](stl_files/carriage.STL)
 * print on FDM or SLS printer
-
 ---
 <img src="details/master_board_support.png" width="300"> <br>
 * [Master Board Support - STL file](stl_files/master_board_support.STL)
 * print on FDM or SLS printer
+---
+<img src="details/stack_spacer.png" width="200"> <br>
+* [Spacer Micro Driver Stack - STL file](stl_files/spacer_micro_driver_stack.STL)
+* print on SLA, Multijet or Polyjet printer
 ---
 <img src="details/linear_bearing_cover.png" width="200"> <br>
 * [Linear Bearing Cover - STL file](stl_files/linear_bearing_cover.STL)
@@ -162,8 +181,11 @@ All the STL files for 3d printing the Leg Test Stand can be found here: [STL Fil
 |Angle Brackets|4|[Item 0.0.411.15](https://product.item24.de/en/products/product-catalogue/productdetails/products/angle-brackets-zn-1001046547/angle-bracket-set-8-40x40-41115/)|Bolts and nuts included.|
 |End Caps|5|[Item 0.0.026.01](https://product.item24.de/en/products/product-catalogue/productdetails/products/caps-for-profiles-in-modular-dimensions-1001042804/cap-8-40x40-black-2601/)||
 |T-Slot Nuts M5|7|[Item 0.0.480.54](https://product.item24.de/en/products/product-catalogue/productdetails/products/t-slot-nuts-st-1001042830/t-slot-nut-v-8-st-m5-bright-zinc-plated-48054/)||
+|Steel Pin 5mm x 28mm|2|||
+|Carbon-fiber tube 6mm|1|[R&G 7406041](https://shop1.r-g.de/en/art/740908)|Length 30cm|
 |Carriage|1|[STL file](stl_files/carriage.STL)|3d printed part<br>Print on FDM or SLS printer.|
 |Master Board Support|1|[STL file](stl_files/master_board_support.STL)|3d printed part<br>Print on FDM or SLS printer.|
+|Spacer Micro Driver Stack|8|[STL file](stl_files/spacer_micro_driver_stack.STL)|3d printed part<br>Print on SLA, Polyjet or Multijet printer.|
 |Linear Bearing Cover|4|[STL file](stl_files/linear_bearing_cover.STL)|3d printed part<br>Print on FDM or SLS printer.|
 |Adjustment Sleeve|4|[STL file](stl_files/adjustment_sleeve.STL)|3d printed part<br>Print on SLA, Polyjet or Multijet printer.|
 |Linear Motion Rod Attachment|2|[STL file](stl_files/linear_motion_rod_attachment.STL)|3d printed part<br>Print on FDM or SLS printer.|
@@ -174,9 +196,21 @@ All the STL files for 3d printing the Leg Test Stand can be found here: [STL Fil
 |Motor Driver Electronics Attachment|1|[STL file](stl_files/motor_driver_electronics_attachment.STL)|3d printed part / optional<br>Print on FDM or SLS printer.|
 |Stopper Attachment|2|[STL file](stl_files/stopper_attachment.STL)|3d printed part<br>Print on FDM or SLS printer.|
 |Stopper Wing|1|[STL file](stl_files/stopper_wing.STL)|3d printed part<br>Print on FDM or SLS printer.|
+|Carbon Fiber Rod|1||O.D. 5mm<br>I.D. 4mm<br>Length 30cm|
+|Fasteners M3 x 8|16||Fasteners linear bearing covers|
+|Fasteners M3 x 16|4||Fasteners 2dof leg|
+|Fasteners M2,5 x 22|4||Fasteners electronics stack|
+|Fasteners M2 x 5|4||Fasteners Master Board|
 
-## View the teststand cad model in your web browser
+## Preparing the 3D Printed Parts
 
+<img src="details/test_stand_preparation_1.png" width="450"><br>
+
+<img src="details/test_stand_preparation_2.png" width="450"><br>
+
+<img src="details/test_stand_preparation_3.png" width="350"><br>
+
+## View the Teststand Cad Model in your Web Browser
 <a href="https://open-dynamic-robot-initiative.github.io/cad_files/leg_test_stand_v2"><img src="details/leg_test_stand_cad_1.png" width="400"></a><br> *Leg Test Stand v2 - Click on the picture to view the cad model in your browser* <br>
 
 * You can download the Solidworks CAD files [here](solidworks_files/leg_test_stand_v2.zip).
