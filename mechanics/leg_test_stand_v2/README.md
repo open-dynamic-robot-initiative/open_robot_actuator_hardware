@@ -210,6 +210,12 @@ All the STL files for 3d printing the Leg Test Stand can be found here: [STL Fil
 
 <img src="details/test_stand_preparation_3.png" width="350"><br>
 
+<img src="details/test_stand_preparation_4.png" width="400"><br>
+
+<img src="details/test_stand_preparation_5.png" width="400"><br>
+
+<img src="details/test_stand_preparation_6.png" width="400"><br>
+
 ## View the Teststand Cad Model in your Web Browser
 <a href="https://open-dynamic-robot-initiative.github.io/cad_files/leg_test_stand_v2"><img src="details/leg_test_stand_cad_1.png" width="400"></a><br> *Leg Test Stand v2 - Click on the picture to view the cad model in your browser* <br>
 
