@@ -5,21 +5,28 @@
 
 ## Description
 
-This page describes the legs that are used for the [Biped Robot 6dof](../biped_6dof_v1/README.md#biped-robot-6dof-v1).  
+<img src="images/joint_labels_1.png" width="400"><br>
+
+This page describes the legs that are used for the [Biped Robot 6dof](../biped_6dof_v1/README.md#biped-robot-6dof-v1). Each leg has 3 torque-controlled degrees of freedom and a passive ankle joint.
 The [Hip Actuator Modules](#biped-hip-modules) were modified to reduce the length.
-There is a right side and left side version for both hip actuator modules - they are mirrored versions of each other. The length of the [Upper Leg](#upper-leg-module) and the [Lower Leg](#lower-leg-with-passive-ankle-joint) was increased from 160mm to 200mm. In order to stabilize the robot in the yaw axis a passive ankle joint was added to the lower legs.
+There is a right side and left side version for both hip actuator modules - they are mirrored versions of each other. The length of the [Upper Leg](#upper-leg-module) and the [Lower Leg](#lower-leg-with-passive-ankle-joint) was increased from 160mm to 200mm.
 
 * the internal components of the actuator modules are described here:
   * [Actuator Module Core v1](../actuator_module_v1/README.md#brushless-actuator-module-core-v1)
   * [Actuator Module Core v1.1](../actuator_module_v1/actuator_module_v1.1.md#brushless-actuator-module-core-v11)
-* the preparation of the actuator modules is described here: [Step by Step Instructions](../#step-by-step-instructions)
+* the preparation of the actuator modules is described here:<br>
+  * [Step by Step Instructions](../#step-by-step-instructions)
+
+<img src="images/link_labels_1.png" width="350"><br>
 
 ## Biped Hip Modules
 
-* compared to the quadruped hip actuator modules the timing belt of the second stage of the biped hip modules was rotated by 145 degrees
+<img src="images/biped_hip_modules_1.jpg" width="350"><br>*Biped Hip FE and Hip AA Modules* <br>
+
+* the timing belt of the second stage of the biped hip modules was rotated by 145 degrees
 * this makes the modules shorter and more suitable for the biped robot
-* below is a comparison of the quadruped hip fe module and the biped hip fe module
-* all the internal parts of the actuator modules are identical
+* only the shell structure was modified - all the internal parts of the actuator modules are identical
+* a comparison between the Quadruped Hip FE module and the Biped Hip FE module is shown below
 
 <img src="details/biped_hip_module_comparison.png" width="400"><br>*Comparison Quadruped Hip FE module (top) and Biped Hip FE module (bottom)* <br>
 
@@ -29,28 +36,21 @@ There is a right side and left side version for both hip actuator modules - they
 
 <img src="images/biped_hip_fe_modules_1.jpg" width="450"><br>*Biped Hip FE Actuator Modules - shell covers removed* <br>
 
-<img src="images/biped_hip_fe_module_3.png" width="500"> <br>
-
-* there is a left side and a right side version of the Hip FE actuator modules
-* the left side and right side shells are mirrored versions of each other
+<img src="images/biped_hip_fe_module_3.png" width="500"><br>*Cad Model Hip FE Actuator Modules - right side version and left side version*
 
 ## Hip AA Actuator Module
 <img src="images/hip_aa_module_1.jpg" width="400"><br>*Biped Hip AA Actuator Module - weight: 153g* <br>
 
 <img src="images/biped_hip_aa_modules_1.jpg" width="400"><br>*Biped Hip AA Actuator Modules - shell covers removed* <br>
 
-<img src="images/biped_hip_aa_module_3.png" width="500"> <br> <br>
-
-* there is a left side and a right side version of the Hip AA actuator modules
-* the left side and right side shells are mirrored versions of each other
-
+<img src="images/biped_hip_aa_module_3.png" width="450"><br>*Cad Model Hip AA Actuator Modules - right side version and left side version*<br>
 
 ## Upper Leg Module
 <img src="images/biped_upper_leg_module_1.jpg" width="400"> <br>*Extended upper leg module for biped robot - weight: 170g* <br>
 
 <img src="images/biped_upper_leg_module_2.jpg" width="400"> <br>*Extended upper leg module - shell cover removed* <br>
 
-<img src="images/upper_leg_200mm_1.png" width="400"> <br>
+<img src="images/upper_leg_200mm_1.png" width="450"> <br>
 * initially we were using the standard quadruped upper leg module with a segment length of 160mm for the biped robot
 * we are now using an extended upper leg structure with 200mm segment length
 * the lower leg length was also increased to 200mm
@@ -76,7 +76,15 @@ There is a right side and left side version for both hip actuator modules - they
 
 <img src="images/biped_lower_leg_1.jpg" width="400"> <br>*Biped Lower Leg - printed on Onyx Pro Markforged printer with internal fiber reinforcement - weight: 60g* <br>
 
-## Off-the-shelf-components
+## Core Components
+
+<img src="images/actuator_module_core_component_overview_1.jpg" width="350"> <br>Actuator Module Core Components - weight: 95g
+
+The internal components of the actuator modules are described here:
+* [Actuator Module Core v1](../actuator_module_v1/README.md#brushless-actuator-module-core-v1)
+* [Actuator Module Core v1.1](../actuator_module_v1/actuator_module_v1.1.md#brushless-actuator-module-core-v11)
+
+## Off-the-shelf Components
 <img src="details/components_foot_ankle.jpg" width="350"> <br>
 
 * Steel pin - diameter 5mm  / length 28mm
@@ -137,12 +145,12 @@ All the STL files for 3d printing the biped legs can be found here: [STL Files B
 * weight: 16g
 ---
 <img src="details/upper_leg_structure_base_200mm.png" width="350"> <br>
-* [Upper Leg Structure Base 200mm - STL file](stl_files/upper_leg_structure_base_200mm.STL)<br>
+* [Upper Leg Structure Base 200mm Rev A - STL file](stl_files/upper_leg_structure_base_200mm_rev_a.STL)<br>
 * print on FDM or SLS printer
 * weight: 35g
 ---
 <img src="details/upper_leg_structure_cover_200mm.png" width="350"> <br>
-* [Upper Leg Structure Cover 200mm - STL file](stl_files/upper_leg_structure_cover_200mm.STL)<br>
+* [Upper Leg Structure Cover 200mm Rev A - STL file](stl_files/upper_leg_structure_cover_200mm_rev_a.STL)<br>
 * print on FDM or SLS printer
 * weight: 15g
 ---
@@ -172,25 +180,29 @@ All the STL files for 3d printing the biped legs can be found here: [STL Files B
 |Hip FE Structure Right Side Cover|1|[STL file](stl_files/hip_fe_structure_right_side_cover.STL)|3d printed part<br>FDM or SLS printer|
 |Hip FE Structure Left Side Base|1|[STL file](stl_files/hip_fe_structure_left_side_base.STL)|3d printed part<br>FDM or SLS printer|
 |Hip FE Structure Left Side Cover|1|[STL file](stl_files/hip_fe_structure_left_side_cover.STL)|3d printed part<br>FDM or SLS printer|
-|Upper Leg Structure Base 200mm|2|[STL file](stl_files/upper_leg_structure_base_200mm.STL)|3d printed part<br>FDM or SLS printer|
-|Upper Leg Structure Cover 200mm|2|[STL file](stl_files/upper_leg_structure_cover_200mm.STL)|3d printed part<br>FDM or SLS printer|
+|Upper Leg Structure Base 200mm Rev A|2|[STL file](stl_files/upper_leg_structure_base_200mm_rev_a.STL)|3d printed part<br>FDM or SLS printer|
+|Upper Leg Structure Cover 200mm Rev A|2|[STL file](stl_files/upper_leg_structure_cover_200mm_rev_a.STL)|3d printed part<br>FDM or SLS printer|
 |Lower Leg Structure 200mm|2|[STL file](stl_files/lower_leg_structure_200mm.STL)|3d printed part<br>Use FDM printer and reinforce with fibers or use Markforged printer.|
 |Foot Structure|2|[STL file](stl_files/foot_structure.STL)|3d printed part<br>FDM or SLS printer|
-|Helicoils M3 x 4,5|4||Hip FE Interface|
-|Helicoils M2,5 x 3,75|48||Actuator Shells|
+|Helicoils M3 x 4,5|4|[Ordering Information](../actuator_module_v1/details/details_tools.md#helicoils)|Hip FE Interface|
+|Helicoils M2,5 x 3,75|48|[Ordering Information](../actuator_module_v1/details/details_tools.md#helicoils)|Actuator Shells|
 |Fasteners M2,5 x 6|34||Actuator Shells|
 |Fasteners M2,5 x 10|14||Actuator Shells|
 |Fasteners M3 x 22|4||Hip AA Interface|
 |Washers M3|4||Hip AA Interface|
 |Fasteners M3 x 16|4||Hip FE Interface|
 |Fasteners M3 x 12|4||Knee Interface|
-|Steel pin 5mm x 28mm|2||Passive foot dof|
+|Steel pin 5mm x 28mm|2||Passive Ankle Joint|
 |Silicone tube|8|[RS 163-9362](https://uk.rs-online.com/web/p/process-tubing/1639362)|O.D. 12mm / I.D. 8mm <br>4 x 25mm length<br>4 x 8mm length|
 |Fastener M2,5 x 20mm|2|||
 |Washer M2,5|4|||
 |Locknut M2,5|2|||
 |Rubber band|2|||
 
+## View the Biped Leg Cad Model in your Web Browser
+<br>
+
+<a href="https://open-dynamic-robot-initiative.github.io/cad_files/biped_leg_3dof_right_side.html"><img src="images/biped_leg_cad_3.png" width="200"></a><br> *Biped Leg 3dof Right Side<br>Click on the picture to view the biped leg cad model in your browser*
 
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
