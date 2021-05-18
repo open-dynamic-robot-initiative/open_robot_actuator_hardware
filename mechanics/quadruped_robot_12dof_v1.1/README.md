@@ -26,7 +26,7 @@
 <img src="images/power_board_1.png" width="500"><br>*Power Management Board - Screenshot Top Side - Source: Thomas Flayols*<br>  
 
 * this custom Power Management Board is being developed by Thomas Flayols
-* Documentation: [Power Board GitHub Page](https://github.com/thomasfla/power-board)
+* Documentation: [Power Board GitHub Page](https://github.com/open-dynamic-robot-initiative/power-board)
 *	inrush current limitation
 *	high resolution supply voltage and current measurement
 *	SPI interface for communication with the Master Board
