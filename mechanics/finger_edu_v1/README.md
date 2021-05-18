@@ -5,6 +5,11 @@
 <img src="images/finger_edu_2.jpg" width="400"> <br>
 *The finger can be completely retracted into the base structure for  transport.*<br>  
 
+## Description
+
+<img src="images/finger_edu_joint_labels_1.png" width="500"> <br>
+*Finger Edu - Joint Labels*<br>  
+
 ## Actuator Modules
 <img src="images/finger_actuator_modules_1.jpg" width="400"> <br>
 *Each finger consists of 3 different actuator modules*<br>  
@@ -36,6 +41,9 @@ The STL file for 3d printing the finger link can be found here: [STL files](stl_
 
 Since space and weight isn't a concern here we are using the [Texas Instruments evaluation motor driver electronics](../../electronics/ti_electronics/README.md).<br>
 Each finger module requires 24V power supply and 2 CAN communication channels.
+
+<img src="images/finger_edu_card_assignment.png" width="350"> <br>
+*Finger Edu - Motor Driver Card Assignment*<br>  
 
 ## 3D Printed Parts
 
@@ -88,7 +96,7 @@ Felix Grimminger
 BSD 3-Clause License
 
 ## Copyright
-Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
+Copyright (c) 2019-2021, Max Planck Gesellschaft and New York University
 
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
