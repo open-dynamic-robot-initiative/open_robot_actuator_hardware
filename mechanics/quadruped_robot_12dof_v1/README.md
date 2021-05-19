@@ -43,6 +43,7 @@
 * We use the imu with an extended measurement range
   * Gyro Rate: +/- 900 deg/sec.
   * Accelerometer range: +/- 20G
+* If you want to use a different IMU, you might want to have a look to [this post in the odri forum](https://odri.discourse.group/t/using-imu-lord-microstrain-3dm-gx4-45/202/4?u=ferdinand-wood) 
 ---
 
 ## 3D Printed Parts
