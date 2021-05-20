@@ -43,7 +43,7 @@
 * We use the imu with an extended measurement range
   * Gyro Rate: +/- 900 deg/sec.
   * Accelerometer range: +/- 20G
-* If you want to use a different IMU, you might want to have a look to [this post in the odri forum](https://odri.discourse.group/t/using-imu-lord-microstrain-3dm-gx4-45/202/4?u=ferdinand-wood) 
+* If you want to use a different IMU, you might want to have a look to [this post in the odri forum](https://odri.discourse.group/t/using-imu-lord-microstrain-3dm-gx4-45/202/4?u=ferdinand-wood)
 ---
 
 ## 3D Printed Parts
@@ -92,9 +92,9 @@
 * [Body Structure Front - STL file](stl_files/body_structure_front.STL)<br>
 * weight: 12g
 ---
-<img src="details/body_structure_hip_aa_support.png" width="300"> <br>
-* [Body Structure Hip AA Support - STL file](stl_files/body_structure_hip_aa_support.STL)<br>
-* weight: 18g
+<img src="details/body_structure_hip_aa_support_rev_a.png" width="270"> <br>
+* [Body Structure Hip AA Support Rev A - STL file](stl_files/body_structure_hip_aa_support_rev_a.STL)<br>
+* weight: 20g
 
 ---
 <img src="details/body_structure_side.png" width="300"> <br>
