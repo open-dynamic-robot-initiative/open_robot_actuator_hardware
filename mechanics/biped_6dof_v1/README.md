@@ -55,7 +55,7 @@
 ### Micro Driver Boards
 <img src="images/micro_driver_stack_2.jpg" width="300"> <br> *Micro Driver Boards v2 - stack with 3 cards - weight: 41g*<br>
 
-* Custom electronics board: [Micro Driver Board Documentation](../../electronics/micro_driver_electronics/README.md)
+* Custom electronics board: [Micro Driver Board Documentation](../../electronics/micro_driver_electronics/README.md#micro-driver-electronics)
 
 ### Inertia Measurement Unit
 <img src="images/imu_3dm_cx5_25_1.jpg" width="300"><br>
@@ -179,7 +179,7 @@ More information about 3d printing can be found here: [Details 3D Printed Parts]
 |Biped Leg 3DOF Right Side|1|[Biped Leg 3DOF Documentation](../biped_leg_3dof_v1/README.md#biped-leg-3dof-v1)|Custom assembly|
 |Biped Leg 3DOF Left Side|1|[Biped Leg 3DOF Documentation](../biped_leg_3dof_v1/README.md#biped-leg-3dof-v1)|Custom assembly|
 | Master Board v2 | 1 | [Master Board Documentation](https://github.com/open-dynamic-robot-initiative/master-board#master-board) | Custom electronics |
-| Micro Driver Board v2 | 3 | [Micro Driver Documentation](../../electronics/micro_driver_electronics/README.md)  | Custom electronics |
+| Micro Driver Board v2 | 3 | [Micro Driver Documentation](../../electronics/micro_driver_electronics/README.md#micro-driver-electronics)  | Custom electronics |
 |Inertia Measurement Unit<br>Lord Microstrain<br> 3DM-CX5-25 <br>| 1 | [Lord Microstrain Distributors](https://www.microstrain.com/support/distributors)| Extended measurement range<br> Gyro Rate: +/- 900 deg/sec. Accelerometer range: +/- 20G|
 |Body Structure Front |1|[STL file](stl_files/body_structure_biped_front.STL)|[3d printed part](../actuator_module_v1/details/details_3d_printed_parts.md#details-3d-printed-parts)|
 |Body Structure Back Rev A|1|[STL file](stl_files/body_structure_biped_back_rev_a.STL)|[3d printed part](../actuator_module_v1/details/details_3d_printed_parts.md#details-3d-printed-parts)|
@@ -192,9 +192,9 @@ More information about 3d printing can be found here: [Details 3D Printed Parts]
 |Body Structure Top IMU Vicon|1|[STL file](stl_files/body_structure_biped_top_imu_vicon.STL)|[3d printed part](../actuator_module_v1/details/details_3d_printed_parts.md#details-3d-printed-parts)<br>With IMU and Vicon marker attachment|
 |Master Board Protection|1|[STL file](stl_files/body_structure_master_board_protection.STL)|[3d printed part](../actuator_module_v1/details/details_3d_printed_parts.md#details-3d-printed-parts)|
 |Micro Driver Stack Spacer |8|[STL file](stl_files/micro_driver_stack_spacer.STL)|[3d printed part](../actuator_module_v1/details/details_3d_printed_parts.md#details-3d-printed-parts)|
-|Hip AA Bearing<br>25mm x 20mm x 4mm <br> ET2520 2Z VA| 2 | [Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/)<br>[Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br>[EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br>[SBN](https://www.sbn.de/en/)<br>[Online Bearing Store](https://www.onlinebearingstore.com/6705-2rs-6705-zz-ball-bearings.html)|Italy: [Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/) or [Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br> USA: [EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br> All other countries: Send an email to info@sbn.de and ask for a quote - they ship worldwide. <br> SBN # C07024 <br>We use stainless steel bearings.<br>Alternative: Chrome steel bearings from the Online Bearing Store|
+|Hip AA Bearing<br>25mm x 20mm x 4mm <br> ET2520 2Z VA| 2 | [Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/)<br>[Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br>[EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br>[SBN](https://www.sbn.de/en/)|Italy: [Emiliana Cuscinetti](https://www.emilianacuscinetti.com/en/miniature-bearings/) or [Doppiaemme](https://www.doppiaemme.it/en/prodotti/)<br> USA: [EZO USA](https://catalog.ezo-usa.com/category/metric-series-bearings)<br> All other countries: Send an email to info@sbn.de and ask for a quote - they ship worldwide. <br> SBN # C07024 <br>We use stainless steel bearings.|
 |Vicon Markers Ø 9,5mm | 8 |[Vicon Distributors](https://www.vicon.com/contact/)|Reflective Vicon Marker, solid, on plastic foot, Ø 9,5mm|
-|Fasteners Vicon Markers<br>M4x10 Set Screw | 8 |[Online Scrhauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/DIN-913-Gewindestifte-mit-Innensechskant-und-Kegelkuppe-aehnl.-ISO-4026/Edelstahl-Rostfrei-A2/M-4-Gewinde-M-metrisches-Gewinde)|Stainless steel.<br>Online Schrauben ships within Europe.|
+|Fasteners Vicon Markers<br>M4x10 Set Screw | 8 |[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/DIN-913-Gewindestifte-mit-Innensechskant-und-Kegelkuppe-aehnl.-ISO-4026/Edelstahl-Rostfrei-A2/M-4-Gewinde-M-metrisches-Gewinde)|Stainless steel.<br>Online Schrauben ships within Europe.|
 |Fasteners Body Structure<br>M3x8 Socket Head Cap Screw|18|[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/ISO-4762-DIN-912-Zylinderkopfschrauben-mit-Innensechskant-aehnl.-DIN-912/Edelstahl-Rostfrei-A2/M-3-Gewinde-M-metrisches-Regelgewinde)|Stainless steel.<br>Online Schrauben ships within Europe.|
 |Fasteners Hip AA Modules<br>M3x8 Socket Head Cap Screw|6|[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/ISO-4762-DIN-912-Zylinderkopfschrauben-mit-Innensechskant-aehnl.-DIN-912/Edelstahl-Rostfrei-A2/M-3-Gewinde-M-metrisches-Regelgewinde)|Stainless steel.<br>Online Schrauben ships within Europe.|
 |Fasteners Micro Driver Stack<br>M2,5x25 Socket Head Cap Screw|4|[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/ISO-4762-DIN-912-Zylinderkopfschrauben-mit-Innensechskant-aehnl.-DIN-912/Edelstahl-Rostfrei-A2/M-2,5-Gewinde-M-metrisches-Regelgewinde)|Stainless steel.<br>Online Schrauben ships within Europe.|
@@ -305,9 +305,10 @@ More wiring information: [Details Wiring](../../electronics/details/details_wiri
 <img src="images/biped_imu_mounted.jpg" width="350"> <br>
 
 ## 3D Model for Visualization
-The simplified STL files for visualization and simulation can be found here: [STL Files Visualization](stl_files_for_visualization)
 
 <a href="details/biped_visualization_model.PDF"><img src="images/biped_dimensions_visualization.png" width="400"></a><br>*Click on picture above to view the PDF drawing.*<br>
+
+* the simplified STL files can be found here: [STL Files Visualization](stl_files_for_visualization)
 
 ## Biped Inertia Parameters for Simulation
 <a href="details/biped_6dof_v1_inertia.pdf"><img src="details/biped_inertia.png" width="400"></a><br>*Biped Inertia Parameters - Click on picture to view PDF document.*<br>

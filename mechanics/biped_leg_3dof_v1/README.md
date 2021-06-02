@@ -199,6 +199,20 @@ All the STL files for 3d printing the biped legs can be found here: [STL Files B
 |Locknut M2,5|2|||
 |Rubber band|2|||
 
+## Actuator Module Wiring
+<img src="../biped_6dof_v1/images/biped_wiring.jpg" width="400"><br>*Biped Wiring*
+
+| Description | Wire Length | Comments |  
+| --- | --- | --- |
+|Hip AA Motor Phases |20cm|RHAA and LHAA |
+|Hip AA Encoder Wire |28cm|RHAA and LHAA|
+|Hip FE Motor Phases |27cm|RHFE and LHFE |
+|Hip FE Encoder Wire |33cm|RHFE and LHFE|
+|Knee Motor Phases |35cm|RK and LK |
+|Knee Encoder Wire |42cm|RK and LK|
+
+* More wiring information: [Details Wiring](../../electronics/details/details_wiring.md#details-wiring)
+
 ## View the Biped Leg Cad Model in your Web Browser
 <br>
 
