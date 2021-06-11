@@ -46,6 +46,8 @@
 
 ## Electronics
 
+<img src="images/electronics_overview_1.png" width="500">  <br> *Electronic Component Overview*<br>
+
 <img src="images/biped_electronics_1.jpg" width="500"> <br> *Electronic Components Biped Robot*<br>
 
 ### Master Board
@@ -53,12 +55,12 @@
 * Custom electronics board: [Master Board Documentation](https://github.com/open-dynamic-robot-initiative/master-board#master-board)
 
 ### Micro Driver Boards
-<img src="images/micro_driver_stack_2.jpg" width="300"> <br> *Micro Driver Boards v2 - stack with 3 cards - weight: 41g*<br>
+<img src="images/micro_driver_stack_4.jpg" width="300"> <br> *Micro Driver Boards v2 - stack with 3 cards - weight: 47g*<br>
 
 * Custom electronics board: [Micro Driver Board Documentation](../../electronics/micro_driver_electronics/README.md#micro-driver-electronics)
 
 ### Inertia Measurement Unit
-<img src="images/imu_3dm_cx5_25_1.jpg" width="300"><br>
+<img src="images/imu_3dm_cx5_25_2.jpg" width="300"><br>
 
 * Lord Microstrain 3DM-CX5-25
 * Weight: 13g
@@ -180,7 +182,7 @@ More information about 3d printing can be found here: [Details 3D Printed Parts]
 |Biped Leg 3DOF Left Side|1|[Biped Leg 3DOF Documentation](../biped_leg_3dof_v1/README.md#biped-leg-3dof-v1)|Custom assembly|
 | Master Board v2 | 1 | [Master Board Documentation](https://github.com/open-dynamic-robot-initiative/master-board#master-board) | Custom electronics |
 | Micro Driver Board v2 | 3 | [Micro Driver Documentation](../../electronics/micro_driver_electronics/README.md#micro-driver-electronics)  | Custom electronics |
-|Inertia Measurement Unit<br>Lord Microstrain<br> 3DM-CX5-25 <br>| 1 | [Lord Microstrain Distributors](https://www.microstrain.com/support/distributors)| Extended measurement range<br> Gyro Rate: +/- 900 deg/sec. Accelerometer range: +/- 20G|
+|Inertia Measurement Unit| 1 |[Lord Microstrain 3DM-CX5-25](https://www.microstrain.com/inertial/3dm-cx5-25)<br><br> [Distributors](https://www.microstrain.com/support/distributors)| Extended measurement range:<br> Gyro Rate: +/- 900 deg/sec. Accelerometer range: +/- 20G|
 |Body Structure Front |1|[STL file](stl_files/body_structure_biped_front.STL)|[3d printed part](../actuator_module_v1/details/details_3d_printed_parts.md#details-3d-printed-parts)|
 |Body Structure Back Rev A|1|[STL file](stl_files/body_structure_biped_back_rev_a.STL)|[3d printed part](../actuator_module_v1/details/details_3d_printed_parts.md#details-3d-printed-parts)|
 |Body Structure Right Side |1|[STL file](stl_files/body_structure_biped_right_side.STL)|[3d printed part](../actuator_module_v1/details/details_3d_printed_parts.md#details-3d-printed-parts)|
@@ -304,11 +306,11 @@ More wiring information: [Details Wiring](../../electronics/details/details_wiri
 
 <img src="images/biped_imu_mounted.jpg" width="350"> <br>
 
-## 3D Model for Visualization
+## Simplified 3D Model
 
 <a href="details/biped_visualization_model.PDF"><img src="images/biped_dimensions_visualization.png" width="400"></a><br>*Click on picture above to view the PDF drawing.*<br>
 
-* the simplified STL files can be found here: [STL Files Visualization](stl_files_for_visualization)
+* The simplified STL files for visualization and simulation can be found here: [STL Files Visualization](stl_files_for_visualization)
 
 ## Biped Inertia Parameters for Simulation
 <a href="details/biped_6dof_v1_inertia.pdf"><img src="details/biped_inertia.png" width="400"></a><br>*Biped Inertia Parameters - Click on picture to view PDF document.*<br>
@@ -331,6 +333,7 @@ More wiring information: [Details Wiring](../../electronics/details/details_wiri
 |Fastener Stand Interface<br>M4x40 Socket Head Cap Screw|1|[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/ISO-4762-DIN-912-Zylinderkopfschrauben-mit-Innensechskant-aehnl.-DIN-912/Edelstahl-Rostfrei-A2/M-4-Gewinde-M-metrisches-Regelgewinde)|Stainless steel.<br>Online Schrauben ships within Europe.|
 |Fastener Stand Interface<br>M4 Locknut|1|[Online Schrauben](https://online-schrauben.de/shop/Muttern/Sicherungsmuttern/ISO-10511-Sechskantmuttern-selbstsichernd-mit-Polyamid-Klemmteil-Temperaturbereich-50-bis-120-,-gemaess-neuer-ISO-Norm-aehnl.-DIN-985/Edelstahl-Rostfrei-A2)|Stainless steel.<br>Online Schrauben ships within Europe.|
 
+## Robot Stand Preparation
 <img src="details/part_preparation_8.png" width="400"><br>
 
 <img src="details/stand_preparation_1.jpg" width="400"><br>*Adjust the distance between the screw head and the 3d printed part to about 6,3mm and tighten the lock nut.*<br>
