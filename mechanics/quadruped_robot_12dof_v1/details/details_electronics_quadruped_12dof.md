@@ -42,7 +42,7 @@
 
 | Description | Quantity | Wire Length | Comments |  
 | --- | --- | --- | --- |   
-|IMU wire |1|35cm||
+|IMU wire |1|35cm|[IMU Wiring Documentation](https://github.com/open-dynamic-robot-initiative/master-board/blob/master/documentation/masterboard_wiring.md#imu)|
 
 ---
 ### Hip AA Actuator Modules
