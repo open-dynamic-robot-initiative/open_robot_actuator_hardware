@@ -219,8 +219,7 @@
 
 <img src="details/wire_routing_bottom.jpg" width="400"><br>*Wiring Quadruped Robot - Bottom View*<br>
 
-* The wiring of the robot is described on a separate page: [Details Electronics 12dof Quadruped](/details/details_electronics_quadruped_12dof.md#details-electronics-quadruped-robot-12dof-v1)
-
+* The wiring of the robot is described on a separate page: [Details Electronics 12dof Quadruped](details/details_electronics_quadruped_12dof.md#details-electronics-quadruped-robot-12dof-v1)
 
 ## Micro Driver Stack Motor Assignment
 <img src="details/front_stack_motor_assignment_1.png" width="500">   
