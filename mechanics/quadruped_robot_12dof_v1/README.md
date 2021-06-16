@@ -32,9 +32,13 @@
 * the wires that are routed through the Hip FE joint limit the number of rotations that can be performed
 
 ## Leg Modules
-<img src="images/3dof_legs_1.jpg" width="500"><br>*3dof Leg Modules - weight: 510g each*<br>
+<img src="images/3dof_legs_1.jpg" width="500"><br>*3dof Leg Modules - weight: 485g each*<br>
 
 * [Leg 3dof v1 Documentation](../leg_3dof_v1/README.md#leg-3dof-v1)
+
+## Hip Adapters
+
+<img src="images/hip_adapter_placement_1.png" width="400"><br>*The hip adapters are installed on the front right and the hind left leg.*
 
 ## Body Module
 <img src="images/body_structure_2.jpg" width="450"><br>*Body Structure - weight: 300g*<br>
