@@ -2,6 +2,19 @@
 
 <img src="images/solo12_8.jpg" width="400"><br>*12dof Quadruped Robot - weight: 2,5kg*<br>  
 
+## Commercial Option
+
+<img src="images/solo12_pal_1.jpg" width="400"><br>*Solo12 Quadruped Robot. Picture source: PAL Robotics*<br>  
+
+The Solo12 robot is now commercially available from PAL Robotics.
+You can purchase the fully assembled robot or you can order a kit with all the components that are required and assemble the robot yourself.
+
+* [PAL Robotics - Solo12 Product Page](https://solo.pal-robotics.com/solo)
+
+Both options include the [inertia measurement unit](#inertia-measurement-unit), the [calibration tools](../general/robot_calibration.md#calibration-tool-quadruped-12dof) and the three different [center plate options](#body-module). The [Micro Driver Board Programmer](../../electronics/micro_driver_electronics/README.md#flash-adapter-and-flash-wire) and the [Master Board Programmer](https://github.com/open-dynamic-robot-initiative/master-board/blob/master/firmware/README.md#flashing-the-firmware) are included as well.
+
+All the information on how to order the components and build the robot yourself can be found below.
+
 ## Description
 
 * this page describes all the components that are required to build the Quadruped Robot with 12 active degrees of freedom
