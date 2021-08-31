@@ -17,22 +17,31 @@
 
 <img src="images/quadruped_component_overview_1.png" width="600"><br>*Quadruped 12dof v1.1 Overview - the updated components are marked in red.* <br>
 
-<img src="images/quadruped_12dof_v1.1_2.jpg" width="500"><br>*Quadruped Robot 12dof v1.1 - Top View*<br>
+<img src="images/quadruped_12dof_v1.1_4.jpg" width="500"><br>*Quadruped Robot 12dof v1.1 - Top View*<br>
+
+<img src="images/quadruped_12dof_front_comparison_1.jpg" width="500"><br>*Quadruped Robot 12dof v1.1 - Front View<br>Sitting - dimensions: 46cm x 31cm x 6cm<br>Folded - dimensions: 46cm x 22cm x 9cm*<br>
 
 ---
 ## Electronics
+
+<img src="images/electronic_components_1.jpg" width="600"><br>*Electronic Components Overview - weight: 463g*<br>  
+
+
 ### Power Management Board
 
-<img src="images/power_board_1.png" width="500"><br>*Power Management Board - Screenshot Top Side - Source: Thomas Flayols*<br>  
+<img src="images/power_board_2.jpg" width="400"><br>*Power Management Board - weight: 16g*<br>  
 
-* this custom Power Management Board is being developed by Thomas Flayols
+* this custom Power Management Board is being developed by [Thomas Flayols](https://github.com/thomasfla)
 * Documentation: [Power Board GitHub Page](https://github.com/open-dynamic-robot-initiative/power-board)
+* monitors battery voltage and current
+* reads on/off switch and e-stop
+* cuts battery power if the e-stop is activated
 *	inrush current limitation
-*	high resolution supply voltage and current measurement
 *	SPI interface for communication with the Master Board
 *	8 x XT30 output connectors
 * dimensions: 65mm x 35mm
 * mounting holes: ø 2,1mm / spacing 61mm x 31mm
+* weight: 16g
 
 ## Off-the-shelf Components
 
@@ -46,18 +55,21 @@
 * power connector: XT 30
 * balancer connector: XH
 * don't use the lipo batteries without a power management board!
+* Ordering information [below](#bill-of-materials---upgrade-quadruped-robot-12dof-v11)
 
 ### Switches
 <img src="images/switches_1.jpg" width="300"><br>*Push Button Switches - weight: 3,5g each*<br>  
 * E-Stop Switch: red button - normally closed - momentarily open while pushed
 * On-Off Switch: green button - normally open - momentarily closed while pushed
 * ø13,6mm / weight: 3,5g
+* Ordering information [below](#bill-of-materials---upgrade-quadruped-robot-12dof-v11)
 
 ### Status Led Ring
 <img src="images/led_ring_1.jpg" width="300"><br>*Status Led Ring - weight: 3,3g*<br>  
 * Status Led Ring with 12 Neopixel RGB leds
 * dimensions: OD: 36,9mm / ID: 23,3mm
 * weight: 3,3g
+* Ordering information [below](#bill-of-materials---upgrade-quadruped-robot-12dof-v11)
 ---
 ## 3D Printed Parts
 
@@ -142,7 +154,58 @@
 
 <img src="images/3d_printed_part_preparation_7.png" width="400"><br>
 
----
+## Wiring Documentation
+### Power Board and Master Board
+<img src="images/master_power_board_1.jpg" width="450"><br>*Power Board, Master Board and Switches on Mounting plate - weight: 67g*<br>  
+
+| Description | Quantity | Wire Length | Comments |  
+| --- | --- | --- | --- |
+|Power Wire|1|8cm|[XT30](../../electronics/details/details_components.md#power-connectors) to [2pin Hirose](../../electronics/details/details_components.md#hirose-df13-sockets)|   
+|SPI Wire|1|5cm|[SPI Wiring Documentation](../../electronics/details/details_wiring.md#spi-wires)|
+|Switch Wire|1||Pin assignment below.|
+
+<img src="images/wiring_switches_1.png" width="400"><br>*Wiring On/Off and E-Stop Switch*<br>
+
+### Front Micro Driver Stack
+<img src="images/front_stack_1.jpg" width="450"><br>*Front Micro Driver Stack - fully wired - weight: 112g*<br>  
+
+| Description | Quantity | Wire Length | Comments |  
+| --- | --- | --- | --- |   
+|Motor Phase Wires |18|8cm|[Micro Driver Board Wiring Documentation](../../electronics/details/details_wiring.md#micro-driver-board-wiring)|
+|Power Supply Wires|3|30cm|[Micro Driver Board Wiring Documentation](../../electronics/details/details_wiring.md#micro-driver-board-wiring)|
+|SPI Wires|3|34cm|[SPI Wiring Documentation](../../electronics/details/details_wiring.md#spi-wires)|
+
+### Hind Motor Driver Stack
+<img src="images/hind_stack_1.jpg" width="450"><br>*Hind Motor Driver Stack - fully wired - weight: 98g*<br>  
+
+| Description | Quantity | Wire Length | Comments |  
+| --- | --- | --- | --- |   
+|Motor Phase Wires |18|8cm|[Micro Driver Board Wiring Documentation](../../electronics/details/details_wiring.md#micro-driver-board-wiring)|
+|Power Supply Wires|3|16cm|[Micro Driver Board Wiring Documentation](../../electronics/details/details_wiring.md#micro-driver-board-wiring)|
+|SPI Wires|3|18cm|[SPI Wiring Documentation](../../electronics/details/details_wiring.md#spi-wires)|
+
+### Inertia Measurement Unit
+<img src="images/imu_1.jpg" width="450"><br>*Inertia Measurement Unit - weight: 18g*<br>  
+
+| Description | Quantity | Wire Length | Comments |  
+| --- | --- | --- | --- |   
+|Interface Wire |1|40cm|[IMU Wiring Documentation](../../electronics/details/details_wiring.md#imu-wire)|
+
+### Neo Pixel Led Ring
+<img src="images/led_ring_2.jpg" width="450"><br>*Neo Pixel Led Ring with Mounting Plate - weight: 22g*<br>  
+
+| Description | Quantity | Wire Length | Comments |  
+| --- | --- | --- | --- |   
+|Interface Wire |1|34cm|Pin assignment below.|
+
+<img src="images/neo_pixel_wire_1.png" width="450"><br>*Neo Pixel Interface Wire*<br>  
+
+### Battery Wire
+
+<img src="images/battery_wire_1.jpg" width="400"><br>*Battery Wire - weight: 12g*<br>  
+
+<img src="images/battery_wire_1.png" width="450"><br>*Battery wire - the batteries are connected in series.*<br>
+
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
 [Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
@@ -151,7 +214,6 @@
 [Hardware Overview](../../README.md#open-robot-actuator-hardware)  
 [Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)  
 
----
 ## Authors
 Felix Grimminger
 
