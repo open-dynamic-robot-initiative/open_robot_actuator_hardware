@@ -59,7 +59,7 @@ If the fit is too loose the rotor will wobble when spinning.
 ---
 ## Stator Preparation
 ### Removing the Motor Phase Insulation
-<img src="../images/motor_mod_7.jpg" width="300"> <br>*Stator with original phase wires*  
+<img src="../images/motor_mod_7.jpg" width="300"> <br>*Stator with original phase wires.<br>Don't shorten the motor phase wires for the Hip AA actuator modules.*  
 
 <img src="../images/motor_mod_7_1.jpg" width="300"> <br>*Carefully cut and remove the large heat shrink at the base.*  
 
@@ -76,7 +76,7 @@ If the fit is too loose the rotor will wobble when spinning.
 <img src="../images/motor_mod_8.jpg" width="300"> <br>*Stator with insulation removed.*  
 
 ### Preparing the Motor Phase Wires
-<img src="../images/motor_mod_8_1.jpg" width="300"> <br>*We shorten the motor phase wires to about 3cm measured from the base of the stator.<br>This helps to keep the solder connection inside of the shell structure.<br>Don't shorten the motor phase wires for the Hip AA actuator modules.*  
+<img src="../images/motor_mod_8_1.jpg" width="300"> <br>*We shorten the motor phase wires to about 3cm measured from the base of the stator.<br>This helps to keep the solder connection inside of the shell structure.*  
 
 <img src="../images/motor_mod_8_2.jpg" width="300"> <br>*We use a temperature controlled soldering iron to burn off the orange insulation.<br>Set your soldering iron to a temperature of abour 400 degrees celcius.*  
 
