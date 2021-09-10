@@ -11,7 +11,8 @@ You can purchase the fully assembled robot or you can order a kit with all the c
 
 * [PAL Robotics - Solo12 Product Page](https://solo.pal-robotics.com/solo)
 
-Both options include the [inertia measurement unit](#inertia-measurement-unit), the [calibration tools](../general/robot_calibration.md#calibration-tool-quadruped-12dof) and the three different [center plate options](#body-module). The [Micro Driver Board Programmer](../../electronics/micro_driver_electronics/README.md#flash-adapter-and-flash-wire) and the [Master Board Programmer](https://github.com/open-dynamic-robot-initiative/master-board/blob/master/firmware/README.md#flashing-the-firmware) are included as well.
+Both options include the [inertia measurement unit](#inertia-measurement-unit), the [calibration tools](../general/robot_calibration.md#calibration-tool-quadruped-12dof) and the three different [center plate options](#body-module).
+The [Micro Driver Board Programmer](../../electronics/micro_driver_electronics/README.md#flash-adapter-and-flash-wire) and the [Master Board Programmer](https://github.com/open-dynamic-robot-initiative/master-board/blob/master/firmware/README.md#flashing-the-firmware) are included as well.
 
 All the information on how to order the components and build the robot yourself can be found below.
 
@@ -301,12 +302,27 @@ The simplified STL files for visualization and simulation can be found here: [ST
 
 ## Robot Stand
 
+<img src="images/stand_quadruped_12dof_1.jpg" width="400"><br>
+
+| Part Name | Quantity | Ordering Information | Comments |  
+| --- | --- | --- | --- |
+|Stand Fork|2|[STL file](stl_files/stand_fork.STL)|[3d printed part](../actuator_module_v1/details/details_3d_printed_parts.md#details-3d-printed-parts)|
+|Stand Foot|4|[STL file](stl_files/stand_foot.STL)|[3d printed part](../actuator_module_v1/details/details_3d_printed_parts.md#details-3d-printed-parts)|
+|Slotted Profile Vertical|2|[Item 7.0.000.09](https://product.item24.de/en/products/product-catalogue/productdetails/products/line-8-construction-profiles-1001042794/profile-8-40x40-e-natural-7000009/) or<br>[Item 0.0.641.61](https://us-product.item24.com/en/productdetails/products/profiles-and-accessories-1001043003/profile-kh-8-40x40-anthracite-64161/)|Size 8 - 40mm x 40mm<br>Length: 40cm<br>Aluminum or Wood-PP composite|
+|Slotted Profile Horizontal|1|[Item 7.0.000.09](https://product.item24.de/en/products/product-catalogue/productdetails/products/line-8-construction-profiles-1001042794/profile-8-40x40-e-natural-7000009/) or<br>[Item 0.0.641.61](https://us-product.item24.com/en/productdetails/products/profiles-and-accessories-1001043003/profile-kh-8-40x40-anthracite-64161/)|Size 8 - 40mm x 40mm<br>Length: 35cm<br>Aluminum or Wood-PP composite|
+|Angle Bracket|4|[Item 0.0.411.15](https://product.item24.de/en/products/product-catalogue/productdetails/products/angle-brackets-zn-1001046547/angle-bracket-set-8-40x40-41115/)|90 degree angle bracket 40mm|
+|Fastener Stand Fork<br>M8x25 Flat Head Screw|2|[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/ISO-10642-DIN-7991-Senkschrauben-mit-Innensechskant-aehnl.-DIN-7991/Edelstahl-Rostfrei-A2/M-8-Gewinde-M-metrisches-Gewinde)|Stainless steel.<br>Online Schrauben ships within Europe.|
+|Fastener Stand Foot<br>M5x20 Socket Head Cap Screw|8|[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/ISO-4762-DIN-912-Zylinderkopfschrauben-mit-Innensechskant-aehnl.-DIN-912/Edelstahl-Rostfrei-A2/M-5-Gewinde-M-metrisches-Regelgewinde)|Stainless steel.<br>Online Schrauben ships within Europe.|
+|Rubber Feet|4|[RS 173-5948](https://export.rsdelivers.com/product/rs-pro/fsq821-bl-50/rs-pro-round-anti-vibration-feet-206mm-pur/1735948)|Square Feet <br>20.6mm x 20.6mm x 7.6mm|
+
+<img src="images/quadruped_12dof_on_stand_1.jpg" width="450"> <br>*12dof Quadruped Robot on Stand*
+
 ## Robot Calibration
 <img src="details/calibration_tool_12dof_2.png" width="400">
 
 * [Details Quadruped 12dof Calibration Tool](../general/robot_calibration.md#calibration-tool-quadruped-12dof)
 
-## View the quadruped cad model in your web browser
+## View the Quadruped CAD Model in your Web Browser
 <br>
 
 <a href="https://open-dynamic-robot-initiative.github.io/cad_files/quadruped_12dof"><img src="details/solo12_quadruped_standing.png" width="400"></a><br>*Quadruped Robot 12dof standing - Click on picture to view the cad model in your browser*
