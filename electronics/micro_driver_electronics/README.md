@@ -65,7 +65,7 @@ In the US we have also successfully ordered the Micro Driver Boards from [MacroF
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
 |MicroDriver v2||[BetaLayout](https://us.beta-layout.com/pcb/)<br> USA: [MacroFab](https://macrofab.com/)|[Ordering Instructions](#ordering-instructions)|
-|Precision Resistors 7mΩ ±1%|CRE2512-FZ-R007E-3|RS 824-0348 |Phase Current Measurement Micro Driver Board|
+|Precision Resistors 7mΩ ±1%|CRE2512-FZ-R007E-3|RS 824-0348<br>Mouser 652-CRE2512FZR007E-3 |Phase Current Measurement Micro Driver Board|
 |Right Angle Pin Header|Pitch 2.54mm|RS 360-6364 |Motor Phase and Power Connection Micro Driver Board|
 |Hirose DF13 Right Angle Header 5 Pin|DF13-5P-1.25DS(20)|Digi-Key H2202-ND|Encoder and SPI connector Micro Driver Board. We use the [right angle connectors](../details/details_components.md#hirose-df13-right-angle-pin-headers). Alternatively you can use the [straight connectors](../details/details_components.md#hirose-df13-straight-pin-headers).|
 

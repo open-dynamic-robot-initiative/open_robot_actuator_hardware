@@ -117,7 +117,10 @@ Helicoil Threaded Inserts|8|M3x6 Helicoil<br>||
 
 * the inertial sensor origin is not in the geometrical center of the IMU
 * [IMU Technical Drawing - see Page 2](https://s3.amazonaws.com/download.microstrain.com/Drawings/3065-0291-ICD.pdf)
-* inertial sensor origin position in the robot coordinate system (x|y|z): ( -10,18mm | -38,35mm | -7,85mm )
+
+|IMU Origin Position in the<br>Robot Coordinate System| X | Y | Z |  
+| --- | --- | --- | --- |
+||-10,18mm|-38,35mm|-7,85mm|
 
 ## Quadruped 8dof Wiring
 More wiring information: [Details Wiring](../../electronics/details/details_wiring.md#details-wiring)

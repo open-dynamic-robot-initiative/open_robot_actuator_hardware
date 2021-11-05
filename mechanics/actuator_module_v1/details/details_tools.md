@@ -213,8 +213,28 @@
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
-|Rubber Feet Round|Ø 12.7mm x 3,5mm|RS 236-509|adhesive-backed polyurethane|
-|Rubber Feet Square|20,5mm x 20,5mm x 7,5mm|RS 223-663|adhesive-backed polyurethane|
+|Rubber Feet Round|Ø 12.7mm x 3,5mm|[RS 236-509](https://de.rs-online.com/web/p/dampfungspads/0236509/)|adhesive-backed polyurethane|
+|Rubber Feet Square|20,6mm x 20,6mm x 7,6mm|[RS 173-5948](https://de.rs-online.com/web/p/dampfungspads/1735948/)|adhesive-backed polyurethane|
+
+### Aluminum profiles
+<img src="images/aluminum_profile_1.jpg" width="300"> <br> *Item Aluminum profile*
+* Item aluminum profiles - Size 8 - 40mm x 40mm
+* [Item 7.0.000.09](https://product.item24.de/en/products/product-catalogue/productdetails/products/line-8-construction-profiles-1001042794/profile-8-40x40-e-natural-7000009/)
+
+### Angle brackets
+<img src="images/item_angle_connector_40mm.jpg" width="300"> <br> *Item 90 degree angle bracket 40mm*
+* 90 degree 40mm angle brackets - Item part number: 0.0.411.15
+
+### End caps
+<img src="images/item_end_caps.jpg" width="300"> <br> *Item end caps*
+* end caps - size 8 - Item part number: 0.0.026.01
+
+### T-slot nuts
+<img src="images/t_slot_nuts_1.jpg" width="300"> <br> *Item M5 t-slot nuts*
+* T-slot nuts M4 - Item part number: 0.0.480.57
+* T-slot nuts M5 - Item part number: 0.0.480.54
+* T-slot nuts M6 - Item part number: 0.0.480.50
+
 
 ## Miscellaneous Tools
 <img src="../images/tools_misc_1.jpg" width="350"> <br>*Miscellanious tools - tooth brush, q-tipps and tooth picks*

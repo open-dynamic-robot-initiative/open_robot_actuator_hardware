@@ -7,9 +7,10 @@ We developed a light-weight, low cost, minimal complexity, torque-controlled act
 The actuator module consists of a brushless outrunner motor, a high resolution optical encoder, a dual stage timing belt transmission and mostly 3d printed parts and off-the-shelf components.  
 The module has a segment length of 160mm, weighs 150g and outputs 2,5Nm at 12A.
 
+The **updated version** of the Brushless Actuator Module Core is documented here: [Actuator Module Core v1.1](actuator_module_v1.1.md#brushless-actuator-module-core-v11)
+
 <img src="images/actuator_module_open_1.jpg" width="500"><br>*Actuator Module Assembly - core components with upper leg shell structure*
 
----
 ## Core Components
 <img src="images/actuator_module_core_1.png" width="500"><br>
 We are using the same core components for all the robots described in this repository. <br> The only difference between the actuator modules is the surrounding shell structure.
@@ -22,7 +23,6 @@ The total gear reduction is 9:1.
 ## Core Component Overview
 <img src="images/actuator_module_core_component_overview_1.jpg" width="500"><br>*Core components - the weight of all the components in the pictures is 95g*
 
----
 ## Off-the-shelf Components
 
 ### Brushless DC Motor
@@ -81,7 +81,6 @@ The total gear reduction is 9:1.
 * Fasteners Encoder: M3 x 16 Philipps Flat Head Screw
 * [Ordering information below](#bill-of-materials---brushless-actuator-module-core)
 
----
 ## Machined Parts
 <img src="images/machined_parts_1.jpg" width="300"><br>*Motor shaft, motor pulley and center pulley - weight: 5,9g*
 
@@ -95,7 +94,6 @@ The 3 parts in the picture need to be machined from metal.
 Alternatively you can order the ODRI Encoder Kit that includes all the machined parts.<br>
 More information can be found in the [Actuator Module Core v1.1 Documentation](actuator_module_v1.1.md#brushless-actuator-module-core-v11).  
 
----
 ## 3D Printed Parts
 
 <img src="images/3d_printed_parts_1.jpg" width="350"> <br> *3d printed parts - weight of the parts in the picture: 11,3g*
@@ -162,7 +160,6 @@ All the STL files for 3d printing the parts below can be found here: [STL Files]
 |Washers Timing Belt Tensioner<br>M2,5 Washer|2|[Online Schrauben](https://online-schrauben.de/shop/Scheiben-Federringe/ISO-7092-Unterlegscheiben-fuer-Zylinderkopfschrauben-aehnl.-DIN-433/Edelstahl-Rostfrei-A2-200-HV)|Stainless Steel<br>Online Schrauben ships within Europe.|
 |Helical Insert Output Shaft<br> Helicoil M3 x 6|2|[RS # 470-834](https://uk.rs-online.com/web/p/thread-repair-inserts/0470834/)<br>[Hoffmann # 082814 M3](https://www.hoffmann-group.com/GB/en/houk/Power-tools-and-workshop-supplies/Soldering-tools-cleaning-devices-thread-repair/Thread-insert-set%2C-10-or-20-pieces-2×D/p/082814-M3?tId=617)<br>[McMaster # 91732A773](https://www.mcmaster.com/91732A773/)|[M3 Helicoil tools](details/details_tools.md#helicoil-tools) required|
 
----
 ### Encoder and Codewheel - Alternative B
 <img src="images/encoder_alternative_b.jpg" width="450"> <br> *Left side: Encoder and codewheel ordered seperately as described above<br>Right side: Alternative B - Encoder Kit - described below*
 
@@ -171,7 +168,13 @@ All the STL files for 3d printing the parts below can be found here: [STL Files]
 |Broadcom Encoder Kit AEDM-5810-Z12|1|[Mouser # 630-AEDM5810Z12](https://www.mouser.de/ProductDetail/Broadcom-Avago/AEDM-5810Z12?qs=%2Fha2pyFadujtDdLrUGHWsKyfLkpJxYH2H0SfB7LySxyN5iN50m1syw%3D%3D)<br>[DigiKey # 516-3253-ND](https://www.digikey.com/product-detail/en/broadcom-limited/AEDM-5810-Z12/516-3253-ND/5357134)|Kit consisting of encoder and codewheel<br>[Instructions Encoder Kit Disassembly](details/details_encoder_kit_disassembly.md#details-encoder-kit-disassembly)|
 |Codewheel Mount Encoder Kit|1|[STL file](stl_files/encoder_codewheel_kit_mount.STL)|3d printed part- use SLA, Polyjet or Multijet printer|
 
----
+### Encoder and Codewheel - Alternative C
+
+<img src="images/pwb_odri_kit_components_1.jpg" width="300"><br>*ODRI Encoder Kit Components*<br>
+
+Alternatively you can order the ODRI Encoder Kit that includes all the machined parts, the code wheel and the encoder.<br>
+This option is documented here: [Actuator Module Core v1.1 Documentation](actuator_module_v1.1.md#brushless-actuator-module-core-v11).  
+
 ### Timing Belt Tensioner - Alternative B
 
 <img src="images/timing_belt_tensioner_1.jpg" width="400"> <br> *Left side: 7mm bearings and 3d printed rollers as described above<br>Right side: Alternative B - 10mm bearings - described below*
@@ -182,7 +185,7 @@ All the STL files for 3d printing the parts below can be found here: [STL Files]
 |Fasteners Timing Belt Tensioner<br>M3 x 10 Flat Head  Screw|2|[Online Schrauben](https://online-schrauben.de/shop/Schrauben/Innensechskantschrauben/ISO-10642-DIN-7991-Senkschrauben-mit-Innensechskant-aehnl.-DIN-7991/Edelstahl-Rostfrei-A2/M-3-Gewinde-M-metrisches-Gewinde)|Stainless Steel<br>Online Schrauben shipps within Europe.|
 |Washers Timing Belt Tensioner<br>M3 Washer|2|[Online Schrauben](https://online-schrauben.de/shop/Scheiben-Federringe/ISO-7092-Unterlegscheiben-fuer-Zylinderkopfschrauben-aehnl.-DIN-433/Edelstahl-Rostfrei-A2-200-HV)<br>[McMaster # 90965A130](https://www.mcmaster.com/90965A130/)|Stainless Steel<br>Online Schrauben shipps within Europe.|
 
----
+
 ## Details Wires and Connectors
 
 <img src="images/connectors_actuator_module_1.jpg" width="400"><br>*Connectors Actuator Module*
@@ -201,11 +204,9 @@ All the STL files for 3d printing the parts below can be found here: [STL Files]
 
 More wiring information here: [Details Wiring](../../electronics/details/details_wiring.md#details-wiring)
 
----
 ## PDF Drawing
 <a href="_actuator_module.PDF"><img src="images/actuator_module_pdf.png" width="400"></a><br>*Actuator Module Overview - Click on picture to view PDF drawing.*
 
----
 ## Step-by-Step Instructions
 
 | Motor Preparation  | Motor Shaft Preparation | Encoder Preparation |Center Pulley Preparation|
@@ -216,13 +217,11 @@ More wiring information here: [Details Wiring](../../electronics/details/details
 | --- | --- | --- | --- |
 | <a href="details/details_output_pulley_preparation.md#details-output-pulley-preparation"><img src="images/output_pulley_preparation_9.jpg" width="200"></a>| <a href="details/details_shell_preparation.md#details-shell-preparation"><img src="images/shells_1.jpg" width="200"></a>  | <a href="details/details_actuator_module_assembly.md#details-actuator-module-assembly"><img src="images/actuator_module_open_1.jpg" width="200"></a>  |<a href="details/details_actuator_module_testing.md#details-actuator-module-testing"><img src="images/actuator_module_1.png" width="200"></a> |
 
----
 ## More Details
 | Details 3d Printed Parts | Details Machined Parts | Mechanical Tools and Consumables |Electronic Components and Tools|
 | --- | --- | --- | --- |
 |<a href="details/details_3d_printed_parts.md#details-3d-printed-parts"><img src="images/3d_printed_parts_2.jpg" width="200"></a>|<a href="details/details_machined_parts.md#details-machined-parts"><img src="images/machined_parts_1.jpg" width="200"></a>|<a href="details/details_tools.md#details-mechanical-tools-and-consumables"><img src="images/tools_1.jpg" width="200"></a>|<a href="../../electronics/details/details_components.md#details-electronic-components-and-tools"><img src="images/components_tools_1.jpg" width="200"></a>|
 
----
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
 [Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
@@ -230,9 +229,8 @@ More wiring information here: [Details Wiring](../../electronics/details/details
 [Open Dynamic Robot Initiative - Paper](https://arxiv.org/pdf/1910.00093.pdf)  
 [Hardware Overview](../../README.md#open-robot-actuator-hardware)  
 [Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)  
-[Back to Top of Page](#brushless-actuator-module-v1)
+[Back to Top of Page](#brushless-actuator-module-core-v1)
 
----
 ## Authors
 Felix Grimminger
 

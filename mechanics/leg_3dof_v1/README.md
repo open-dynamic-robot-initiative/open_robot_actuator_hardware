@@ -50,7 +50,7 @@ The internal components of the actuator modules are described here:
 * weight: 25g
 ---
 <img src="images/hip_fe_module_shell_base_alt_a.png" width="400"><br>
-* Alternative version of the Hip FE Base shell for simplifying the wire routing
+* Alternative version of the Hip FE Base shell to simplify the wire routing
 * Credit: [Pau Martinez](https://github.com/nitrostormbcn)
 * More information: [GitHub Issue - Cable Routing Improving Proposal](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/issues/38#issuecomment-851453403)
 * [Hip FE Module Shell Base Alternative A - STL file](stl_files/hip_fe_module_shell_base_alt_a.STL)<br>
