@@ -68,15 +68,15 @@
 <img src="details/hand_wheel.png" width="300"> <br>
 * [Hand Wheel - STL file](stl_files/hand_wheel.STL)<br>
 * the recommended printing direction is the positive z direction of the stl file
----
+
 # Bill of Materials - Dual Motor Testbed
-<img src="details/dual_motor_testbed_cad_1.png" width="350">
+<img src="details/dual_motor_testbed_cad_1.png" width="400">
 
 
 | Part Name | Quantity | Ordering Information | Comments |  
 | --- | --- | --- | --- |  
 | Brushless Motor | 2 | T-Motor Antigravity 4004 300kV | Sold in set of two pieces |  
-| Optical Encoder with Codewheel | 2 | Broadcom Encoder Kit AEDM-5810-Z12<br>Digi-Key 516-3253-ND | Kit has do be disassembled |      
+| Optical Encoder with Codewheel | 2 | Broadcom Encoder Kit AEDM-5810-Z12<br>Digi-Key 516-3253-ND |[Encoder Kit Disassembly Instructions](../actuator_module_v1/details/details_encoder_kit_disassembly.md#details-encoder-kit-disassembly) |      
 | Custom Motor Shaft | 2 | [PDF Drawing](details/motor_antigravity_4004_custom_shaft.PDF) | Machined part |  
 | Testbed Base | 1 | [STL file](stl_files/dual_motor_testbed_base.STL) | 3d printed part |
 | Testbed Cover | 1 | [STL file](stl_files/dual_motor_testbed_cover.STL) | 3d printed part |
@@ -88,7 +88,6 @@
 | Fasteners Code Wheel Mount | 4 | Set Screw M3x4 | Stainless steel |
 | Fasteners Encoder | 4 | Flat Head Phillips Screw M3x16<br>Conrad 839967 | Nylon |
 
----
 # Dual Motor Electronics Box
 <img src="images/dual_motor_electronics_box_1.jpg" width="400"> <br>*Dual Motor Electronics Box*
 
@@ -125,7 +124,7 @@
 ### CAN Connector
 <img src="images/can_connector.jpg" width="250"> <br>
 * 9 pole D-Sub connector
----
+
 ## 3D Printed Parts
 <img src="details/electronics_box_base.png" width="400"> <br>
 * [Dual Motor Electronics Box Base - STL file](stl_files/electronics_box_base.STL)<br>
@@ -134,9 +133,9 @@
 <img src="details/electronics_box_cover.png" width="400"> <br>
 * [Dual Motor Electronics Box Cover - STL file](stl_files/electronics_box_cover.STL)<br>
 * the recommended printing direction is the positive z direction of the stl file
----
+
 # Bill of Materials - Dual Motor Electronics Box
-<img src="details/electronics_box_cad_1.png" width="300">
+<img src="details/electronics_box_cad_1.png" width="400">
 
 | Part Name | Quantity | Ordering Information | Comments |  
 | --- | --- | --- | --- |   
@@ -154,21 +153,22 @@
 | CAN PCI Express Card | 1 | PEAK IPEH-003027 | Dual channel |
 | CAN Connector | 1 | 9 pole D-Sub connector<br>RS 765-9555 |  |
 
----
 ## View the dual motor testbed cad model in your web browser
 <br>
 
 <a href="https://open-dynamic-robot-initiative.github.io/cad_files/dual_motor_testbed"><img src="images/dual_motor_testbed_cad_1.png" width="500"></a><br> *Dual Motor Testbed - Click on the picture to view the cad model in your browser*
 
----
-## How to work with this
+## CAD Files
 
-* I recommend downloading the free eDrawings viewer for Windows, Mac, iOS and Android [here](https://www.edrawingsviewer.com/download-edrawings).
-* The eDrawing Viewer Software allows you to open and explore the 3d cad assembly files below.
+The Solidworks CAD files are available here: [Dual Motor Testbed v1 Solidworks CAD files](solidworks_files/dual_motor_testbed_v1.zip)
 
-<a href="details/dual_motor_testbed.EASM"><img src="details/dual_motor_testbed_cad_1.png" width="450"></a><br>*Dual Motor Testbed - Click on picture to download and view the 3d assembly file.*
-
-<a href="details/dual_motor_electronics_box.EASM"><img src="details/electronics_box_cad_1.png" width="450"></a><br>*Dual Motor Electronics Box - Click on picture to download and view the 3d assembly file.*
+## More Information
+[Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
+[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
+[Open Dynamic Robot Initiative - Forum](https://odri.discourse.group/categories)  
+[Open Dynamic Robot Initiative - Paper](https://arxiv.org/pdf/1910.00093.pdf)  
+[Hardware Overview](../../README.md#open-robot-actuator-hardware)  
+[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)
 
 ## Authors
 Felix Grimminger
@@ -178,11 +178,3 @@ BSD 3-Clause License
 
 ## Copyright
 Copyright (c) 2019-2021, Max Planck Gesellschaft and New York University
-
-## More Information
-[Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
-[Open Dynamic Robot Initiative - YouTube Channel](https://www.youtube.com/channel/UCx32JW2oIrax47Gjq8zNI-w)   
-[Open Dynamic Robot Initiative - Forum](https://odri.discourse.group/categories)  
-[Open Dynamic Robot Initiative - Paper](https://arxiv.org/pdf/1910.00093.pdf)  
-[Hardware Overview](../../README.md#open-robot-actuator-hardware)  
-[Software Overview](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io/wiki)
