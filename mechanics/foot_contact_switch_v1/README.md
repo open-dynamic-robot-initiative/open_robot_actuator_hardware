@@ -90,6 +90,21 @@ The diameter of the electronics boards is 10mm.
 
 <img src="images/foot_contact_switch_satellite_v1.png" width="600"> <br>*Foot Contact Switch Satellite Board  - Left: Outer side / Right: Inner Side*
 
+## Light Sensor Offset
+<img src="images/light_sensor_offset.jpg" width="600"> <br>*Picture Light Sensor - the sensitive area is not in the center of the component*
+* note that the sensing area of the light sensor is not in the geometrical center of the component
+* when we solder the light sensor we use a microscope to align the sensing area of the sensor with the center of the board
+
+## Switching Voltage for the Indicator Leds
+<img src="images/footsensor_schematic.png" width="600"> <br>*Schematic - voltage divider for switching the indicator leds*
+
+* the switching voltage for the indicator leds on the foot is set by the voltage divider R4 and R5
+* we use 10kΩ for R4 and 20kΩ for R5 resulting in a switching voltage of 2.2V
+* you can adjust the switching voltage by changing the ratio of the voltage divider
+* the switching voltage threshold is only used for the indicator leds
+* the microcontroller receives the full range analog signal
+* that means that you can set the threshold on the software side independently
+
 ## Details Foot Contact Switch
 Special thanks to Joshi Walzog for designing and manufacturing the electronics boards!
 
@@ -109,16 +124,11 @@ To view the Eagle files you need to download the free [Eagle PCB Design Software
 
 * alternative lower leg versions without contact sensor are documented here: [Lower Leg Documentation](../general/lower_legs.md#lower-legs)
 
----
+## PDF Drawing
+<a href="lower_leg.PDF"><img src="images/foot_contact_switch_pdf.png" width="400"></a><br> *Foot Contact Switch Overview - Click on the picture to view the PDF drawing*
+
 ## View the foot contact switch cad model in your web browser
-<br>
-
 <a href="https://open-dynamic-robot-initiative.github.io/cad_files/foot_contact_switch_v1"><img src="images/foot_contact_switch_cad_1.png" width="400"></a><br> *Foot Contact Switch - Click on the picture to view the cad model in your browser*
-
-## How to work with this
-* To get an better overview of the assembly you can view this [pdf file](lower_leg.PDF)
-* I recommend downloading the free eDrawings viewer for Windows, Mac, iOS and Android [here](https://www.edrawingsviewer.com/download-edrawings).
-* The eDrawing Viewer Software allows you to open and explore this [easm cad assembly file](lower_leg.EASM)
 
 ## More Information
 [Open Dynamic Robot Initiative - Webpage](https://open-dynamic-robot-initiative.github.io)  
@@ -135,4 +145,4 @@ Felix Grimminger
 BSD 3-Clause License
 
 ## Copyright
-Copyright (c) 2019-2021, Max Planck Gesellschaft and New York University
+Copyright (c) 2019-2022, Max Planck Gesellschaft and New York University
