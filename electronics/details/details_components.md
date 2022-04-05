@@ -219,11 +219,12 @@
 |Cable Gland for E-Stop|M20 thread<br>Maximum wire diameter 9mm|RS 669-4660||
 
 ## JTAG Flash Programmer
-<img src="../images/flasher_micro_driver_1.jpg" width="300"> <br>*JTAG Flash Programmer*
+<img src="../images/flasher_micro_driver_2.jpg" width="400"> <br>*JTAG Flash Programmers*
 
 |Description|Details|Ordering Information|Comments|
 |---|---|---|---|
-|JTAG EMULATOR XDS100V2 USB|Spectrum Digital XDS100V2 JTAG|Digi Key 702302-ND<br> Farnell 1831927||
+|Blackhawk USB100v2 JTAG Emulator|BH-USB-100v2D|[Mouser 716-BH-USB-100V2D](https://eu.mouser.com/ProductDetail/Blackhawk/BH-USB-100v2D?qs=%252B5rE1lKdS9062c1gWyIPPA%3D%3D)<br>[Blackhawk 12139B](https://www.blackhawk-dsp.com/store/12139b.html)||
+|JTAG EMULATOR XDS100V2 USB|Spectrum Digital XDS100V2 JTAG|No longer available.||
 
 ## Precision Resistors
 <img src="../images/resistors_micro_driver_1.jpg" width="300"> <br>*Precision Resistors for Micro Driver Electronics*
