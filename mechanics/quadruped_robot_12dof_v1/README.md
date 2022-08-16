@@ -298,7 +298,8 @@ The simplified STL files for visualization and simulation can be found here: [ST
 
 <a href="details/solo12_visualization_model.pdf"><img src="images/solo12_coordinate_system_locations.png" width="500"></a><br>*Click on picture above to view the PDF drawing*
 
-## Inertia Parameters for Simulation
+## Quadruped Inertia Parameters for Simulation
+<a href="details/quadruped_12dof_v1_inertia.pdf"><img src="images/solo12_inertia_parameters.png" width="400"></a><br>*Quadruped Inertia Parameters - Click on picture to view PDF document.*<br>
 
 ## Robot Stand
 
