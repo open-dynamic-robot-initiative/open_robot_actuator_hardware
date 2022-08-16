@@ -296,7 +296,7 @@ The simplified STL files for visualization and simulation can be found here: [ST
 
 <img src="images/solo12_coordinate_systems.png" width="500">
 
-<a href="details/solo12_visualization_model.PDF"><img src="images/solo12_dimensions_visualization_1.png" width="500"></a><br>*Click on picture above to view the PDF drawing*
+<a href="details/solo12_visualization_model.pdf"><img src="images/solo12_coordinate_system_locations.png" width="500"></a><br>*Click on picture above to view the PDF drawing*
 
 ## Inertia Parameters for Simulation
 
