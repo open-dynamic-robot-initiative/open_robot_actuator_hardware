@@ -122,6 +122,17 @@ Helicoil Threaded Inserts|8|M3x6 Helicoil<br>||
 | --- | --- | --- | --- |
 ||-10,18mm|-38,35mm|-7,85mm|
 
+## Simplified 3D Model
+
+The simplified STL files for visualization and simulation can be found here: [STL Files Visualization](stl_files_for_visualization)
+
+<img src="details/solo8_v2_coordinate_systems.png" width="500">
+
+<a href="details/solo8_v2_visualization_model.pdf"><img src="details/solo8_v2_coordinate_system_locations.png" width="500"></a><br>*Click on picture above to view the PDF drawing*
+
+## Quadruped Inertia Parameters for Simulation
+<a href="details/quadruped_8dof_v2_inertia.pdf"><img src="details/quadruped_8dof_v2_inertia.png" width="400"></a><br>*Quadruped Inertia Parameters - Click on picture to view PDF document.*<br>
+
 ## Quadruped 8dof Wiring
 More wiring information: [Details Wiring](../../electronics/details/details_wiring.md#details-wiring)
 
@@ -226,4 +237,4 @@ Felix Grimminger
 BSD 3-Clause License
 
 ## Copyright
-Copyright (c) 2019-2020, Max Planck Gesellschaft and New York University
+Copyright (c) 2019-2022, Max Planck Gesellschaft and New York University
