@@ -3,8 +3,6 @@
 
 ## Description
 
-#### `Untested - not recommended for replication yet!`
-
 * this page describes the autonomy upgrade for the [Quadruped 12dof v1 Robot](../quadruped_robot_12dof_v1/README.md#quadruped-robot-12dof-v1)
 * onboard batteries and wireless communication will enable the robot to operate without power and ethernet wires
 * using the onboard imu for state estimation will enable the robot to operate outside of the motion capture area
